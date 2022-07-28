@@ -1,0 +1,202 @@
+[
+    {
+        "client_msg_id": "D21D1568-AE9D-429A-A9D9-BA2B36D8EC2D",
+        "type": "message",
+        "text": "ファンアートプロっぽいですね。\n漫画化できそう！",
+        "user": "U017LVA457X",
+        "ts": "1656416674.263319",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "ab08cd7206d5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-23\/1260372537906_ab08cd7206d5061995ec_72.png",
+            "first_name": "Nakaji",
+            "real_name": "Nakaji",
+            "display_name": "Nakaji",
+            "team": "T014MVD863E",
+            "name": "nakaji352002",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pH7O",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ファンアートプロっぽいですね。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "漫画化できそう"
+                            },
+                            {
+                                "type": "text",
+                                "text": "！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "F3ADA757-7E3F-49B0-AB0B-D5A30C617B93",
+        "type": "message",
+        "text": "プロの漫画家さんみたいです:sparkles:",
+        "user": "U017L1ARLJX",
+        "ts": "1656417567.622029",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "cf2ffbf91b0d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-23\/1264264593060_cf2ffbf91b0dd4f50994_72.png",
+            "first_name": "くじらー",
+            "real_name": "くじらー",
+            "display_name": "くじらー",
+            "team": "T014MVD863E",
+            "name": "anzuharuday",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6d8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "プロの漫画家さんみたいです"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sparkles",
+                                "unicode": "2728"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "E235F49F-842C-45EF-8706-75B455A7788A",
+        "type": "message",
+        "text": "羨ましい:sparkles:",
+        "user": "U017L1ARLJX",
+        "ts": "1656417573.890719",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "cf2ffbf91b0d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-23\/1264264593060_cf2ffbf91b0dd4f50994_72.png",
+            "first_name": "くじらー",
+            "real_name": "くじらー",
+            "display_name": "くじらー",
+            "team": "T014MVD863E",
+            "name": "anzuharuday",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5qej",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "羨ましい"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sparkles",
+                                "unicode": "2728"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6413BD76-7E1F-44D6-9EC7-2EC7EBE1C85F",
+        "type": "message",
+        "text": "やっぱり:heavy_heart_exclamation_mark_ornament:\nプロの漫画家さんだと、動きがあるし拳銃:gun:などもちゃんと、拳銃に見える！",
+        "user": "U017LVA457X",
+        "ts": "1656422801.443299",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "ab08cd7206d5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-23\/1260372537906_ab08cd7206d5061995ec_72.png",
+            "first_name": "Nakaji",
+            "real_name": "Nakaji",
+            "display_name": "Nakaji",
+            "team": "T014MVD863E",
+            "name": "nakaji352002",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bO7uW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "やっぱり"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "heavy_heart_exclamation_mark_ornament",
+                                "unicode": "2763-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "プロの漫画家さんだと、動きがあるし拳銃"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "gun",
+                                "unicode": "1f52b"
+                            },
+                            {
+                                "type": "text",
+                                "text": "などもちゃんと、拳銃に見える"
+                            },
+                            {
+                                "type": "text",
+                                "text": "！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

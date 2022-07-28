@@ -1,0 +1,256 @@
+[
+    {
+        "client_msg_id": "C551D03E-FC41-4230-89D1-AE020E8BF810",
+        "type": "message",
+        "text": "ジーナさん、おはようございます。課題図書は、全巻読んでいないと読書会の参加資格ないでしょうか？ようやく1巻を読み終えそうなのですが、9巻までは無理そうです:droplet:",
+        "user": "U03N2KMPR6H",
+        "ts": "1657199542.551549",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "b6de36ac2e5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-08\/3788800367537_b6de36ac2e5fb40df77c_72.png",
+            "first_name": "Alice",
+            "real_name": "Alice",
+            "display_name": "Alice",
+            "team": "T014MVD863E",
+            "name": "azureseababy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "anF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ジーナさん、おはよう"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ございます"
+                            },
+                            {
+                                "type": "text",
+                                "text": "。課題図書は、全巻読んでいないと読書会の参加資格ないでしょうか？ようやく1巻を読み終えそうなのですが、9巻までは無理そうです"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "droplet",
+                                "unicode": "1f4a7"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1657056952.336189",
+        "parent_user_id": "U014UD117ND"
+    },
+    {
+        "client_msg_id": "fbf9435a-b95a-4187-babd-779d595c9b9f",
+        "type": "message",
+        "text": "おはようございます！すみません、そのあたり言及してませんでしたね。1巻だけ読んでの参加も全然大丈夫ですよ！日本語翻訳を待ってる方々は、1巻だけ読んでの参加になりますし。２年前に「ドラッグチェイス」で読書会を開催した時も、参加者の読み終わった巻数はバラバラでしたが楽しくおしゃべり出来ました:relaxed:\nかくいう私も最終巻の９巻はなんだかもったいなくてまだ読んでないんです",
+        "user": "U014UD117ND",
+        "ts": "1657215054.806039",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "d661e4a51036",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-30\/1214690186661_d661e4a51036d8b1a2e4_72.jpg",
+            "first_name": "ジーナ",
+            "real_name": "ジーナ",
+            "display_name": "ジーナ",
+            "team": "T014MVD863E",
+            "name": "ayumee528",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XXPN9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "おはようございます！すみません、そのあたり言及してませんでしたね。1巻だけ読んでの参加も全然大丈夫ですよ！日本語翻訳を待ってる方々は、1巻だけ読んでの参加になりますし。２年前に「ドラッグチェイス」で読書会を開催した時も、参加者の読み終わった巻数はバラバラでしたが楽しくおしゃべり出来ました"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "relaxed",
+                                "unicode": "263a-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nかくいう私も最終巻の９巻はなんだかもったいなくてまだ読んでないんです"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1657056952.336189",
+        "parent_user_id": "U014UD117ND"
+    },
+    {
+        "client_msg_id": "EBAE05BC-F078-4D7B-B280-4F8C0503DBE9",
+        "type": "message",
+        "text": "1巻読み終えて、今2巻読み始めました:bangbang:初心者の私でも参加okでしたら、ぜひよろしくお願いします:woman-bowing:",
+        "user": "U03N2KMPR6H",
+        "ts": "1657215381.698379",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "b6de36ac2e5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-08\/3788800367537_b6de36ac2e5fb40df77c_72.png",
+            "first_name": "Alice",
+            "real_name": "Alice",
+            "display_name": "Alice",
+            "team": "T014MVD863E",
+            "name": "azureseababy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sYQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "1巻読み終えて、今2巻読み始めました"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "bangbang",
+                                "unicode": "203c-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "初心者の私でも参加okでしたら、ぜひよろしく"
+                            },
+                            {
+                                "type": "text",
+                                "text": "お願いします"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-bowing",
+                                "unicode": "1f647-200d-2640-fe0f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1657056952.336189",
+        "parent_user_id": "U014UD117ND"
+    },
+    {
+        "client_msg_id": "4a287ca3-7c5c-43d3-b4d7-476c1a490ae1",
+        "type": "message",
+        "text": "もちろん大歓迎です！お話しできるの楽しみにしています:blush:",
+        "user": "U014UD117ND",
+        "ts": "1657215822.090119",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "d661e4a51036",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-30\/1214690186661_d661e4a51036d8b1a2e4_72.jpg",
+            "first_name": "ジーナ",
+            "real_name": "ジーナ",
+            "display_name": "ジーナ",
+            "team": "T014MVD863E",
+            "name": "ayumee528",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ux3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "もちろん大歓迎です！お話しできるの楽しみにしています"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "blush",
+                                "unicode": "1f60a"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1657056952.336189",
+        "parent_user_id": "U014UD117ND"
+    },
+    {
+        "client_msg_id": "B8191638-9A51-495F-9D05-FB2E16823F8D",
+        "type": "message",
+        "text": "よろしくお願いします:bangbang:",
+        "user": "U03N2KMPR6H",
+        "ts": "1657232859.970129",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "b6de36ac2e5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-08\/3788800367537_b6de36ac2e5fb40df77c_72.png",
+            "first_name": "Alice",
+            "real_name": "Alice",
+            "display_name": "Alice",
+            "team": "T014MVD863E",
+            "name": "azureseababy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cVew0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "よろしく"
+                            },
+                            {
+                                "type": "text",
+                                "text": "お願いします"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "bangbang",
+                                "unicode": "203c-fe0f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1657056952.336189",
+        "parent_user_id": "U014UD117ND"
+    }
+]

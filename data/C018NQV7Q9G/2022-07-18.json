@@ -1,0 +1,42 @@
+[
+    {
+        "client_msg_id": "e4ce9c40-396b-4509-8e7b-79327a95e1cf",
+        "type": "message",
+        "text": "英語に限らず、言語に対する感覚は人それぞれと思うので、とにかく楽しんで読めるのが一番ですよね。\n\nあと、すみません！ 読みにくい本でなければ…と書いたのですが、言わずもがなではありますが必要条件は満たしていてほしいというのはあります。文章力や語彙もそうですし、Nakajiさんがおっしゃっていた構成や展開、プロットなども含めて…\n\n試し読みで断念する作品はかなり多いです。だから、toleranceが高い訳でもないのかな？\n\n外れもけっこう多いジャンルですので、そういう点でも、皆さまのお気に入りの作品を紹介していただけるこちらのSlackはありがたいなあと思っております！\n\nDiversionもH&amp;Sもこちらでのおすすめがあってこそ読めた作品なので…\n\nいつもどうもありがとうございます。",
+        "user": "U03D1UJECGZ",
+        "ts": "1658213827.308169",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "a7dde0607f3e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-24\/3431416808738_a7dde0607f3e669535b6_72.png",
+            "first_name": "Kumatta",
+            "real_name": "Kumatta",
+            "display_name": "Kumatta",
+            "team": "T014MVD863E",
+            "name": "maki.terao",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "O30",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "英語に限らず、言語に対する感覚は人それぞれと思うので、とにかく楽しんで読めるのが一番ですよね。\n\nあと、すみません！ 読みにくい本でなければ…と書いたのですが、言わずもがなではありますが必要条件は満たしていてほしいというのはあります。文章力や語彙もそうですし、Nakajiさんがおっしゃっていた構成や展開、プロットなども含めて…\n\n試し読みで断念する作品はかなり多いです。だから、toleranceが高い訳でもないのかな？\n\n外れもけっこう多いジャンルですので、そういう点でも、皆さまのお気に入りの作品を紹介していただけるこちらのSlackはありがたいなあと思っております！\n\nDiversionもH&Sもこちらでのおすすめがあってこそ読めた作品なので…\n\nいつもどうもありがとうございます。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1658058100.940599",
+        "parent_user_id": "U017LVA457X"
+    }
+]

@@ -1,0 +1,395 @@
+[
+    {
+        "client_msg_id": "dc168d87-0677-487d-af29-d8a2c2b2303b",
+        "type": "message",
+        "text": "３Dプリンターで作った銃、私もニュースで見ました。殺傷能力あるそうです、もう恐怖しかない・・・:cry:アメリカでも、自作の、ナンバーのない銃が増えていて問題になってるそうです、もう世界中どうなっているのやら:cold_sweat:",
+        "user": "U01P6E9P3J5",
+        "ts": "1657612493.277549",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "gc61e328c9e5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c61e328c9e5331e15fbbfaac3326fd4c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0025-72.png",
+            "first_name": "",
+            "real_name": "まる",
+            "display_name": "まる",
+            "team": "T014MVD863E",
+            "name": "marusan93",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4+Eg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "３Dプリンターで作った銃、私もニュースで見ました。殺傷能力あるそうです、もう恐怖しかない・・・"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "cry",
+                                "unicode": "1f622"
+                            },
+                            {
+                                "type": "text",
+                                "text": "アメリカでも、自作の、ナンバーのない銃が増えていて問題になってるそうです、もう世界中どうなっているのやら"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "cold_sweat",
+                                "unicode": "1f630"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1657341590.479119",
+        "parent_user_id": "U017Z0T54P3",
+        "reactions": [
+            {
+                "name": "cold_sweat",
+                "users": [
+                    "U017Z0T54P3"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "26b78541-a59e-47db-b5af-b36fdf3adea3",
+        "type": "message",
+        "text": "撮れたて！サイコー:bangbang::two_hearts:",
+        "user": "U01P6E9P3J5",
+        "ts": "1657612566.078359",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "gc61e328c9e5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c61e328c9e5331e15fbbfaac3326fd4c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0025-72.png",
+            "first_name": "",
+            "real_name": "まる",
+            "display_name": "まる",
+            "team": "T014MVD863E",
+            "name": "marusan93",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IB9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "撮れたて！サイコー"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "bangbang",
+                                "unicode": "203c-fe0f"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "two_hearts",
+                                "unicode": "1f495"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1657366453.405319",
+        "parent_user_id": "U017YHF4ZG9"
+    },
+    {
+        "client_msg_id": "504e0f21-6e3f-44dd-87c9-827732ece03c",
+        "type": "message",
+        "text": "バンビ、2頭も！かわいい～:two_hearts::deer:",
+        "user": "U01P6E9P3J5",
+        "ts": "1657612736.320269",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "gc61e328c9e5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c61e328c9e5331e15fbbfaac3326fd4c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0025-72.png",
+            "first_name": "",
+            "real_name": "まる",
+            "display_name": "まる",
+            "team": "T014MVD863E",
+            "name": "marusan93",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Iny",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "バンビ、2頭も！かわいい～"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "two_hearts",
+                                "unicode": "1f495"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "deer",
+                                "unicode": "1f98c"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1657545481.558379",
+        "parent_user_id": "U017LVA457X"
+    },
+    {
+        "client_msg_id": "bd989382-c542-4bb3-b035-fbed131e6b0e",
+        "type": "message",
+        "text": "うっかり吐血してしまいそうなかわいさですね:bangbang::two_hearts::two_hearts:いたいけ～もうぐりぐりしたい！:laughing:前足がポテンとしてて、激カワ！\nぜひ小豆ちゃんがおばあちゃんになったら、パピーをお迎えして下さい～２匹並んで仲良くしてくれたら、どんなにか癒されることでしょう:smiling_face_with_3_hearts:\nラッキーとボーのお家のムースとキャットラッキーにも、ぜひお嫁さんに来てもらって家族を作ってほしいな～と夢見ている私です～すっごいにぎやかになっちゃうな～楽しそう～:heart_eyes:",
+        "user": "U01P6E9P3J5",
+        "ts": "1657613394.185609",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "gc61e328c9e5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c61e328c9e5331e15fbbfaac3326fd4c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0025-72.png",
+            "first_name": "",
+            "real_name": "まる",
+            "display_name": "まる",
+            "team": "T014MVD863E",
+            "name": "marusan93",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9Czg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "うっかり吐血してしまいそうなかわいさですね"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "bangbang",
+                                "unicode": "203c-fe0f"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "two_hearts",
+                                "unicode": "1f495"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "two_hearts",
+                                "unicode": "1f495"
+                            },
+                            {
+                                "type": "text",
+                                "text": "いたいけ～もうぐりぐりしたい！"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "laughing",
+                                "unicode": "1f606"
+                            },
+                            {
+                                "type": "text",
+                                "text": "前足がポテンとしてて、激カワ！\nぜひ小豆ちゃんがおばあちゃんになったら、パピーをお迎えして下さい～２匹並んで仲良くしてくれたら、どんなにか癒されることでしょう"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smiling_face_with_3_hearts",
+                                "unicode": "1f970"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nラッキーとボーのお家のムースとキャットラッキーにも、ぜひお嫁さんに来てもらって家族を作ってほしいな～と夢見ている私です～すっごいにぎやかになっちゃうな～楽しそう～"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "heart_eyes",
+                                "unicode": "1f60d"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1657613394.185609",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1657727167.656219",
+        "reply_users": [
+            "U017LVA457X"
+        ],
+        "replies": [
+            {
+                "user": "U017LVA457X",
+                "ts": "1657727167.656219"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "F09AF1D3-52BC-4FD4-94EE-40A319ECE148",
+        "type": "message",
+        "text": "こんなニュースを見かけたので…\n（ブリジャートン見ていないけれど…）\n本の方もなかなか面白そうです。\n\n<https:\/\/deadline.com\/2022\/07\/fellow-travelers-bridgerton-jonathan-bailey-cast-showtime-1235061174\/amp\/|https:\/\/deadline.com\/2022\/07\/fellow-travelers-bridgerton-jonathan-bailey-cast-showtime-1235061174\/amp\/>",
+        "user": "U03D1UJECGZ",
+        "ts": "1657632416.916729",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "a7dde0607f3e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-24\/3431416808738_a7dde0607f3e669535b6_72.png",
+            "first_name": "Kumatta",
+            "real_name": "Kumatta",
+            "display_name": "Kumatta",
+            "team": "T014MVD863E",
+            "name": "maki.terao",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U03D1UJECGZ",
+            "ts": "1657632934.000000"
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/deadline.com\/2022\/07\/fellow-travelers-bridgerton-jonathan-bailey-cast-showtime-1235061174\/amp\/",
+                "ts": 1657558808,
+                "image_url": "https:\/\/deadline.com\/wp-content\/uploads\/2022\/07\/jonathan-bailey.jpg?w=1000",
+                "image_width": 444,
+                "image_height": 250,
+                "image_bytes": 77778,
+                "service_icon": "https:\/\/deadline.com\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/deadline.com\/2022\/07\/fellow-travelers-bridgerton-jonathan-bailey-cast-showtime-1235061174\/amp\/",
+                "fallback": "Deadline: ‘Fellow Travelers’: ‘Bridgerton’ Star Jonathan Bailey To Star Opposite Matt Bomer In Showtime Limited Series",
+                "text": "Jonathan Bailey is set to star in the Showtime Limited Series Fellow Travelers alongside Matt Bomer and Allison Williams. The new gig is in addition to his return to Bridgerton as Anthony Bridgerto…",
+                "title": "‘Fellow Travelers’: ‘Bridgerton’ Star Jonathan Bailey To Star Opposite Matt Bomer In Showtime Limited Series",
+                "title_link": "https:\/\/deadline.com\/2022\/07\/fellow-travelers-bridgerton-jonathan-bailey-cast-showtime-1235061174\/amp\/",
+                "service_name": "Deadline"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fCs9b",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "こんなニュースを見かけたので…"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "（ブリジャートン見ていないけれど…）"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "本の方"
+                            },
+                            {
+                                "type": "text",
+                                "text": "もなかなか面白そうです。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/deadline.com\/2022\/07\/fellow-travelers-bridgerton-jonathan-bailey-cast-showtime-1235061174\/amp\/",
+                                "text": "https:\/\/deadline.com\/2022\/07\/fellow-travelers-bridgerton-jonathan-bailey-cast-showtime-1235061174\/amp\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2FA9BC90-384A-4C90-9F19-EE2E7CAB26AF",
+        "type": "message",
+        "text": "どこかで見れるといいな。",
+        "user": "U01M8BTNR7C",
+        "ts": "1657683890.220109",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "16c140f650be",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-02-10\/1748642350673_16c140f650be7c6cc646_72.png",
+            "first_name": "きなこ",
+            "real_name": "きなこ",
+            "display_name": "",
+            "team": "T014MVD863E",
+            "name": "le.arbre.montagne.121",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FU0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "どこかで見れるといいな"
+                            },
+                            {
+                                "type": "text",
+                                "text": "。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

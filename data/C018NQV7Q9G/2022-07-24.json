@@ -1,0 +1,853 @@
+[
+    {
+        "client_msg_id": "4ebb3f60-95e4-47fd-81da-d8d147cbb668",
+        "type": "message",
+        "text": "ご返信ありがとうございます！\n萌える展開はたくさんあったハズなのに、例によって自分の感想はなんでか『熱く萌えを語る感想』にならないのが切ない所ですが、受け止めていただいてありがとうございます。\n次巻も楽しみに拝読する予定ですー！",
+        "user": "U029MKK3W4E",
+        "ts": "1658648337.544089",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "aade7c86a319",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-10-17\/2606350548278_aade7c86a319ba8c4e3c_72.png",
+            "first_name": "ねこしま",
+            "real_name": "ねこしま",
+            "display_name": "",
+            "team": "T014MVD863E",
+            "name": "nanakusa0503",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7MqyV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ご返信ありがとうございます！\n萌える展開はたくさんあったハズなのに、例によって自分の感想はなんでか『熱く萌えを語る感想』にならないのが切ない所ですが、受け止めていただいてありがとうございます。\n次巻も楽しみに拝読する予定ですー！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1658603801.460419",
+        "parent_user_id": "U017LVA457X"
+    },
+    {
+        "client_msg_id": "0804DC31-BD5E-4644-A76B-D9CB13CEEFF0",
+        "type": "message",
+        "text": "皆さーん、H&amp;Sシリーズ６巻読了しました。\nついに第一シリーズ終了となります。\n何から語ればいいんでしょう。どこから話しても、ネタバレになってしまいます。\n\nネタバレなしで感想書くのがほぼ無理なので、下の返信に後でネタバレあり感想を書く予定でーす。",
+        "user": "U017LVA457X",
+        "ts": "1658672100.745739",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "ab08cd7206d5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-23\/1260372537906_ab08cd7206d5061995ec_72.png",
+            "first_name": "Nakaji",
+            "real_name": "Nakaji",
+            "display_name": "Nakaji",
+            "team": "T014MVD863E",
+            "name": "nakaji352002",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U017LVA457X",
+            "ts": "1658693267.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "svvi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "皆さーん、H&Sシリーズ６巻読了しました。\nついに第一シリーズ終了となります。\n何から語ればいいんでしょう。どこから話しても、ネタバレになってしまいます。\n\nネタバレなしで感想書くのがほぼ無理なので、下の返信に後でネタバレあり感想を書く予定でーす。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1658672100.745739",
+        "reply_count": 3,
+        "reply_users_count": 1,
+        "latest_reply": "1658706226.411629",
+        "reply_users": [
+            "U017LVA457X"
+        ],
+        "replies": [
+            {
+                "user": "U017LVA457X",
+                "ts": "1658692524.057189"
+            },
+            {
+                "user": "U017LVA457X",
+                "ts": "1658694204.744919"
+            },
+            {
+                "user": "U017LVA457X",
+                "ts": "1658706226.411629"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "smiling_face_with_3_hearts",
+                "users": [
+                    "U029MKK3W4E",
+                    "U03QNS0Q7CM",
+                    "U01M8BTNR7C",
+                    "U01P6E9P3J5"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1246B575-6A10-4335-AE86-065E36FAF17D",
+        "type": "message",
+        "text": "Kumattaさん、お待たせしました！\n６巻今朝読了。off Dutyも関連作品読みました。\n是非6巻の感想語り合いたいです。今日午後から美容院に行って時間がかなりかかるので、その間に下に感想書きますので、お時間ある時よろしくお願いします。もう語り合いたくって！",
+        "user": "U017LVA457X",
+        "ts": "1658672344.070969",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "ab08cd7206d5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-23\/1260372537906_ab08cd7206d5061995ec_72.png",
+            "first_name": "Nakaji",
+            "real_name": "Nakaji",
+            "display_name": "Nakaji",
+            "team": "T014MVD863E",
+            "name": "nakaji352002",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EJyn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Kumattaさん、お待たせしました！"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "６巻今朝読了。off Dutyも関連作品読みました。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "是非6巻の感想語り合いたいです。今日午後から美容院に行って時間がかなりかかるので、その間に下に感想書きますので、お時間ある時よろしくお願いします。もう語り合いたくって！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1657233050.079759",
+        "parent_user_id": "U017LVA457X"
+    },
+    {
+        "client_msg_id": "033321A8-5773-4991-998D-7E675218791E",
+        "type": "message",
+        "text": "おお〜お疲れさまでした！  わーい！！\nビューティータイム感想書くって時間の有効活用っぽくていいアイデア！\n\n時間かかっても必ずお返事するので、もし遅れてもどうか許してください〜！！",
+        "user": "U03D1UJECGZ",
+        "ts": "1658673672.263989",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "a7dde0607f3e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-24\/3431416808738_a7dde0607f3e669535b6_72.png",
+            "first_name": "Kumatta",
+            "real_name": "Kumatta",
+            "display_name": "Kumatta",
+            "team": "T014MVD863E",
+            "name": "maki.terao",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "448",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "おお〜お疲れさまでした！  わーい！！"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ビューティータイム感想書くって時間の有効活用っぽくていいアイデア！"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "時間かかっても必ずお返事するので、もし遅れてもどうか許してください〜！！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1657233050.079759",
+        "parent_user_id": "U017LVA457X"
+    },
+    {
+        "client_msg_id": "80372636-08F8-48E2-BE60-11B47FC8E0CD",
+        "type": "message",
+        "text": "いやいや、すごくわかります。上手に言葉にしてくださっているので、いちいち頷いています。",
+        "user": "U017LVA457X",
+        "ts": "1658673683.449449",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "ab08cd7206d5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-23\/1260372537906_ab08cd7206d5061995ec_72.png",
+            "first_name": "Nakaji",
+            "real_name": "Nakaji",
+            "display_name": "Nakaji",
+            "team": "T014MVD863E",
+            "name": "nakaji352002",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HTl0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "いやいや、すごくわかります。上手に言葉にしてくださっているので、いちいち頷いています。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1658603801.460419",
+        "parent_user_id": "U017LVA457X"
+    },
+    {
+        "client_msg_id": "E85E93DD-8468-4A10-9620-2E50A627977A",
+        "type": "message",
+        "text": "こんばんは！ツイートで原稿依頼があったと呟いてらしたので忙しいのかなとおもいました。原稿は本業ですか、BLですか。\n美容院行くと数時間拘束されるんですよね、だから感想じっくり書きまーす。",
+        "user": "U017LVA457X",
+        "ts": "1658673808.536809",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "ab08cd7206d5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-23\/1260372537906_ab08cd7206d5061995ec_72.png",
+            "first_name": "Nakaji",
+            "real_name": "Nakaji",
+            "display_name": "Nakaji",
+            "team": "T014MVD863E",
+            "name": "nakaji352002",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kZ4L",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "こんばんは！ツイートで原稿依頼があったと呟いてらしたので忙しいのかなとおもいました。原稿は本業ですか、BLですか。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "美容院行くと数時間拘束されるんですよね、だから感想じっくり書きまーす。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1657233050.079759",
+        "parent_user_id": "U017LVA457X"
+    },
+    {
+        "client_msg_id": "0B298EC1-70EE-446A-8522-0D9E3F9F4768",
+        "type": "message",
+        "text": "美容院ってけっこう時間かかりますものね。でも髪を切ってアタマが軽くなったときの爽快感…大好きです:two_hearts:\n\nそうなんです。進行がタイトなので忙しくなりそう…。研究関連ではなくて、前はお仕事としてけっこう書いていたんですけど最近はほとんど書いてなかったから久しぶりです。",
+        "user": "U03D1UJECGZ",
+        "ts": "1658683395.122399",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "a7dde0607f3e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-24\/3431416808738_a7dde0607f3e669535b6_72.png",
+            "first_name": "Kumatta",
+            "real_name": "Kumatta",
+            "display_name": "Kumatta",
+            "team": "T014MVD863E",
+            "name": "maki.terao",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5gD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "美容院ってけっこう時間かかりますものね。でも髪を切ってアタマが軽くなったときの爽快感…大好きです"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "two_hearts",
+                                "unicode": "1f495"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nそうなんです。進行がタイトなので忙しくなりそう…。研究関連ではなくて、前はお仕事としてけっこう書いていたんですけど最近はほとんど書いてなかったから久しぶりです。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1657233050.079759",
+        "parent_user_id": "U017LVA457X"
+    },
+    {
+        "client_msg_id": "197B995E-5CE9-4F53-869E-21E5D5E73FB1",
+        "type": "message",
+        "text": "わかりました。頑張って:+1:",
+        "user": "U017LVA457X",
+        "ts": "1658691671.706579",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "ab08cd7206d5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-23\/1260372537906_ab08cd7206d5061995ec_72.png",
+            "first_name": "Nakaji",
+            "real_name": "Nakaji",
+            "display_name": "Nakaji",
+            "team": "T014MVD863E",
+            "name": "nakaji352002",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "r5Y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "わかりました。頑張って"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "+1",
+                                "unicode": "1f44d"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1657233050.079759",
+        "parent_user_id": "U017LVA457X"
+    },
+    {
+        "client_msg_id": "E94E2855-C6DB-4E34-8DE7-BAE438A304FD",
+        "type": "message",
+        "text": "ここからは、６巻を含む完全ネタバレ感想なので、ネタバレ知りたくない方はご注意下さいね。\n\nもういろんなこと語り合いたいのですが、まず６巻ではSomers について\n\nミッキーのSへの拷問描写のしつこさについて\nもうもう、これにつきます。ちょっと嫌ってくらいしつこかった。\n\n時間も前夜の遅い時間から次の日の午後くらいまでつきっきりで拷問した。\n単に殴る蹴る系の骨折られるとかでボコボコにされて気絶で終わりの拷問描写は、本作品以外のミステリー等でもあるので、ある程度免疫があって慣れているので、サッと流せるのですが、これはすごかった。\n爪をペンチで剥ぐ、言葉での暴力で徹底的にSの尊厳を貶め、ついには失禁、吐き、水責め、薬ものまされた(？)\n\n監禁される前もEvie を誘拐して変態市場に売るとか、かなりえげつない脅しで、Sの心の一番の弱点を突き、SからHを引き離され完全無防備。\n\n今までの巻では、ほとんどSはHと捜査をともにして暴力的な場面も二人で対峙するか、Hのみが大怪我を負うひどい場面があったが、今回は完全に一人でミッキーにやられた。\n\nこの監禁拷問の描写のしつこさは、作者様のなんだろう行き過ぎたこだわりをかなり抉り出したと思う。\n自分はこの長々と続く拷問についてどう思ったか？自分に問いかけてみた。\n実は私が一番心配していたのは、穢らしいミッキーが本気でSをレイプするんではないかということでした。作者様は我々読者をSへのレイプへの心配をずっとさせることに大成功。\n最終的に唾を飲まされるとか色々あったが、実際のレイプ、裸にされるなどもなかったので、私はSがロープを解いて戒めから逃げられた時は、心からホッとした。この恐怖と安堵のローラーコースター、読書中にお腹が捩れるような気持ちになった描写は久しぶりなので、作者様の手腕はたいしたもの\nつまり端的にいうと、私はここまで長いくどい描写は必要であったのかもと思っています。",
+        "user": "U017LVA457X",
+        "ts": "1658692524.057189",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "ab08cd7206d5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-23\/1260372537906_ab08cd7206d5061995ec_72.png",
+            "first_name": "Nakaji",
+            "real_name": "Nakaji",
+            "display_name": "Nakaji",
+            "team": "T014MVD863E",
+            "name": "nakaji352002",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U017LVA457X",
+            "ts": "1658706329.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9RgU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ここからは、６巻を含む完全ネタバレ感想なので、ネタバレ知りたくない方はご注意下さいね。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nもういろんなこと語り合いたいのですが、まず６巻ではSomers について"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nミッキーのSへの拷問描写のしつこさについて"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "もうもう、これにつきます。ちょっと嫌ってくらいしつこかった。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "時間も前夜の遅い時間から次の日の午後くらいまでつきっきりで拷問した。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "単に殴る蹴る系の骨折られるとかでボコボコにされて気絶で終わりの拷問描写は、本作品以外のミステリー等でもあるので、ある程度免疫があって慣れているので、サッと流せるのですが、これはすごかった。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "爪をペンチで剥ぐ、言葉での暴力で徹底的にSの尊厳を貶め、ついには失禁、吐き、水責め、薬ものまされた(？)"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n監禁される前もEvie を誘拐して変態市場に売るとか、かなりえげつない脅しで、Sの心の一番の弱点を突き、SからHを引き離され完全無防備。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n今までの巻では、ほとんどSはHと捜査をともにして暴力的な場面も二人で対峙するか、Hのみが大怪我を負うひどい場面があったが、今回は完全に一人でミッキーにやられた。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nこの監禁拷問の描写のしつこさは、作者様のなんだろう行き過ぎたこだわりをかなり抉り出したと思う。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "自分はこの長々と続く拷問についてどう思ったか？自分に問いかけてみた。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "実は私が一番心配していたのは、穢らしいミッキーが本気でSをレイプするんではないかということでした。作者様は我々読者をSへのレイプへの心配をずっとさせることに大成功。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "最終的に唾を飲まされるとか色々あったが、実際のレイプ、裸にされるなどもなかったので、私はSがロープを解いて戒めから逃げられた時は、心からホッとした。この恐怖と安堵のローラーコースター、読書中にお腹が捩れるような気持ちになった描写は久しぶりなので、作者様の手腕はたいしたもの"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "つまり端的にいうと、私はここまで長いくどい描写は必要であったのかもと思っています。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1658672100.745739",
+        "parent_user_id": "U017LVA457X"
+    },
+    {
+        "client_msg_id": "D4FE2873-AD59-4765-AC4C-C942A2B15CC7",
+        "type": "message",
+        "text": "Somersの1〜6を通じての変貌について\n４巻までのダメンズSomersが、5、6巻でほんともうすごく素敵になる。もちろん容姿がよく人から好かれ、インタビューも上手で性格もさっぱりという良い点はたくさんあるのですが、アル中問題、バイ特有のはっきりしなさでHを何度も何度も傷つけてきたのが、ボーイフレンドになると決めてからの、Somersの潔さが、もう漢すぎて惚れました。\n\n人前で手繋ぐから始まって、ボーイフレンドとはっきりいう、Faggotと自分でいうなど、同僚、街の人、親などなどに全く容赦なくまるで、挑戦するが如く、自分は完全にHの側にいる、(５巻で、一度他の部署に所属する警察官から情報を引き出すために、ストレートで彼女がいるふりをして、Hを怒らせたのを反省してから)彼の潔さは、やっぱり自分に自信があるからなのだなと思う。\n\nこういうSomersの態度の描写を見ると、彼が誰を好きで付き合おうと、女だろうと男だろうと結局街のゴールデンボーイで人気者の彼は全く変わらない。この何だろう、生まれ持った自信が、素晴らしくいい方向にSomersを向かわせている。\n\n本シリーズでは両者視点ではあってもH視点がたぶん60%で彼の\n復活の物語ではあるんだけれど、変わったのはSだ。\nそれと、Sは、実際にいたらぜったいストレートにしか見えないと思う。大学時代\nいろいろあったていえ、H以外の別のゲイを好きになるとは思えない。\nバイなんだが、やはりストレートよりか。\n\n\n",
+        "user": "U017LVA457X",
+        "ts": "1658694204.744919",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "ab08cd7206d5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-23\/1260372537906_ab08cd7206d5061995ec_72.png",
+            "first_name": "Nakaji",
+            "real_name": "Nakaji",
+            "display_name": "Nakaji",
+            "team": "T014MVD863E",
+            "name": "nakaji352002",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U017LVA457X",
+            "ts": "1658706540.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Z0U",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Somersの1〜6を通じての変貌について"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "４巻までのダメンズSomersが、5、6巻でほんともうすごく素敵になる。もちろん容姿がよく人から好かれ、インタビューも上手で性格もさっぱりという良い点はたくさんあるのですが、アル中問題、バイ特有のはっきりしなさでHを何度も何度も傷つけてきたのが、ボーイフレンドになると決めてからの、Somersの潔さが、もう漢すぎて惚れました。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n人前で手繋ぐから始まって、ボーイフレンドとはっきりいう、Faggotと自分でいうなど、同僚、街の人、親などなどに全く容赦なくまるで、挑戦するが如く、自分は完全にHの側にいる、(５巻で、一度他の部署に所属する警察官から情報を引き出すために、ストレートで彼女がいるふりをして、Hを怒らせたのを反省してから)彼の潔さは、やっぱり自分に自信があるからなのだなと思う。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nこういうSomersの態度の描写を見ると、彼が誰を好きで付き合おうと、女だろうと男だろうと結局街のゴールデンボーイで人気者の彼は全く変わらない。この何だろう、生まれ持った自信が、素晴らしくいい方向にSomersを向かわせている。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n本シリーズでは両者視点ではあってもH視点がたぶん60%で彼の"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "復活の物語ではあるんだけれど、変わったのはSだ。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "それと、Sは、実際にいたらぜったいストレートにしか見えないと思う。大学時代"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "いろいろあったていえ、H以外の別のゲイを好きになるとは思えない。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "バイなんだが、やはりストレートよりか。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n\n"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1658672100.745739",
+        "parent_user_id": "U017LVA457X"
+    },
+    {
+        "client_msg_id": "174B9749-E0FF-494F-AB12-DB47F1F90C36",
+        "type": "message",
+        "text": "結局Hazardにとってのジェフは何だったのか\n作者様はプロットの大筋として、最終的にジェフの自殺の謎解きをHにさせ、そしてH自ら初恋と決別することによって過去の因縁から解放されたのかと思います。\n\n市長が全ての黒幕というもうわかってた結末は如何か\n\n\nうーん、どうかな、やっぱりどうしても本シリーズ全編を通してミステリー自体はすごくいいし、引っ張るんだけど種明かし自体は弱点かな。\n\n以下が、種明かしの弱点\n\n1 市長がジェフを殺したのにそれを自殺に見せかける時の実際の技術的な難しさについて触れてない\n\n2 \n1巻で登場のミッキーと6巻のミッキーが別人くらい違う。1巻では、たんなるルーザーのジャンキーで、弱いのに、6巻では、市長が頼りにするくらいの狡賢さとタフになった。ジャンキーが、そんな短期間で、有能な殺し屋になれる？\n\n3 種明かしではないんだけど、こんな小さな街の警察署で数日で三人警官、刑事が、死に、市長が殺され、刑事宅が銃撃されるって異常。\nまあ、エキサイティングな状況下を何回もつくるので、しょうがないか。\n\n4Hazard の辞職について(これは弱点ではない。私はOK)\n\nこれは、やっぱりエイドリアンシリーズのジェイクを思い出させたな。\n私は、これは、むしろ次のシリーズが、また新たな展開を見せるためには、いいと思いました。\n\n5 Hollace Walker とは？\nほとんど重要でなかったHollace Walkerが何故か６巻ではすごく頭のいいエンジニアになってこの街に戻ってきてなぜか、ジェフを殺したのが市長で、ミッキーを利用して、最後はミッキーに殺されてって、この人物はいらなかった。\n最初からミッキーをジャンキーにせず、本物の悪役にして、Hollace Walkerとミッキーを一人のキャラにした方がスッキリまとまったと思う。\n",
+        "user": "U017LVA457X",
+        "ts": "1658706226.411629",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "ab08cd7206d5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-23\/1260372537906_ab08cd7206d5061995ec_72.png",
+            "first_name": "Nakaji",
+            "real_name": "Nakaji",
+            "display_name": "Nakaji",
+            "team": "T014MVD863E",
+            "name": "nakaji352002",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U017LVA457X",
+            "ts": "1658756458.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "02BM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "結局Hazardにとってのジェフは何だったのか"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "作者様はプロットの大筋として、最終的にジェフの自殺の謎解きをHにさせ、そしてH自ら初恋と決別することによって過去の因縁から解放されたのかと思います。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n市長が全ての黒幕というもうわかってた結末は如何か"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "うーん、どうかな、やっぱりどうしても本シリーズ全編を通してミステリー自体はすごくいいし、引っ張るんだけど種明かし自体は弱点かな。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n以下が、種明かしの弱点"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n1 市長がジェフを殺したのにそれを自殺に見せかける時の実際の技術的な難しさについて触れてない"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n2 "
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "1巻で登場のミッキーと6巻のミッキーが別人くらい違う。1巻では、たんなるルーザーのジャンキーで、弱いのに、6巻では、市長が頼りにするくらいの狡賢さとタフになった。ジャンキーが、そんな短期間で、有能な殺し屋になれる？"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n3 種明かしではないんだけど、こんな小さな街の警察署で数日で三人警官、刑事が、死に、市長が殺され、刑事宅が銃撃されるって異常。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "まあ、エキサイティングな状況下を何回もつくるので、しょうがないか。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n4Hazard の辞職について(これは弱点ではない。私はOK)"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nこれは、やっぱりエイドリアンシリーズのジェイクを思い出させたな。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "私は、これは、むしろ次のシリーズが、また新たな展開を見せるためには、いいと思いました。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n5 Hollace Walker とは？"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ほとんど重要でなかったHollace Walkerが何故か６巻ではすごく頭のいいエンジニアになってこの街に戻ってきてなぜか、ジェフを殺したのが市長で、ミッキーを利用して、最後はミッキーに殺されてって、この人物はいらなかった。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "最初からミッキーをジャンキーにせず、本物の悪役にして、Hollace Walkerとミッキーを一人のキャラにした方がスッキリまとまったと思う。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1658672100.745739",
+        "parent_user_id": "U017LVA457X"
+    }
+]

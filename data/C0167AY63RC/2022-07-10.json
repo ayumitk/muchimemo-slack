@@ -1,0 +1,273 @@
+[
+    {
+        "client_msg_id": "E8CF2B0F-0FAC-41E2-BB0D-BD4844EB17A4",
+        "type": "message",
+        "text": "Ayuさん、ご丁寧にお返事ありがとう:blush:ございます。\nそっかーオタク趣味からの興味ですね。素晴らしいですね。\n確かに英会話勉強されていると時事問題とかの記事やニュースのクリップが教材となることが多く、自然と身につきますね。\n:point_up_2:で、私も偉そうに自分の意見を述べさせて頂きましたが、ほんと国外からある国のなんていうか、空気感を感じるのは難しいです。\n以前オットの仕事の関係で海外に駐在していたことが何回かあるのですが、その間は、アメリカで何が起き、何が問題で、何が話題とか本当に疎くなりました。わからなくなるんですよ。その場にいないと、感じないんです。\n\nだから、Ayuさんの持たれたアメリカの時事問題の印象と私が持っている空気感という雰囲気がずれるのは、致し方ないです。\n\n\nあ、昨日のワシントンポスト(紙でとっている)の第一面安倍さんのニュースでした。これはすごい珍しいですね。\n\nバイデン大統領は、ホワイトハウスなど主だった施設のアメリカ国旗:us:を7\/10、1日半旗にしました。外国の国家元首の死を悼んで半旗にするのは珍しいそうです。\n\nそれから昨日読んだワシントンポストの記事が、1日たってからなのか、ある程度記者の分析が入った、Ayuさんがおっしゃってたような安倍さんの批判もかなり踏み込んだ記事でした。後でご紹介しますので、良かったらご覧ください。",
+        "user": "U017LVA457X",
+        "ts": "1657454579.618429",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "ab08cd7206d5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-23\/1260372537906_ab08cd7206d5061995ec_72.png",
+            "first_name": "Nakaji",
+            "real_name": "Nakaji",
+            "display_name": "Nakaji",
+            "team": "T014MVD863E",
+            "name": "nakaji352002",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U017LVA457X",
+            "ts": "1657454777.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ag+z1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ayuさん、ご丁寧にお返事ありがとう"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "blush",
+                                "unicode": "1f60a"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ございます。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "そっかーオタク趣味からの興味ですね。素晴らしいですね。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "確かに英会話勉強されていると時事問題とかの記事やニュースのクリップが教材となることが多く、自然と身につきますね。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "point_up_2",
+                                "unicode": "1f446"
+                            },
+                            {
+                                "type": "text",
+                                "text": "で、私も偉そうに自分の意見を述べさせて頂きましたが、ほんと国外からある国のなんていうか、空気感を感じるのは難しいです。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "以前オットの仕事の関係で海外に駐在していたことが何回かあるのですが、その間は、アメリカで何が起き、何が問題で、何が話題とか本当に疎くなりました。わからなくなるんですよ。その場にいないと、感じないんです。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "だから、Ayuさんの持たれたアメリカの時事問題の印象と私が持っている空気感という雰囲気がずれるのは、致し方ないです。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "あ、昨日のワシントンポスト(紙でとっている)の第一面安倍さんのニュースでした。これはすごい珍しいですね。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "バイデン大統領は、ホワイトハウスなど主だった施設のアメリカ国旗"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "us",
+                                "unicode": "1f1fa-1f1f8"
+                            },
+                            {
+                                "type": "text",
+                                "text": "を7\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "10、1日"
+                            },
+                            {
+                                "type": "text",
+                                "text": "半旗にしました。外国の国家元首の死を悼んで半旗にするのは珍しいそうです。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "それから昨日読んだワシントンポストの記事が、1日たってからなのか、ある程度記者の分析が入った、Ayuさんがおっしゃってたような安倍さんの批判もかなり踏み込んだ記事でした。後でご紹介しますので、良かったらご覧ください。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1657286370.047239",
+        "parent_user_id": "U017LVA457X"
+    },
+    {
+        "client_msg_id": "141E2F08-978B-4023-9AEA-106D1D07348F",
+        "type": "message",
+        "text": "お返事ありがとうございます。\n猫好きの方がボランティアでお世話しているんですね。",
+        "user": "U017LVA457X",
+        "ts": "1657457374.019379",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "ab08cd7206d5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-23\/1260372537906_ab08cd7206d5061995ec_72.png",
+            "first_name": "Nakaji",
+            "real_name": "Nakaji",
+            "display_name": "Nakaji",
+            "team": "T014MVD863E",
+            "name": "nakaji352002",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5Ppe4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "お返事"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ありがとうございます"
+                            },
+                            {
+                                "type": "text",
+                                "text": "。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "猫好きの方がボランティアでお世話"
+                            },
+                            {
+                                "type": "text",
+                                "text": "しているんですね。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1657369791.576629",
+        "parent_user_id": "U017LVA457X"
+    },
+    {
+        "client_msg_id": "FAB433E3-7061-49D8-AF55-7A15668AF392",
+        "type": "message",
+        "text": "うちの周りにも何匹かノラがいます。誰かが餌あげているのかもしれないです。さすがに野良犬はいないです。\nもちろん野生動物はわんさかいますが。。。。",
+        "user": "U017LVA457X",
+        "ts": "1657457442.257289",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "ab08cd7206d5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-23\/1260372537906_ab08cd7206d5061995ec_72.png",
+            "first_name": "Nakaji",
+            "real_name": "Nakaji",
+            "display_name": "Nakaji",
+            "team": "T014MVD863E",
+            "name": "nakaji352002",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "C5g8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "うちの周りにも何匹かノラがいます。誰かが餌あげているのかもしれないです。さすがに野良犬はいないです。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "もちろん野生動物"
+                            },
+                            {
+                                "type": "text",
+                                "text": "はわんさかいますが。。。。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1657369791.576629",
+        "parent_user_id": "U017LVA457X"
+    }
+]

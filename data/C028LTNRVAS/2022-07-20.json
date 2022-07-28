@@ -1,0 +1,56 @@
+[
+    {
+        "client_msg_id": "5e4ac440-143a-483c-a8fb-e56469658feb",
+        "type": "message",
+        "text": "さすがAyuさん、ファンの鑑ですね！:two_hearts:ちなみに私が今持っている「還流」は2冊目です。1冊目は読み込みすぎ&amp;いつもカバンに入れて持ち歩いていたためボロボロになってしまったので、2冊目を購入いたしました。あ、でも1冊目も捨ててはないです、取ってあります。いや～ほんと、ハマるってコワイですよね～:sweat_smile:",
+        "user": "U01P6E9P3J5",
+        "ts": "1658307153.018669",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "gc61e328c9e5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c61e328c9e5331e15fbbfaac3326fd4c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0025-72.png",
+            "first_name": "",
+            "real_name": "まる",
+            "display_name": "まる",
+            "team": "T014MVD863E",
+            "name": "marusan93",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uMpZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "さすがAyuさん、ファンの鑑ですね！"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "two_hearts",
+                                "unicode": "1f495"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ちなみに私が今持っている「還流」は2冊目です。1冊目は読み込みすぎ&いつもカバンに入れて持ち歩いていたためボロボロになってしまったので、2冊目を購入いたしました。あ、でも1冊目も捨ててはないです、取ってあります。いや～ほんと、ハマるってコワイですよね～"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sweat_smile",
+                                "unicode": "1f605"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1657837368.613359",
+        "parent_user_id": "U017YHF4ZG9"
+    }
+]

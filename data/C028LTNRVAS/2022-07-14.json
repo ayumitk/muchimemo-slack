@@ -1,0 +1,475 @@
+[
+    {
+        "client_msg_id": "0CFCB208-F4EE-4D26-A308-F35DF8AD6C17",
+        "type": "message",
+        "text": "リンク先のBluewillowのページに、サイン入りbookplateの他にactivity bookやtea tin（こっちは品切れみたいですが）とか書いてあって、すごい気になります。activity book ってどんなのだろ？？",
+        "user": "U017YHF4ZG9",
+        "ts": "1657802293.747899",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "8b538c52795e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-23\/1256603203669_8b538c52795ebb5c006a_72.jpg",
+            "first_name": "",
+            "real_name": "Ayu Yamane",
+            "display_name": "Ayu Yamane",
+            "team": "T014MVD863E",
+            "name": "ayu76mi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "D0Z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "リンク先の"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Bluewillow"
+                            },
+                            {
+                                "type": "text",
+                                "text": "のページに、サイン入りbookplateの他に"
+                            },
+                            {
+                                "type": "text",
+                                "text": "activity"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "book"
+                            },
+                            {
+                                "type": "text",
+                                "text": "や"
+                            },
+                            {
+                                "type": "text",
+                                "text": "tea"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "tin"
+                            },
+                            {
+                                "type": "text",
+                                "text": "（こっちは品切れみたいですが）とか書いてあって、すごい気になります。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "activity"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "book"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ってどんなのだろ？？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "558C2AF0-5581-468D-90B5-091F1AC77B55",
+        "type": "message",
+        "text": "私のツイートの返事の先にBoyfriend Material のキットをゲットしたファンが写真ツイートしてました。",
+        "user": "U017LVA457X",
+        "ts": "1657802446.441639",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "ab08cd7206d5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-23\/1260372537906_ab08cd7206d5061995ec_72.png",
+            "first_name": "Nakaji",
+            "real_name": "Nakaji",
+            "display_name": "Nakaji",
+            "team": "T014MVD863E",
+            "name": "nakaji352002",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "h1mZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "私のツイートの返事の先にBoyfriend Material のキットをゲットしたファンが写真ツイートしてました。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "231B5881-E92A-4FB1-AD10-35B1FB14EE56",
+        "type": "message",
+        "text": "サイン本注文するかどうか決めかねてます。私、基本英語の本はKindleで読むからなあ。特にこの本は調べながら確認しながら読むから、紙の本だとどうなんだろうか。。。",
+        "user": "U017LVA457X",
+        "ts": "1657802614.554409",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "ab08cd7206d5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-23\/1260372537906_ab08cd7206d5061995ec_72.png",
+            "first_name": "Nakaji",
+            "real_name": "Nakaji",
+            "display_name": "Nakaji",
+            "team": "T014MVD863E",
+            "name": "nakaji352002",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0AzoP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "サイン本注文するかどうか決めかねてます。私、基本英語の本はKindleで読むからなあ。特にこの本は調べながら確認しながら読むから、紙の本だとどうなんだろうか"
+                            },
+                            {
+                                "type": "text",
+                                "text": "。。。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0D5D22D8-8FAC-490D-B1D0-0F679D6C3F5D",
+        "type": "message",
+        "text": "ここは、大ファンということで、紙と、電子本両方買う？",
+        "user": "U017LVA457X",
+        "ts": "1657802667.642689",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "ab08cd7206d5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-23\/1260372537906_ab08cd7206d5061995ec_72.png",
+            "first_name": "Nakaji",
+            "real_name": "Nakaji",
+            "display_name": "Nakaji",
+            "team": "T014MVD863E",
+            "name": "nakaji352002",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BjAma",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ここは、大ファンということで、紙と、電子本両方買う"
+                            },
+                            {
+                                "type": "text",
+                                "text": "？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "B88799FC-4A9A-4290-A750-B642FC03A804",
+        "type": "message",
+        "text": "ちなみに私はドラッグ・チェイスを、電子版、紙版2冊(1冊布教用)、英語版、オーディオブックと買っちまった猛者です。",
+        "user": "U017YHF4ZG9",
+        "ts": "1657837368.613359",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "8b538c52795e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-23\/1256603203669_8b538c52795ebb5c006a_72.jpg",
+            "first_name": "",
+            "real_name": "Ayu Yamane",
+            "display_name": "Ayu Yamane",
+            "team": "T014MVD863E",
+            "name": "ayu76mi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NQ2ui",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ちなみに私はドラッグ・チェイスを、電子版、紙版2冊(1冊布教用"
+                            },
+                            {
+                                "type": "text",
+                                "text": ")"
+                            },
+                            {
+                                "type": "text",
+                                "text": "、英語版、オーディオブックと買っちまった猛者です"
+                            },
+                            {
+                                "type": "text",
+                                "text": "。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1657837368.613359",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1658307153.018669",
+        "reply_users": [
+            "U01P6E9P3J5"
+        ],
+        "replies": [
+            {
+                "user": "U01P6E9P3J5",
+                "ts": "1658307153.018669"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "FC1F2587-4FE2-4272-91CF-3A8019973B07",
+        "type": "message",
+        "text": "資産増やしましたね！",
+        "user": "U017LVA457X",
+        "ts": "1657839735.173739",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "ab08cd7206d5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-23\/1260372537906_ab08cd7206d5061995ec_72.png",
+            "first_name": "Nakaji",
+            "real_name": "Nakaji",
+            "display_name": "Nakaji",
+            "team": "T014MVD863E",
+            "name": "nakaji352002",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "V9G",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "資産増やしましたね"
+                            },
+                            {
+                                "type": "text",
+                                "text": "！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ffcc11c6-bb9c-41fd-a8b5-3a54377c4e5c",
+        "type": "message",
+        "text": "おはようございますー！\nNakajiさん！すごっ！！！\nサイン本いいですねぇ～\n\nAyuさんの猛者ぷりも素敵:hearts:\n\n本というか、物語愛:hearts:\nそれらを生み出す作家さん愛:hearts::hearts:\nですね！！",
+        "user": "U020NSJS0UX",
+        "ts": "1657841104.105389",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "aa73d1a524ca",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-06\/2050329671489_aa73d1a524caf35d6c60_72.jpg",
+            "first_name": "タンタン",
+            "real_name": "タンタン",
+            "display_name": "たんたん",
+            "team": "T014MVD863E",
+            "name": "chubu8830",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ahGj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "おはようございますー！\nNakajiさん！すごっ！！！\nサイン本いいですねぇ～\n\nAyuさんの猛者ぷりも素敵"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "hearts",
+                                "unicode": "2665-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n本というか、物語愛"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "hearts",
+                                "unicode": "2665-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nそれらを生み出す作家さん愛"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "hearts",
+                                "unicode": "2665-fe0f"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "hearts",
+                                "unicode": "2665-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nですね！！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "BB26C3D4-23BD-4477-8314-AFE954B64625",
+        "type": "message",
+        "text": "あああ。愛ですよね。でもそこで、電子書籍と紙のサイン本を買うのに躊躇してしまう、オタク度の薄い自分に気がついてしまいます。",
+        "user": "U017LVA457X",
+        "ts": "1657842899.678659",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "ab08cd7206d5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-23\/1260372537906_ab08cd7206d5061995ec_72.png",
+            "first_name": "Nakaji",
+            "real_name": "Nakaji",
+            "display_name": "Nakaji",
+            "team": "T014MVD863E",
+            "name": "nakaji352002",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7Knk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "あああ。愛ですよね。でもそこで、電子書籍と紙のサイン本を買うのに躊躇してしまう、オタク度の薄い自分に気がついてしまいます"
+                            },
+                            {
+                                "type": "text",
+                                "text": "。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "D6946AAA-F1C7-41CE-B9F8-252B01DB44A1",
+        "type": "message",
+        "text": "私も滅多に複数買はしないのですが、あの時は珍しくオタクらしい買い物をした気がします。",
+        "user": "U017YHF4ZG9",
+        "ts": "1657846314.359939",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "8b538c52795e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-23\/1256603203669_8b538c52795ebb5c006a_72.jpg",
+            "first_name": "",
+            "real_name": "Ayu Yamane",
+            "display_name": "Ayu Yamane",
+            "team": "T014MVD863E",
+            "name": "ayu76mi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ssQE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "私も滅多に複数買はしないのですが、あの時は珍しくオタクらしい買い物をした気がします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

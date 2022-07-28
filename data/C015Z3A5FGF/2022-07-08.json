@@ -1,0 +1,128 @@
+[
+    {
+        "client_msg_id": "2e07dbc1-c51d-411a-b867-c781c2f358a1",
+        "type": "message",
+        "text": ":woman-raising-hand:万難を排して、全裸覆面で臨みます:bangbang:\nこの日のために生きてきたといっても過言ではありません！（そうなのか？:sweat_smile:）楽しみすぎて、当日まで己のテンションが持つか自信がありません:sweat_drops:\nああ早く2巻の発売日が発表されるといいのですが・・・首が長くなりすぎて、六ろっ首状態です！",
+        "user": "U01P6E9P3J5",
+        "ts": "1657278507.064739",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "gc61e328c9e5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c61e328c9e5331e15fbbfaac3326fd4c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0025-72.png",
+            "first_name": "",
+            "real_name": "まる",
+            "display_name": "まる",
+            "team": "T014MVD863E",
+            "name": "marusan93",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1rQAr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "woman-raising-hand",
+                                "unicode": "1f64b-200d-2640-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "万難を排して、全裸覆面で臨みます"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "bangbang",
+                                "unicode": "203c-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nこの日のために生きてきたといっても過言ではありません！（そうなのか？"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sweat_smile",
+                                "unicode": "1f605"
+                            },
+                            {
+                                "type": "text",
+                                "text": "）楽しみすぎて、当日まで己のテンションが持つか自信がありません"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sweat_drops",
+                                "unicode": "1f4a6"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nああ早く2巻の発売日が発表されるといいのですが・・・首が長くなりすぎて、六ろっ首状態です！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "jake",
+                "users": [
+                    "U017YHF4ZG9",
+                    "U017Z0T54P3",
+                    "U01M8BTNR7C"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4bf5805a-d0a8-40d2-a838-a3f31f36c20f",
+        "type": "message",
+        "text": "Aliceさん、私も覆面参加します。みんなで心行くまで語り合いましょう。楽しみにしております！:two_hearts:",
+        "user": "U01P6E9P3J5",
+        "ts": "1657294409.581589",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "gc61e328c9e5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c61e328c9e5331e15fbbfaac3326fd4c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0025-72.png",
+            "first_name": "",
+            "real_name": "まる",
+            "display_name": "まる",
+            "team": "T014MVD863E",
+            "name": "marusan93",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Y8g",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Aliceさん、私も覆面参加します。みんなで心行くまで語り合いましょう。楽しみにしております！"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "two_hearts",
+                                "unicode": "1f495"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1657056952.336189",
+        "parent_user_id": "U014UD117ND"
+    }
+]

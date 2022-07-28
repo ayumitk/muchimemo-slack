@@ -1,0 +1,499 @@
+[
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F03P0APS2BB",
+                "created": 1657186771,
+                "timestamp": 1657186771,
+                "name": "iOS の画像.jpg",
+                "title": "iOS の画像",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U017L1ARLJX",
+                "editable": false,
+                "size": 498472,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T014MVD863E-F03P0APS2BB\/ios__________.jpg?t=xoxe-1157999278116-3857408361221-3860360080994-c56323778919f0e36b19cc92870aef60",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T014MVD863E-F03P0APS2BB\/download\/ios__________.jpg?t=xoxe-1157999278116-3857408361221-3860360080994-c56323778919f0e36b19cc92870aef60",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T014MVD863E-F03P0APS2BB-31cf837466\/ios___________64.jpg?t=xoxe-1157999278116-3857408361221-3860360080994-c56323778919f0e36b19cc92870aef60",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T014MVD863E-F03P0APS2BB-31cf837466\/ios___________80.jpg?t=xoxe-1157999278116-3857408361221-3860360080994-c56323778919f0e36b19cc92870aef60",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T014MVD863E-F03P0APS2BB-31cf837466\/ios___________360.jpg?t=xoxe-1157999278116-3857408361221-3860360080994-c56323778919f0e36b19cc92870aef60",
+                "thumb_360_w": 243,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T014MVD863E-F03P0APS2BB-31cf837466\/ios___________480.jpg?t=xoxe-1157999278116-3857408361221-3860360080994-c56323778919f0e36b19cc92870aef60",
+                "thumb_480_w": 324,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T014MVD863E-F03P0APS2BB-31cf837466\/ios___________160.jpg?t=xoxe-1157999278116-3857408361221-3860360080994-c56323778919f0e36b19cc92870aef60",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T014MVD863E-F03P0APS2BB-31cf837466\/ios___________720.jpg?t=xoxe-1157999278116-3857408361221-3860360080994-c56323778919f0e36b19cc92870aef60",
+                "thumb_720_w": 486,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T014MVD863E-F03P0APS2BB-31cf837466\/ios___________800.jpg?t=xoxe-1157999278116-3857408361221-3860360080994-c56323778919f0e36b19cc92870aef60",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1184,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T014MVD863E-F03P0APS2BB-31cf837466\/ios___________960.jpg?t=xoxe-1157999278116-3857408361221-3860360080994-c56323778919f0e36b19cc92870aef60",
+                "thumb_960_w": 649,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T014MVD863E-F03P0APS2BB-31cf837466\/ios___________1024.jpg?t=xoxe-1157999278116-3857408361221-3860360080994-c56323778919f0e36b19cc92870aef60",
+                "thumb_1024_w": 692,
+                "thumb_1024_h": 1024,
+                "original_w": 1181,
+                "original_h": 1748,
+                "thumb_tiny": "AwAwACDSZgoyah8zzPlU7cjqO1LOf3Z6VWBCKG25wfwxQBMZTHIsZO73qWKTeuarP84jcjAByM1NakGPjgenpQAlwyquGz+VUWL5VCwCFuQO3FaMqhhyKz4l3XW0\/dUZx79KAFeXdAq5bcnYAZNWrJw0XTB71UdcuxX5Qnp71dt1CoMelAEsnTpmqEIxezdc4GBWkRmq4tcXTTbs5GMUAUbhTHKx5CSr+taEA+QcdhTLm1+0IFLlccjHrU6LtQA8kDrQB\/\/Z",
+                "permalink": "https:\/\/muchimemo.slack.com\/files\/U017L1ARLJX\/F03P0APS2BB\/ios__________.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T014MVD863E-F03P0APS2BB-533d071d4f",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U017L1ARLJX",
+        "display_as_bot": false,
+        "ts": "1657186774.849789",
+        "client_msg_id": "577436AE-3973-4E58-A5E5-D71954551D6C"
+    },
+    {
+        "client_msg_id": "E1DC507F-48DD-4807-920A-E51AE522AF69",
+        "type": "message",
+        "text": "しゅてき:sparkles:",
+        "user": "U017L1ARLJX",
+        "ts": "1657186796.727909",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "cf2ffbf91b0d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-23\/1264264593060_cf2ffbf91b0dd4f50994_72.png",
+            "first_name": "くじらー",
+            "real_name": "くじらー",
+            "display_name": "くじらー",
+            "team": "T014MVD863E",
+            "name": "anzuharuday",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hm6\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "しゅてき"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sparkles",
+                                "unicode": "2728"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "863a640a-48fd-445b-9f18-e5ea3563d8e4",
+        "type": "message",
+        "text": "しゅてき:two_hearts:",
+        "user": "U017FMU5XTQ",
+        "ts": "1657186916.923389",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "bea7a407721c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-26\/1263539336931_bea7a407721cebe3595a_72.jpg",
+            "first_name": "",
+            "real_name": "めい",
+            "display_name": "めい",
+            "team": "T014MVD863E",
+            "name": "megmon24",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "l\/v",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "しゅてき"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "two_hearts",
+                                "unicode": "1f495"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "34086D56-E2EB-4154-A8FB-7822437DA188",
+        "type": "message",
+        "text": "サムとジェイソンの描き分け:sparkles:",
+        "user": "U017L1ARLJX",
+        "ts": "1657187623.512989",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "cf2ffbf91b0d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-23\/1264264593060_cf2ffbf91b0dd4f50994_72.png",
+            "first_name": "くじらー",
+            "real_name": "くじらー",
+            "display_name": "くじらー",
+            "team": "T014MVD863E",
+            "name": "anzuharuday",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "m3rS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "サムとジェイソンの描き分け"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sparkles",
+                                "unicode": "2728"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3BBD05E0-B643-4937-8EC7-54AF2ADE77A4",
+        "type": "message",
+        "text": "いいですね〜:heart_eyes:",
+        "user": "U01M8BTNR7C",
+        "ts": "1657190344.817529",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "16c140f650be",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-02-10\/1748642350673_16c140f650be7c6cc646_72.png",
+            "first_name": "きなこ",
+            "real_name": "きなこ",
+            "display_name": "",
+            "team": "T014MVD863E",
+            "name": "le.arbre.montagne.121",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2X6j",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "いいですね〜"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "heart_eyes",
+                                "unicode": "1f60d"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "41E40239-7040-40DB-818E-F2C1E55AA886",
+        "type": "message",
+        "text": "デートいっぱいしてくれ:sparkles:",
+        "user": "U017L1ARLJX",
+        "ts": "1657190403.574709",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "cf2ffbf91b0d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-23\/1264264593060_cf2ffbf91b0dd4f50994_72.png",
+            "first_name": "くじらー",
+            "real_name": "くじらー",
+            "display_name": "くじらー",
+            "team": "T014MVD863E",
+            "name": "anzuharuday",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "snW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "デートいっぱいしてくれ"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sparkles",
+                                "unicode": "2728"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "CFD0D1EB-DC81-4E0D-929F-9DD5A35AD0A5",
+        "type": "message",
+        "text": "大丈夫:sparkles::sunglasses:ジェイソンが優しく致します:sparkles:",
+        "user": "U017L1ARLJX",
+        "ts": "1657190450.025129",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "cf2ffbf91b0d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-23\/1264264593060_cf2ffbf91b0dd4f50994_72.png",
+            "first_name": "くじらー",
+            "real_name": "くじらー",
+            "display_name": "くじらー",
+            "team": "T014MVD863E",
+            "name": "anzuharuday",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3BX\/7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "大丈夫"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sparkles",
+                                "unicode": "2728"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sunglasses",
+                                "unicode": "1f60e"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ジェイソンが優しく致します"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sparkles",
+                                "unicode": "2728"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1656509137.314719",
+        "parent_user_id": "U017L1ARLJX"
+    },
+    {
+        "client_msg_id": "a470ae32-908a-447b-8bd9-286a37635d8c",
+        "type": "message",
+        "text": "サムおじさんたら、2巻てはタキシードジェイソンにポ～:heart_eyes: っとなってたくせに余裕ぶってる:exclamation:",
+        "user": "U017FMU5XTQ",
+        "ts": "1657194501.203479",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "bea7a407721c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-26\/1263539336931_bea7a407721cebe3595a_72.jpg",
+            "first_name": "",
+            "real_name": "めい",
+            "display_name": "めい",
+            "team": "T014MVD863E",
+            "name": "megmon24",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2xT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "サムおじさんたら、2巻てはタキシードジェイソンにポ～"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "heart_eyes",
+                                "unicode": "1f60d"
+                            },
+                            {
+                                "type": "text",
+                                "text": " っとなってたくせに余裕ぶってる"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "exclamation",
+                                "unicode": "2757"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "B787D17D-AE64-47E1-B83B-99E3BD2DC80C",
+        "type": "message",
+        "text": "でも見たい:sparkles:しかもジェイソンに素敵と言われて満更でもない:sparkles:と思う:sparkles:",
+        "user": "U017L1ARLJX",
+        "ts": "1657195047.647999",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "cf2ffbf91b0d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-23\/1264264593060_cf2ffbf91b0dd4f50994_72.png",
+            "first_name": "くじらー",
+            "real_name": "くじらー",
+            "display_name": "くじらー",
+            "team": "T014MVD863E",
+            "name": "anzuharuday",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tQ4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "でも見たい"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sparkles",
+                                "unicode": "2728"
+                            },
+                            {
+                                "type": "text",
+                                "text": "しかもジェイソンに素敵と言われて満更でもない"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sparkles",
+                                "unicode": "2728"
+                            },
+                            {
+                                "type": "text",
+                                "text": "と思う"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sparkles",
+                                "unicode": "2728"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "BB59E0AC-BC72-4DC3-B124-C4B1980C4FE3",
+        "type": "message",
+        "text": "アドレナリンが効いて、治りが早くなるんですoil",
+        "user": "U017YHF4ZG9",
+        "ts": "1657199113.031139",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "8b538c52795e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-23\/1256603203669_8b538c52795ebb5c006a_72.jpg",
+            "first_name": "",
+            "real_name": "Ayu Yamane",
+            "display_name": "Ayu Yamane",
+            "team": "T014MVD863E",
+            "name": "ayu76mi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wZp1y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "アドレナリンが効いて"
+                            },
+                            {
+                                "type": "text",
+                                "text": "、"
+                            },
+                            {
+                                "type": "text",
+                                "text": "治りが早くなるんですoil"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1656509137.314719",
+        "parent_user_id": "U017L1ARLJX"
+    }
+]

@@ -1,0 +1,1706 @@
+[
+    {
+        "client_msg_id": "64990479-324b-443b-9f4d-80265f8f3440",
+        "type": "message",
+        "text": "はじめまして、Aliceさん、まると申します。これからよろしくお願いいたします:smile:\n残念ながらアドリアンシリーズは未読というヘナチョコですが:cry:（一応理由らしきものはあるのですが・・・ご存知の方もいらっしゃいます）ラニヨン作品は、フェアシリーズ、殺しのアートシリーズは読んでます！（短編もいくつか）大好きです！:two_hearts:\n是非お勧めしたいのが、「Diversion」シリーズです！私はシリーズ1巻目の翻訳「還流」を読んでドハマリし、なかなか続きが出ないので「だったら原書で読んでやらあ！」と無謀にも全９巻を原書で読みました。英語で本読むなんて何十年振りだったので、よくやりとげたもんだなと自画自賛しております（←アホや:sweat_smile:）\nBLは、主に漫画で楽しんでおります。お気が向いたら遊んでやってください、大丈夫、怖くないよ！:grin:",
+        "user": "U01P6E9P3J5",
+        "ts": "1656922150.518389",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "gc61e328c9e5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c61e328c9e5331e15fbbfaac3326fd4c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0025-72.png",
+            "first_name": "",
+            "real_name": "まる",
+            "display_name": "まる",
+            "team": "T014MVD863E",
+            "name": "marusan93",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/viXj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "はじめまして、Aliceさん、まると申します。これからよろしくお願いいたします"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smile",
+                                "unicode": "1f604"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n残念ながらアドリアンシリーズは未読というヘナチョコですが"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "cry",
+                                "unicode": "1f622"
+                            },
+                            {
+                                "type": "text",
+                                "text": "（一応理由らしきものはあるのですが・・・ご存知の方もいらっしゃいます）ラニヨン作品は、フェアシリーズ、殺しのアートシリーズは読んでます！（短編もいくつか）大好きです！"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "two_hearts",
+                                "unicode": "1f495"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n是非お勧めしたいのが、「Diversion」シリーズです！私はシリーズ1巻目の翻訳「還流」を読んでドハマリし、なかなか続きが出ないので「だったら原書で読んでやらあ！」と無謀にも全９巻を原書で読みました。英語で本読むなんて何十年振りだったので、よくやりとげたもんだなと自画自賛しております（←アホや"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sweat_smile",
+                                "unicode": "1f605"
+                            },
+                            {
+                                "type": "text",
+                                "text": "）\nBLは、主に漫画で楽しんでおります。お気が向いたら遊んでやってください、大丈夫、怖くないよ！"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "grin",
+                                "unicode": "1f601"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1656922150.518389",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1656950511.209769",
+        "reply_users": [
+            "U03N2KMPR6H"
+        ],
+        "replies": [
+            {
+                "user": "U03N2KMPR6H",
+                "ts": "1656950511.209769"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "C67B8ED1-2DDE-46F6-A775-3B1754234BD3",
+        "type": "message",
+        "text": "アリスさん、はじめてまして:sparkles:私はジョシュさん、特に今は殺しのアートにハマっています:sparkles:よろしくお願いします",
+        "user": "U017L1ARLJX",
+        "ts": "1656922631.814639",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "cf2ffbf91b0d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-23\/1264264593060_cf2ffbf91b0dd4f50994_72.png",
+            "first_name": "くじらー",
+            "real_name": "くじらー",
+            "display_name": "くじらー",
+            "team": "T014MVD863E",
+            "name": "anzuharuday",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "O0M",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "アリスさん、はじめてまして"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sparkles",
+                                "unicode": "2728"
+                            },
+                            {
+                                "type": "text",
+                                "text": "私はジョシュさん、特に今は殺しのアートにハマっています"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sparkles",
+                                "unicode": "2728"
+                            },
+                            {
+                                "type": "text",
+                                "text": "よろしくお願いします"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1656922631.814639",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1656950660.207329",
+        "reply_users": [
+            "U03N2KMPR6H"
+        ],
+        "replies": [
+            {
+                "user": "U03N2KMPR6H",
+                "ts": "1656950660.207329"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "B69BD5B2-A4E6-40E1-814F-4315D0FA47D0",
+        "type": "message",
+        "text": "私もDiversionシリーズおすすめします！\nそれからアメリカ大統領×シークレットサービスのExecutive Officesシリーズも、全力で推しておりますっ。\n<https:\/\/www.goodreads.com\/series\/173592-the-executive-office|https:\/\/www.goodreads.com\/series\/173592-the-executive-office>",
+        "user": "U017YHF4ZG9",
+        "ts": "1656927707.145769",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "8b538c52795e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-23\/1256603203669_8b538c52795ebb5c006a_72.jpg",
+            "first_name": "",
+            "real_name": "Ayu Yamane",
+            "display_name": "Ayu Yamane",
+            "team": "T014MVD863E",
+            "name": "ayu76mi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.goodreads.com\/series\/173592-the-executive-office",
+                "service_icon": "https:\/\/www.goodreads.com\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.goodreads.com\/series\/173592-the-executive-office",
+                "fallback": "The Executive Office Series by Tal Bauer",
+                "text": "Enemies of the State (The Executive Office #1), Interlude: First Noel (The Executive Office #1.5), Enemy of My Enemy (Executive Office #2), and Enemy Wi...",
+                "title": "The Executive Office Series by Tal Bauer",
+                "title_link": "https:\/\/www.goodreads.com\/series\/173592-the-executive-office",
+                "service_name": "goodreads.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zn8K",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "私も"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Diversion"
+                            },
+                            {
+                                "type": "text",
+                                "text": "シリーズおすすめします！"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "それからアメリカ大統領×シークレットサービスのExecutive "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Offices"
+                            },
+                            {
+                                "type": "text",
+                                "text": "シリーズも、全力で推しておりますっ。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.goodreads.com\/series\/173592-the-executive-office",
+                                "text": "https:\/\/www.goodreads.com\/series\/173592-the-executive-office"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1656927707.145769",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1656950895.355239",
+        "reply_users": [
+            "U03N2KMPR6H"
+        ],
+        "replies": [
+            {
+                "user": "U03N2KMPR6H",
+                "ts": "1656950895.355239"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "4939b0b3-e35a-4798-b00c-1a78b412f7ed",
+        "type": "message",
+        "text": "Aliceさん 初めまして！\n私もアドリアンシリーズが大好きです。「Fair Game」も好きです。どうぞよろしくお願いします。",
+        "user": "U0188J8KHE0",
+        "ts": "1656934354.344519",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "9bddb1ef97ce",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-31\/1273082961765_9bddb1ef97ce43f9742f_72.png",
+            "first_name": "サトル",
+            "real_name": "サトル",
+            "display_name": "サトル",
+            "team": "T014MVD863E",
+            "name": "rien9326",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U0188J8KHE0",
+            "ts": "1656934375.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8dqp7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Aliceさん 初めまして！\n私もアドリアンシリーズが大好きです。「Fair Game」も好きです。どうぞよろしくお願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1656934354.344519",
+        "reply_count": 4,
+        "reply_users_count": 2,
+        "latest_reply": "1657270247.673039",
+        "reply_users": [
+            "U03N2KMPR6H",
+            "U0188J8KHE0"
+        ],
+        "replies": [
+            {
+                "user": "U03N2KMPR6H",
+                "ts": "1656951058.308419"
+            },
+            {
+                "user": "U0188J8KHE0",
+                "ts": "1657026071.518969"
+            },
+            {
+                "user": "U03N2KMPR6H",
+                "ts": "1657027362.618129"
+            },
+            {
+                "user": "U0188J8KHE0",
+                "ts": "1657270247.673039"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "07BBE820-7E0F-40DD-9CFE-7286CE347179",
+        "type": "message",
+        "text": "Aliceさん、はじめまして。はるまきです。\n私もアドリアン大好きです！！\nいま別の沼にいますが、原書いいですよね原書。私はもっぱら機械翻訳頼りですが、作者はなんでこうやって書いたのかなとか探るともう抜け出せなくなってます。\nよろしくお願いします:smiley:",
+        "user": "U01PZK3KK97",
+        "ts": "1656934820.451489",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "g7edbb069a07",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/7edbb069a07e3786ca21d16d29a8c001.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "",
+            "real_name": "はるまき",
+            "display_name": "",
+            "team": "T014MVD863E",
+            "name": "halsiyon5",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WwZT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Aliceさん、はじめまして。はるまきです。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "私もアドリアン大好きです！！"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "いま別の沼にいますが、原書いいですよね原書。私はもっぱら機械翻訳頼りですが、作者はなんでこうやって書いたのかなとか探るともう抜け出せなくなってます。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "よろしくお願いします"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smiley",
+                                "unicode": "1f603"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1656934820.451489",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1656951557.247959",
+        "reply_users": [
+            "U03N2KMPR6H"
+        ],
+        "replies": [
+            {
+                "user": "U03N2KMPR6H",
+                "ts": "1656951557.247959"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "828FD3CA-C430-49DE-90A2-39DC03BB31D9",
+        "type": "message",
+        "text": "は、は、わかります:heavy_heart_exclamation_mark_ornament:",
+        "user": "U017LVA457X",
+        "ts": "1656936475.507009",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "ab08cd7206d5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-23\/1260372537906_ab08cd7206d5061995ec_72.png",
+            "first_name": "Nakaji",
+            "real_name": "Nakaji",
+            "display_name": "Nakaji",
+            "team": "T014MVD863E",
+            "name": "nakaji352002",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U017LVA457X",
+            "ts": "1656936489.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fZcj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "は、は、わかります"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "heavy_heart_exclamation_mark_ornament",
+                                "unicode": "2763-fe0f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1656897963.721469",
+        "parent_user_id": "U03N2KMPR6H"
+    },
+    {
+        "client_msg_id": "F76CDF73-E3A1-469E-8CA4-0161FC9E364D",
+        "type": "message",
+        "text": "Kumattaさん、早速の返信、ありがとうございます。MMはまだアドリアンイングリッシュとDon’t look backしか読んでいない初心者でして:sweat_drops:ミステリー好きなので、ミステリーとMMが絡むのは大好物です♡おすすめ頂いた本、早速読んでみようと思います:bangbang:",
+        "user": "U03N2KMPR6H",
+        "ts": "1656946998.821669",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "b6de36ac2e5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-08\/3788800367537_b6de36ac2e5fb40df77c_72.png",
+            "first_name": "Alice",
+            "real_name": "Alice",
+            "display_name": "Alice",
+            "team": "T014MVD863E",
+            "name": "azureseababy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1Pa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Kumatta"
+                            },
+                            {
+                                "type": "text",
+                                "text": "さん、早速の返信、ありがとうございます。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "MM"
+                            },
+                            {
+                                "type": "text",
+                                "text": "はまだアドリアンイングリッシュと"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Don’t"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "look"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "back"
+                            },
+                            {
+                                "type": "text",
+                                "text": "しか読んでいない初心者でして"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sweat_drops",
+                                "unicode": "1f4a6"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ミステリー好きなので、ミステリーと"
+                            },
+                            {
+                                "type": "text",
+                                "text": "MM"
+                            },
+                            {
+                                "type": "text",
+                                "text": "が絡むのは大好物です♡おすすめ頂いた本、早速読んでみようと思います"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "bangbang",
+                                "unicode": "203c-fe0f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1656898428.767629",
+        "parent_user_id": "U03N2KMPR6H"
+    },
+    {
+        "client_msg_id": "0C93A9C7-2D16-486D-BEAB-DF5B2E2B8481",
+        "type": "message",
+        "text": "6〜7年前に日本に行った時、駅の中があまりにも変わっていて迷子になりまして:sweat_smile:駅員さんに道を聞いたら『○○の隣ですよ』と教えて頂いたのですが、その○○を知らない私は『○○って何ですか』と聞いたら、駅員さん、固まってました:sweat_drops:\n",
+        "user": "U03N2KMPR6H",
+        "ts": "1656948107.519389",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "b6de36ac2e5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-08\/3788800367537_b6de36ac2e5fb40df77c_72.png",
+            "first_name": "Alice",
+            "real_name": "Alice",
+            "display_name": "Alice",
+            "team": "T014MVD863E",
+            "name": "azureseababy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LL9Sj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "6〜7年前に日本に行った時、駅の中があまりにも変わっていて迷子になりまして"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sweat_smile",
+                                "unicode": "1f605"
+                            },
+                            {
+                                "type": "text",
+                                "text": "駅員さんに道を聞いたら『"
+                            },
+                            {
+                                "type": "text",
+                                "text": "○○の隣ですよ』と教えて頂いたのですが、その○"
+                            },
+                            {
+                                "type": "text",
+                                "text": "○"
+                            },
+                            {
+                                "type": "text",
+                                "text": "を"
+                            },
+                            {
+                                "type": "text",
+                                "text": "知ら"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ない私は『"
+                            },
+                            {
+                                "type": "text",
+                                "text": "○○"
+                            },
+                            {
+                                "type": "text",
+                                "text": "って何ですか』と聞いたら、駅員さん、固まってました"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sweat_drops",
+                                "unicode": "1f4a6"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1656897963.721469",
+        "parent_user_id": "U03N2KMPR6H"
+    },
+    {
+        "client_msg_id": "E566C774-7979-41CB-80C8-2BB26DE871DF",
+        "type": "message",
+        "text": "pukaliさん、初めまして。まだMMはアドリアンシリーズとdon’t look backしか読めていない初心者です。フェアゲーム、早速読んでみます:bangbang:よろしくお願いします:woman-bowing:",
+        "user": "U03N2KMPR6H",
+        "ts": "1656948743.667009",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "b6de36ac2e5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-08\/3788800367537_b6de36ac2e5fb40df77c_72.png",
+            "first_name": "Alice",
+            "real_name": "Alice",
+            "display_name": "Alice",
+            "team": "T014MVD863E",
+            "name": "azureseababy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yCq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "pukali"
+                            },
+                            {
+                                "type": "text",
+                                "text": "さん、初めまして。まだMMはアドリアンシリーズと"
+                            },
+                            {
+                                "type": "text",
+                                "text": "don’t"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "look"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "back"
+                            },
+                            {
+                                "type": "text",
+                                "text": "しか読めていない初心者です。フェアゲーム、早速読んでみます"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "bangbang",
+                                "unicode": "203c-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "よろしく"
+                            },
+                            {
+                                "type": "text",
+                                "text": "お願いします"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-bowing",
+                                "unicode": "1f647-200d-2640-fe0f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1656916251.017629",
+        "parent_user_id": "U017Z0T54P3",
+        "reactions": [
+            {
+                "name": "innocent",
+                "users": [
+                    "U017Z0T54P3"
+                ],
+                "count": 1
+            },
+            {
+                "name": "heart",
+                "users": [
+                    "U017Z0T54P3"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4503d393-4870-4dc6-bf29-2ccc9f615df9",
+        "type": "message",
+        "text": "はわわ～出遅れました（汗）Aliceさんはじめましてです！MMも原書読みもまだまだ初心者の自分ですが、どうぞよろしくお願いいたしますですー！",
+        "user": "U029MKK3W4E",
+        "ts": "1656949280.164729",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "aade7c86a319",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-10-17\/2606350548278_aade7c86a319ba8c4e3c_72.png",
+            "first_name": "ねこしま",
+            "real_name": "ねこしま",
+            "display_name": "",
+            "team": "T014MVD863E",
+            "name": "nanakusa0503",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Mth1\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "はわわ～出遅れました（汗）Aliceさんはじめましてです！MMも原書読みもまだまだ初心者の自分ですが、どうぞよろしくお願いいたしますですー！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1656949280.164729",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1656951731.892819",
+        "reply_users": [
+            "U03N2KMPR6H"
+        ],
+        "replies": [
+            {
+                "user": "U03N2KMPR6H",
+                "ts": "1656951731.892819"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "2F4D30E7-E76D-478D-9D41-FACF0678F4BE",
+        "type": "message",
+        "text": "おお、お返事ありがとうございます〜！ わたしもこちらのSlackを通じてたくさんの素敵な作品に出会えたので、MM\/BLの冒険をどうぞ楽しまれてください！",
+        "user": "U03D1UJECGZ",
+        "ts": "1656949717.343779",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "a7dde0607f3e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-24\/3431416808738_a7dde0607f3e669535b6_72.png",
+            "first_name": "Kumatta",
+            "real_name": "Kumatta",
+            "display_name": "Kumatta",
+            "team": "T014MVD863E",
+            "name": "maki.terao",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uyZ\/k",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "おお、お返事ありがとう"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ございます"
+                            },
+                            {
+                                "type": "text",
+                                "text": "〜！ わたしもこちらのSlackを通じてたくさんの素敵な作品に出会えたので、MM\/BLの冒険をどうぞ楽しまれてください！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1656898428.767629",
+        "parent_user_id": "U03N2KMPR6H"
+    },
+    {
+        "client_msg_id": "C2A445E5-EF0B-4FE3-AD20-C0B30A3771C7",
+        "type": "message",
+        "text": "まるさん、初めまして。アドリアンシリーズ未読とのこと。途中の展開があまりにも切なすぎて、読むのを挫折しかけました:droplet:未読なのも頷けます。\n原書を読むのは好きですが、表現の解釈:interrobang:に悩むと本の世界に没頭できなくなることがあり、自身の語学力不足を痛感しています。Diversionシリーズ、他の皆様もおすすめされていたので、早速読んでみようと思います。\nBLは癒しですよね♡コミックはあまり読んでいませんが、BLは現実逃避（現実もそれなりに幸せではありますが:sweat_smile:）に浸れるので、だいぶ深い沼にハマっている自覚があります:rolling_on_the_floor_laughing::rolling_on_the_floor_laughing::rolling_on_the_floor_laughing:\nぜひ遊んでやってください:woman-bowing:よろしくお願いします。",
+        "user": "U03N2KMPR6H",
+        "ts": "1656950511.209769",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "b6de36ac2e5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-08\/3788800367537_b6de36ac2e5fb40df77c_72.png",
+            "first_name": "Alice",
+            "real_name": "Alice",
+            "display_name": "Alice",
+            "team": "T014MVD863E",
+            "name": "azureseababy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4GVuK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "まるさん、初めまして。アドリアン"
+                            },
+                            {
+                                "type": "text",
+                                "text": "シリーズ"
+                            },
+                            {
+                                "type": "text",
+                                "text": "未読とのこと。途中の展開があまりにも切なすぎて、読むのを挫折しかけました"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "droplet",
+                                "unicode": "1f4a7"
+                            },
+                            {
+                                "type": "text",
+                                "text": "未読なのも頷けます。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "原書を読むのは好きですが、表現の解釈"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "interrobang",
+                                "unicode": "2049-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "に悩むと本の世界に没頭できなくなることがあり、自身の語学力不足を痛感しています。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Diversion"
+                            },
+                            {
+                                "type": "text",
+                                "text": "シリーズ、他の皆様もおすすめされていたので、早速読んでみようと思います。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "BLは癒しですよね♡コミックはあまり読んでいませんが、BLは"
+                            },
+                            {
+                                "type": "text",
+                                "text": "現実逃避（現実もそれなりに幸せではありますが"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sweat_smile",
+                                "unicode": "1f605"
+                            },
+                            {
+                                "type": "text",
+                                "text": "）に浸れるので、だいぶ深い沼にハマっている自覚があります"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "rolling_on_the_floor_laughing",
+                                "unicode": "1f923"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "rolling_on_the_floor_laughing",
+                                "unicode": "1f923"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "rolling_on_the_floor_laughing",
+                                "unicode": "1f923"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ぜひ遊んでやってください"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-bowing",
+                                "unicode": "1f647-200d-2640-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "よろしく"
+                            },
+                            {
+                                "type": "text",
+                                "text": "お願いします"
+                            },
+                            {
+                                "type": "text",
+                                "text": "。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1656922150.518389",
+        "parent_user_id": "U01P6E9P3J5"
+    },
+    {
+        "client_msg_id": "A69D9E96-333F-465F-B03F-CE9737DF0D46",
+        "type": "message",
+        "text": "くじらーさん、こんにちは。殺しのアート、ですね。みなさんから沢山おすすめを教えて頂いて、この夏は読書漬けになりそうです。今後とも、どうぞよろしくお願いします。",
+        "user": "U03N2KMPR6H",
+        "ts": "1656950660.207329",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "b6de36ac2e5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-08\/3788800367537_b6de36ac2e5fb40df77c_72.png",
+            "first_name": "Alice",
+            "real_name": "Alice",
+            "display_name": "Alice",
+            "team": "T014MVD863E",
+            "name": "azureseababy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "D5Hy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "くじらーさん、こんにちは。殺しのアート、ですね。みなさんから沢山おすすめを教えて頂いて、この夏は読書漬けになりそうです。今後とも、どうぞよろしく"
+                            },
+                            {
+                                "type": "text",
+                                "text": "お願いします"
+                            },
+                            {
+                                "type": "text",
+                                "text": "。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1656922631.814639",
+        "parent_user_id": "U017L1ARLJX"
+    },
+    {
+        "client_msg_id": "6C33D410-ECE7-4F85-9930-16015F0CF415",
+        "type": "message",
+        "text": "Ayuさん、警察官とかFBIとか、その手の職種の本は大好物:heart_eyes:なので、これからAmazonでポチります:bangbang:教えて下さってありがとうございます:blush:",
+        "user": "U03N2KMPR6H",
+        "ts": "1656950895.355239",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "b6de36ac2e5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-08\/3788800367537_b6de36ac2e5fb40df77c_72.png",
+            "first_name": "Alice",
+            "real_name": "Alice",
+            "display_name": "Alice",
+            "team": "T014MVD863E",
+            "name": "azureseababy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8NWT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ayu"
+                            },
+                            {
+                                "type": "text",
+                                "text": "さん、警察官とかFBIとか、その手の職種の本は大好物"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "heart_eyes",
+                                "unicode": "1f60d"
+                            },
+                            {
+                                "type": "text",
+                                "text": "なので、これからAmazonでポチります"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "bangbang",
+                                "unicode": "203c-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "教えて下さってありがとう"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ございます"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "blush",
+                                "unicode": "1f60a"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1656927707.145769",
+        "parent_user_id": "U017YHF4ZG9"
+    },
+    {
+        "client_msg_id": "928164C4-CECE-4287-9CF6-5E238021D02F",
+        "type": "message",
+        "text": "サトルさん、こんにちは。フェアゲームですね。Lanyon著の作品は翻訳されているものが結構あるんですね。翻訳の方を読んじゃおうかな。。。\n今後とも、どうぞよろしくお願いします:woman-bowing:",
+        "user": "U03N2KMPR6H",
+        "ts": "1656951058.308419",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "b6de36ac2e5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-08\/3788800367537_b6de36ac2e5fb40df77c_72.png",
+            "first_name": "Alice",
+            "real_name": "Alice",
+            "display_name": "Alice",
+            "team": "T014MVD863E",
+            "name": "azureseababy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jr0KM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "サトルさん、こんにちは。フェアゲームですね。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Lanyon"
+                            },
+                            {
+                                "type": "text",
+                                "text": "著の作品は翻訳されているものが結構あるんですね。翻訳の方を読んじゃおうかな。。。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "今後"
+                            },
+                            {
+                                "type": "text",
+                                "text": "とも"
+                            },
+                            {
+                                "type": "text",
+                                "text": "、どうぞよろしく"
+                            },
+                            {
+                                "type": "text",
+                                "text": "お願いします"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-bowing",
+                                "unicode": "1f647-200d-2640-fe0f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1656934354.344519",
+        "parent_user_id": "U0188J8KHE0"
+    },
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "はるまきさん、こんにちは。そうなんです:bangbang:作者が使用した単語から、これはこんな解釈なのかな？とか、ぐるぐる考え始めてしまうと、なかなかスピードが上がらず:sweat_drops:日本語同様に原書が読めるようになる日がいつか来るのか？？？\nどうぞよろしくお願いします:woman-bowing:",
+        "user": "U03N2KMPR6H",
+        "ts": "1656951557.247959",
+        "thread_ts": "1656934820.451489",
+        "root": {
+            "client_msg_id": "07BBE820-7E0F-40DD-9CFE-7286CE347179",
+            "type": "message",
+            "text": "Aliceさん、はじめまして。はるまきです。\n私もアドリアン大好きです！！\nいま別の沼にいますが、原書いいですよね原書。私はもっぱら機械翻訳頼りですが、作者はなんでこうやって書いたのかなとか探るともう抜け出せなくなってます。\nよろしくお願いします:smiley:",
+            "user": "U01PZK3KK97",
+            "ts": "1656934820.451489",
+            "team": "T014MVD863E",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "WwZT",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Aliceさん、はじめまして。はるまきです。"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "私もアドリアン大好きです！！"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "いま別の沼にいますが、原書いいですよね原書。私はもっぱら機械翻訳頼りですが、作者はなんでこうやって書いたのかなとか探るともう抜け出せなくなってます。"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "よろしくお願いします"
+                                },
+                                {
+                                    "type": "emoji",
+                                    "name": "smiley",
+                                    "unicode": "1f603"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "thread_ts": "1656934820.451489",
+            "reply_count": 1,
+            "reply_users_count": 1,
+            "latest_reply": "1656951557.247959",
+            "reply_users": [
+                "U03N2KMPR6H"
+            ],
+            "replies": [
+                {
+                    "user": "U03N2KMPR6H",
+                    "ts": "1656951557.247959"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "giI26",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "はるまきさん、こんにちは。そうなんです"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "bangbang",
+                                "unicode": "203c-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "作者が使用した単語から、これはこんな解釈なのかな？とか、ぐるぐる考え始めてしまうと、なかなかスピードが上がらず"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sweat_drops",
+                                "unicode": "1f4a6"
+                            },
+                            {
+                                "type": "text",
+                                "text": "日本語同様に原書が読めるようになる日がいつか来るのか？？？"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "どうぞよろしく"
+                            },
+                            {
+                                "type": "text",
+                                "text": "お願いします"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-bowing",
+                                "unicode": "1f647-200d-2640-fe0f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "885D9FA4-44FB-4484-AE00-B2CE23F9AA94",
+        "reactions": [
+            {
+                "name": "agree",
+                "users": [
+                    "U01PZK3KK97"
+                ],
+                "count": 1
+            },
+            {
+                "name": "blush",
+                "users": [
+                    "U01PZK3KK97"
+                ],
+                "count": 1
+            },
+            {
+                "name": "woman-bowing",
+                "users": [
+                    "U01PZK3KK97"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "EC4299CA-F096-4743-BFE5-3A478B36E5A9",
+        "type": "message",
+        "text": "ねこしまさん、こんにちは。お仲間がいてよかった:bangbang:どうぞよろしくお願いします:woman-bowing:",
+        "user": "U03N2KMPR6H",
+        "ts": "1656951731.892819",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "b6de36ac2e5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-08\/3788800367537_b6de36ac2e5fb40df77c_72.png",
+            "first_name": "Alice",
+            "real_name": "Alice",
+            "display_name": "Alice",
+            "team": "T014MVD863E",
+            "name": "azureseababy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2FI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ねこしまさん、こんにちは。お仲間がいてよかった"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "bangbang",
+                                "unicode": "203c-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "どうぞよろしく"
+                            },
+                            {
+                                "type": "text",
+                                "text": "お願いします"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-bowing",
+                                "unicode": "1f647-200d-2640-fe0f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1656949280.164729",
+        "parent_user_id": "U029MKK3W4E"
+    },
+    {
+        "client_msg_id": "5CBF2F72-18C4-486D-922E-E90F324907EE",
+        "type": "message",
+        "text": "私も同じ経験あります。私の場合はバスの乗り方がよくわからず、モタモタしました",
+        "user": "U017LVA457X",
+        "ts": "1656953326.647379",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "ab08cd7206d5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-23\/1260372537906_ab08cd7206d5061995ec_72.png",
+            "first_name": "Nakaji",
+            "real_name": "Nakaji",
+            "display_name": "Nakaji",
+            "team": "T014MVD863E",
+            "name": "nakaji352002",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "b\/mn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "私も同じ経験あります。私の場合はバスの乗り方がよくわからず、モタモタしました"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1656897963.721469",
+        "parent_user_id": "U03N2KMPR6H"
+    },
+    {
+        "client_msg_id": "8f938c40-e3aa-4a72-b6fb-a370bfaf44ea",
+        "type": "message",
+        "text": "おっと、カナダが建国記念日の連休で遊びに出てたら、完全に出遅れました、すみません。\nAliceさん、いらっしゃいませ〜:wave:\n私もMM原書はアドリアンから入りまして、誰かと語りたい勢いが余って、ブログ・オンライン読書会・このチャットグループを作ってしまったくらいハマってしまいました！\nいっぱいおしゃべりしていきましょう:sparkles:",
+        "user": "U014UD117ND",
+        "ts": "1656956453.532769",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "d661e4a51036",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-30\/1214690186661_d661e4a51036d8b1a2e4_72.jpg",
+            "first_name": "ジーナ",
+            "real_name": "ジーナ",
+            "display_name": "ジーナ",
+            "team": "T014MVD863E",
+            "name": "ayumee528",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "j=d",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "おっと、カナダが建国記念日の連休で遊びに出てたら、完全に出遅れました、すみません。\nAliceさん、いらっしゃいませ〜"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wave",
+                                "unicode": "1f44b"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n私もMM原書はアドリアンから入りまして、誰かと語りたい勢いが余って、ブログ・オンライン読書会・このチャットグループを作ってしまったくらいハマってしまいました！\nいっぱいおしゃべりしていきましょう"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sparkles",
+                                "unicode": "2728"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1656956453.532769",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1657027133.396079",
+        "reply_users": [
+            "U03N2KMPR6H",
+            "U014UD117ND"
+        ],
+        "replies": [
+            {
+                "user": "U03N2KMPR6H",
+                "ts": "1656956872.627449"
+            },
+            {
+                "user": "U014UD117ND",
+                "ts": "1656957240.927069"
+            },
+            {
+                "user": "U03N2KMPR6H",
+                "ts": "1657027133.396079"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1657027133.396079"
+    },
+    {
+        "client_msg_id": "3786D57A-099B-46CA-A193-08292175207A",
+        "type": "message",
+        "text": "ジーナさん、こんにちは。このグループのことは創設当時から知っておりましたが、ちょうど引越しx4が重なりまして、ようやく落ち着いてきたので、やっとドアをノックできるようになった次第です。\n皆さんから教えて頂いた原書・翻訳本を片っ端から制覇していきたいと思います。\nどうぞよろしくお願いします:woman-bowing:",
+        "user": "U03N2KMPR6H",
+        "ts": "1656956872.627449",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "b6de36ac2e5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-08\/3788800367537_b6de36ac2e5fb40df77c_72.png",
+            "first_name": "Alice",
+            "real_name": "Alice",
+            "display_name": "Alice",
+            "team": "T014MVD863E",
+            "name": "azureseababy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+ffKP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ジーナさん、こんにちは。このグループのことは創設当時から知っておりましたが、ちょうど引越しx4が重なりまして、ようやく落ち着いてきたので、やっとドアをノックできるようになった次第です。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "皆さんから教えて頂いた原書・翻訳本を片っ端から制覇していきたいと思います。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "どうぞよろしく"
+                            },
+                            {
+                                "type": "text",
+                                "text": "お願いします"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-bowing",
+                                "unicode": "1f647-200d-2640-fe0f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1656956453.532769",
+        "parent_user_id": "U014UD117ND",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U014UD117ND"
+                ],
+                "count": 1
+            },
+            {
+                "name": "heart_eyes",
+                "users": [
+                    "U014UD117ND"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d4623dd6-49de-4add-b823-319e3b37009f",
+        "type": "message",
+        "text": "引越し４回！:flushed:\nそれは大変でしたね…\n今は落ち着いたとのことで、よかったです。\nBL・MM読書は心の癒しなので、読めないと辛いですもんね\nちなみに私の好きな本は、もう皆さんから出てますが、「Diversion」シリーズと「イングランドを想え」です:+1:",
+        "user": "U014UD117ND",
+        "ts": "1656957240.927069",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "d661e4a51036",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-30\/1214690186661_d661e4a51036d8b1a2e4_72.jpg",
+            "first_name": "ジーナ",
+            "real_name": "ジーナ",
+            "display_name": "ジーナ",
+            "team": "T014MVD863E",
+            "name": "ayumee528",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "L\/gfe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "引越し４回！"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "flushed",
+                                "unicode": "1f633"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nそれは大変でしたね…\n今は落ち着いたとのことで、よかったです。\nBL・MM読書は心の癒しなので、読めないと辛いですもんね\nちなみに私の好きな本は、もう皆さんから出てますが、「Diversion」シリーズと「イングランドを想え」です"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "+1",
+                                "unicode": "1f44d"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1656956453.532769",
+        "parent_user_id": "U014UD117ND"
+    },
+    {
+        "client_msg_id": "D176D053-2C6B-4ABB-983B-DCE7353B31DE",
+        "type": "message",
+        "text": "ジーナさーん、なんかお久しぶりです！\n今までカナダの独立記念日が、7\/1と、ググるまで知りませんでした！一つ利口になりました〜",
+        "user": "U017LVA457X",
+        "ts": "1656957838.080539",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "ab08cd7206d5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-23\/1260372537906_ab08cd7206d5061995ec_72.png",
+            "first_name": "Nakaji",
+            "real_name": "Nakaji",
+            "display_name": "Nakaji",
+            "team": "T014MVD863E",
+            "name": "nakaji352002",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/nmh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ジーナさーん、なんかお久しぶりです！"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "今までカナダの独立記念日が、"
+                            },
+                            {
+                                "type": "text",
+                                "text": "7\/1"
+                            },
+                            {
+                                "type": "text",
+                                "text": "と、ググるまで知りませんでした！一つ利口になりました〜"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

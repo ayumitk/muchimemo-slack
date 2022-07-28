@@ -1,0 +1,112 @@
+[
+    {
+        "client_msg_id": "d1c83273-9fba-4134-a92d-7da198154d54",
+        "type": "message",
+        "text": "Annohさん、初めまして！\nアドリアンシリーズは私も大好きです。\nどうぞよろしくお願いします:slightly_smiling_face:",
+        "user": "U0188J8KHE0",
+        "ts": "1658739700.663879",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "9bddb1ef97ce",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-31\/1273082961765_9bddb1ef97ce43f9742f_72.png",
+            "first_name": "サトル",
+            "real_name": "サトル",
+            "display_name": "サトル",
+            "team": "T014MVD863E",
+            "name": "rien9326",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VhDE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Annohさん、初めまして！\nアドリアンシリーズは私も大好きです。\nどうぞよろしくお願いします"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9CFCF12B-8AC0-4AA6-89FD-4EECC16AB78A",
+        "type": "message",
+        "text": "お返事ありがとうございます！\nラニヨンさん節みたいなのありますよね。こうツボの押さえどころが良くて。\nアドリアンシリーズ、やっぱり金字塔ですよね。アドリアンによって、ジェイクがどんどん人間にされてく感じがすごく好きです。\n\nよろしくお願いします〜:palms_up_together:",
+        "user": "U03QNS0Q7CM",
+        "ts": "1658752659.428029",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "7b49c3a35593",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-24\/3835261537750_7b49c3a35593d6f493f5_72.png",
+            "first_name": "Annoh",
+            "real_name": "Annoh",
+            "display_name": "Annoh",
+            "team": "T014MVD863E",
+            "name": "annotweets",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QYq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "お返事ありがとうございます！"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ラニヨンさん節みたいなのありますよね。こうツボの押さえどころが良くて。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "アドリアンシリーズ、やっぱり金字塔ですよね。アドリアンによって、ジェイクがどんどん人間にされてく感じがすごく好きです。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nよろしくお願いします〜"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "palms_up_together",
+                                "unicode": "1f932"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

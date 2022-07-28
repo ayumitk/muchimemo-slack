@@ -1,0 +1,675 @@
+[
+    {
+        "client_msg_id": "0a071f0b-28a7-428c-a51e-36ef98384903",
+        "type": "message",
+        "text": "お疲れ様です、Aliceさん:blush:\n私ごときがおすすめするのも僭越ではございますが、未読でいらしたらやはりここはラニヨン先生の作品に進まれるのがよろしいかと存じます。\nフェアシリーズはすでに完結しておりますので、いかがでしょう。殺しのアートシリーズは今5巻が出たところで、次が最終巻のようです。どちらもすごくおもしろくて、「ラニヨン節」が炸裂しております:sparkles:ぜひぜひ:two_hearts:\n\n「Diversion」（ドラッグ・チェイス）シリーズは「はじめまして」でご紹介しましたので・・・\n英国を舞台に展開する時代冒険活劇「イングランドを想え」もいいですし、もし動物がお好きなら、健気な犬シフター達がとにかく泣かせる「月吠え」シリーズはまちがいなしです。ネコ派の私も思い切り泣かされました:sob:\nシャーロック・ホームズがお好きなら「わが愛しのホームズ」とか、「サイモン・フェキシマルの秘密事件簿」もホームズパロが出てきたりして、英国好きにはたまりません:two_hearts:\n現代のイギリスを舞台にプリンス・オブ・ウェールズと新聞記者が恋に落ちる、MM版「ローマの休日」ともいうべき「ロイヤルシークレット」シリーズは、とにかくhot:heart_eyes_cat:ラストはハッピーエンドですから、どうぞ安心して思う存分ハラハラドキドキしてください:two_hearts:\nとにかくバチバチ:boom:に男×男を求めるなら、「ヘルオアハイウォーター」シリーズをどうぞ。これでもか！と重量級の危険な男たちがハードに愛し合うわ戦うわ、もうウハウハです（いやシリアスですよ:sweat_smile:）\n\nまだまだありますが、ひとまずこの辺で:smile:どのあたりから攻めるかは、お好み次第です。ちなみに今あげた作品は、「わが愛しの～」以外はすべてエッチシーンがきっちりありますので:kissing_heart:楽しんでくださいね～:two_hearts:",
+        "user": "U01P6E9P3J5",
+        "ts": "1656935752.466089",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "gc61e328c9e5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c61e328c9e5331e15fbbfaac3326fd4c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0025-72.png",
+            "first_name": "",
+            "real_name": "まる",
+            "display_name": "まる",
+            "team": "T014MVD863E",
+            "name": "marusan93",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MrRS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "お疲れ様です、Aliceさん"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "blush",
+                                "unicode": "1f60a"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n私ごときがおすすめするのも僭越ではございますが、未読でいらしたらやはりここはラニヨン先生の作品に進まれるのがよろしいかと存じます。\nフェアシリーズはすでに完結しておりますので、いかがでしょう。殺しのアートシリーズは今5巻が出たところで、次が最終巻のようです。どちらもすごくおもしろくて、「ラニヨン節」が炸裂しております"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sparkles",
+                                "unicode": "2728"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ぜひぜひ"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "two_hearts",
+                                "unicode": "1f495"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n「Diversion」（ドラッグ・チェイス）シリーズは「はじめまして」でご紹介しましたので・・・\n英国を舞台に展開する時代冒険活劇「イングランドを想え」もいいですし、もし動物がお好きなら、健気な犬シフター達がとにかく泣かせる「月吠え」シリーズはまちがいなしです。ネコ派の私も思い切り泣かされました"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sob",
+                                "unicode": "1f62d"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nシャーロック・ホームズがお好きなら「わが愛しのホームズ」とか、「サイモン・フェキシマルの秘密事件簿」もホームズパロが出てきたりして、英国好きにはたまりません"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "two_hearts",
+                                "unicode": "1f495"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n現代のイギリスを舞台にプリンス・オブ・ウェールズと新聞記者が恋に落ちる、MM版「ローマの休日」ともいうべき「ロイヤルシークレット」シリーズは、とにかくhot"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "heart_eyes_cat",
+                                "unicode": "1f63b"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ラストはハッピーエンドですから、どうぞ安心して思う存分ハラハラドキドキしてください"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "two_hearts",
+                                "unicode": "1f495"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nとにかくバチバチ"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "boom",
+                                "unicode": "1f4a5"
+                            },
+                            {
+                                "type": "text",
+                                "text": "に男×男を求めるなら、「ヘルオアハイウォーター」シリーズをどうぞ。これでもか！と重量級の危険な男たちがハードに愛し合うわ戦うわ、もうウハウハです（いやシリアスですよ"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sweat_smile",
+                                "unicode": "1f605"
+                            },
+                            {
+                                "type": "text",
+                                "text": "）\n\nまだまだありますが、ひとまずこの辺で"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smile",
+                                "unicode": "1f604"
+                            },
+                            {
+                                "type": "text",
+                                "text": "どのあたりから攻めるかは、お好み次第です。ちなみに今あげた作品は、「わが愛しの～」以外はすべてエッチシーンがきっちりありますので"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "kissing_heart",
+                                "unicode": "1f618"
+                            },
+                            {
+                                "type": "text",
+                                "text": "楽しんでくださいね～"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "two_hearts",
+                                "unicode": "1f495"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1656935752.466089",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1656954975.793619",
+        "reply_users": [
+            "U03N2KMPR6H"
+        ],
+        "replies": [
+            {
+                "user": "U03N2KMPR6H",
+                "ts": "1656954975.793619"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "245778FE-6CC0-439F-9BFB-36E52CC60C7B",
+        "type": "message",
+        "text": "ALICEさん、こんばんは:sparkles:\nならば、同じジョシュラニヨンさんのフェアゲームシリーズと殺しのアートシリーズおススメです",
+        "user": "U017L1ARLJX",
+        "ts": "1656937068.831719",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "cf2ffbf91b0d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-23\/1264264593060_cf2ffbf91b0dd4f50994_72.png",
+            "first_name": "くじらー",
+            "real_name": "くじらー",
+            "display_name": "くじらー",
+            "team": "T014MVD863E",
+            "name": "anzuharuday",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KZuDL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ALICEさん、こんばんは"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sparkles",
+                                "unicode": "2728"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ならば、同じジョシュラニヨンさんのフェアゲームシリーズと殺しのアートシリーズおススメです"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03N2KMPR6H"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "26CDEC02-907C-441A-9629-91D3FAF16E12",
+        "type": "message",
+        "text": "まるさんとくじらーさんの推しと全て重なります。同意しかない！しかもロマコメで翻訳されている作品ばかりなので、原書に挑戦して、翻訳で答え合わせもできますよー",
+        "user": "U017LVA457X",
+        "ts": "1656937304.308429",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "ab08cd7206d5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-23\/1260372537906_ab08cd7206d5061995ec_72.png",
+            "first_name": "Nakaji",
+            "real_name": "Nakaji",
+            "display_name": "Nakaji",
+            "team": "T014MVD863E",
+            "name": "nakaji352002",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ghJz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "まるさんとくじらーさんの推しと全て重なります。同意しかない！しかもロマコメで翻訳されている作品ばかりなので、原書に挑戦して、翻訳で答え合わせ"
+                            },
+                            {
+                                "type": "text",
+                                "text": "もできますよー"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1656937304.308429",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1656957430.065209",
+        "reply_users": [
+            "U03N2KMPR6H",
+            "U017LVA457X"
+        ],
+        "replies": [
+            {
+                "user": "U03N2KMPR6H",
+                "ts": "1656956355.360219"
+            },
+            {
+                "user": "U017LVA457X",
+                "ts": "1656957389.271389"
+            },
+            {
+                "user": "U017LVA457X",
+                "ts": "1656957430.065209"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "20E404C8-5616-4DAE-887A-0CC9E630A64C",
+        "type": "message",
+        "text": "アドリアン、コミカライズしてくれないかな？:sparkles:",
+        "user": "U017L1ARLJX",
+        "ts": "1656937341.320899",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "cf2ffbf91b0d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-23\/1264264593060_cf2ffbf91b0dd4f50994_72.png",
+            "first_name": "くじらー",
+            "real_name": "くじらー",
+            "display_name": "くじらー",
+            "team": "T014MVD863E",
+            "name": "anzuharuday",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "opZF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "アドリアン、コミカライズしてくれないかな？"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sparkles",
+                                "unicode": "2728"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "D935E05A-5747-4B67-AD62-2D11CB3EE58D",
+        "type": "message",
+        "text": "アドリアンは、ちょっと発行年がふるいからなー\nむしろ短めのフェアゲームのが、コミカライズ向いてるかもしれませんよ？",
+        "user": "U017LVA457X",
+        "ts": "1656937478.509869",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "ab08cd7206d5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-23\/1260372537906_ab08cd7206d5061995ec_72.png",
+            "first_name": "Nakaji",
+            "real_name": "Nakaji",
+            "display_name": "Nakaji",
+            "team": "T014MVD863E",
+            "name": "nakaji352002",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MP3d",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "アドリアンは、ちょっと発行年がふるいからなー"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "むしろ短めのフェアゲームのが、コミカライズ向いてるかもしれませんよ"
+                            },
+                            {
+                                "type": "text",
+                                "text": "？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3544E32C-7AF0-4356-A429-886A6A5FE5EA",
+        "type": "message",
+        "text": "どのみち読みたい:sparkles:関数的にもちょうどいいし:sparkles:",
+        "user": "U017L1ARLJX",
+        "ts": "1656937524.482419",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "cf2ffbf91b0d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-23\/1264264593060_cf2ffbf91b0dd4f50994_72.png",
+            "first_name": "くじらー",
+            "real_name": "くじらー",
+            "display_name": "くじらー",
+            "team": "T014MVD863E",
+            "name": "anzuharuday",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yuvD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "どのみち読みたい"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sparkles",
+                                "unicode": "2728"
+                            },
+                            {
+                                "type": "text",
+                                "text": "関数的にもちょうどいいし"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sparkles",
+                                "unicode": "2728"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "751C80CE-7FF0-417B-A756-E91461E80BF7",
+        "type": "message",
+        "text": "まるさん、かなり沢山の作品を読み込まれてますね〜:bangbang:警察官とかFBIとか、あとミステリー絡みのストーリー（プラスsteamyなもの:heart_eyes:）等が大好物なので、おすすめ頂いたもの、片っ端から読み倒そうと思います:blush::+1:",
+        "user": "U03N2KMPR6H",
+        "ts": "1656954975.793619",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "b6de36ac2e5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-08\/3788800367537_b6de36ac2e5fb40df77c_72.png",
+            "first_name": "Alice",
+            "real_name": "Alice",
+            "display_name": "Alice",
+            "team": "T014MVD863E",
+            "name": "azureseababy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lR=P",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "まるさん、かなり沢山"
+                            },
+                            {
+                                "type": "text",
+                                "text": "の"
+                            },
+                            {
+                                "type": "text",
+                                "text": "作品を読み込まれてますね〜"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "bangbang",
+                                "unicode": "203c-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "警察官とか"
+                            },
+                            {
+                                "type": "text",
+                                "text": "FBI"
+                            },
+                            {
+                                "type": "text",
+                                "text": "とか、あとミステリー絡みのストーリー（プラス"
+                            },
+                            {
+                                "type": "text",
+                                "text": "steamy"
+                            },
+                            {
+                                "type": "text",
+                                "text": "なもの"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "heart_eyes",
+                                "unicode": "1f60d"
+                            },
+                            {
+                                "type": "text",
+                                "text": "）等が大好物なので、おすすめ頂いたもの、片っ端から読み倒そうと思います"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "blush",
+                                "unicode": "1f60a"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "+1",
+                                "unicode": "1f44d"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1656935752.466089",
+        "parent_user_id": "U01P6E9P3J5"
+    },
+    {
+        "client_msg_id": "A3723AE8-A941-4C1F-B21E-AE465764484C",
+        "type": "message",
+        "text": "Nakajiさん、翻訳家の方ってすごいですよね。英語力だけでなく日本語の語威力とか。日本語と同じように原書が読めるようになる日が訪れる、、、と信じて、原書、がんばります:sweat_smile:",
+        "user": "U03N2KMPR6H",
+        "ts": "1656956355.360219",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "b6de36ac2e5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-08\/3788800367537_b6de36ac2e5fb40df77c_72.png",
+            "first_name": "Alice",
+            "real_name": "Alice",
+            "display_name": "Alice",
+            "team": "T014MVD863E",
+            "name": "azureseababy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Knn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Nakaji"
+                            },
+                            {
+                                "type": "text",
+                                "text": "さん、翻訳"
+                            },
+                            {
+                                "type": "text",
+                                "text": "家の"
+                            },
+                            {
+                                "type": "text",
+                                "text": "方ってすごいですよね。英語力だけでなく日本"
+                            },
+                            {
+                                "type": "text",
+                                "text": "語"
+                            },
+                            {
+                                "type": "text",
+                                "text": "の語威力とか。日本語と同じように原書が読めるようになる日が訪れる、、、と信じて、原書、がんばります"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sweat_smile",
+                                "unicode": "1f605"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1656937304.308429",
+        "parent_user_id": "U017LVA457X"
+    },
+    {
+        "client_msg_id": "21B7B974-7EF6-4AEB-BC22-68D536C309DD",
+        "type": "message",
+        "text": "お互い、原書読み頑張りましょう。お仲間がいると、萌えを共有できるので読後の楽しみが倍増です。",
+        "user": "U017LVA457X",
+        "ts": "1656957389.271389",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "ab08cd7206d5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-23\/1260372537906_ab08cd7206d5061995ec_72.png",
+            "first_name": "Nakaji",
+            "real_name": "Nakaji",
+            "display_name": "Nakaji",
+            "team": "T014MVD863E",
+            "name": "nakaji352002",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8jp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "お互い、原書読み頑張りましょう。お仲間がいると、萌えを共有できるので読後の楽しみが倍増"
+                            },
+                            {
+                                "type": "text",
+                                "text": "です。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1656937304.308429",
+        "parent_user_id": "U017LVA457X"
+    },
+    {
+        "client_msg_id": "FB252E7B-F1F3-46C8-B203-988BB8BA8C2E",
+        "type": "message",
+        "text": "翻訳は、自分の仕事で、少しあるんですが、難しいです。",
+        "user": "U017LVA457X",
+        "ts": "1656957430.065209",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "ab08cd7206d5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-23\/1260372537906_ab08cd7206d5061995ec_72.png",
+            "first_name": "Nakaji",
+            "real_name": "Nakaji",
+            "display_name": "Nakaji",
+            "team": "T014MVD863E",
+            "name": "nakaji352002",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WBy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "翻訳は、自分の仕事で、少しあるんですが、難しい"
+                            },
+                            {
+                                "type": "text",
+                                "text": "です。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1656937304.308429",
+        "parent_user_id": "U017LVA457X"
+    }
+]

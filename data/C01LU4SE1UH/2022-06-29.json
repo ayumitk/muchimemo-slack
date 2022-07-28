@@ -1,0 +1,86 @@
+[
+    {
+        "client_msg_id": "8d84a12f-c9d8-4a82-be8c-b0add07b6f62",
+        "type": "message",
+        "text": "きなこさん、「辮髪のシャーロック・ホームズ」おもしろかったですよ～ありがとうございました:two_hearts:\n\nこのシャーリー・ホームズは知りませんでしたーまさに男女逆転（あ？でもハドソン夫人は、人間じゃないけど女性だったな）版「シャーロック・ホームズ」！\n現代が舞台なんですね。ちょっと読んでみましたけど・・・意外と（失礼:sweat_drops:）まとも。ただどうも、シャーリーが男言葉なのが違和感あるなー他のキャラと差別化するためか流行り（？）かしらないけど、自称が「ボク」の女子って個人的に苦手なんですよねー:sweat_smile:「わし」とか「おれ」とかならまだいいんだけど、「ボク」は・・・引く・・・（私の若いころ流行ったんですよ、「ボク」が。でも私はダメだった、それに「ボク」言ってるヒトってちょっと・・・きもちわるかった・・・すいません！:zipper_mouth_face:）\nう～ん、私もマンガで読みたかったかな。そうすれば「ボク」もそこまで気にならなかったかもしれません。ジーブスシリーズみたいに漫画化されたらいいかも。\n・・・全然関係ないけど、昔関西人の知人（女性）が「東京の男が自分のこと、『ぼく』ていうのを聞いて、こいつらみんなオ〇マか！て思たわ～男は『おれ』か『わし』やろ！」て言ってて、死ぬほど笑ったのを思い出したわ:rolling_on_the_floor_laughing::rolling_on_the_floor_laughing:",
+        "user": "U01P6E9P3J5",
+        "ts": "1656501455.296609",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "gc61e328c9e5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c61e328c9e5331e15fbbfaac3326fd4c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0025-72.png",
+            "first_name": "",
+            "real_name": "まる",
+            "display_name": "まる",
+            "team": "T014MVD863E",
+            "name": "marusan93",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aqc9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "きなこさん、「辮髪のシャーロック・ホームズ」おもしろかったですよ～ありがとうございました"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "two_hearts",
+                                "unicode": "1f495"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nこのシャーリー・ホームズは知りませんでしたーまさに男女逆転（あ？でもハドソン夫人は、人間じゃないけど女性だったな）版「シャーロック・ホームズ」！\n現代が舞台なんですね。ちょっと読んでみましたけど・・・意外と（失礼"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sweat_drops",
+                                "unicode": "1f4a6"
+                            },
+                            {
+                                "type": "text",
+                                "text": "）まとも。ただどうも、シャーリーが男言葉なのが違和感あるなー他のキャラと差別化するためか流行り（？）かしらないけど、自称が「ボク」の女子って個人的に苦手なんですよねー"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sweat_smile",
+                                "unicode": "1f605"
+                            },
+                            {
+                                "type": "text",
+                                "text": "「わし」とか「おれ」とかならまだいいんだけど、「ボク」は・・・引く・・・（私の若いころ流行ったんですよ、「ボク」が。でも私はダメだった、それに「ボク」言ってるヒトってちょっと・・・きもちわるかった・・・すいません！"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "zipper_mouth_face",
+                                "unicode": "1f910"
+                            },
+                            {
+                                "type": "text",
+                                "text": "）\nう～ん、私もマンガで読みたかったかな。そうすれば「ボク」もそこまで気にならなかったかもしれません。ジーブスシリーズみたいに漫画化されたらいいかも。\n・・・全然関係ないけど、昔関西人の知人（女性）が「東京の男が自分のこと、『ぼく』ていうのを聞いて、こいつらみんなオ〇マか！て思たわ～男は『おれ』か『わし』やろ！」て言ってて、死ぬほど笑ったのを思い出したわ"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "rolling_on_the_floor_laughing",
+                                "unicode": "1f923"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "rolling_on_the_floor_laughing",
+                                "unicode": "1f923"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

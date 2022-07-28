@@ -1,0 +1,86 @@
+[
+    {
+        "client_msg_id": "492DC3DF-7F58-4CFC-8FE7-F850F1F49BAE",
+        "type": "message",
+        "text": "サトルさん、お返事ありがとうございます。\nおかげさまで、だいぶ仕事の方も片づいてきました。\nそうですよね。男の子はあまり連絡してこないです。\n今息子は別の町の大学のジャズセッションのサマーキャンプに参加中で1週間その大学の寮に泊まっていて、テキストひとつ送ってきません。\n息子さん夏休みに帰ってらっしゃるならすぐですね。免許取るのも楽しいですよね。",
+        "user": "U017LVA457X",
+        "ts": "1657804452.777199",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "ab08cd7206d5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-23\/1260372537906_ab08cd7206d5061995ec_72.png",
+            "first_name": "Nakaji",
+            "real_name": "Nakaji",
+            "display_name": "Nakaji",
+            "team": "T014MVD863E",
+            "name": "nakaji352002",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8xfqc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "サトルさん、お返事"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ありがとうございます"
+                            },
+                            {
+                                "type": "text",
+                                "text": "。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "おかげさまで、だいぶ仕事の方も片づいてきました。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "そうですよね。男の子はあまり連絡してこないです。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "今息子は別の町の大学のジャズセッションのサマーキャンプに参加中で1週間その大学の寮に泊まっていて、テキストひとつ送ってきません。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "息子さん夏休みに帰ってらっしゃるならすぐですね。免許取るのも楽しいですよね"
+                            },
+                            {
+                                "type": "text",
+                                "text": "。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1657233325.273859",
+        "parent_user_id": "U017LVA457X"
+    }
+]

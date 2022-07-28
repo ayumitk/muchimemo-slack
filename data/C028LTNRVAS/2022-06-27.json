@@ -1,0 +1,236 @@
+[
+    {
+        "type": "message",
+        "text": "\n<https:\/\/twitter.com\/quicunquevult\/status\/1541454256338870272?s=12&amp;t=lUq8Ui2162JUNbU9EgkKTw>",
+        "user": "U017LVA457X",
+        "ts": "1656349950.669499",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "ab08cd7206d5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-23\/1260372537906_ab08cd7206d5061995ec_72.png",
+            "first_name": "Nakaji",
+            "real_name": "Nakaji",
+            "display_name": "Nakaji",
+            "team": "T014MVD863E",
+            "name": "nakaji352002",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/twitter.com\/quicunquevult\/status\/1541454256338870272?s=12&amp;t=lUq8Ui2162JUNbU9EgkKTw",
+                "ts": 1656346308,
+                "image_url": "https:\/\/pbs.twimg.com\/media\/FWRYeSHXwAAudYP.jpg",
+                "image_width": 1200,
+                "image_height": 880,
+                "image_bytes": 235243,
+                "id": 1,
+                "original_url": "https:\/\/twitter.com\/quicunquevult\/status\/1541454256338870272?s=12&amp;t=lUq8Ui2162JUNbU9EgkKTw",
+                "fallback": "<https:\/\/twitter.com\/quicunquevult|@quicunquevult>: OH MY GOD SEND HELP I AM ABSOLUTELY SCREAMING ABOUT THIS PERFECT ART OF LUC &amp; OLIVER.\n\nEnormous thanks to <https:\/\/twitter.com\/SourcebooksCasa|@SourcebooksCasa> who commissioned the forever brilliant <https:\/\/twitter.com\/EStokesCreative|@EStokesCreative> for this!! :blue_heart::heart::rainbow::balloon:\n\nOn sale August 2. Preorder HUSBAND MATERIAL here: <https:\/\/quicunquevult.com\/book\/husband-material\/> <https:\/\/pbs.twimg.com\/media\/FWRYeSHXwAAudYP.jpg>",
+                "text": "OH MY GOD SEND HELP I AM ABSOLUTELY SCREAMING ABOUT THIS PERFECT ART OF LUC &amp; OLIVER.\n\nEnormous thanks to <https:\/\/twitter.com\/SourcebooksCasa|@SourcebooksCasa> who commissioned the forever brilliant <https:\/\/twitter.com\/EStokesCreative|@EStokesCreative> for this!! :blue_heart::heart::rainbow::balloon:\n\nOn sale August 2. Preorder HUSBAND MATERIAL here: <https:\/\/quicunquevult.com\/book\/husband-material\/> <https:\/\/pbs.twimg.com\/media\/FWRYeSHXwAAudYP.jpg>",
+                "author_name": "Alexis Hall 🦄",
+                "author_link": "https:\/\/twitter.com\/quicunquevult\/status\/1541454256338870272",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/1260918681661591552\/I71hajh5_normal.jpg",
+                "author_subname": "@quicunquevult",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/80588\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5Sr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/twitter.com\/quicunquevult\/status\/1541454256338870272?s=12&amp;t=lUq8Ui2162JUNbU9EgkKTw",
+                                "text": "https:\/\/twitter.com\/quicunquevult\/status\/1541454256338870272?s=12&t=lUq8Ui2162JUNbU9EgkKTw"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0FFF888F-7353-4988-A315-8B832D97BEC6",
+        "type": "message",
+        "text": "もうすぐボーイフレンド演じます2巻が原書で出ますよ！",
+        "user": "U017LVA457X",
+        "ts": "1656350020.920549",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "ab08cd7206d5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-23\/1260372537906_ab08cd7206d5061995ec_72.png",
+            "first_name": "Nakaji",
+            "real_name": "Nakaji",
+            "display_name": "Nakaji",
+            "team": "T014MVD863E",
+            "name": "nakaji352002",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cQ9P",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "もうすぐボーイフレンド演じます2巻が原書で出ますよ"
+                            },
+                            {
+                                "type": "text",
+                                "text": "！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "42DF64F6-C4F2-4B9F-9013-EB38172FF6AF",
+        "type": "message",
+        "text": "イラスト可愛い:heart:プライドマンスにちなんでオリバーとルークがレインボーカラー風船と",
+        "user": "U017LVA457X",
+        "ts": "1656350102.215379",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "ab08cd7206d5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-23\/1260372537906_ab08cd7206d5061995ec_72.png",
+            "first_name": "Nakaji",
+            "real_name": "Nakaji",
+            "display_name": "Nakaji",
+            "team": "T014MVD863E",
+            "name": "nakaji352002",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tslI9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "イラスト可愛い"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "heart",
+                                "unicode": "2764-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "プライドマンスにちなんでオリバーとルークがレインボーカラー風船"
+                            },
+                            {
+                                "type": "text",
+                                "text": "と"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "D9D73AD1-9CCC-42FA-B293-DBEF262CCE42",
+        "type": "message",
+        "text": "楽しみです〜:blush:",
+        "user": "U01M8BTNR7C",
+        "ts": "1656378626.733729",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "16c140f650be",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-02-10\/1748642350673_16c140f650be7c6cc646_72.png",
+            "first_name": "きなこ",
+            "real_name": "きなこ",
+            "display_name": "",
+            "team": "T014MVD863E",
+            "name": "le.arbre.montagne.121",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0+Wlq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "楽しみです〜"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "blush",
+                                "unicode": "1f60a"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6429B632-1A3A-4F5C-8882-DD563759E59D",
+        "type": "message",
+        "text": "ですねー",
+        "user": "U017LVA457X",
+        "ts": "1656382094.959779",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "ab08cd7206d5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-23\/1260372537906_ab08cd7206d5061995ec_72.png",
+            "first_name": "Nakaji",
+            "real_name": "Nakaji",
+            "display_name": "Nakaji",
+            "team": "T014MVD863E",
+            "name": "nakaji352002",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iL\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ですねー"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

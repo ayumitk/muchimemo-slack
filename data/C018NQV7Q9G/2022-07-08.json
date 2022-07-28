@@ -1,0 +1,677 @@
+[
+    {
+        "client_msg_id": "B3884866-5835-49AF-8CA8-6AAE840518DF",
+        "type": "message",
+        "text": "4で少し空気が変わって息をしやすくなるみたいな感じで、それはおそらく再会から時間が経過して2人がお互いに慣れてきたというか、もちろんまだ緊張感はありつつも、少しリラックスしてきた感じがあったからかな？ と思います。\n\n5は第1シリーズ通してわたしはダントツに好きです。うまく言えないけど文章もこの巻の筆致は冴えてるなあと思いました。2人の関係もですけど事件も興味深かったです。（以前と一緒でミステリ的には種明かしにちょい不満ありですが、それ以外はものすごく良かったで〜す）",
+        "user": "U03D1UJECGZ",
+        "ts": "1657276419.962889",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "a7dde0607f3e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-24\/3431416808738_a7dde0607f3e669535b6_72.png",
+            "first_name": "Kumatta",
+            "real_name": "Kumatta",
+            "display_name": "Kumatta",
+            "team": "T014MVD863E",
+            "name": "maki.terao",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wQC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "4"
+                            },
+                            {
+                                "type": "text",
+                                "text": "で少し空気が変わって息をしやすくなるみたいな感じで、それはおそらく再会から時間が経過して2人がお互いに慣れてきたというか、もちろんまだ緊張感はありつつも、少しリラックスしてきた感じがあったからかな？ と思います。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "5は第1シリーズ通してわたしはダントツに好きです。うまく言えないけど文章もこの巻の筆致は冴えてるなあと思いました。2人の関係もですけど事件も興味深かったです。（以前と一緒でミステリ的には種明かしにちょい不満ありですが、それ以外はものすごく良かったで〜す）"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1657233050.079759",
+        "parent_user_id": "U017LVA457X"
+    },
+    {
+        "client_msg_id": "4144b73d-c5b0-4e7b-a554-3d517bedec3b",
+        "type": "message",
+        "text": "おっと、まさかの肩すかしですか～:joy:\nでもがんばって読んでおりますので、どうかもう少しお待ちくださいね～語り合えるのが楽しみです！:two_hearts:",
+        "user": "U01P6E9P3J5",
+        "ts": "1657280447.291539",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "gc61e328c9e5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c61e328c9e5331e15fbbfaac3326fd4c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0025-72.png",
+            "first_name": "",
+            "real_name": "まる",
+            "display_name": "まる",
+            "team": "T014MVD863E",
+            "name": "marusan93",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WrXA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "おっと、まさかの肩すかしですか～"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "joy",
+                                "unicode": "1f602"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nでもがんばって読んでおりますので、どうかもう少しお待ちくださいね～語り合えるのが楽しみです！"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "two_hearts",
+                                "unicode": "1f495"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1656941396.655919",
+        "parent_user_id": "U01P6E9P3J5"
+    },
+    {
+        "client_msg_id": "d2f13550-9187-4260-ab8e-0d95f2c23e97",
+        "type": "message",
+        "text": "ねこしまさん、ネタバレにならなくてよかったです～:smile:\nね～、Somersの、いかにもヘテロの男やなあとしか言いようのない無神経さには、ちょっとイラッとしますわ:sweat_smile:いちいち赤くなってるHazardが、かわいそうになってくるよ。がんばれHazard、私はどうやらもうすっかり、君の味方だ！:laughing:",
+        "user": "U01P6E9P3J5",
+        "ts": "1657280960.972689",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "gc61e328c9e5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c61e328c9e5331e15fbbfaac3326fd4c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0025-72.png",
+            "first_name": "",
+            "real_name": "まる",
+            "display_name": "まる",
+            "team": "T014MVD863E",
+            "name": "marusan93",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uF8N",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ねこしまさん、ネタバレにならなくてよかったです～"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smile",
+                                "unicode": "1f604"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nね～、Somersの、いかにもヘテロの男やなあとしか言いようのない無神経さには、ちょっとイラッとしますわ"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sweat_smile",
+                                "unicode": "1f605"
+                            },
+                            {
+                                "type": "text",
+                                "text": "いちいち赤くなってるHazardが、かわいそうになってくるよ。がんばれHazard、私はどうやらもうすっかり、君の味方だ！"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "laughing",
+                                "unicode": "1f606"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1656950093.006199",
+        "parent_user_id": "U029MKK3W4E"
+    },
+    {
+        "client_msg_id": "2FC57FB8-BBA5-4C9B-B9B1-5288A9629BA7",
+        "type": "message",
+        "text": "Kumattaさーん、嬉しいです。お返事ありがとう:blush:\n今からちょっと小豆(弊柴犬の名前)散歩に行くので後で、少しネタバレで語り合いたいです。",
+        "user": "U017LVA457X",
+        "ts": "1657286785.213829",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "ab08cd7206d5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-23\/1260372537906_ab08cd7206d5061995ec_72.png",
+            "first_name": "Nakaji",
+            "real_name": "Nakaji",
+            "display_name": "Nakaji",
+            "team": "T014MVD863E",
+            "name": "nakaji352002",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U017LVA457X",
+            "ts": "1657286809.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ajq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Kumattaさーん、嬉しいです。お返事ありがとう"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "blush",
+                                "unicode": "1f60a"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "今からちょっと小豆(弊柴犬の名前)散歩に行くので後で、少しネタバレで語り合いたいです。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1657233050.079759",
+        "parent_user_id": "U017LVA457X",
+        "reactions": [
+            {
+                "name": "dog",
+                "users": [
+                    "U03D1UJECGZ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8AF02DDD-A0D2-4320-AC8E-3D7402F65F5C",
+        "type": "message",
+        "text": "ここから先ネタバレですので、まだ読んでない方は注意！\n\nKumattaさん、4巻最後でついに結ばれました！思い起こせば耐え難きを耐えやっとここまで辿り着きました。\nもう、すごくすごく良かった。\n\nHazardが、何度も、「I know 」っていうのが切なさすぎて涙出てきた。\nほんと全てよかった。\n\nそして5巻の40%まで読んだんですが、\n言っていい？\n\n物足りない！\nエチが物足りない！\n\nいや、昼間の仕事中　SがHのスタミナをからかったとき、\n“I’ve been meaning to talk to you about your stamina. I have some of those same concerns.” Tonight, Hazard thought. Tonight he would kill John-Henry Somerset. Kill him dead, right there in the apartment. Dead.\n\n今晩あいつを殺してやる！って密かに念じるところで、丸1分は悶えました。\n\nそしてその晩、すごく激しく攻められて、Sは、明日歩けないかもとか自分はガラスでできてないから心配するなとか、もうもうもう萌え萌えでした。\nそして全てが終わった後、また素敵なやりとりが続くのですが、以下でまた私は、頭抱えました。\n\n“We got the fucking out of the way. Now I want to make love.” His hand slid between Somers’s legs, probing. “Ree.” Somers gasped. “Ree, I don’t know. We—ah, God. We went pretty hard.” With a grin and another kiss, Hazard rolled onto his back and drew up his knees. “Then I guess you’re going to have to do the hard work.”\nこれって、２回目はHが受けるってことですよね！！！！！！\n\n\n私の理解あってますよね？Hが膝を上げて開いてるんですよね。お願い、その先書いて。私はこういう強くて大きい攻めっぽい方がめちゃめちゃに受けさせられるるのがもう大好物です。そして、リバ党の党首です。\nあああっっっ",
+        "user": "U017LVA457X",
+        "ts": "1657307802.705559",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "ab08cd7206d5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-23\/1260372537906_ab08cd7206d5061995ec_72.png",
+            "first_name": "Nakaji",
+            "real_name": "Nakaji",
+            "display_name": "Nakaji",
+            "team": "T014MVD863E",
+            "name": "nakaji352002",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U017LVA457X",
+            "ts": "1657389042.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DK0a",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ここから先ネタバレですので、まだ読んでない方は注意！\n\nKumattaさん、4巻最後でついに結ばれました！思い起こせば耐え難きを耐えやっとここまで辿り着きました。\nもう、すごくすごく良かった。\n\nHazardが、何度も、「I know 」っていうのが切なさすぎて涙出てきた。\nほんと全てよかった。\n\nそして5巻の40%まで読んだんですが、\n言っていい？\n\n物足りない！\nエチが物足りない！\n\nいや、昼間の仕事中　SがHのスタミナをからかったとき、\n“I’ve been meaning to talk to you about your stamina. I have some of those same concerns.” Tonight, Hazard thought. Tonight he would kill John-Henry Somerset. Kill him dead, right there in the apartment. Dead.\n\n今晩あいつを殺してやる！って密かに念じるところで、丸1分は悶えました。\n\nそしてその晩、すごく激しく攻められて、Sは、明日歩けないかもとか自分はガラスでできてないから心配するなとか、もうもうもう萌え萌えでした。\nそして全てが終わった後、また素敵なやりとりが続くのですが、以下でまた私は、頭抱えました。\n\n“We got the fucking out of the way. Now I want to make love.” His hand slid between Somers’s legs, probing. “Ree.” Somers gasped. “Ree, I don’t know. We—ah, God. We went pretty hard.” With a grin and another kiss, Hazard rolled onto his back and drew up his knees. “Then I guess you’re going to have to do the hard work.”\nこれって、２回目はHが受けるってことですよね！！！！！！\n\n\n私の理解あってますよね？Hが膝を上げて開いてるんですよね。お願い、その先書いて。私はこういう強くて大きい攻めっぽい方がめちゃめちゃに受けさせられるるのがもう大好物です。そして、リバ党の党首です。\nあああっっっ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1657233050.079759",
+        "parent_user_id": "U017LVA457X"
+    },
+    {
+        "client_msg_id": "78A1AE48-6484-4829-8D9F-418036F81AE1",
+        "type": "message",
+        "text": "とにかく、肝心要の具体的な、挿入部分やら何やらをいつも軽く割愛。4巻の最後の初めてのエチでは、ちゃんとS視点でHが入ってきたってあったけど具体的な濡れ濡れ表現はなし。\n\nこの作家様のこういうドライでクールでいわゆるゲイポルノと一線画しているとこは、すごく大好きなんだけど、あと数行でいいので、具体的に描いてーともだえるばかり。\n\nあああ、欲求不満です。\nでもいい。凄くいい。\n全てを書かないことによって読書の妄想は膨らんで弾ける。\nKumattaさんのエチに関する感想聞かせて:heavy_heart_exclamation_mark_ornament:",
+        "user": "U017LVA457X",
+        "ts": "1657308089.222629",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "ab08cd7206d5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-23\/1260372537906_ab08cd7206d5061995ec_72.png",
+            "first_name": "Nakaji",
+            "real_name": "Nakaji",
+            "display_name": "Nakaji",
+            "team": "T014MVD863E",
+            "name": "nakaji352002",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aPaYA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "とにかく、肝心要の具体的な、挿入部分やら何やらをいつも軽く割愛。4巻の最後の初めてのエチでは、ちゃんとS視点でHが入ってきたってあったけど具体的な濡れ濡れ表現はなし。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nこの作家様のこういうドライでクールでいわゆるゲイポルノと一線画しているとこは、すごく大好きなんだけど、あと数行でいいので、具体的に描いてーともだえるばかり。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nあああ、欲求不満です。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "でもいい。凄くいい。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "全てを書かないことによって読書の妄想は膨らんで弾ける。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Kumattaさんのエチに関する感想"
+                            },
+                            {
+                                "type": "text",
+                                "text": "聞かせて"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "heavy_heart_exclamation_mark_ornament",
+                                "unicode": "2763-fe0f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1657233050.079759",
+        "parent_user_id": "U017LVA457X"
+    },
+    {
+        "client_msg_id": "4972653C-3BEA-402B-9B0A-40802221BEC6",
+        "type": "message",
+        "text": "もうミステリーの種明かしが弱いとかどうでもいいです。\nこの二人の気まずさとか、パワーゲームとか、でも20年分の因縁とか、両者とも、容姿がすごく良くて超魅力的とか。Hがめちゃくちゃアスペルガーっぽいとことか。\nSが嫉妬したり、男ともやっているがそんなには経験ないとか、、、、、ああああ好きすぎる。",
+        "user": "U017LVA457X",
+        "ts": "1657308643.746919",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "ab08cd7206d5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-23\/1260372537906_ab08cd7206d5061995ec_72.png",
+            "first_name": "Nakaji",
+            "real_name": "Nakaji",
+            "display_name": "Nakaji",
+            "team": "T014MVD863E",
+            "name": "nakaji352002",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RCw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "もうミステリーの種明かしが弱いとかどうでもいいです。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "この二人の気まずさとか、パワーゲームとか、でも20年分の因縁とか、両者とも、容姿がすごく良くて超魅力的とか。Hがめちゃくちゃアスペルガーっぽいとことか。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Sが嫉妬したり、男ともやっているがそんなには経験ないとか、、、、、ああああ好きすぎる。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1657233050.079759",
+        "parent_user_id": "U017LVA457X"
+    },
+    {
+        "client_msg_id": "1AE5004F-9698-4EA3-AB7B-DC6B957513D0",
+        "type": "message",
+        "text": "ミステリーも種明かしは弱くとも犯人当ては難しくて大抵なかなか解らず、最後まで引っ張るし。",
+        "user": "U017LVA457X",
+        "ts": "1657308695.323609",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "ab08cd7206d5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-23\/1260372537906_ab08cd7206d5061995ec_72.png",
+            "first_name": "Nakaji",
+            "real_name": "Nakaji",
+            "display_name": "Nakaji",
+            "team": "T014MVD863E",
+            "name": "nakaji352002",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uDIF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ミステリーも種明かしは弱くとも犯人当ては難しくて大抵なかなか解らず、最後まで引っ張るし。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1657233050.079759",
+        "parent_user_id": "U017LVA457X"
+    },
+    {
+        "client_msg_id": "5D7C824A-CAF1-46F6-A275-6A886621D40F",
+        "type": "message",
+        "text": "Nakajiさんおはよーございます〜！\n今日はこれから実験なので夜帰ってきたらお返事書きます〜！",
+        "user": "U03D1UJECGZ",
+        "ts": "1657322219.367089",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "a7dde0607f3e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-24\/3431416808738_a7dde0607f3e669535b6_72.png",
+            "first_name": "Kumatta",
+            "real_name": "Kumatta",
+            "display_name": "Kumatta",
+            "team": "T014MVD863E",
+            "name": "maki.terao",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "R\/5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Nakajiさんおはよーございます〜！"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "今日はこれから実験なので夜帰ってきたらお返事書きます〜！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1657233050.079759",
+        "parent_user_id": "U017LVA457X"
+    },
+    {
+        "client_msg_id": "F9B6E987-B029-40E2-926C-D6E527F90F93",
+        "type": "message",
+        "text": "おー、大切な実験があるのに、こんなお願いしてすみません。\nいつでもいいですー。実験頑張ってください:heavy_heart_exclamation_mark_ornament:",
+        "user": "U017LVA457X",
+        "ts": "1657325837.073259",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "ab08cd7206d5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-23\/1260372537906_ab08cd7206d5061995ec_72.png",
+            "first_name": "Nakaji",
+            "real_name": "Nakaji",
+            "display_name": "Nakaji",
+            "team": "T014MVD863E",
+            "name": "nakaji352002",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U017LVA457X",
+            "ts": "1657332705.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Mh3FS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "おー、大切な実験があるのに、こんなお願いしてすみません。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "いつでもいいですー。実験頑張ってください"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "heavy_heart_exclamation_mark_ornament",
+                                "unicode": "2763-fe0f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1657233050.079759",
+        "parent_user_id": "U017LVA457X"
+    },
+    {
+        "client_msg_id": "46FA7942-AF37-4B61-A74B-D17BED0D0382",
+        "type": "message",
+        "text": "ありがとうございまーす！ 長期研究の真っ最中でほぼ毎週末撮っているのでもうルーティンみたいなものなんです… ちょこっと読み直してムフムフしてからお返事します〜:two_hearts:",
+        "user": "U03D1UJECGZ",
+        "ts": "1657330357.086449",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "a7dde0607f3e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-24\/3431416808738_a7dde0607f3e669535b6_72.png",
+            "first_name": "Kumatta",
+            "real_name": "Kumatta",
+            "display_name": "Kumatta",
+            "team": "T014MVD863E",
+            "name": "maki.terao",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=V0f",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ありがとうございまーす！ 長期研究の真っ最中でほぼ毎週末撮っているのでもうルーティンみたいなものなんです… ちょこっと読み直してムフムフしてからお返事します〜"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "two_hearts",
+                                "unicode": "1f495"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1657233050.079759",
+        "parent_user_id": "U017LVA457X"
+    },
+    {
+        "client_msg_id": "7A9572CE-BD93-4ACE-AB19-41DACBCCCA7F",
+        "type": "message",
+        "text": "長期研究で週末も、実験大変ですね。\n頑張った:heavy_heart_exclamation_mark_ornament:",
+        "user": "U017LVA457X",
+        "ts": "1657334934.656329",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "ab08cd7206d5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-23\/1260372537906_ab08cd7206d5061995ec_72.png",
+            "first_name": "Nakaji",
+            "real_name": "Nakaji",
+            "display_name": "Nakaji",
+            "team": "T014MVD863E",
+            "name": "nakaji352002",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WxG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "長期研究で週末も、実験大変ですね。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "頑張っ"
+                            },
+                            {
+                                "type": "text",
+                                "text": "た"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "heavy_heart_exclamation_mark_ornament",
+                                "unicode": "2763-fe0f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1657233050.079759",
+        "parent_user_id": "U017LVA457X"
+    }
+]

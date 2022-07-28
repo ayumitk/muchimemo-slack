@@ -1,0 +1,85 @@
+[
+    {
+        "client_msg_id": "124051AD-8607-4515-A8F6-AB6B781702D6",
+        "type": "message",
+        "text": "敬語でキスをねだるジェイソン:sparkles:",
+        "user": "U017L1ARLJX",
+        "ts": "1657007684.297539",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "cf2ffbf91b0d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-23\/1264264593060_cf2ffbf91b0dd4f50994_72.png",
+            "first_name": "くじらー",
+            "real_name": "くじらー",
+            "display_name": "くじらー",
+            "team": "T014MVD863E",
+            "name": "anzuharuday",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rV8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "敬語でキスをねだるジェイソン"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sparkles",
+                                "unicode": "2728"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8947C4D8-AEA2-429F-81F7-E3916D94FF37",
+        "type": "message",
+        "text": "サム、腰を痛めたばっかりなのに…！",
+        "user": "U017YHF4ZG9",
+        "ts": "1657024961.849479",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "8b538c52795e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-23\/1256603203669_8b538c52795ebb5c006a_72.jpg",
+            "first_name": "",
+            "real_name": "Ayu Yamane",
+            "display_name": "Ayu Yamane",
+            "team": "T014MVD863E",
+            "name": "ayu76mi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WLhYv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "サム、腰を痛めたばっかりなのに…！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1656509137.314719",
+        "parent_user_id": "U017L1ARLJX"
+    }
+]

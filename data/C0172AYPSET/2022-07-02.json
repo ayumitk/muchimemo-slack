@@ -1,0 +1,284 @@
+[
+    {
+        "client_msg_id": "71E49EA3-1EF8-4CE2-A3B5-A1AE84FA23B6",
+        "type": "message",
+        "text": ":jake: ",
+        "user": "U01M8BTNR7C",
+        "ts": "1656750350.371379",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "16c140f650be",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-02-10\/1748642350673_16c140f650be7c6cc646_72.png",
+            "first_name": "きなこ",
+            "real_name": "きなこ",
+            "display_name": "",
+            "team": "T014MVD863E",
+            "name": "le.arbre.montagne.121",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "o=N+J",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "jake"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "41A557B2-75ED-4133-B70A-6B2C6932EBF3",
+        "type": "message",
+        "text": "体格差まで細かに:sparkles:",
+        "user": "U017L1ARLJX",
+        "ts": "1656756174.567309",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "cf2ffbf91b0d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-23\/1264264593060_cf2ffbf91b0dd4f50994_72.png",
+            "first_name": "くじらー",
+            "real_name": "くじらー",
+            "display_name": "くじらー",
+            "team": "T014MVD863E",
+            "name": "anzuharuday",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DQzM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "体格差まで細かに"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sparkles",
+                                "unicode": "2728"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3a07474b-fdc8-4cb7-bca9-70568df03e4c",
+        "type": "message",
+        "text": "サムは皆さん似た感じなのに、ジェイソンは絵師さんによってちょっとずつイメージ違うのがまた楽しい:kissing_smiling_eyes::musical_note:",
+        "user": "U0188J8KHE0",
+        "ts": "1656768583.181159",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "9bddb1ef97ce",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-31\/1273082961765_9bddb1ef97ce43f9742f_72.png",
+            "first_name": "サトル",
+            "real_name": "サトル",
+            "display_name": "サトル",
+            "team": "T014MVD863E",
+            "name": "rien9326",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dhL+f",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "サムは皆さん似た感じなのに、ジェイソンは絵師さんによってちょっとずつイメージ違うのがまた楽しい"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "kissing_smiling_eyes",
+                                "unicode": "1f619"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "musical_note",
+                                "unicode": "1f3b5"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "agree",
+                "users": [
+                    "U017YHF4ZG9"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "D0B9D9AB-5F1E-4BDA-8D1A-DFEB1D3B6A68",
+        "type": "message",
+        "text": "サトルさん、それは、いえる。私の中でジェイソンは、正統派ハンサムさん。",
+        "user": "U017LVA457X",
+        "ts": "1656804540.101829",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "ab08cd7206d5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-23\/1260372537906_ab08cd7206d5061995ec_72.png",
+            "first_name": "Nakaji",
+            "real_name": "Nakaji",
+            "display_name": "Nakaji",
+            "team": "T014MVD863E",
+            "name": "nakaji352002",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6bP\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "サトルさん、それは、いえる。私の中でジェイソンは、正統派ハンサム"
+                            },
+                            {
+                                "type": "text",
+                                "text": "さん。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1B4B87B2-5785-42CA-A5EE-16155DC6D0EA",
+        "type": "message",
+        "text": "何度も言ってますが、マットボマーさんです！",
+        "user": "U017LVA457X",
+        "ts": "1656804605.966149",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "ab08cd7206d5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-23\/1260372537906_ab08cd7206d5061995ec_72.png",
+            "first_name": "Nakaji",
+            "real_name": "Nakaji",
+            "display_name": "Nakaji",
+            "team": "T014MVD863E",
+            "name": "nakaji352002",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U017LVA457X",
+            "ts": "1656804619.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Juik",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "何度も言ってますが、マットボマーさんです！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5282769D-32CF-4364-8879-BFD23FED1701",
+        "type": "message",
+        "text": "サムは基本金髪ゴリマッチョだけどジェイソンはジェイソンは優男風なんだけどほっそりか細マッチョかとバリエーションある:sparkles:\nでまぁイケメンよね:sparkles:",
+        "user": "U017L1ARLJX",
+        "ts": "1656820976.807189",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "cf2ffbf91b0d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-23\/1264264593060_cf2ffbf91b0dd4f50994_72.png",
+            "first_name": "くじらー",
+            "real_name": "くじらー",
+            "display_name": "くじらー",
+            "team": "T014MVD863E",
+            "name": "anzuharuday",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "olr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "サムは基本金髪ゴリマッチョだけどジェイソンはジェイソンは優男風なんだけどほっそりか細マッチョかとバリエーションある"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sparkles",
+                                "unicode": "2728"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "でまぁイケメンよね"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sparkles",
+                                "unicode": "2728"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "client_msg_id": "8003FE33-F02A-49B2-8606-ABE715735B35",
+        "type": "message",
+        "text": "私の中の2人のイメージにぴったり！",
+        "user": "U017YHF4ZG9",
+        "ts": "1657423510.158949",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "8b538c52795e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-23\/1256603203669_8b538c52795ebb5c006a_72.jpg",
+            "first_name": "",
+            "real_name": "Ayu Yamane",
+            "display_name": "Ayu Yamane",
+            "team": "T014MVD863E",
+            "name": "ayu76mi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GTy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "私の中の2人のイメージにぴったり！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

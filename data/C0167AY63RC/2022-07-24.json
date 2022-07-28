@@ -1,0 +1,48 @@
+[
+    {
+        "client_msg_id": "5BD0C7B0-BF5E-4A8A-9C68-8DB16B3322FA",
+        "type": "message",
+        "text": "やっぱり、リアルでも歩き回っているんですね！\n繰り返し運動（ウォーキングとかヨガの太陽礼拝）には心を落ち着かせる効果があるっていうので、それを無意識にやっているんでしょうね。そう考えると、歩き回る文化が無い日本人はちょっと損(?)してるかも。",
+        "user": "U017YHF4ZG9",
+        "ts": "1658648215.072449",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "8b538c52795e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-23\/1256603203669_8b538c52795ebb5c006a_72.jpg",
+            "first_name": "",
+            "real_name": "Ayu Yamane",
+            "display_name": "Ayu Yamane",
+            "team": "T014MVD863E",
+            "name": "ayu76mi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "trcEJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "やっぱり、リアルでも歩き回っているんですね！"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "繰り返し運動（ウォーキングとかヨガの太陽礼拝）には心を落ち着かせる効果があるっていうので、それを無意識にやっているんでしょうね。そう考えると、歩き回る文化が無い日本人はちょっと損(?)してるかも。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

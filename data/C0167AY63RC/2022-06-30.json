@@ -1,0 +1,1196 @@
+[
+    {
+        "type": "message",
+        "text": "\n<https:\/\/eiga.com\/news\/20220630\/14\/>",
+        "user": "U017L1ARLJX",
+        "ts": "1656588098.627159",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "cf2ffbf91b0d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-23\/1264264593060_cf2ffbf91b0dd4f50994_72.png",
+            "first_name": "くじらー",
+            "real_name": "くじらー",
+            "display_name": "くじらー",
+            "team": "T014MVD863E",
+            "name": "anzuharuday",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/eiga.com\/news\/20220630\/14\/",
+                "image_url": "https:\/\/eiga.k-img.com\/images\/buzz\/97421\/6fa2050c49527bbf\/640x320.jpg?1656554070",
+                "image_width": 500,
+                "image_height": 250,
+                "image_bytes": 205177,
+                "service_icon": "https:\/\/eiga.k-img.com\/apple-touch-icon.png?1458188163",
+                "id": 1,
+                "original_url": "https:\/\/eiga.com\/news\/20220630\/14\/",
+                "fallback": "映画.com: ハリー・スタイルズ主演　男性同士のロマンスを描く「僕の巡査」アマプラで11月4日配信",
+                "text": "ハリー・スタイルズが主演する恋愛映画「僕の巡査」が、11月4日よりAmazonPrimeVideoで独占配信される。キーアートと場面写真が披露された。原作は、ベサン・ロバーツによるロマンス小説「MyPoliceman（原題）」。同性愛が禁じ",
+                "title": "ハリー・スタイルズ主演　男性同士のロマンスを描く「僕の巡査」アマプラで11月4日配信",
+                "title_link": "https:\/\/eiga.com\/news\/20220630\/14\/",
+                "service_name": "映画.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DCtn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/eiga.com\/news\/20220630\/14\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "172F5571-E9A1-4E42-8A8C-ED7982166B96",
+        "type": "message",
+        "text": "アマプラの方は是非:sparkles:",
+        "user": "U017L1ARLJX",
+        "ts": "1656588115.993869",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "cf2ffbf91b0d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-23\/1264264593060_cf2ffbf91b0dd4f50994_72.png",
+            "first_name": "くじらー",
+            "real_name": "くじらー",
+            "display_name": "くじらー",
+            "team": "T014MVD863E",
+            "name": "anzuharuday",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IiYaM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "アマプラの方は是非"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sparkles",
+                                "unicode": "2728"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "\n<https:\/\/www.amazon.co.jp\/dp\/457622056X\/ref=cm_sw_r_api_i_J5APDNEWY5P7A0P77PS2_0>",
+        "user": "U017L1ARLJX",
+        "ts": "1656588157.617659",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "cf2ffbf91b0d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-23\/1264264593060_cf2ffbf91b0dd4f50994_72.png",
+            "first_name": "くじらー",
+            "real_name": "くじらー",
+            "display_name": "くじらー",
+            "team": "T014MVD863E",
+            "name": "anzuharuday",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "luR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.amazon.co.jp\/dp\/457622056X\/ref=cm_sw_r_api_i_J5APDNEWY5P7A0P77PS2_0"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "E0A8559A-F2AA-4EFA-B0AA-7C1B7A7A0DBA",
+        "type": "message",
+        "text": "原作も:sparkles:",
+        "user": "U017L1ARLJX",
+        "ts": "1656588184.413349",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "cf2ffbf91b0d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-23\/1264264593060_cf2ffbf91b0dd4f50994_72.png",
+            "first_name": "くじらー",
+            "real_name": "くじらー",
+            "display_name": "くじらー",
+            "team": "T014MVD863E",
+            "name": "anzuharuday",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nN5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "原作も"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sparkles",
+                                "unicode": "2728"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "76CA8A72-54DA-4855-81D3-9A3C3B02F115",
+        "type": "message",
+        "text": "どうもありがとうございます、面白そう！",
+        "user": "U03D1UJECGZ",
+        "ts": "1656589026.679629",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "a7dde0607f3e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-24\/3431416808738_a7dde0607f3e669535b6_72.png",
+            "first_name": "Kumatta",
+            "real_name": "Kumatta",
+            "display_name": "Kumatta",
+            "team": "T014MVD863E",
+            "name": "maki.terao",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cmabR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "どうもありがとう"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ございます"
+                            },
+                            {
+                                "type": "text",
+                                "text": "、面白そう！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "16F35626-C56E-455C-8393-8945FD6F021A",
+        "type": "message",
+        "text": "ハリー可愛い:sparkles:",
+        "user": "U017L1ARLJX",
+        "ts": "1656589180.705299",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "cf2ffbf91b0d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-23\/1264264593060_cf2ffbf91b0dd4f50994_72.png",
+            "first_name": "くじらー",
+            "real_name": "くじらー",
+            "display_name": "くじらー",
+            "team": "T014MVD863E",
+            "name": "anzuharuday",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CDdqh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ハリー可愛い"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sparkles",
+                                "unicode": "2728"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "953F1A7A-EC07-46B7-9402-5D3A0111FA4E",
+        "type": "message",
+        "text": "小説読みました！\n読者は神の視点で状況を分かっているので、マリオンンンンン！！！ってなりました:pleading_face:\n映画はトムメインになるのかなー",
+        "user": "U01M8BTNR7C",
+        "ts": "1656589518.746569",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "16c140f650be",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-02-10\/1748642350673_16c140f650be7c6cc646_72.png",
+            "first_name": "きなこ",
+            "real_name": "きなこ",
+            "display_name": "",
+            "team": "T014MVD863E",
+            "name": "le.arbre.montagne.121",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "T1Zo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "小説読みました！"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "読者は神の視点で状況を分かっているので、マリオンンンンン！！！ってなりました"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pleading_face",
+                                "unicode": "1f97a"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "映画はトムメインになるのかなー"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "EF5DA441-E07A-4E79-8374-7A8372E17F89",
+        "type": "message",
+        "text": "おぉ:sparkles:三角関係だよね？",
+        "user": "U017L1ARLJX",
+        "ts": "1656589554.007359",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "cf2ffbf91b0d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-23\/1264264593060_cf2ffbf91b0dd4f50994_72.png",
+            "first_name": "くじらー",
+            "real_name": "くじらー",
+            "display_name": "くじらー",
+            "team": "T014MVD863E",
+            "name": "anzuharuday",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1Cxw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "おぉ"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sparkles",
+                                "unicode": "2728"
+                            },
+                            {
+                                "type": "text",
+                                "text": "三角関係だよね？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "737B6424-4B4B-47BC-A771-34809222C947",
+        "type": "message",
+        "text": "ですです。\n小説は手記形式でマリオン、パトリックそれぞれが綴っていましたが、トムは何も語られていないので、推察するしかなかったですね。\nこの話は『モーリス』作者のフォースターの人生からインスピレーションを受けたのかなと思いました:relieved:",
+        "user": "U01M8BTNR7C",
+        "ts": "1656590593.474619",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "16c140f650be",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-02-10\/1748642350673_16c140f650be7c6cc646_72.png",
+            "first_name": "きなこ",
+            "real_name": "きなこ",
+            "display_name": "",
+            "team": "T014MVD863E",
+            "name": "le.arbre.montagne.121",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3HZ4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ですです。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "小説は手記形式でマリオン、パトリックそれぞれが綴っていましたが、トムは何も語られていないので、推察するしかなかったですね。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "この話は『モーリス』作者のフォースターの人生からインスピレーションを受けたのかなと思いました"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "relieved",
+                                "unicode": "1f60c"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1656590593.474619",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1656650361.310039",
+        "reply_users": [
+            "U017LVA457X",
+            "U01M8BTNR7C"
+        ],
+        "replies": [
+            {
+                "user": "U017LVA457X",
+                "ts": "1656607369.254659"
+            },
+            {
+                "user": "U01M8BTNR7C",
+                "ts": "1656650361.310039"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "1A818A50-7665-4CAE-9CB9-848392D2A6C2",
+        "type": "message",
+        "text": "おぉ:sparkles:近い雰囲気ですか:sparkles:表紙可愛い:sparkles:ですよね:sparkles:",
+        "user": "U017L1ARLJX",
+        "ts": "1656590922.228909",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "cf2ffbf91b0d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-23\/1264264593060_cf2ffbf91b0dd4f50994_72.png",
+            "first_name": "くじらー",
+            "real_name": "くじらー",
+            "display_name": "くじらー",
+            "team": "T014MVD863E",
+            "name": "anzuharuday",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZtW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "おぉ"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sparkles",
+                                "unicode": "2728"
+                            },
+                            {
+                                "type": "text",
+                                "text": "近い雰囲気ですか"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sparkles",
+                                "unicode": "2728"
+                            },
+                            {
+                                "type": "text",
+                                "text": "表紙可愛い"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sparkles",
+                                "unicode": "2728"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ですよね"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sparkles",
+                                "unicode": "2728"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4f3bfa47-a466-4c31-b096-f018deb87343",
+        "type": "message",
+        "text": "アマプラありがとう:sparkles:",
+        "user": "U017FMU5XTQ",
+        "ts": "1656590999.871619",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "bea7a407721c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-26\/1263539336931_bea7a407721cebe3595a_72.jpg",
+            "first_name": "",
+            "real_name": "めい",
+            "display_name": "めい",
+            "team": "T014MVD863E",
+            "name": "megmon24",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QuqP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "アマプラありがとう"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sparkles",
+                                "unicode": "2728"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "079EFD91-2A40-45E9-B39B-A38BC05FB177",
+        "type": "message",
+        "text": "何何、気になる:heavy_heart_exclamation_mark_ornament:",
+        "user": "U017LVA457X",
+        "ts": "1656592101.685879",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "ab08cd7206d5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-23\/1260372537906_ab08cd7206d5061995ec_72.png",
+            "first_name": "Nakaji",
+            "real_name": "Nakaji",
+            "display_name": "Nakaji",
+            "team": "T014MVD863E",
+            "name": "nakaji352002",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RXU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "何何、気になる"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "heavy_heart_exclamation_mark_ornament",
+                                "unicode": "2763-fe0f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "\n<https:\/\/www.amazon.co.jp\/-\/en\/gp\/aw\/d\/B006VTPC7K\/ref=tmm_kin_swatch_0?ie=UTF8&amp;qid=1656592434&amp;sr=8-2>",
+        "user": "U017LVA457X",
+        "ts": "1656592482.725879",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "ab08cd7206d5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-23\/1260372537906_ab08cd7206d5061995ec_72.png",
+            "first_name": "Nakaji",
+            "real_name": "Nakaji",
+            "display_name": "Nakaji",
+            "team": "T014MVD863E",
+            "name": "nakaji352002",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NmsQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.amazon.co.jp\/-\/en\/gp\/aw\/d\/B006VTPC7K\/ref=tmm_kin_swatch_0?ie=UTF8&amp;qid=1656592434&amp;sr=8-2",
+                                "text": "https:\/\/www.amazon.co.jp\/-\/en\/gp\/aw\/d\/B006VTPC7K\/ref=tmm_kin_swatch_0?ie=UTF8&qid=1656592434&sr=8-2"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "004A7639-28E2-4066-B364-51AD8EA70A16",
+        "type": "message",
+        "text": "原書見つけたよー",
+        "user": "U017LVA457X",
+        "ts": "1656592525.245369",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "ab08cd7206d5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-23\/1260372537906_ab08cd7206d5061995ec_72.png",
+            "first_name": "Nakaji",
+            "real_name": "Nakaji",
+            "display_name": "Nakaji",
+            "team": "T014MVD863E",
+            "name": "nakaji352002",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JmC=x",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "原書見つけた"
+                            },
+                            {
+                                "type": "text",
+                                "text": "よー"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "B99E3EC2-F60D-4C52-BF77-A5A6D931825B",
+        "type": "message",
+        "text": "<https:\/\/twitter.com\/primevideo\/status\/1537072548340547585?s=21&amp;t=dGCfg5Mo-NRytXYPYLx6fA|https:\/\/twitter.com\/primevideo\/status\/1537072548340547585?s=21&amp;t=dGCfg5Mo-NRytXYPYLx6fA>",
+        "user": "U017L1ARLJX",
+        "ts": "1656592667.804919",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "cf2ffbf91b0d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-23\/1264264593060_cf2ffbf91b0dd4f50994_72.png",
+            "first_name": "くじらー",
+            "real_name": "くじらー",
+            "display_name": "くじらー",
+            "team": "T014MVD863E",
+            "name": "anzuharuday",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/twitter.com\/primevideo\/status\/1537072548340547585?s=21&amp;t=dGCfg5Mo-NRytXYPYLx6fA",
+                "ts": 1655301627,
+                "thumb_url": "https:\/\/pbs.twimg.com\/media\/FVO5uUrUYAEC7Qz.jpg",
+                "thumb_width": 480,
+                "thumb_height": 270,
+                "video_html": "<video controls poster=\"https:\/\/pbs.twimg.com\/media\/FVO5uUrUYAEC7Qz.jpg\" width=\"480\" height=\"270\"><source type=\"video\/mp4\" src=\"https:\/\/video.twimg.com\/amplify_video\/1536775123453239298\/vid\/1280x720\/uP_idbGstbEgn6mq.mp4?tag=14\"><\/video>",
+                "video_html_width": 480,
+                "video_html_height": 270,
+                "id": 1,
+                "original_url": "https:\/\/twitter.com\/primevideo\/status\/1537072548340547585?s=21&amp;t=dGCfg5Mo-NRytXYPYLx6fA",
+                "fallback": "<https:\/\/twitter.com\/PrimeVideo|@PrimeVideo>: Let it take hold of you. #MyPoliceman, coming to select theaters on October 21 and Prime Video on November 4. <https:\/\/pbs.twimg.com\/media\/FVO5uUrUYAEC7Qz.jpg>",
+                "text": "Let it take hold of you. #MyPoliceman, coming to select theaters on October 21 and Prime Video on November 4.",
+                "author_name": "Prime Video",
+                "author_link": "https:\/\/twitter.com\/PrimeVideo\/status\/1537072548340547585",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/1491111046634954757\/sXe-3Zt-_normal.png",
+                "author_subname": "@PrimeVideo",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/80588\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Rs56",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/twitter.com\/primevideo\/status\/1537072548340547585?s=21&t=dGCfg5Mo-NRytXYPYLx6fA",
+                                "text": "https:\/\/twitter.com\/primevideo\/status\/1537072548340547585?s=21&t=dGCfg5Mo-NRytXYPYLx6fA"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "03F063A8-707C-4121-9DF7-BF0485F29842",
+        "type": "message",
+        "text": "配信動画今してます:sparkles:",
+        "user": "U017L1ARLJX",
+        "ts": "1656592681.183909",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "cf2ffbf91b0d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-23\/1264264593060_cf2ffbf91b0dd4f50994_72.png",
+            "first_name": "くじらー",
+            "real_name": "くじらー",
+            "display_name": "くじらー",
+            "team": "T014MVD863E",
+            "name": "anzuharuday",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fxIO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "配信動画今してます"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sparkles",
+                                "unicode": "2728"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9B9D4440-210C-4DE0-9DEB-4BC070AA7846",
+        "type": "message",
+        "text": "あ、トラジックてある、、、バッドエンドか？",
+        "user": "U017LVA457X",
+        "ts": "1656592723.340889",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "ab08cd7206d5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-23\/1260372537906_ab08cd7206d5061995ec_72.png",
+            "first_name": "Nakaji",
+            "real_name": "Nakaji",
+            "display_name": "Nakaji",
+            "team": "T014MVD863E",
+            "name": "nakaji352002",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VW5NF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "あ、トラジックてある、、、バッドエンド"
+                            },
+                            {
+                                "type": "text",
+                                "text": "か？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "\n<https:\/\/spur.hpplus.jp\/culture\/celebritynews\/202206\/28\/JIYpJCY\/>",
+        "user": "U017LVA457X",
+        "ts": "1656602896.622319",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "ab08cd7206d5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-23\/1260372537906_ab08cd7206d5061995ec_72.png",
+            "first_name": "Nakaji",
+            "real_name": "Nakaji",
+            "display_name": "Nakaji",
+            "team": "T014MVD863E",
+            "name": "nakaji352002",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/spur.hpplus.jp\/culture\/celebritynews\/202206\/28\/JIYpJCY\/",
+                "image_url": "http:\/\/static-spur.hpplus.jp\/upload\/image\/manager\/271\/NlRIGIg-1200x630.jpg",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 598132,
+                "service_icon": "https:\/\/spur.hpplus.jp\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/spur.hpplus.jp\/culture\/celebritynews\/202206\/28\/JIYpJCY\/",
+                "fallback": "SPUR: 「リチャード・ギアを見て、自分がゲイだと自覚した」。大物キャスターのアンダーソン・クーパーが幼少期のエピソードを明かす - セレブニュース | SPUR",
+                "text": "同性愛者であることを公表しているCNNの報道キャスター、アンダーソン・クーパー。ゲイであることを自覚した、11歳の時のエピソードを初めて明かした。",
+                "title": "「リチャード・ギアを見て、自分がゲイだと自覚した」。大物キャスターのアンダーソン・クーパーが幼少期のエピソードを明かす - セレブニュース | SPUR",
+                "title_link": "https:\/\/spur.hpplus.jp\/culture\/celebritynews\/202206\/28\/JIYpJCY\/",
+                "service_name": "SPUR"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3ULX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/spur.hpplus.jp\/culture\/celebritynews\/202206\/28\/JIYpJCY\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1656602896.622319",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1656970558.071509",
+        "reply_users": [
+            "U01P6E9P3J5",
+            "U017LVA457X"
+        ],
+        "replies": [
+            {
+                "user": "U01P6E9P3J5",
+                "ts": "1656942528.517919"
+            },
+            {
+                "user": "U017LVA457X",
+                "ts": "1656970558.071509"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "F236E5E6-C94C-4201-A460-35D0263AE43C",
+        "type": "message",
+        "text": "皆さーん\nアンダーソンクーパーの子供の頃いつゲイと自覚したかというお話。これでMMロマンスのストーリー書けそうです。",
+        "user": "U017LVA457X",
+        "ts": "1656602992.007219",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "ab08cd7206d5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-23\/1260372537906_ab08cd7206d5061995ec_72.png",
+            "first_name": "Nakaji",
+            "real_name": "Nakaji",
+            "display_name": "Nakaji",
+            "team": "T014MVD863E",
+            "name": "nakaji352002",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "und\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "皆さーん"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "アンダーソンクーパーの子供の頃いつゲイと自覚したかというお話。これでMM"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ロマンス"
+                            },
+                            {
+                                "type": "text",
+                                "text": "のストーリー書けそうです。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3306309A-0B4D-4B81-B10E-A87F9AF5C240",
+        "type": "message",
+        "text": "きなこさん、こんにちは！\nもうこの作品独立済みですね。MMアンテナ感度良し:ok_hand:で、さすがです。\n原書でいつか読もうと思います。",
+        "user": "U017LVA457X",
+        "ts": "1656607369.254659",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "ab08cd7206d5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-23\/1260372537906_ab08cd7206d5061995ec_72.png",
+            "first_name": "Nakaji",
+            "real_name": "Nakaji",
+            "display_name": "Nakaji",
+            "team": "T014MVD863E",
+            "name": "nakaji352002",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NF1+y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "きなこさん、こんにちは！"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "もうこの作品独立済みですね。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "MM"
+                            },
+                            {
+                                "type": "text",
+                                "text": "アンテナ感度良し"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "ok_hand",
+                                "unicode": "1f44c"
+                            },
+                            {
+                                "type": "text",
+                                "text": "で、さすがです。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "原書でいつか読もうと思います"
+                            },
+                            {
+                                "type": "text",
+                                "text": "。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1656590593.474619",
+        "parent_user_id": "U01M8BTNR7C"
+    },
+    {
+        "client_msg_id": "984BCF91-2692-4723-903D-11FBE1267696",
+        "type": "message",
+        "text": "みんな似たようなエピソードありですね:sparkles:",
+        "user": "U017L1ARLJX",
+        "ts": "1656629682.306669",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "cf2ffbf91b0d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-23\/1264264593060_cf2ffbf91b0dd4f50994_72.png",
+            "first_name": "くじらー",
+            "real_name": "くじらー",
+            "display_name": "くじらー",
+            "team": "T014MVD863E",
+            "name": "anzuharuday",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Xfeo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "みんな似たようなエピソードありですね"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sparkles",
+                                "unicode": "2728"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3732F1E9-A1E3-4846-91B2-50C7AD433C7B",
+        "type": "message",
+        "text": "きゃー:heart_eyes:情報ありがとうございます！\nアンディ・コーエンの番組観たい！！！YouTube探しに行ってきます！",
+        "user": "U017YHF4ZG9",
+        "ts": "1656645861.116369",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "8b538c52795e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-23\/1256603203669_8b538c52795ebb5c006a_72.jpg",
+            "first_name": "",
+            "real_name": "Ayu Yamane",
+            "display_name": "Ayu Yamane",
+            "team": "T014MVD863E",
+            "name": "ayu76mi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kgE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "きゃー"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "heart_eyes",
+                                "unicode": "1f60d"
+                            },
+                            {
+                                "type": "text",
+                                "text": "情報ありがとうございます！"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "アンディ・コーエンの番組観たい！！！"
+                            },
+                            {
+                                "type": "text",
+                                "text": "YouTube"
+                            },
+                            {
+                                "type": "text",
+                                "text": "探しに行ってきます！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "D9B56779-E599-48B1-8D0D-2345AE649C74",
+        "type": "message",
+        "text": "ＭＭロマンスではないですが、興味があればぜひ！\n一人の男に人生を狂わされた男女二人のお話です。悲劇ではあったけど、翻訳では落ち着いた文体で書かれているので静かなラブストーリーって感じでした。",
+        "user": "U01M8BTNR7C",
+        "ts": "1656650361.310039",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "16c140f650be",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-02-10\/1748642350673_16c140f650be7c6cc646_72.png",
+            "first_name": "きなこ",
+            "real_name": "きなこ",
+            "display_name": "",
+            "team": "T014MVD863E",
+            "name": "le.arbre.montagne.121",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "A9h",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ＭＭロマンスではないですが、興味があればぜひ！"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "一人の男に人生を狂わされた男女二人のお話です。悲劇ではあったけど、翻訳では落ち着いた文体で書かれているので静かなラブストーリーって感じでした。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1656590593.474619",
+        "parent_user_id": "U01M8BTNR7C"
+    }
+]

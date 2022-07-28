@@ -1,0 +1,1614 @@
+[
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F03P12BHZB4",
+                "created": 1657545333,
+                "timestamp": 1657545333,
+                "name": "IMG_2447.HEIC",
+                "title": "File from iOS",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U017LVA457X",
+                "editable": false,
+                "size": 172892,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T014MVD863E-F03P12BHZB4\/img_2447.heic?t=xoxe-1157999278116-3857408361221-3860360080994-c56323778919f0e36b19cc92870aef60",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T014MVD863E-F03P12BHZB4\/download\/img_2447.heic?t=xoxe-1157999278116-3857408361221-3860360080994-c56323778919f0e36b19cc92870aef60",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T014MVD863E-F03P12BHZB4-0217186b37\/img_2447_64.jpg?t=xoxe-1157999278116-3857408361221-3860360080994-c56323778919f0e36b19cc92870aef60",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T014MVD863E-F03P12BHZB4-0217186b37\/img_2447_80.jpg?t=xoxe-1157999278116-3857408361221-3860360080994-c56323778919f0e36b19cc92870aef60",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T014MVD863E-F03P12BHZB4-0217186b37\/img_2447_360.jpg?t=xoxe-1157999278116-3857408361221-3860360080994-c56323778919f0e36b19cc92870aef60",
+                "thumb_360_w": 270,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T014MVD863E-F03P12BHZB4-0217186b37\/img_2447_480.jpg?t=xoxe-1157999278116-3857408361221-3860360080994-c56323778919f0e36b19cc92870aef60",
+                "thumb_480_w": 360,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T014MVD863E-F03P12BHZB4-0217186b37\/img_2447_160.jpg?t=xoxe-1157999278116-3857408361221-3860360080994-c56323778919f0e36b19cc92870aef60",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T014MVD863E-F03P12BHZB4-0217186b37\/img_2447_720.jpg?t=xoxe-1157999278116-3857408361221-3860360080994-c56323778919f0e36b19cc92870aef60",
+                "thumb_720_w": 540,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T014MVD863E-F03P12BHZB4-0217186b37\/img_2447_800.jpg?t=xoxe-1157999278116-3857408361221-3860360080994-c56323778919f0e36b19cc92870aef60",
+                "thumb_800_w": 600,
+                "thumb_800_h": 800,
+                "original_w": 600,
+                "original_h": 800,
+                "thumb_tiny": "AwAwACSNR2AH86ZIhRsDoe3pUoGGCsDn64ps\/wAvHqP1qSSINtHanLzgk455NMGSQAOamkiESjDbsn0pjIRHx0zS+X7UiN8tLuoETGWTzRGkanJ4zTrgMrbmtkYY+9mrAjCO0+QQwyvtnrVW9fMAx0LdaXUtJEIuYgc\/Zx+DmpGvIZMboW49HqHy8LEePmphUBWPvTFcmE1uOBHJ\/wB9Cl8+D\/nm\/wD30Kq4owaANCGT9wRnBBwD1FNlINoVOAwYEACi0+Yunvmp54h9kZhjqDxS6j6FKRdqxcjkdPSozkqfc06R9wHH3eKYB84+lMQ5U4p2wU5RxS4oA\/\/Z",
+                "permalink": "https:\/\/muchimemo.slack.com\/files\/U017LVA457X\/F03P12BHZB4\/img_2447.heic",
+                "permalink_public": "https:\/\/slack-files.com\/T014MVD863E-F03P12BHZB4-4baa9ee1f1",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U017LVA457X",
+        "display_as_bot": false,
+        "ts": "1657545336.160119",
+        "reactions": [
+            {
+                "name": "heart_eyes_cat",
+                "users": [
+                    "U029MKK3W4E",
+                    "U0188J8KHE0",
+                    "U01M8BTNR7C",
+                    "U017Z0T54P3",
+                    "U01P6E9P3J5"
+                ],
+                "count": 5
+            },
+            {
+                "name": "two_hearts",
+                "users": [
+                    "U017L1ARLJX",
+                    "U017Z0T54P3",
+                    "U01P6E9P3J5"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F03P12CNZCJ",
+                "created": 1657545347,
+                "timestamp": 1657545347,
+                "name": "IMG_2445.HEIC",
+                "title": "File from iOS",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U017LVA457X",
+                "editable": false,
+                "size": 168837,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T014MVD863E-F03P12CNZCJ\/img_2445.heic?t=xoxe-1157999278116-3857408361221-3860360080994-c56323778919f0e36b19cc92870aef60",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T014MVD863E-F03P12CNZCJ\/download\/img_2445.heic?t=xoxe-1157999278116-3857408361221-3860360080994-c56323778919f0e36b19cc92870aef60",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T014MVD863E-F03P12CNZCJ-9fcb9f9448\/img_2445_64.jpg?t=xoxe-1157999278116-3857408361221-3860360080994-c56323778919f0e36b19cc92870aef60",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T014MVD863E-F03P12CNZCJ-9fcb9f9448\/img_2445_80.jpg?t=xoxe-1157999278116-3857408361221-3860360080994-c56323778919f0e36b19cc92870aef60",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T014MVD863E-F03P12CNZCJ-9fcb9f9448\/img_2445_360.jpg?t=xoxe-1157999278116-3857408361221-3860360080994-c56323778919f0e36b19cc92870aef60",
+                "thumb_360_w": 270,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T014MVD863E-F03P12CNZCJ-9fcb9f9448\/img_2445_480.jpg?t=xoxe-1157999278116-3857408361221-3860360080994-c56323778919f0e36b19cc92870aef60",
+                "thumb_480_w": 360,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T014MVD863E-F03P12CNZCJ-9fcb9f9448\/img_2445_160.jpg?t=xoxe-1157999278116-3857408361221-3860360080994-c56323778919f0e36b19cc92870aef60",
+                "original_w": 480,
+                "original_h": 640,
+                "thumb_tiny": "AwAwACSJvlKucYNAC9cgZ7ZpBloiVzjPTrTtoKHPTHapJIyQXyBkUYG04JxkfhTeQx9aU4K4OcmmAh68Nx9aOfX9aNg7GjYP71AFoRbR1JHoVqJp41ZgVYH1AFNDkgkMeRjmgRq0gVj1GMmgY1WhDg+Y\/H+x\/wDXp0rxSOWE2OehU1JdRRKFKgDLc4qmw+7ihDJsJ2lT\/P4UYX\/nsn+fwqPy\/SjyzQFhwBwgx\/Eals8eeu4Z64+tSHHZSafAAkhd1ACjj60ALeBRanPUMCDVFRk9OlXbh\/NjQcLzkjFVtu2QAgc+lCG9xEPyilzTvLGAN3T2pPL\/ANr9KBH\/2Q==",
+                "permalink": "https:\/\/muchimemo.slack.com\/files\/U017LVA457X\/F03P12CNZCJ\/img_2445.heic",
+                "permalink_public": "https:\/\/slack-files.com\/T014MVD863E-F03P12CNZCJ-faec741cf2",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U017LVA457X",
+        "display_as_bot": false,
+        "ts": "1657545349.703399",
+        "reactions": [
+            {
+                "name": "heart_eyes_cat",
+                "users": [
+                    "U029MKK3W4E",
+                    "U0188J8KHE0",
+                    "U01M8BTNR7C",
+                    "U01P6E9P3J5"
+                ],
+                "count": 4
+            },
+            {
+                "name": "two_hearts",
+                "users": [
+                    "U017L1ARLJX",
+                    "U01P6E9P3J5"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F03NY52KGGM",
+                "created": 1657545362,
+                "timestamp": 1657545362,
+                "name": "IMG_2449.HEIC",
+                "title": "File from iOS",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U017LVA457X",
+                "editable": false,
+                "size": 237877,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T014MVD863E-F03NY52KGGM\/img_2449.heic?t=xoxe-1157999278116-3857408361221-3860360080994-c56323778919f0e36b19cc92870aef60",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T014MVD863E-F03NY52KGGM\/download\/img_2449.heic?t=xoxe-1157999278116-3857408361221-3860360080994-c56323778919f0e36b19cc92870aef60",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T014MVD863E-F03NY52KGGM-5571fd0463\/img_2449_64.jpg?t=xoxe-1157999278116-3857408361221-3860360080994-c56323778919f0e36b19cc92870aef60",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T014MVD863E-F03NY52KGGM-5571fd0463\/img_2449_80.jpg?t=xoxe-1157999278116-3857408361221-3860360080994-c56323778919f0e36b19cc92870aef60",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T014MVD863E-F03NY52KGGM-5571fd0463\/img_2449_360.jpg?t=xoxe-1157999278116-3857408361221-3860360080994-c56323778919f0e36b19cc92870aef60",
+                "thumb_360_w": 360,
+                "thumb_360_h": 270,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T014MVD863E-F03NY52KGGM-5571fd0463\/img_2449_480.jpg?t=xoxe-1157999278116-3857408361221-3860360080994-c56323778919f0e36b19cc92870aef60",
+                "thumb_480_w": 480,
+                "thumb_480_h": 360,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T014MVD863E-F03NY52KGGM-5571fd0463\/img_2449_160.jpg?t=xoxe-1157999278116-3857408361221-3860360080994-c56323778919f0e36b19cc92870aef60",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T014MVD863E-F03NY52KGGM-5571fd0463\/img_2449_720.jpg?t=xoxe-1157999278116-3857408361221-3860360080994-c56323778919f0e36b19cc92870aef60",
+                "thumb_720_w": 720,
+                "thumb_720_h": 540,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T014MVD863E-F03NY52KGGM-5571fd0463\/img_2449_800.jpg?t=xoxe-1157999278116-3857408361221-3860360080994-c56323778919f0e36b19cc92870aef60",
+                "thumb_800_w": 800,
+                "thumb_800_h": 600,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T014MVD863E-F03NY52KGGM-5571fd0463\/img_2449_960.jpg?t=xoxe-1157999278116-3857408361221-3860360080994-c56323778919f0e36b19cc92870aef60",
+                "thumb_960_w": 960,
+                "thumb_960_h": 720,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T014MVD863E-F03NY52KGGM-5571fd0463\/img_2449_1024.jpg?t=xoxe-1157999278116-3857408361221-3860360080994-c56323778919f0e36b19cc92870aef60",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 768,
+                "original_w": 1024,
+                "original_h": 768,
+                "thumb_tiny": "AwAkADCrtpeRT0Qk4pWXb2z9Ki4EZPSnA03axPTvUqrzQKxGvLfSlKbuc81YGw03aBweaLjasGMHk0oy0Y9qeVHbmkC5OMc0riuM2Ghoz6\/lU\/lkdcLTWGO+fpSuIhCYJ56045OBjoMfWnE80uM07hckOFO3AP1ppYqcjFOf79MftUobF858EE5FM6mk9aUdaYhG4HFJuI705+gpjUCP\/9k=",
+                "permalink": "https:\/\/muchimemo.slack.com\/files\/U017LVA457X\/F03NY52KGGM\/img_2449.heic",
+                "permalink_public": "https:\/\/slack-files.com\/T014MVD863E-F03NY52KGGM-02acd97d16",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U017LVA457X",
+        "display_as_bot": false,
+        "ts": "1657545365.053589",
+        "reactions": [
+            {
+                "name": "heart_eyes_cat",
+                "users": [
+                    "U029MKK3W4E",
+                    "U0188J8KHE0",
+                    "U01M8BTNR7C",
+                    "U01P6E9P3J5"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8C7022C3-6A22-400C-956D-C3A0E263D1E0",
+        "type": "message",
+        "text": "おはこんばんは！\nうちのテラスに、毎日鳥用エサを食べに来るリス:chipmunk:と小豆",
+        "user": "U017LVA457X",
+        "ts": "1657545436.191119",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "ab08cd7206d5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-23\/1260372537906_ab08cd7206d5061995ec_72.png",
+            "first_name": "Nakaji",
+            "real_name": "Nakaji",
+            "display_name": "Nakaji",
+            "team": "T014MVD863E",
+            "name": "nakaji352002",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Alh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "おはこんばんは"
+                            },
+                            {
+                                "type": "text",
+                                "text": "！"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "うちのテラスに、毎日鳥用エサを食べに来るリス"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "chipmunk",
+                                "unicode": "1f43f-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "と小豆"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4640189B-6AB3-4472-95A9-F2C35EBDC084",
+        "type": "message",
+        "text": "最後の写真は、バンビ二頭とお母さん鹿がうちの庭に",
+        "user": "U017LVA457X",
+        "ts": "1657545481.558379",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "ab08cd7206d5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-23\/1260372537906_ab08cd7206d5061995ec_72.png",
+            "first_name": "Nakaji",
+            "real_name": "Nakaji",
+            "display_name": "Nakaji",
+            "team": "T014MVD863E",
+            "name": "nakaji352002",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VBA1S",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "最後の写真は、バンビ二頭とお母さん鹿がうちの庭に"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1657545481.558379",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1657712058.528459",
+        "reply_users": [
+            "U01P6E9P3J5",
+            "U017LVA457X"
+        ],
+        "replies": [
+            {
+                "user": "U01P6E9P3J5",
+                "ts": "1657612736.320269"
+            },
+            {
+                "user": "U017LVA457X",
+                "ts": "1657712058.528459"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "F7EB89C8-2A22-407D-B835-60C84B524591",
+        "type": "message",
+        "text": "リス、肝が据わってますね。小豆ちゃんが至近距離にいるのに、お食事中？",
+        "user": "U017YHF4ZG9",
+        "ts": "1657547619.685639",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "8b538c52795e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-23\/1256603203669_8b538c52795ebb5c006a_72.jpg",
+            "first_name": "",
+            "real_name": "Ayu Yamane",
+            "display_name": "Ayu Yamane",
+            "team": "T014MVD863E",
+            "name": "ayu76mi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Wrcrf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "リス、肝が据わってますね。小豆ちゃんが至近距離にいるのに、お食事中？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "うちにもよく来ます。\n最近のビジターはgroundhog:rolling_on_the_floor_laughing:",
+        "files": [
+            {
+                "id": "F03NYAP9L77",
+                "created": 1657547542,
+                "timestamp": 1657547542,
+                "name": "iOS の画像.jpg",
+                "title": "iOS の画像",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U03N2KMPR6H",
+                "editable": false,
+                "size": 1336915,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T014MVD863E-F03NYAP9L77\/ios__________.jpg?t=xoxe-1157999278116-3857408361221-3860360080994-c56323778919f0e36b19cc92870aef60",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T014MVD863E-F03NYAP9L77\/download\/ios__________.jpg?t=xoxe-1157999278116-3857408361221-3860360080994-c56323778919f0e36b19cc92870aef60",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T014MVD863E-F03NYAP9L77-f0d4a11288\/ios___________64.jpg?t=xoxe-1157999278116-3857408361221-3860360080994-c56323778919f0e36b19cc92870aef60",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T014MVD863E-F03NYAP9L77-f0d4a11288\/ios___________80.jpg?t=xoxe-1157999278116-3857408361221-3860360080994-c56323778919f0e36b19cc92870aef60",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T014MVD863E-F03NYAP9L77-f0d4a11288\/ios___________360.jpg?t=xoxe-1157999278116-3857408361221-3860360080994-c56323778919f0e36b19cc92870aef60",
+                "thumb_360_w": 270,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T014MVD863E-F03NYAP9L77-f0d4a11288\/ios___________480.jpg?t=xoxe-1157999278116-3857408361221-3860360080994-c56323778919f0e36b19cc92870aef60",
+                "thumb_480_w": 360,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T014MVD863E-F03NYAP9L77-f0d4a11288\/ios___________160.jpg?t=xoxe-1157999278116-3857408361221-3860360080994-c56323778919f0e36b19cc92870aef60",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T014MVD863E-F03NYAP9L77-f0d4a11288\/ios___________720.jpg?t=xoxe-1157999278116-3857408361221-3860360080994-c56323778919f0e36b19cc92870aef60",
+                "thumb_720_w": 540,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T014MVD863E-F03NYAP9L77-f0d4a11288\/ios___________800.jpg?t=xoxe-1157999278116-3857408361221-3860360080994-c56323778919f0e36b19cc92870aef60",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1067,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T014MVD863E-F03NYAP9L77-f0d4a11288\/ios___________960.jpg?t=xoxe-1157999278116-3857408361221-3860360080994-c56323778919f0e36b19cc92870aef60",
+                "thumb_960_w": 720,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T014MVD863E-F03NYAP9L77-f0d4a11288\/ios___________1024.jpg?t=xoxe-1157999278116-3857408361221-3860360080994-c56323778919f0e36b19cc92870aef60",
+                "thumb_1024_w": 768,
+                "thumb_1024_h": 1024,
+                "original_w": 3024,
+                "original_h": 4032,
+                "thumb_tiny": "AwAwACR7DnB4NIw+U89qQsTg55FGCQTgdKl7DGgehpNp9cilANL9KyJG5PrRk+pp31Ao\/AfnQA0nBx0FPLiOJmAzx3p32fIyzD8qR4AsbNncPTFbMoiRiy5xxTscZppOFxjj0pVJI4rNkgetJn\/OKdkd6MrSAu7WBPcfWmSqRA2ae\/Tkj8KY5zA2TnA61qxlFvrSqR06ClcLnkkGmAr2zUAP3ewo3ewpNm7kGjy\/ekB\/\/9k=",
+                "permalink": "https:\/\/muchimemo.slack.com\/files\/U03N2KMPR6H\/F03NYAP9L77\/ios__________.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T014MVD863E-F03NYAP9L77-220bc5756d",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U03N2KMPR6H",
+        "display_as_bot": false,
+        "ts": "1657547634.393259",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ljq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "うちにもよく来ます。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "最近のビジターはground"
+                            },
+                            {
+                                "type": "text",
+                                "text": "hog"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "rolling_on_the_floor_laughing",
+                                "unicode": "1f923"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "EF51FD75-1C16-4C4F-BA24-720C957E0AAB",
+        "reactions": [
+            {
+                "name": "heart_eyes_cat",
+                "users": [
+                    "U029MKK3W4E",
+                    "U017LVA457X",
+                    "U01M8BTNR7C"
+                ],
+                "count": 3
+            },
+            {
+                "name": "two_hearts",
+                "users": [
+                    "U017L1ARLJX"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "33B99DD8-41C9-4030-B47B-CB4C4D60C4C7",
+        "type": "message",
+        "text": "Groundhog をGroundhog Day のニュース以外で、初めて見ました。\nこんなに身近な動物なんですね:flushed:",
+        "user": "U017YHF4ZG9",
+        "ts": "1657547737.026729",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "8b538c52795e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-23\/1256603203669_8b538c52795ebb5c006a_72.jpg",
+            "first_name": "",
+            "real_name": "Ayu Yamane",
+            "display_name": "Ayu Yamane",
+            "team": "T014MVD863E",
+            "name": "ayu76mi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cWo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Groundhog"
+                            },
+                            {
+                                "type": "text",
+                                "text": " を"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Groundhog"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Day"
+                            },
+                            {
+                                "type": "text",
+                                "text": " のニュース以外で、初めて見ました。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "こんなに身近な動物なんですね"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "flushed",
+                                "unicode": "1f633"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "260B3893-ED29-4AFB-8BCD-315B05459DBA",
+        "type": "message",
+        "text": "Ayuさん、生groundhogは初めてお目にかかりました。今住んでいるところは、森の中にサブがある、みたいな所なので、ウサギや鹿、リスがメジャーですが、その他色んな動物が見られます。",
+        "user": "U03N2KMPR6H",
+        "ts": "1657548315.862899",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "b6de36ac2e5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-08\/3788800367537_b6de36ac2e5fb40df77c_72.png",
+            "first_name": "Alice",
+            "real_name": "Alice",
+            "display_name": "Alice",
+            "team": "T014MVD863E",
+            "name": "azureseababy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1CQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ayu"
+                            },
+                            {
+                                "type": "text",
+                                "text": "さん、生groundhogは初めてお目にかかりました。今住んでいるところは、森の"
+                            },
+                            {
+                                "type": "text",
+                                "text": "中"
+                            },
+                            {
+                                "type": "text",
+                                "text": "にサブがある、みたいな所なので、ウサギや鹿、リスがメジャーですが、その他色んな動物が見られます。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "DD14A3FA-DF7C-40B4-81D4-D5FE78FC8DF7",
+        "type": "message",
+        "text": "おお野生動物との距離近いですね:flushed:\n鹿は北海道で見たぐらい…",
+        "user": "U01M8BTNR7C",
+        "ts": "1657548341.861529",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "16c140f650be",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-02-10\/1748642350673_16c140f650be7c6cc646_72.png",
+            "first_name": "きなこ",
+            "real_name": "きなこ",
+            "display_name": "",
+            "team": "T014MVD863E",
+            "name": "le.arbre.montagne.121",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TLF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "おお野生動物との距離近いですね"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "flushed",
+                                "unicode": "1f633"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "鹿は北海道で見たぐらい…"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5AAEB5AD-F848-4506-ABB8-F8F215723881",
+        "type": "message",
+        "text": "小豆、リスに完全になめられてます。\nグランドホッグうちのほうでもでます。うちのあたりでは、woodchucks とか呼ばれて害獣カテゴリーです。庭の花とかたべちゃうので。",
+        "user": "U017LVA457X",
+        "ts": "1657552659.947959",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "ab08cd7206d5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-23\/1260372537906_ab08cd7206d5061995ec_72.png",
+            "first_name": "Nakaji",
+            "real_name": "Nakaji",
+            "display_name": "Nakaji",
+            "team": "T014MVD863E",
+            "name": "nakaji352002",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "O9t",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "小豆、リスに完全になめられてます。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "グランドホッグうちのほうでもでます。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "うちのあたりでは、"
+                            },
+                            {
+                                "type": "text",
+                                "text": "woodchucks とか呼ばれて害獣カテゴリーです。庭の花とかたべちゃうので。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "29705258-B65D-45DC-B502-222D0D2291C1",
+        "type": "message",
+        "text": "害獣カテゴリー:rolling_on_the_floor_laughing:まさに:bangbang:\n写真の子は、窓枠をガリガリ引っ掻いたので追っ払いました。ちなみに我が家のワンコはgroundhogにアタックされそうになりました。ヘタレです:droplet:",
+        "user": "U03N2KMPR6H",
+        "ts": "1657555073.210319",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "b6de36ac2e5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-08\/3788800367537_b6de36ac2e5fb40df77c_72.png",
+            "first_name": "Alice",
+            "real_name": "Alice",
+            "display_name": "Alice",
+            "team": "T014MVD863E",
+            "name": "azureseababy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9E\/L",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "害獣カテゴリー"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "rolling_on_the_floor_laughing",
+                                "unicode": "1f923"
+                            },
+                            {
+                                "type": "text",
+                                "text": "まさに"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "bangbang",
+                                "unicode": "203c-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "写真の子は、窓枠をガリガリ引っ掻いたので追っ払いました。ちなみに我が家のワンコはgroundhogにアタックされそうになりました。ヘタレです"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "droplet",
+                                "unicode": "1f4a7"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "666DE3AA-3A57-45AC-9357-2FA06A53C71D",
+        "type": "message",
+        "text": "ちなみに、ワンちゃんのお写真欲しいです！",
+        "user": "U017LVA457X",
+        "ts": "1657557157.621269",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "ab08cd7206d5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-23\/1260372537906_ab08cd7206d5061995ec_72.png",
+            "first_name": "Nakaji",
+            "real_name": "Nakaji",
+            "display_name": "Nakaji",
+            "team": "T014MVD863E",
+            "name": "nakaji352002",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AHZpE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ちなみに、ワンちゃんのお写真欲しい"
+                            },
+                            {
+                                "type": "text",
+                                "text": "です！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F03PETNGGU9",
+                "created": 1657558006,
+                "timestamp": 1657558006,
+                "name": "iOS の画像.jpg",
+                "title": "iOS の画像",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U03N2KMPR6H",
+                "editable": false,
+                "size": 1637135,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T014MVD863E-F03PETNGGU9\/ios__________.jpg?t=xoxe-1157999278116-3857408361221-3860360080994-c56323778919f0e36b19cc92870aef60",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T014MVD863E-F03PETNGGU9\/download\/ios__________.jpg?t=xoxe-1157999278116-3857408361221-3860360080994-c56323778919f0e36b19cc92870aef60",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T014MVD863E-F03PETNGGU9-fc53d34209\/ios___________64.jpg?t=xoxe-1157999278116-3857408361221-3860360080994-c56323778919f0e36b19cc92870aef60",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T014MVD863E-F03PETNGGU9-fc53d34209\/ios___________80.jpg?t=xoxe-1157999278116-3857408361221-3860360080994-c56323778919f0e36b19cc92870aef60",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T014MVD863E-F03PETNGGU9-fc53d34209\/ios___________360.jpg?t=xoxe-1157999278116-3857408361221-3860360080994-c56323778919f0e36b19cc92870aef60",
+                "thumb_360_w": 360,
+                "thumb_360_h": 270,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T014MVD863E-F03PETNGGU9-fc53d34209\/ios___________480.jpg?t=xoxe-1157999278116-3857408361221-3860360080994-c56323778919f0e36b19cc92870aef60",
+                "thumb_480_w": 480,
+                "thumb_480_h": 360,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T014MVD863E-F03PETNGGU9-fc53d34209\/ios___________160.jpg?t=xoxe-1157999278116-3857408361221-3860360080994-c56323778919f0e36b19cc92870aef60",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T014MVD863E-F03PETNGGU9-fc53d34209\/ios___________720.jpg?t=xoxe-1157999278116-3857408361221-3860360080994-c56323778919f0e36b19cc92870aef60",
+                "thumb_720_w": 720,
+                "thumb_720_h": 540,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T014MVD863E-F03PETNGGU9-fc53d34209\/ios___________800.jpg?t=xoxe-1157999278116-3857408361221-3860360080994-c56323778919f0e36b19cc92870aef60",
+                "thumb_800_w": 800,
+                "thumb_800_h": 600,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T014MVD863E-F03PETNGGU9-fc53d34209\/ios___________960.jpg?t=xoxe-1157999278116-3857408361221-3860360080994-c56323778919f0e36b19cc92870aef60",
+                "thumb_960_w": 960,
+                "thumb_960_h": 720,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T014MVD863E-F03PETNGGU9-fc53d34209\/ios___________1024.jpg?t=xoxe-1157999278116-3857408361221-3860360080994-c56323778919f0e36b19cc92870aef60",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 768,
+                "original_w": 4032,
+                "original_h": 3024,
+                "thumb_tiny": "AwAkADCaSaOHILbm9BVaS8kb7vyj2qFTg\/d3Ejr6U8EpIrEZFADCzNycmgKzcgcVZkcGPanTqQO9MWTzo8NhdtAERR1GSpx60qNVhZgoO7AQcLnvUEmx2LQjgdRQAyBZGLbRkDqanP7zAX5iPSprLCow755qyoRclVAJ64pNDTM4MVG3jPYU9dvUjHrVp4EfoAD64qB4gnD8g9xSHciljRwzD5mbpjpULr5ONrfNVoBFGE5FNgtvNlLv93OaokEYq2AatKTiqY+\/+NW1oYEgPFKAGHIpo6U9OlIA8tAc7RmlPA4pTSHpTA\/\/2Q==",
+                "permalink": "https:\/\/muchimemo.slack.com\/files\/U03N2KMPR6H\/F03PETNGGU9\/ios__________.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T014MVD863E-F03PETNGGU9-973e21816f",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U03N2KMPR6H",
+        "display_as_bot": false,
+        "ts": "1657558014.619749",
+        "client_msg_id": "27351976-3BD8-41D0-8310-988A256B657F",
+        "reactions": [
+            {
+                "name": "smiling_face_with_3_hearts",
+                "users": [
+                    "U029MKK3W4E",
+                    "U01M8BTNR7C",
+                    "U0188J8KHE0",
+                    "U01P6E9P3J5"
+                ],
+                "count": 4
+            },
+            {
+                "name": "two_hearts",
+                "users": [
+                    "U017L1ARLJX",
+                    "U017YHF4ZG9",
+                    "U0188J8KHE0",
+                    "U01P6E9P3J5"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "client_msg_id": "A3AC481E-A1F4-4C0E-8BE7-09DD7CF68D74",
+        "type": "message",
+        "text": "“Oversized” mini-dachshund:sweat_smile:",
+        "user": "U03N2KMPR6H",
+        "ts": "1657558097.503969",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "b6de36ac2e5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-08\/3788800367537_b6de36ac2e5fb40df77c_72.png",
+            "first_name": "Alice",
+            "real_name": "Alice",
+            "display_name": "Alice",
+            "team": "T014MVD863E",
+            "name": "azureseababy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xT0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "“Oversized”"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "mini-dachshund"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sweat_smile",
+                                "unicode": "1f605"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "F47978E9-DEF7-4240-8FD5-D334BC824BA1",
+        "type": "message",
+        "text": "Omg",
+        "user": "U017LVA457X",
+        "ts": "1657559107.314999",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "ab08cd7206d5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-23\/1260372537906_ab08cd7206d5061995ec_72.png",
+            "first_name": "Nakaji",
+            "real_name": "Nakaji",
+            "display_name": "Nakaji",
+            "team": "T014MVD863E",
+            "name": "nakaji352002",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RHbu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Omg"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5E6AE53E-5715-4EC8-B148-ED0B55AAEB5E",
+        "type": "message",
+        "text": "So beautiful ",
+        "user": "U017LVA457X",
+        "ts": "1657559123.961919",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "ab08cd7206d5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-23\/1260372537906_ab08cd7206d5061995ec_72.png",
+            "first_name": "Nakaji",
+            "real_name": "Nakaji",
+            "display_name": "Nakaji",
+            "team": "T014MVD863E",
+            "name": "nakaji352002",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jT9X",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "So"
+                            },
+                            {
+                                "type": "text",
+                                "text": " beautiful "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "FAD7A0DC-3313-4081-BE5B-A06505A320FF",
+        "type": "message",
+        "text": "女の子ですか？何歳？お名前は？",
+        "user": "U017LVA457X",
+        "ts": "1657559159.841869",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "ab08cd7206d5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-23\/1260372537906_ab08cd7206d5061995ec_72.png",
+            "first_name": "Nakaji",
+            "real_name": "Nakaji",
+            "display_name": "Nakaji",
+            "team": "T014MVD863E",
+            "name": "nakaji352002",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "W63t",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "女の子ですか？何歳？お名前"
+                            },
+                            {
+                                "type": "text",
+                                "text": "は？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "DA5E912B-9DFF-4249-8D29-7FC7215866FF",
+        "type": "message",
+        "text": "ありがとうございます:blush:\nBoyです。もうすぐ15歳になりますが、未だに3〜4歳に見られます:joy:\nイビキが夫よりひどいのでsnorerと改名したいくらいです。が。目のふちがブルーのアイライナーを引いたような色をしているので、ブルーという名前です。",
+        "user": "U03N2KMPR6H",
+        "ts": "1657561571.252939",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "b6de36ac2e5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-08\/3788800367537_b6de36ac2e5fb40df77c_72.png",
+            "first_name": "Alice",
+            "real_name": "Alice",
+            "display_name": "Alice",
+            "team": "T014MVD863E",
+            "name": "azureseababy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nw8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ありがとう"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ございます"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "blush",
+                                "unicode": "1f60a"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Boy"
+                            },
+                            {
+                                "type": "text",
+                                "text": "です。もうすぐ15歳になりますが、未だに3〜4歳に見られます"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "joy",
+                                "unicode": "1f602"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "イビキが夫よりひどいのでsnorerと改名したいくらいです。が。目のふちがブルーのアイライナーを引いたような色をしているので、ブルーという名前です。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "791B6BB5-419B-4ABB-B32F-BC2A763A345B",
+        "type": "message",
+        "text": "Aliceさん\n大切な愛犬ですね。15歳、長生きで、まだまだ毛皮の色艶がいいですね。ブルーは、言いやすいけど、ちょっとめずらしくて、いい名前ですね。",
+        "user": "U017LVA457X",
+        "ts": "1657563936.359029",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "ab08cd7206d5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-23\/1260372537906_ab08cd7206d5061995ec_72.png",
+            "first_name": "Nakaji",
+            "real_name": "Nakaji",
+            "display_name": "Nakaji",
+            "team": "T014MVD863E",
+            "name": "nakaji352002",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1hMA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Alice"
+                            },
+                            {
+                                "type": "text",
+                                "text": "さん"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "大切な愛犬ですね。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "15"
+                            },
+                            {
+                                "type": "text",
+                                "text": "歳、長生きで、まだまだ毛皮の色艶がいいですね。ブルーは、言いやすいけど、ちょっとめずらしくて、いい名前ですね"
+                            },
+                            {
+                                "type": "text",
+                                "text": "。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1657563936.359029",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1657570887.461879",
+        "reply_users": [
+            "U03N2KMPR6H",
+            "U017LVA457X"
+        ],
+        "replies": [
+            {
+                "user": "U03N2KMPR6H",
+                "ts": "1657565105.980459"
+            },
+            {
+                "user": "U017LVA457X",
+                "ts": "1657570887.461879"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "29D3A99C-B133-4AB2-BA31-9FC823EFE3F8",
+        "type": "message",
+        "text": "あずきも、ブルーのように長生きしてほしいです。",
+        "user": "U017LVA457X",
+        "ts": "1657563981.262869",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "ab08cd7206d5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-23\/1260372537906_ab08cd7206d5061995ec_72.png",
+            "first_name": "Nakaji",
+            "real_name": "Nakaji",
+            "display_name": "Nakaji",
+            "team": "T014MVD863E",
+            "name": "nakaji352002",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7LP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "あずきも、ブルーのように長生きしてほしいです。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "C83447F1-5702-421F-991D-473106DDAE2E",
+        "type": "message",
+        "text": "小豆ちゃんは柴犬ですよね。かわいい:heart:いつか飼ってみたい犬種です。\nブルー、20歳くらいまで頑張って欲しいなと思いますけど、これだけ長い時間一緒に過ごしてきたから、いつかのお別れがこわいです:disappointed_relieved:",
+        "user": "U03N2KMPR6H",
+        "ts": "1657565105.980459",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "b6de36ac2e5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-08\/3788800367537_b6de36ac2e5fb40df77c_72.png",
+            "first_name": "Alice",
+            "real_name": "Alice",
+            "display_name": "Alice",
+            "team": "T014MVD863E",
+            "name": "azureseababy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hEgc2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "小豆ちゃんは柴犬ですよね。かわいい"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "heart",
+                                "unicode": "2764-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "いつか飼ってみたい犬種です。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ブルー、20歳くらいまで頑張って欲しいなと思いますけど、これだけ長い時間一緒に過ごしてきたから、いつかのお別れがこわいです"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "disappointed_relieved",
+                                "unicode": "1f625"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1657563936.359029",
+        "parent_user_id": "U017LVA457X"
+    },
+    {
+        "client_msg_id": "B3B0F4FF-2B39-4B1F-8034-D4D7CD716B11",
+        "type": "message",
+        "text": "わかります。小豆は4歳半の柴犬女子で、生まれはペンシルバニア州のアーミッシュの農家のブリーダーさんちです。小豆は5人姉弟がいて一番最後に残っていたところを、私たちにもらわれました。もう小豆がしんじゃったらとかんがえるとこわいです。\nオットと、小豆が年配になったら、もう一匹柴犬女子のパピーをもらいにいこうかと話しています。(もらうと言いましたがもちろん、お支払いしていますが、小豆のこと、買ったって言えないです。養子の感覚)",
+        "user": "U017LVA457X",
+        "ts": "1657570887.461879",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "ab08cd7206d5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-23\/1260372537906_ab08cd7206d5061995ec_72.png",
+            "first_name": "Nakaji",
+            "real_name": "Nakaji",
+            "display_name": "Nakaji",
+            "team": "T014MVD863E",
+            "name": "nakaji352002",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U017LVA457X",
+            "ts": "1657571021.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1\/Y4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "わかります。小豆は4歳半の柴犬女子で、生まれはペンシルバニア州のアーミッシュの農家のブリーダーさんちです。小豆は5人姉弟がいて一番最後に残っていたところを、私たちにもらわれました。もう小豆がしんじゃったらとかんがえるとこわいです。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "オットと、小豆が年配になったら、もう一匹柴犬女子のパピーをもらいにいこうかと話しています。(もらうと言いましたがもちろん、お支払いしていますが"
+                            },
+                            {
+                                "type": "text",
+                                "text": "、小豆のこと、買ったって言えないです。養子の感覚"
+                            },
+                            {
+                                "type": "text",
+                                "text": ")"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1657563936.359029",
+        "parent_user_id": "U017LVA457X"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F03NNT65N07",
+                "created": 1657573674,
+                "timestamp": 1657573674,
+                "name": "IMG_1614_Original.jpg",
+                "title": "File from iOS",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U017LVA457X",
+                "editable": false,
+                "size": 1022024,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T014MVD863E-F03NNT65N07\/img_1614_original.jpg?t=xoxe-1157999278116-3857408361221-3860360080994-c56323778919f0e36b19cc92870aef60",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T014MVD863E-F03NNT65N07\/download\/img_1614_original.jpg?t=xoxe-1157999278116-3857408361221-3860360080994-c56323778919f0e36b19cc92870aef60",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T014MVD863E-F03NNT65N07-1ff875016d\/img_1614_original_64.jpg?t=xoxe-1157999278116-3857408361221-3860360080994-c56323778919f0e36b19cc92870aef60",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T014MVD863E-F03NNT65N07-1ff875016d\/img_1614_original_80.jpg?t=xoxe-1157999278116-3857408361221-3860360080994-c56323778919f0e36b19cc92870aef60",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T014MVD863E-F03NNT65N07-1ff875016d\/img_1614_original_360.jpg?t=xoxe-1157999278116-3857408361221-3860360080994-c56323778919f0e36b19cc92870aef60",
+                "thumb_360_w": 270,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T014MVD863E-F03NNT65N07-1ff875016d\/img_1614_original_480.jpg?t=xoxe-1157999278116-3857408361221-3860360080994-c56323778919f0e36b19cc92870aef60",
+                "thumb_480_w": 360,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T014MVD863E-F03NNT65N07-1ff875016d\/img_1614_original_160.jpg?t=xoxe-1157999278116-3857408361221-3860360080994-c56323778919f0e36b19cc92870aef60",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T014MVD863E-F03NNT65N07-1ff875016d\/img_1614_original_720.jpg?t=xoxe-1157999278116-3857408361221-3860360080994-c56323778919f0e36b19cc92870aef60",
+                "thumb_720_w": 540,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T014MVD863E-F03NNT65N07-1ff875016d\/img_1614_original_800.jpg?t=xoxe-1157999278116-3857408361221-3860360080994-c56323778919f0e36b19cc92870aef60",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1067,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T014MVD863E-F03NNT65N07-1ff875016d\/img_1614_original_960.jpg?t=xoxe-1157999278116-3857408361221-3860360080994-c56323778919f0e36b19cc92870aef60",
+                "thumb_960_w": 720,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T014MVD863E-F03NNT65N07-1ff875016d\/img_1614_original_1024.jpg?t=xoxe-1157999278116-3857408361221-3860360080994-c56323778919f0e36b19cc92870aef60",
+                "thumb_1024_w": 768,
+                "thumb_1024_h": 1024,
+                "original_w": 2448,
+                "original_h": 3264,
+                "thumb_tiny": "AwAwACR+ecDv0zSgIOrZ+lQTIWw3TFKpVVALcnjFIaQ98llCggd\/epAo6mkjyRgjgDrRkkHB5oExcnstGW9KbluzGjL\/AN4\/lQIYBuJUHFRtO4Uoy4b1p6B2AKkfjSSI\/VlGfUGmUJFIXYKenrU2fm7YqvAhBJbj04qyOOhHShiFwPXFGB6\/rSBz3AP1o3f7K\/lSAhTfCcEcetSs37ssewqIXIKbSuc0+MEjYxByOxpjBGZwzDoMcHrSEN1\/OmbTGxB6rT19RSEPBGPu5pcj+5+lR70HBo8xKYH\/2Q==",
+                "permalink": "https:\/\/muchimemo.slack.com\/files\/U017LVA457X\/F03NNT65N07\/img_1614_original.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T014MVD863E-F03NNT65N07-7282867e6f",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U017LVA457X",
+        "display_as_bot": false,
+        "ts": "1657573679.539619",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U03N2KMPR6H",
+                    "U01M8BTNR7C",
+                    "U0188J8KHE0",
+                    "U01P6E9P3J5",
+                    "U017FMU5XTQ",
+                    "U029MKK3W4E"
+                ],
+                "count": 6
+            },
+            {
+                "name": "two_hearts",
+                "users": [
+                    "U017L1ARLJX",
+                    "U017YHF4ZG9",
+                    "U03N2KMPR6H",
+                    "U0188J8KHE0",
+                    "U01P6E9P3J5"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "client_msg_id": "01732FAE-ADF0-4468-BC77-9F56C35D805A",
+        "type": "message",
+        "text": "前にもこちらに貼った写真ですが、再掲。\n小豆が、我が家の家族になったころのです。",
+        "user": "U017LVA457X",
+        "ts": "1657573786.425789",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "ab08cd7206d5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-23\/1260372537906_ab08cd7206d5061995ec_72.png",
+            "first_name": "Nakaji",
+            "real_name": "Nakaji",
+            "display_name": "Nakaji",
+            "team": "T014MVD863E",
+            "name": "nakaji352002",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "V8uFr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "前にもこちらに貼った写真ですが、再掲。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "小豆が、我が家の家族になったころのです。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3879BE53-7EEC-414B-A6C4-5624C0403DE0",
+        "type": "message",
+        "text": "用意したハーネスがゆるゆるで、この日の晩、ひとまわり小さいハーネス買いに走った！",
+        "user": "U017LVA457X",
+        "ts": "1657573834.040019",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "ab08cd7206d5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-23\/1260372537906_ab08cd7206d5061995ec_72.png",
+            "first_name": "Nakaji",
+            "real_name": "Nakaji",
+            "display_name": "Nakaji",
+            "team": "T014MVD863E",
+            "name": "nakaji352002",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gHdU1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "用意したハーネスがゆるゆるで、この日の晩、ひとまわり小さいハーネス買いに走った"
+                            },
+                            {
+                                "type": "text",
+                                "text": "！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "646D750F-5445-4D97-B02E-72A963C4B058",
+        "type": "message",
+        "text": "うちに来たころは、小豆の目が悲しげで、お母さん、お父さん、ブリーダーさん、大きな\n納屋が、懐かしいのかと心配しました。",
+        "user": "U017LVA457X",
+        "ts": "1657573923.670279",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "ab08cd7206d5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-23\/1260372537906_ab08cd7206d5061995ec_72.png",
+            "first_name": "Nakaji",
+            "real_name": "Nakaji",
+            "display_name": "Nakaji",
+            "team": "T014MVD863E",
+            "name": "nakaji352002",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NhE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "うちに来たころは、小豆の目が悲しげで、お母さん、お父さん、ブリーダーさん、大きな"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "納屋が、懐かしいのかと心配しました。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

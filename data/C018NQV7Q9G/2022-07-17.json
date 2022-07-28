@@ -1,0 +1,590 @@
+[
+    {
+        "client_msg_id": "A6C89900-1418-4CDD-9838-DAA860DCA63D",
+        "type": "message",
+        "text": "Kumatta さん、おはこんばんは！\nふむふむ、C S Poe さんは、初めて聞く作家様です。Kumatta さんが読んだ作品でおすすめありますか。\n\n:point_up_2:の作品もNYCが舞台で、H&amp;SのMissouri州の田舎とは全然違って、それも良さそうですね！",
+        "user": "U017LVA457X",
+        "ts": "1658058100.940599",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "ab08cd7206d5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-23\/1260372537906_ab08cd7206d5061995ec_72.png",
+            "first_name": "Nakaji",
+            "real_name": "Nakaji",
+            "display_name": "Nakaji",
+            "team": "T014MVD863E",
+            "name": "nakaji352002",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U017LVA457X",
+            "ts": "1658080581.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4BEp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Kumatta さん、おはこんばんは！"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ふむふむ、C S Poe さんは、初めて聞く作家様です。Kumatta さんが読んだ作品でおすすめありますか。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "point_up_2",
+                                "unicode": "1f446"
+                            },
+                            {
+                                "type": "text",
+                                "text": "の作品もNYCが舞台で、H&SのMissouri州の田舎とは全然違って、それも良さそうですね！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1658058100.940599",
+        "reply_count": 8,
+        "reply_users_count": 2,
+        "latest_reply": "1658268466.834679",
+        "reply_users": [
+            "U03D1UJECGZ",
+            "U017LVA457X"
+        ],
+        "replies": [
+            {
+                "user": "U03D1UJECGZ",
+                "ts": "1658060602.175149"
+            },
+            {
+                "user": "U017LVA457X",
+                "ts": "1658062681.888849"
+            },
+            {
+                "user": "U017LVA457X",
+                "ts": "1658063768.756549"
+            },
+            {
+                "user": "U03D1UJECGZ",
+                "ts": "1658088028.286869"
+            },
+            {
+                "user": "U017LVA457X",
+                "ts": "1658096208.539719"
+            },
+            {
+                "user": "U017LVA457X",
+                "ts": "1658096441.735029"
+            },
+            {
+                "user": "U03D1UJECGZ",
+                "ts": "1658213827.308169"
+            },
+            {
+                "user": "U017LVA457X",
+                "ts": "1658268466.834679"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "DC7AA8A5-DC30-4EC7-91E5-CD5BEC1CBA8B",
+        "type": "message",
+        "text": "Snow &amp; Winterというシリーズがいちばん長く続いてるかな？ まだわたしもシリーズを読み切っていないのですが、落ち着いた文章やキャラクターの雰囲気など、自分の好みに合っていることもあって、気に入っています。あとは、このシリーズとうっすら脇役つながりがあるMadison Square Murdersも、楽しんで読みました。（秋の続刊が楽しみです）\n\nAsheさんもC. S. Poeさんも文章が巧みだし、どちらもミステリ部分を大切にしているようなので共通点もあるのですが、作風はまたそれぞれ違う感じなので（Poeさんは普段はミステリを絡めた「ロマンス」という雰囲気なので）共作がどんな作品に仕上がっているのか楽しみです。",
+        "user": "U03D1UJECGZ",
+        "ts": "1658060602.175149",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "a7dde0607f3e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-24\/3431416808738_a7dde0607f3e669535b6_72.png",
+            "first_name": "Kumatta",
+            "real_name": "Kumatta",
+            "display_name": "Kumatta",
+            "team": "T014MVD863E",
+            "name": "maki.terao",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U03D1UJECGZ",
+            "ts": "1658213878.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "auIKI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Snow & Winterというシリーズがいちばん長く続いてるかな？ まだわたしもシリーズを読み切っていないのですが、落ち着いた文章やキャラクターの雰囲気など、自分の好みに合っていることもあって、気に入っています。あとは、このシリーズとうっすら脇役つながりがあるMadison Square Murdersも、楽しんで読みました。（秋の続刊が楽しみです）\n\nAsheさんもC. S. Poeさんも文章が巧みだし、どちらもミステリ部分を大切にしているようなので共通点もあるのですが、作風はまたそれぞれ違う感じなので（Poeさんは普段はミステリを絡めた「ロマンス」という雰囲気なので）共作がどんな作品に仕上がっているのか楽しみです。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1658058100.940599",
+        "parent_user_id": "U017LVA457X"
+    },
+    {
+        "client_msg_id": "5ED0030A-E4F5-4FA5-B102-D15E589DEE0C",
+        "type": "message",
+        "text": "Kumatta さん、早速のお返事ありがとう:blush:ございます\nSnow &amp; Winterシリーズですね。\nいいですねー、HSでロマンスに飢えてきているので、今の読んでる６巻読み終えたら、 HSは、ひとまず休憩しようと思っているので、前回お薦めいただいたC at先生のロードトリップの作品読みたいなと思います。\n\nそれとは別に今月の読書会の課題作品のドラッグチェイスシリーズをオーディブルで聴いていて、時間が足りないです！\n\nHSにハマりすぎてこの2ヶ月ほんとこのシリーズのみだったので、久しぶりに、日本語BL小説や漫画も読みたいです！",
+        "user": "U017LVA457X",
+        "ts": "1658062681.888849",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "ab08cd7206d5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-23\/1260372537906_ab08cd7206d5061995ec_72.png",
+            "first_name": "Nakaji",
+            "real_name": "Nakaji",
+            "display_name": "Nakaji",
+            "team": "T014MVD863E",
+            "name": "nakaji352002",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U017LVA457X",
+            "ts": "1658080322.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xs3a",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Kumatta さん、早速のお返事ありがとう"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "blush",
+                                "unicode": "1f60a"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ございます"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Snow & Winterシリーズですね。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "いいですねー、HSでロマンスに飢えてきているので、今の読んでる６巻読み終えたら、 HSは、ひとまず休憩しようと思っているので、前回お薦めいただいたC at先生のロードトリップの作品読みたいなと思います。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nそれとは別に今月の読書会の課題作品のドラッグチェイスシリーズをオーディブルで聴いていて、時間が足りないです！"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nHSにハマりすぎてこの2ヶ月ほんとこのシリーズのみだったので、久しぶりに、日本語BL小説や漫画も読みたいです！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1658058100.940599",
+        "parent_user_id": "U017LVA457X"
+    },
+    {
+        "client_msg_id": "A3C4D581-53EA-4B33-9BEB-7AE4DF616C5C",
+        "type": "message",
+        "text": "ちなみに、恥ずかしながら、Kumatta さんが、感想でよくおっしゃる好みの文体とか私の英語レベルだと実はよくわからないです。\n\n私がけっこう引き合いに出すのは、いわゆるベストセラー作家様の文はとにかく読みやすいという事実。\n\n例えば大好きミステリーだとMichael Connelly 大先生の作品だともー、スルスル読める。\n単語も、変に凝ったの使ってないし、綿密なリサーチで警察内部の様子やアメリカの法務執行機関についても間違いがない。で、ストーリーが超面白い、とさすがにベストセラー作家様です。この方の文体だと凄く読みやすい。\n\n\n文体といえば、以前ハマった大統領とシークレットサービスのラブロマンスで、あまりに同じ単語を何度も同じ章で使うんで、あー、プロの編集さんのチェックが入ってないな、自己出版系かなと感じ、巻数が続くにつれ、その単調さが嫌になってしまった記憶があります。一二巻までは、すごーくよかったんですが、だんだん単調な語句の使い方が、はなについてきてしまいました。あれが、いわゆる好みでない文体だったのかな。。\n\nストーリーも始めはもうすごく良かったのですが、だんだんハリウッド映画の出来損ないみたくなっちゃて。\nもちろん個人の感想です。\n\nその点HSは、今の所どんどんよくなってく。中弛みもないし。\n\n",
+        "user": "U017LVA457X",
+        "ts": "1658063768.756549",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "ab08cd7206d5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-23\/1260372537906_ab08cd7206d5061995ec_72.png",
+            "first_name": "Nakaji",
+            "real_name": "Nakaji",
+            "display_name": "Nakaji",
+            "team": "T014MVD863E",
+            "name": "nakaji352002",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U017LVA457X",
+            "ts": "1658080675.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FJzp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ちなみに、恥ずかしながら、Kumatta さんが、感想でよくおっしゃる好みの文体とか私の英語レベルだと実はよくわからないです。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n私がけっこう引き合いに出すのは、いわゆるベストセラー作家様の文はとにかく読みやすいという事実。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n例えば大好きミステリーだとMichael Connelly 大先生の作品だともー、スルスル読める。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "単語も、変に凝ったの使ってないし、綿密なリサーチで警察内部の様子やアメリカの法務執行機関についても間違いがない。で、ストーリーが超面白い、とさすがにベストセラー作家様です。この方の文体だと凄く読みやすい。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "文体といえば、以前ハマった大統領とシークレットサービスのラブロマンスで、あまりに同じ単語を何度も同じ章で使うんで、あー、プロの編集さんのチェックが入ってないな、自己出版系かなと感じ、巻数が続くにつれ、その単調さが嫌になってしまった記憶があります。一二巻までは、すごーくよかったんですが、だんだん単調な語句の使い方が、はなについてきてしまいました。あれが、いわゆる好みでない文体だったのかな。。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nストーリーも始めはもうすごく良かったのですが、だんだんハリウッド映画の出来損ないみたくなっちゃて。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "もちろん個人の感想です。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "その点HSは、今の所どんどんよくなってく。中弛みもないし。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1658058100.940599",
+        "parent_user_id": "U017LVA457X"
+    },
+    {
+        "client_msg_id": "B043B4BE-281A-4868-96EB-47DBB2D5C7F7",
+        "type": "message",
+        "text": "文章から伝わってくる雰囲気や印象（ぼんやりしていてごめんなさい）みたいなものというか…\n\nどの人が書く文章にもテクスチャーのような温度のような硬度のような…なんというか、たたずまいっぽいものがあって、結果的には作品から受ける印象にも関わってくるような感じです。日本語の本でも同じような感覚があります。\n\nでも、作品全体で見たときには、例えばリサーチや考証がきちんとなされているか〜とか、キャラクターがしっかり描かれてるか〜とか、あり得ないプロットだったりしないか〜みたいな重要な要素がたくさんあって、そのどれが足りなくても安心して物語を楽しめないので、まずはそういうところがしっかりしているのが必須条件だな…\n\nそういうことに気を取られず、集中して楽しめる本が、私にとっては「読みやすい」本かもしれません〜\n\nでも、読みにくい文章でなければ（そもそも文の体裁が整っていないとか、語彙が極端に乏しいとか…）けっこうなんでも楽しんで読んでしまう方です。\n\nとはいえ、どうしても我慢できなくて途中で放棄しちゃう本もときどきあります…\n\n（同じ言葉・表現ばかりでさすがにイラッとしてきてリタイア…ということもあったので、Nakajiさんが挙げていらした例、同じ作品ではないのですが、よくわかります！）",
+        "user": "U03D1UJECGZ",
+        "ts": "1658088028.286869",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "a7dde0607f3e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-24\/3431416808738_a7dde0607f3e669535b6_72.png",
+            "first_name": "Kumatta",
+            "real_name": "Kumatta",
+            "display_name": "Kumatta",
+            "team": "T014MVD863E",
+            "name": "maki.terao",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U03D1UJECGZ",
+            "ts": "1658088450.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EB0=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "文章から伝わってくる雰囲気や印象（ぼんやりしていてごめんなさい）みたいなものというか…"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nどの人が書く文章にもテクスチャーのような温度のような硬度のような…なんというか、たたずまいっぽいものがあって、結果的には作品から受ける印象にも関わってくるような感じです。日本語の本でも同じような感覚があります。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nでも、作品全体で見たときには、例えばリサーチや考証がきちんとなされているか〜とか、キャラクターがしっかり描かれてるか〜とか、あり得ないプロットだったりしないか〜みたいな重要な要素がたくさんあって、そのどれが足りなくても安心して物語を楽しめないので、まずはそういうところがしっかりしているのが必須条件だな…"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "そういうことに気を取られず、集中して楽しめる本が、私にとっては「読みやすい」本かもしれません〜"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nでも、読みにくい文章でなければ（そもそも文の体裁が整っていないとか、語彙が極端に乏しいとか…）けっこうなんでも楽しんで読んでしまう方です。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nとはいえ、どうしても我慢できなくて途中で放棄しちゃう本もときどきあります…"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n（同じ言葉・表現ばかりでさすがにイラッとしてきてリタイア…ということもあったので、Nakajiさんが挙げていらした例、同じ作品ではないのですが、よくわかります！）"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1658058100.940599",
+        "parent_user_id": "U017LVA457X"
+    },
+    {
+        "client_msg_id": "C6FA71F4-ECA5-4D1F-96C3-4D4BA8BA4A7A",
+        "type": "message",
+        "text": "ご丁寧な説明有難うございます。\n日本語だと、私の理解力が英語より高いので、多少拙い作品であってもストーリーが良ければ(好みであれば) 読んでしまうんですが、英語だと、やっぱり心のどこかに日本語に比べめんどいっていうのがあって、もし作者様がちゃんとしていなくて、弱い構成、弱いストーリー展開、プロット、貧弱な語彙だとギブアップする速度が速いです。そして残念ながら、そういう作品に遭遇する可能性がMM界隈では多々あると思います。\n\nKumattaさんが説明してくださった、文章のテクスチャーとか温度とか硬度、、、というところまで読み込めていないのかなと思います。\n文学作品を楽しむために必要な感性とか知性、一般的な英語での知識が必要ですよね。\n\nまあ、その辺りでまだまだ私も足りないのだろうと思います。\n\n羨ましい限りです。",
+        "user": "U017LVA457X",
+        "ts": "1658096208.539719",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "ab08cd7206d5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-23\/1260372537906_ab08cd7206d5061995ec_72.png",
+            "first_name": "Nakaji",
+            "real_name": "Nakaji",
+            "display_name": "Nakaji",
+            "team": "T014MVD863E",
+            "name": "nakaji352002",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Vzh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ご丁寧な説明有難うございます。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "日本語だと、私の理解力が英語より高いので、多少拙い作品であってもストーリーが良ければ(好みであれば) 読んでしまうんですが、英語だと、やっぱり心のどこかに日本語に比べめんどいっていうのがあって、もし作者様がちゃんとしていなくて、弱い構成、弱いストーリー展開、プロット、貧弱な語彙だとギブアップする速度が速いです。そして残念ながら、そういう作品に遭遇する可能性がMM界隈では多々あると思います。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nKumattaさんが説明してくださった、文章のテクスチャーとか温度とか硬度、、、というところまで読み込めていないのかなと思います。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "文学作品を楽しむために必要な感性とか知性、一般的な英語での知識が必要ですよね。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nまあ、その辺りでまだまだ私も足りないのだろうと思います。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n羨ましい限りです。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1658058100.940599",
+        "parent_user_id": "U017LVA457X"
+    },
+    {
+        "client_msg_id": "766D52AE-1BB3-4013-9FBB-891E591074C0",
+        "type": "message",
+        "text": "後、私の英語原書読書歴がかなり偏っていて、ほぼベストセラー一般小説、ベストセラーミステリー、MM、政治ものだけで、いわゆる純文学系、政治以外のノンフィクションはほぼ読まないので、色々足りない部分もあります。\n\nあとは、アメリカの大学院がMBAだったので、その時に培った経済、ファイナンス関連の固いレポートとか仕事に関することだけか。\n\nまあ、アメリカ人でも本読まない人いるから、しょうがないですね。",
+        "user": "U017LVA457X",
+        "ts": "1658096441.735029",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "ab08cd7206d5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-23\/1260372537906_ab08cd7206d5061995ec_72.png",
+            "first_name": "Nakaji",
+            "real_name": "Nakaji",
+            "display_name": "Nakaji",
+            "team": "T014MVD863E",
+            "name": "nakaji352002",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U017LVA457X",
+            "ts": "1658096531.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rHsY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "後、私の英語原書読書歴がかなり偏っていて、ほぼベストセラー一般小説、ベストセラーミステリー、MM、政治ものだけで、いわゆる純文学系、政治以外のノンフィクションはほぼ読まないので、色々足りない部分もあります。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nあとは、アメリカの大学院がMBAだったので、その時に培った経済、ファイナンス関連の固いレポートとか仕事に関することだけか。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nまあ、アメリカ人でも本読まない人いるから、しょうがないですね。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1658058100.940599",
+        "parent_user_id": "U017LVA457X"
+    }
+]

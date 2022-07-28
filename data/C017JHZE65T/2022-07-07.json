@@ -1,0 +1,68 @@
+[
+    {
+        "client_msg_id": "5d52801b-e41c-4ea0-a6b2-542bb8aadd8d",
+        "type": "message",
+        "text": "こういうニュース見ると、ドラッグチェイスの２巻が頭を過ります。\nカリフォルニア州で政府がインスリンを製造するってニュースなんですが、このところアメリカでは製薬会社がインスリンを超高額に値上げしてて、生活に困窮する人が増えて問題になっているんですよね。カナダだとかなり安く買えるから、アメリカからわざわざ買いに来る人たちがいるくらいで。\n<https:\/\/twitter.com\/GavinNewsom\/status\/1545122879649374209?s=20&amp;t=3PIRP76-dPE30yiysf14Ew>",
+        "user": "U014UD117ND",
+        "ts": "1657258469.477869",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "d661e4a51036",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-30\/1214690186661_d661e4a51036d8b1a2e4_72.jpg",
+            "first_name": "ジーナ",
+            "real_name": "ジーナ",
+            "display_name": "ジーナ",
+            "team": "T014MVD863E",
+            "name": "ayumee528",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/twitter.com\/GavinNewsom\/status\/1545122879649374209?s=20&amp;t=3PIRP76-dPE30yiysf14Ew",
+                "ts": 1657220976,
+                "thumb_url": "https:\/\/pbs.twimg.com\/media\/FXFdPAyVEAASuKG.jpg",
+                "thumb_width": 640,
+                "thumb_height": 360,
+                "video_html": "<video controls poster=\"https:\/\/pbs.twimg.com\/media\/FXFdPAyVEAASuKG.jpg\" width=\"640\" height=\"360\"><source type=\"video\/mp4\" src=\"https:\/\/video.twimg.com\/amplify_video\/1545104505951227904\/vid\/1280x720\/yl1Mqd-oxYoUM8fT.mp4?tag=14\"><\/video>",
+                "video_html_width": 640,
+                "video_html_height": 360,
+                "id": 1,
+                "original_url": "https:\/\/twitter.com\/GavinNewsom\/status\/1545122879649374209?s=20&amp;t=3PIRP76-dPE30yiysf14Ew",
+                "fallback": "<https:\/\/twitter.com\/GavinNewsom|@GavinNewsom>: California is going to make its own insulin.\n \nIt’s simple. People should not go into debt to get life-saving medication. <https:\/\/pbs.twimg.com\/media\/FXFdPAyVEAASuKG.jpg>",
+                "text": "California is going to make its own insulin.\n \nIt’s simple. People should not go into debt to get life-saving medication.",
+                "author_name": "Gavin Newsom",
+                "author_link": "https:\/\/twitter.com\/GavinNewsom\/status\/1545122879649374209",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/1405191782984413184\/AJ3ar-ad_normal.jpg",
+                "author_subname": "@GavinNewsom",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/80588\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Y10",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "こういうニュース見ると、ドラッグチェイスの２巻が頭を過ります。\nカリフォルニア州で政府がインスリンを製造するってニュースなんですが、このところアメリカでは製薬会社がインスリンを超高額に値上げしてて、生活に困窮する人が増えて問題になっているんですよね。カナダだとかなり安く買えるから、アメリカからわざわざ買いに来る人たちがいるくらいで。\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/twitter.com\/GavinNewsom\/status\/1545122879649374209?s=20&t=3PIRP76-dPE30yiysf14Ew"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

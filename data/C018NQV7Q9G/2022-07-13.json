@@ -1,0 +1,62 @@
+[
+    {
+        "client_msg_id": "82642636-74D6-4471-9625-D41AE3A41898",
+        "type": "message",
+        "text": "Kumatta さん、感想ありがとうございます、\n休み時間に、またお返事します。",
+        "user": "U017LVA457X",
+        "ts": "1657722973.031709",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "ab08cd7206d5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-23\/1260372537906_ab08cd7206d5061995ec_72.png",
+            "first_name": "Nakaji",
+            "real_name": "Nakaji",
+            "display_name": "Nakaji",
+            "team": "T014MVD863E",
+            "name": "nakaji352002",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "R5xX3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Kumatta さん、感想"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ありがとうございます"
+                            },
+                            {
+                                "type": "text",
+                                "text": "、"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "休み時間に、またお返事"
+                            },
+                            {
+                                "type": "text",
+                                "text": "します。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1657233050.079759",
+        "parent_user_id": "U017LVA457X"
+    }
+]

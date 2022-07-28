@@ -1,0 +1,295 @@
+[
+    {
+        "client_msg_id": "9377d7b1-68d7-4f36-a607-bcd9479836b6",
+        "type": "message",
+        "text": "次回のオンライン読書会は、\n• 日程：7\/24（日）10:00am〜\n• 課題図書：ドラッグチェイスシリーズ\n• ツール：zoom\nで開催しようと思います！\n「絶対に参加したいけどその日程は無理」みたいな要望があれば、教えてくださーい！\n参加希望の方はこのチャンネルで挙手お願いします",
+        "user": "U014UD117ND",
+        "ts": "1656958180.018949",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "d661e4a51036",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-30\/1214690186661_d661e4a51036d8b1a2e4_72.jpg",
+            "first_name": "ジーナ",
+            "real_name": "ジーナ",
+            "display_name": "ジーナ",
+            "team": "T014MVD863E",
+            "name": "ayumee528",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zo9N",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "次回のオンライン読書会は、\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "日程：7\/24（日）10:00am〜"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "課題図書：ドラッグチェイスシリーズ"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "ツール：zoom"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "で開催しようと思います！\n「絶対に参加したいけどその日程は無理」みたいな要望があれば、教えてくださーい！\n参加希望の方はこのチャンネルで挙手お願いします"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1656958180.018949",
+        "reply_count": 4,
+        "reply_users_count": 3,
+        "latest_reply": "1657071850.353529",
+        "reply_users": [
+            "U017YHF4ZG9",
+            "U017LVA457X",
+            "U014UD117ND"
+        ],
+        "replies": [
+            {
+                "user": "U017YHF4ZG9",
+                "ts": "1656999323.030109"
+            },
+            {
+                "user": "U017LVA457X",
+                "ts": "1657029457.941239"
+            },
+            {
+                "user": "U014UD117ND",
+                "ts": "1657056897.159559"
+            },
+            {
+                "user": "U017YHF4ZG9",
+                "ts": "1657071850.353529"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1657071850.353529",
+        "reactions": [
+            {
+                "name": "woman-raising-hand",
+                "users": [
+                    "U01PZK3KK97",
+                    "U017LVA457X",
+                    "U01P6E9P3J5"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6D2F11EE-2539-46CF-AC24-A95F8BEB639E",
+        "type": "message",
+        "text": "ジーナさん、こんばんは！\nお忙しい中読書会企画してくださってありがとうございます:blush:\nすごく楽しみです。是非参加でお願いいたします:palms_up_together:\nドラッグチェイスシリーズ5巻で止まってしまってます。どーしよ",
+        "user": "U017LVA457X",
+        "ts": "1656969912.801989",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "ab08cd7206d5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-23\/1260372537906_ab08cd7206d5061995ec_72.png",
+            "first_name": "Nakaji",
+            "real_name": "Nakaji",
+            "display_name": "Nakaji",
+            "team": "T014MVD863E",
+            "name": "nakaji352002",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/rry",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ジーナさん、こんばんは！"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "お忙しい中読書会企画してくださってありがとう"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ございます"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "blush",
+                                "unicode": "1f60a"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "すごく楽しみです。是非参加でお願いいたします"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "palms_up_together",
+                                "unicode": "1f932"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ドラッグチェイスシリーズ5巻で止まってしまってます。どーしよ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "F73A9A61-07C0-4722-AC72-1CE897FFD1E6",
+        "type": "message",
+        "text": "しかもだいぶ前にオーディブルで聴了のみ。詳しく覚えてないです。。。。。",
+        "user": "U017LVA457X",
+        "ts": "1656969954.004919",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "ab08cd7206d5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-23\/1260372537906_ab08cd7206d5061995ec_72.png",
+            "first_name": "Nakaji",
+            "real_name": "Nakaji",
+            "display_name": "Nakaji",
+            "team": "T014MVD863E",
+            "name": "nakaji352002",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fIlZl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "しかもだいぶ前にオーディブルで聴了のみ。詳しく覚えて"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ないです。。。。。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6B5E846F-A867-4367-9673-34CF6D8BFCB6",
+        "type": "message",
+        "text": "参加したいのですが、その日は予定が…っ。31か17なら大丈夫なのですが。\nでも多数決で24がベストでしたら、予定をなんとかして参加いたします。",
+        "user": "U017YHF4ZG9",
+        "ts": "1656999323.030109",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "8b538c52795e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-23\/1256603203669_8b538c52795ebb5c006a_72.jpg",
+            "first_name": "",
+            "real_name": "Ayu Yamane",
+            "display_name": "Ayu Yamane",
+            "team": "T014MVD863E",
+            "name": "ayu76mi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "b9z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "参加したいのですが、その日は予定が…っ。31か17なら大丈夫なのですが。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "でも多数決で24がベストでしたら、予定をなんとかして参加いたします"
+                            },
+                            {
+                                "type": "text",
+                                "text": "。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1656958180.018949",
+        "parent_user_id": "U014UD117ND"
+    }
+]

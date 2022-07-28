@@ -1,0 +1,851 @@
+[
+    {
+        "client_msg_id": "b2031b75-0394-4762-acc0-7208e56824fd",
+        "type": "message",
+        "text": "しばらくtwitter開くと面倒な憶測や意見が飛び交ってそうなので、私はメガネ兄さん見ときます。先ほど胃痛の彼を甲斐甲斐しく看病してました。っていうか、家が同じアパートのドア向かいって？！",
+        "user": "U014UD117ND",
+        "ts": "1657320654.021079",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "d661e4a51036",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-30\/1214690186661_d661e4a51036d8b1a2e4_72.jpg",
+            "first_name": "ジーナ",
+            "real_name": "ジーナ",
+            "display_name": "ジーナ",
+            "team": "T014MVD863E",
+            "name": "ayumee528",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "peWK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "しばらくtwitter開くと面倒な憶測や意見が飛び交ってそうなので、私はメガネ兄さん見ときます。先ほど胃痛の彼を甲斐甲斐しく看病してました。っていうか、家が同じアパートのドア向かいって？！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "ジーナさんの目の保養？になればと、昨日フォロワさんからもらったメガネ兄さんの中の人のカレンダーの画像を置いておきます。これ、どういうシチュやねん妄想でかなり遊べました。",
+        "files": [
+            {
+                "id": "F03PL15D880",
+                "created": 1657321891,
+                "timestamp": 1657321891,
+                "name": "iOS の画像.jpg",
+                "title": "iOS の画像",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U01PZK3KK97",
+                "editable": false,
+                "size": 144407,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T014MVD863E-F03PL15D880\/ios__________.jpg?t=xoxe-1157999278116-3857408361221-3860360080994-c56323778919f0e36b19cc92870aef60",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T014MVD863E-F03PL15D880\/download\/ios__________.jpg?t=xoxe-1157999278116-3857408361221-3860360080994-c56323778919f0e36b19cc92870aef60",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T014MVD863E-F03PL15D880-4bcd93561d\/ios___________64.jpg?t=xoxe-1157999278116-3857408361221-3860360080994-c56323778919f0e36b19cc92870aef60",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T014MVD863E-F03PL15D880-4bcd93561d\/ios___________80.jpg?t=xoxe-1157999278116-3857408361221-3860360080994-c56323778919f0e36b19cc92870aef60",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T014MVD863E-F03PL15D880-4bcd93561d\/ios___________360.jpg?t=xoxe-1157999278116-3857408361221-3860360080994-c56323778919f0e36b19cc92870aef60",
+                "thumb_360_w": 270,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T014MVD863E-F03PL15D880-4bcd93561d\/ios___________480.jpg?t=xoxe-1157999278116-3857408361221-3860360080994-c56323778919f0e36b19cc92870aef60",
+                "thumb_480_w": 360,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T014MVD863E-F03PL15D880-4bcd93561d\/ios___________160.jpg?t=xoxe-1157999278116-3857408361221-3860360080994-c56323778919f0e36b19cc92870aef60",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T014MVD863E-F03PL15D880-4bcd93561d\/ios___________720.jpg?t=xoxe-1157999278116-3857408361221-3860360080994-c56323778919f0e36b19cc92870aef60",
+                "thumb_720_w": 540,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T014MVD863E-F03PL15D880-4bcd93561d\/ios___________800.jpg?t=xoxe-1157999278116-3857408361221-3860360080994-c56323778919f0e36b19cc92870aef60",
+                "thumb_800_w": 600,
+                "thumb_800_h": 800,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T014MVD863E-F03PL15D880-4bcd93561d\/ios___________960.jpg?t=xoxe-1157999278116-3857408361221-3860360080994-c56323778919f0e36b19cc92870aef60",
+                "thumb_960_w": 720,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T014MVD863E-F03PL15D880-4bcd93561d\/ios___________1024.jpg?t=xoxe-1157999278116-3857408361221-3860360080994-c56323778919f0e36b19cc92870aef60",
+                "thumb_1024_w": 768,
+                "thumb_1024_h": 1024,
+                "original_w": 768,
+                "original_h": 1024,
+                "thumb_tiny": "AwAwACSYo+Pu03hAAzKPqasZDA7SCRxx2rK8ppicHMgPOaVhlt5Co+RQ\/wBDQPMMTMseD2BNJaR+WzRPtJ+8KsMMDAFKwGa1xcIxVuD6YpPtU\/8AlasyzGOQqFzim\/aW\/uigLGgFA3Y78moZIlKlgdp6kjvU\/rVO7YhVA+tMQyFy2ZANp7cVOspYjdjnjNVI3y5GeMDFPH+rLZ6UwLEkKs5P9Kb5C\/5FRS3hWQjYDjHOfamfbj\/zzH50rDuaWODVC6P75R\/s1d3g\/wAQ\/OmPHFIBuwcdOaLgZ0YKswIPNTuNsQXP51Y8iEcg\/wDj1MkjiPViPoaLgU3h3sWLYP0pv2Yf3\/0qcnk96M0rgf\/Z",
+                "permalink": "https:\/\/muchimemo.slack.com\/files\/U01PZK3KK97\/F03PL15D880\/ios__________.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T014MVD863E-F03PL15D880-444277c51f",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U01PZK3KK97",
+        "display_as_bot": false,
+        "ts": "1657321906.027959",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ghaJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ジーナさんの目の保養？になればと、昨日フォロワさんからもらったメガネ"
+                            },
+                            {
+                                "type": "text",
+                                "text": "兄さんの"
+                            },
+                            {
+                                "type": "text",
+                                "text": "中の人のカレンダーの画像を置いておきます。これ、どういうシチュやねん妄想でかなり遊べました。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "EF7115DD-62CF-48F3-8BAA-B192E921A4FA"
+    },
+    {
+        "client_msg_id": "6fb41ffa-cb42-42cb-8739-677ff1758517",
+        "type": "message",
+        "text": "なにそのシチュエーション:rolling_on_the_floor_laughing:（いいぞ、もっとやれ！）",
+        "user": "U014UD117ND",
+        "ts": "1657321945.900399",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "d661e4a51036",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-30\/1214690186661_d661e4a51036d8b1a2e4_72.jpg",
+            "first_name": "ジーナ",
+            "real_name": "ジーナ",
+            "display_name": "ジーナ",
+            "team": "T014MVD863E",
+            "name": "ayumee528",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0S2y6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "なにそのシチュエーション"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "rolling_on_the_floor_laughing",
+                                "unicode": "1f923"
+                            },
+                            {
+                                "type": "text",
+                                "text": "（いいぞ、もっとやれ！）"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "私はいつも中の人の生態やグッズは一切興味ないんですが、さすがにどういう心境で撮ったんだろうと、、、心配になりました:rolling_on_the_floor_laughing::rolling_on_the_floor_laughing::rolling_on_the_floor_laughing:\nちなみに6月がこのテンションらしいです:rolling_on_the_floor_laughing:\nコレをめくったらアレ。",
+        "files": [
+            {
+                "id": "F03NYLLKY1J",
+                "created": 1657322041,
+                "timestamp": 1657322041,
+                "name": "iOS の画像.jpg",
+                "title": "iOS の画像",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U01PZK3KK97",
+                "editable": false,
+                "size": 90401,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T014MVD863E-F03NYLLKY1J\/ios__________.jpg?t=xoxe-1157999278116-3857408361221-3860360080994-c56323778919f0e36b19cc92870aef60",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T014MVD863E-F03NYLLKY1J\/download\/ios__________.jpg?t=xoxe-1157999278116-3857408361221-3860360080994-c56323778919f0e36b19cc92870aef60",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T014MVD863E-F03NYLLKY1J-3d7a7f0f2d\/ios___________64.jpg?t=xoxe-1157999278116-3857408361221-3860360080994-c56323778919f0e36b19cc92870aef60",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T014MVD863E-F03NYLLKY1J-3d7a7f0f2d\/ios___________80.jpg?t=xoxe-1157999278116-3857408361221-3860360080994-c56323778919f0e36b19cc92870aef60",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T014MVD863E-F03NYLLKY1J-3d7a7f0f2d\/ios___________360.jpg?t=xoxe-1157999278116-3857408361221-3860360080994-c56323778919f0e36b19cc92870aef60",
+                "thumb_360_w": 270,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T014MVD863E-F03NYLLKY1J-3d7a7f0f2d\/ios___________480.jpg?t=xoxe-1157999278116-3857408361221-3860360080994-c56323778919f0e36b19cc92870aef60",
+                "thumb_480_w": 360,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T014MVD863E-F03NYLLKY1J-3d7a7f0f2d\/ios___________160.jpg?t=xoxe-1157999278116-3857408361221-3860360080994-c56323778919f0e36b19cc92870aef60",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T014MVD863E-F03NYLLKY1J-3d7a7f0f2d\/ios___________720.jpg?t=xoxe-1157999278116-3857408361221-3860360080994-c56323778919f0e36b19cc92870aef60",
+                "thumb_720_w": 540,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T014MVD863E-F03NYLLKY1J-3d7a7f0f2d\/ios___________800.jpg?t=xoxe-1157999278116-3857408361221-3860360080994-c56323778919f0e36b19cc92870aef60",
+                "thumb_800_w": 600,
+                "thumb_800_h": 800,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T014MVD863E-F03NYLLKY1J-3d7a7f0f2d\/ios___________960.jpg?t=xoxe-1157999278116-3857408361221-3860360080994-c56323778919f0e36b19cc92870aef60",
+                "thumb_960_w": 720,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T014MVD863E-F03NYLLKY1J-3d7a7f0f2d\/ios___________1024.jpg?t=xoxe-1157999278116-3857408361221-3860360080994-c56323778919f0e36b19cc92870aef60",
+                "thumb_1024_w": 768,
+                "thumb_1024_h": 1024,
+                "original_w": 768,
+                "original_h": 1024,
+                "thumb_tiny": "AwAwACRI4pSAwU4NSBmBww5\/z\/jU9uMQIM5wOtMnfDKucZ70rDG7WdMqOvvS7G5AAyKiti32gjJ24OatL\/rX+gosBWdbjd8iLj3NN23f9yP86u0UWAitceQmDxjv9aSYAnOaitHzboPTP86lbD5X+dACwsCmeOacvMknpx\/KmqoUfSnqcg+1ADgoUYAxS0gpaAKMIKQ4XAAz1NTKwCgZqCKTavK9eeal87\/ZH50gHlhjrSwfxk4wTxz7VGJ\/9gfnS+d\/sD86ALGR6j86Mj1H51X87\/YH50ed\/sD86Lgf\/9k=",
+                "permalink": "https:\/\/muchimemo.slack.com\/files\/U01PZK3KK97\/F03NYLLKY1J\/ios__________.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T014MVD863E-F03NYLLKY1J-1dc7a72867",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U01PZK3KK97",
+        "display_as_bot": false,
+        "ts": "1657322063.924619",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EnRPA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "私はいつも中の"
+                            },
+                            {
+                                "type": "text",
+                                "text": "人"
+                            },
+                            {
+                                "type": "text",
+                                "text": "の生態やグッズは一切興味ないんですが、さすがにどういう心境で撮ったんだろうと、、、心配になりました"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "rolling_on_the_floor_laughing",
+                                "unicode": "1f923"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "rolling_on_the_floor_laughing",
+                                "unicode": "1f923"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "rolling_on_the_floor_laughing",
+                                "unicode": "1f923"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ちなみに"
+                            },
+                            {
+                                "type": "text",
+                                "text": "6"
+                            },
+                            {
+                                "type": "text",
+                                "text": "月がこのテンションらしいです"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "rolling_on_the_floor_laughing",
+                                "unicode": "1f923"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "コレをめくったらアレ。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "FCF4BB24-4404-4542-A0B1-F99D4C4A65FF"
+    },
+    {
+        "client_msg_id": "A8B09557-0D88-4237-8AF2-5E39BF2C7E73",
+        "type": "message",
+        "text": "カレンダー作った人は、ますますどういう心境なんだろう:rolling_on_the_floor_laughing::rolling_on_the_floor_laughing::rolling_on_the_floor_laughing:",
+        "user": "U01PZK3KK97",
+        "ts": "1657322169.560819",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "g7edbb069a07",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/7edbb069a07e3786ca21d16d29a8c001.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "",
+            "real_name": "はるまき",
+            "display_name": "",
+            "team": "T014MVD863E",
+            "name": "halsiyon5",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/yc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "カレンダー作った人は、ますますどういう心境なんだろう"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "rolling_on_the_floor_laughing",
+                                "unicode": "1f923"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "rolling_on_the_floor_laughing",
+                                "unicode": "1f923"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "rolling_on_the_floor_laughing",
+                                "unicode": "1f923"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1dd56e44-18cc-4384-8cbc-d32292ae552b",
+        "type": "message",
+        "text": "私も中の人には全然興味がないタイプなんですが、というか、陳情令等の古装作品だと、古装と現代っ子な中の人とのギャップが激しくて中の人に萌えない、という感じなんですが、鎮魂はそもそもキャラが現代っぽいので、違和感なく中の人にも萌えを感じてしまう気がする…",
+        "user": "U014UD117ND",
+        "ts": "1657323318.576809",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "d661e4a51036",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-30\/1214690186661_d661e4a51036d8b1a2e4_72.jpg",
+            "first_name": "ジーナ",
+            "real_name": "ジーナ",
+            "display_name": "ジーナ",
+            "team": "T014MVD863E",
+            "name": "ayumee528",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JO\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "私も中の人には全然興味がないタイプなんですが、というか、陳情令等の古装作品だと、古装と現代っ子な中の人とのギャップが激しくて中の人に萌えない、という感じなんですが、鎮魂はそもそもキャラが現代っぽいので、違和感なく中の人にも萌えを感じてしまう気がする…"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "rolling_on_the_floor_laughing",
+                "users": [
+                    "U01PZK3KK97"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0c68f37b-5e52-4adb-9cab-7877c5e93dc6",
+        "type": "message",
+        "text": "っていうか、なんだその６月。あざとくないか:rolling_on_the_floor_laughing:",
+        "user": "U014UD117ND",
+        "ts": "1657323375.020159",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "d661e4a51036",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-30\/1214690186661_d661e4a51036d8b1a2e4_72.jpg",
+            "first_name": "ジーナ",
+            "real_name": "ジーナ",
+            "display_name": "ジーナ",
+            "team": "T014MVD863E",
+            "name": "ayumee528",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kHo8S",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "っていうか、なんだその６月。あざとくないか"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "rolling_on_the_floor_laughing",
+                                "unicode": "1f923"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ede8bbfd-428d-48c4-ac84-7b5b18c4d425",
+        "type": "message",
+        "text": "もうこのカレンダーのシチュエーションをドラマにして:exclamation:\n世間のニュースが辛いのでメガネ兄さん２周目いくか、はるまきさんが見始めた墓荒らしもの(？)にいくかプチ迷い中です。",
+        "user": "U017FMU5XTQ",
+        "ts": "1657325159.443249",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "bea7a407721c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-26\/1263539336931_bea7a407721cebe3595a_72.jpg",
+            "first_name": "",
+            "real_name": "めい",
+            "display_name": "めい",
+            "team": "T014MVD863E",
+            "name": "megmon24",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U017FMU5XTQ",
+            "ts": "1657325204.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Cus2c",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "もうこのカレンダーのシチュエーションをドラマにして"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "exclamation",
+                                "unicode": "2757"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n世間のニュースが辛いのでメガネ兄さん２周目いくか、はるまきさんが見始めた墓荒らしもの(？)にいくかプチ迷い中です。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "めいさん、墓荒らしオススメです。\n説明が難しいので下図に示しますと、主人公のチーム（鉄三角）のうち、小哥という長生きのフード兄さんがいまして、そのフード兄さんを神のごとく崇めるドルオタの子がですね、めちゃくちゃカワイイのです。メガネ兄さん目当てで見ましたが、もうこのドルオタ目当てで見ています。",
+        "files": [
+            {
+                "id": "F03P912HVFB",
+                "created": 1657326128,
+                "timestamp": 1657326128,
+                "name": "iOS の画像.jpg",
+                "title": "iOS の画像",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U01PZK3KK97",
+                "editable": false,
+                "size": 192144,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T014MVD863E-F03P912HVFB\/ios__________.jpg?t=xoxe-1157999278116-3857408361221-3860360080994-c56323778919f0e36b19cc92870aef60",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T014MVD863E-F03P912HVFB\/download\/ios__________.jpg?t=xoxe-1157999278116-3857408361221-3860360080994-c56323778919f0e36b19cc92870aef60",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T014MVD863E-F03P912HVFB-0f342c99b0\/ios___________64.jpg?t=xoxe-1157999278116-3857408361221-3860360080994-c56323778919f0e36b19cc92870aef60",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T014MVD863E-F03P912HVFB-0f342c99b0\/ios___________80.jpg?t=xoxe-1157999278116-3857408361221-3860360080994-c56323778919f0e36b19cc92870aef60",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T014MVD863E-F03P912HVFB-0f342c99b0\/ios___________360.jpg?t=xoxe-1157999278116-3857408361221-3860360080994-c56323778919f0e36b19cc92870aef60",
+                "thumb_360_w": 279,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T014MVD863E-F03P912HVFB-0f342c99b0\/ios___________480.jpg?t=xoxe-1157999278116-3857408361221-3860360080994-c56323778919f0e36b19cc92870aef60",
+                "thumb_480_w": 372,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T014MVD863E-F03P912HVFB-0f342c99b0\/ios___________160.jpg?t=xoxe-1157999278116-3857408361221-3860360080994-c56323778919f0e36b19cc92870aef60",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T014MVD863E-F03P912HVFB-0f342c99b0\/ios___________720.jpg?t=xoxe-1157999278116-3857408361221-3860360080994-c56323778919f0e36b19cc92870aef60",
+                "thumb_720_w": 558,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T014MVD863E-F03P912HVFB-0f342c99b0\/ios___________800.jpg?t=xoxe-1157999278116-3857408361221-3860360080994-c56323778919f0e36b19cc92870aef60",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1033,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T014MVD863E-F03P912HVFB-0f342c99b0\/ios___________960.jpg?t=xoxe-1157999278116-3857408361221-3860360080994-c56323778919f0e36b19cc92870aef60",
+                "thumb_960_w": 743,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T014MVD863E-F03P912HVFB-0f342c99b0\/ios___________1024.jpg?t=xoxe-1157999278116-3857408361221-3860360080994-c56323778919f0e36b19cc92870aef60",
+                "thumb_1024_w": 793,
+                "thumb_1024_h": 1024,
+                "original_w": 1668,
+                "original_h": 2154,
+                "thumb_tiny": "AwAwACXSIJOQ2B6Um1v7\/wClOzSZOeaAEBxgHJPrS7hnHP5U3qeQMGnHgf4UALRQOaKAEIz3xTT82AeR6UuMNn160LgEknr60ANz\/nFOGRxS859qawO4YHH0oC48HIooHSigBjkh1AHUcmkHKZZRuxUhGe9IB9aAI8jAPT6E1IDkCgAD1\/OloGFFFFAj\/9k=",
+                "permalink": "https:\/\/muchimemo.slack.com\/files\/U01PZK3KK97\/F03P912HVFB\/ios__________.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T014MVD863E-F03P912HVFB-a6d3547453",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U01PZK3KK97",
+        "display_as_bot": false,
+        "ts": "1657326163.394339",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9BBW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "めいさん、墓荒らしオススメです。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "説明が難しいので下図に示しますと、主人公のチーム（鉄三角"
+                            },
+                            {
+                                "type": "text",
+                                "text": "）"
+                            },
+                            {
+                                "type": "text",
+                                "text": "のうち、小哥という長生きのフード兄さんがいまして、そのフード"
+                            },
+                            {
+                                "type": "text",
+                                "text": "兄さん"
+                            },
+                            {
+                                "type": "text",
+                                "text": "を神のごとく崇めるドルオタの子がですね、めちゃくちゃカワイイのです。メガネ"
+                            },
+                            {
+                                "type": "text",
+                                "text": "兄さん"
+                            },
+                            {
+                                "type": "text",
+                                "text": "目当てで見ましたが、もうこのドルオタ目当てで見ています。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "834BFDCF-F8EF-49C1-8AD3-293E803FE403"
+    },
+    {
+        "client_msg_id": "d7502906-1758-4f27-bd99-28d014b8c36a",
+        "type": "message",
+        "text": "ドルオタ:rolling_on_the_floor_laughing:\nちらっと覗いてみたんですが、鉄三角のガタイのいい人ってサンドイッチマンの人にしか見えないんですが:rolling_on_the_floor_laughing::rolling_on_the_floor_laughing::interrobang:\nよっし、墓荒らしに行くぞ？",
+        "user": "U017FMU5XTQ",
+        "ts": "1657326459.435429",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "bea7a407721c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-26\/1263539336931_bea7a407721cebe3595a_72.jpg",
+            "first_name": "",
+            "real_name": "めい",
+            "display_name": "めい",
+            "team": "T014MVD863E",
+            "name": "megmon24",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Xl\/Wp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ドルオタ"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "rolling_on_the_floor_laughing",
+                                "unicode": "1f923"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nちらっと覗いてみたんですが、鉄三角のガタイのいい人ってサンドイッチマンの人にしか見えないんですが"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "rolling_on_the_floor_laughing",
+                                "unicode": "1f923"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "rolling_on_the_floor_laughing",
+                                "unicode": "1f923"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "interrobang",
+                                "unicode": "2049-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nよっし、墓荒らしに行くぞ？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "E1988EE8-BBAF-49A4-ACD8-C1BD0A9E9176",
+        "type": "message",
+        "text": "レッツ墓荒らし！！！（と言っても私もまだ毎週3話ずつしか見てないので、まだ11話ですが）",
+        "user": "U01PZK3KK97",
+        "ts": "1657326655.916889",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "g7edbb069a07",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/7edbb069a07e3786ca21d16d29a8c001.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "",
+            "real_name": "はるまき",
+            "display_name": "",
+            "team": "T014MVD863E",
+            "name": "halsiyon5",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MQM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "レッツ墓荒らし！！！（と言っても私もまだ毎週3話ずつしか見てないので、まだ11話ですが）"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d8e16a7d-5b8b-4f5b-8d69-da03e14ca9c5",
+        "type": "message",
+        "text": "字面だけ見ると怪しい人になっちゃう(笑)\nちなみに日本語訳ついてるのってあるんですかね？英語のは見つけたんですが。",
+        "user": "U017FMU5XTQ",
+        "ts": "1657327143.045009",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "bea7a407721c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-26\/1263539336931_bea7a407721cebe3595a_72.jpg",
+            "first_name": "",
+            "real_name": "めい",
+            "display_name": "めい",
+            "team": "T014MVD863E",
+            "name": "megmon24",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jiI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "字面だけ見ると怪しい人になっちゃう(笑)\nちなみに日本語訳ついてるのってあるんですかね？英語のは見つけたんですが。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "E58035BF-D27C-40AC-8CE6-95FA232A1287",
+        "type": "message",
+        "text": "日本語はYoutube魔翻訳で見てます:sweat_smile:全体のあらすじと人間関係だけだけさらっと見ておけばそんなにややこしくないですし、めいさんなら英語で全然いけると思いますよ〜",
+        "user": "U01PZK3KK97",
+        "ts": "1657327401.900749",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "g7edbb069a07",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/7edbb069a07e3786ca21d16d29a8c001.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "",
+            "real_name": "はるまき",
+            "display_name": "",
+            "team": "T014MVD863E",
+            "name": "halsiyon5",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CbYp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "日本語はYoutube魔翻訳で見てます"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sweat_smile",
+                                "unicode": "1f605"
+                            },
+                            {
+                                "type": "text",
+                                "text": "全体のあらすじと人間関係だけだけさらっと見ておけばそんなにややこしくないですし、めいさんなら英語で全然いけると思いますよ〜"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ed0fbfd5-c7d9-4b82-83d1-f06a748c500a",
+        "type": "message",
+        "text": "魔翻訳あるんですね。よし、英語版と魔翻訳版で答え合わせできますね:sparkles: 中国語全然できないのがツライ～。ハオしかわからんよ…好…:heart:",
+        "user": "U017FMU5XTQ",
+        "ts": "1657329376.372429",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "bea7a407721c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-26\/1263539336931_bea7a407721cebe3595a_72.jpg",
+            "first_name": "",
+            "real_name": "めい",
+            "display_name": "めい",
+            "team": "T014MVD863E",
+            "name": "megmon24",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2IZv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "魔翻訳あるんですね。よし、英語版と魔翻訳版で答え合わせできますね"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sparkles",
+                                "unicode": "2728"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 中国語全然できないのがツライ～。ハオしかわからんよ…好…"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "heart",
+                                "unicode": "2764-fe0f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

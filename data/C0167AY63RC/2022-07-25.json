@@ -1,0 +1,1218 @@
+[
+    {
+        "type": "message",
+        "text": "<!here> みなさんにご相談です！\nチャットアプリとして使って来たこのslackなんですが、仕様変更で、今までは直近10,000メッセージだけ読めて、それより古いメッセージはアクセス出来ない仕様だったんですが、今後、直近90日間にやりとりされたメッセージだけ読めるようになります。\n\n有料プランだと制限なしで全てのメッセージを読めるんですが、メンバー1人につき$8USD\/月かかるので、有料にはしない予定です。\n\nそこで、どちらか決めたいなと。\n①古いメッセージは読まないので、slackのままでいい\n②メッセージ数に制限のない<https:\/\/discord.com\/|ディスコード>に移行する\n\nディスコードに移行するメリットとして、メッセージ数や期間に制限がない以外には、10人までならビデオ通話も可能なアプリなので、読書会も1ツールでいけるなーという感じです。",
+        "files": [
+            {
+                "id": "F03QZAFAF0C",
+                "created": 1658770936,
+                "timestamp": 1658770936,
+                "name": "Screen Shot 2022-07-22 at 5.38.16 PM.png",
+                "title": "Screen Shot 2022-07-22 at 5.38.16 PM.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U014UD117ND",
+                "editable": false,
+                "size": 96945,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T014MVD863E-F03QZAFAF0C\/screen_shot_2022-07-22_at_5.38.16_pm.png?t=xoxe-1157999278116-3857408361221-3860360080994-c56323778919f0e36b19cc92870aef60",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T014MVD863E-F03QZAFAF0C\/download\/screen_shot_2022-07-22_at_5.38.16_pm.png?t=xoxe-1157999278116-3857408361221-3860360080994-c56323778919f0e36b19cc92870aef60",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T014MVD863E-F03QZAFAF0C-e3a4a445b7\/screen_shot_2022-07-22_at_5.38.16_pm_64.png?t=xoxe-1157999278116-3857408361221-3860360080994-c56323778919f0e36b19cc92870aef60",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T014MVD863E-F03QZAFAF0C-e3a4a445b7\/screen_shot_2022-07-22_at_5.38.16_pm_80.png?t=xoxe-1157999278116-3857408361221-3860360080994-c56323778919f0e36b19cc92870aef60",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T014MVD863E-F03QZAFAF0C-e3a4a445b7\/screen_shot_2022-07-22_at_5.38.16_pm_360.png?t=xoxe-1157999278116-3857408361221-3860360080994-c56323778919f0e36b19cc92870aef60",
+                "thumb_360_w": 360,
+                "thumb_360_h": 66,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T014MVD863E-F03QZAFAF0C-e3a4a445b7\/screen_shot_2022-07-22_at_5.38.16_pm_480.png?t=xoxe-1157999278116-3857408361221-3860360080994-c56323778919f0e36b19cc92870aef60",
+                "thumb_480_w": 480,
+                "thumb_480_h": 88,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T014MVD863E-F03QZAFAF0C-e3a4a445b7\/screen_shot_2022-07-22_at_5.38.16_pm_160.png?t=xoxe-1157999278116-3857408361221-3860360080994-c56323778919f0e36b19cc92870aef60",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T014MVD863E-F03QZAFAF0C-e3a4a445b7\/screen_shot_2022-07-22_at_5.38.16_pm_720.png?t=xoxe-1157999278116-3857408361221-3860360080994-c56323778919f0e36b19cc92870aef60",
+                "thumb_720_w": 720,
+                "thumb_720_h": 133,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T014MVD863E-F03QZAFAF0C-e3a4a445b7\/screen_shot_2022-07-22_at_5.38.16_pm_800.png?t=xoxe-1157999278116-3857408361221-3860360080994-c56323778919f0e36b19cc92870aef60",
+                "thumb_800_w": 800,
+                "thumb_800_h": 147,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T014MVD863E-F03QZAFAF0C-e3a4a445b7\/screen_shot_2022-07-22_at_5.38.16_pm_960.png?t=xoxe-1157999278116-3857408361221-3860360080994-c56323778919f0e36b19cc92870aef60",
+                "thumb_960_w": 960,
+                "thumb_960_h": 177,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T014MVD863E-F03QZAFAF0C-e3a4a445b7\/screen_shot_2022-07-22_at_5.38.16_pm_1024.png?t=xoxe-1157999278116-3857408361221-3860360080994-c56323778919f0e36b19cc92870aef60",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 188,
+                "original_w": 1706,
+                "original_h": 314,
+                "thumb_tiny": "AwAIADCsGjEG3bmQn73oKZken6Cm0UAPyPb9KafpSUUALxRSUUAf\/9k=",
+                "permalink": "https:\/\/muchimemo.slack.com\/files\/U014UD117ND\/F03QZAFAF0C\/screen_shot_2022-07-22_at_5.38.16_pm.png",
+                "permalink_public": "https:\/\/slack-files.com\/T014MVD863E-F03QZAFAF0C-e7e65e2521",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U014UD117ND",
+        "display_as_bot": false,
+        "ts": "1658772330.754439",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Orp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": " みなさんにご相談です！\nチャットアプリとして使って来たこのslackなんですが、仕様変更で、今までは直近10,000メッセージだけ読めて、それより古いメッセージはアクセス出来ない仕様だったんですが、今後、直近90日間にやりとりされたメッセージだけ読めるようになります。\n\n有料プランだと制限なしで全てのメッセージを読めるんですが、メンバー1人につき$8USD\/月かかるので、有料にはしない予定です。\n\nそこで、どちらか決めたいなと。\n①古いメッセージは読まないので、slackのままでいい\n②メッセージ数に制限のない"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/discord.com\/",
+                                "text": "ディスコード"
+                            },
+                            {
+                                "type": "text",
+                                "text": "に移行する\n\nディスコードに移行するメリットとして、メッセージ数や期間に制限がない以外には、10人までならビデオ通話も可能なアプリなので、読書会も1ツールでいけるなーという感じです。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "edited": {
+            "user": "U014UD117ND",
+            "ts": "1658772389.000000"
+        },
+        "client_msg_id": "17cba8e3-edea-4456-8e25-3b95b847e546",
+        "attachments": [
+            {
+                "from_url": "https:\/\/discord.com\/",
+                "image_url": "https:\/\/discord.com\/assets\/652f40427e1f5186ad54836074898279.png",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 86841,
+                "id": 1,
+                "original_url": "https:\/\/discord.com\/",
+                "fallback": "Discord: Discord | Your Place to Talk and Hang Out",
+                "text": "Discord is the easiest way to talk over voice, video, and text. Talk, chat, hang out, and stay close with your friends and communities.",
+                "title": "Discord | Your Place to Talk and Hang Out",
+                "title_link": "https:\/\/discord.com\/",
+                "service_name": "Discord"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b0c6632f-7107-4a1e-9576-39b15bd04edd",
+        "type": "message",
+        "text": "この「直近90日間のメッセージしか読めなくなる」という仕様が適用されるのが9\/1なので、もしディスコードに移行する場合は、8月中に私の方でディスコードサーバーの設定とかしようかなーと思っています。\nみなさんの意見をいただけると嬉しいです！",
+        "user": "U014UD117ND",
+        "ts": "1658772768.947979",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "d661e4a51036",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-30\/1214690186661_d661e4a51036d8b1a2e4_72.jpg",
+            "first_name": "ジーナ",
+            "real_name": "ジーナ",
+            "display_name": "ジーナ",
+            "team": "T014MVD863E",
+            "name": "ayumee528",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6x4k",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "この「直近90日間のメッセージしか読めなくなる」という仕様が適用されるのが9\/1なので、もしディスコードに移行する場合は、8月中に私の方でディスコードサーバーの設定とかしようかなーと思っています。\nみなさんの意見をいただけると嬉しいです！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8C7CEDD9-D809-465F-AC69-23257BD1D35A",
+        "type": "message",
+        "text": "Hi ジーナさん、友達がRocketChatとかFlockを使っていて、フリーだと言っていました。\nジーナさんが、運営する上で1番楽なツールでしたら、有料・無料どちらでもついていきます:woman-bowing:",
+        "user": "U03N2KMPR6H",
+        "ts": "1658780283.607059",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "b6de36ac2e5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-08\/3788800367537_b6de36ac2e5fb40df77c_72.png",
+            "first_name": "Alice",
+            "real_name": "Alice",
+            "display_name": "Alice",
+            "team": "T014MVD863E",
+            "name": "azureseababy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eZqg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi ジーナさん、友達がRocketChatとかFlockを使っていて、フリーだと言っていました。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ジーナさんが、運営する上で1番楽なツールでしたら、有料・無料どちらでもついていきます"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-bowing",
+                                "unicode": "1f647-200d-2640-fe0f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "DFBB84A5-CC0C-4CFE-93F2-CC753C6F87EB",
+        "type": "message",
+        "text": "ジーナさん、こんにちは！\nいつもありがたくSlackでおしゃべりさせていただいている者として、仕様変更はちょっとショックです！\nジーナさんにどのくらい負担になってしまうかわからないのですが、ビデオ通話も可能っていうのもプラスなので私は②がいいかなと思います。",
+        "user": "U017LVA457X",
+        "ts": "1658781935.402499",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "ab08cd7206d5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-23\/1260372537906_ab08cd7206d5061995ec_72.png",
+            "first_name": "Nakaji",
+            "real_name": "Nakaji",
+            "display_name": "Nakaji",
+            "team": "T014MVD863E",
+            "name": "nakaji352002",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U017LVA457X",
+            "ts": "1658782411.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3TjsQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ジーナさん、こんにちは！"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "いつもありがたくSlackでおしゃべりさせていただいている者として、仕様変更はちょっとショックです！"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ジーナさんにどのくらい負担になってしまうかわからないのですが、ビデオ通話も可能っていうのもプラスなので私は②がいいかなと思います。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "58050759-d9ec-4c3c-b7c8-6d26bc063d08",
+        "type": "message",
+        "text": "おはようございます。\nSlack仕様変更ですかー。世知辛いですね:disappointed_relieved: \n移行と運営が大変でなければDiscordよさそう？面倒そうならSlackのフリーのままでも！",
+        "user": "U017FMU5XTQ",
+        "ts": "1658784690.427029",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "bea7a407721c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-26\/1263539336931_bea7a407721cebe3595a_72.jpg",
+            "first_name": "",
+            "real_name": "めい",
+            "display_name": "めい",
+            "team": "T014MVD863E",
+            "name": "megmon24",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nTE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "おはようございます。\nSlack仕様変更ですかー。世知辛いですね"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "disappointed_relieved",
+                                "unicode": "1f625"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n移行と運営が大変でなければDiscordよさそう？面倒そうならSlackのフリーのままでも！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "481da389-521a-4b10-8dc2-f261e273f0c8",
+        "type": "message",
+        "text": "Aliceさん、情報ありがとうございます！\nその２つのアプリは使ったことなかったので、さっと仕様を見て来たんですが、どちらもslackと同様にフリープランだとメッセージ数の上限、ビデオ通話は一対一のみ、など制限付きでした…:smiling_face_with_tear:\n\nあと、Discordへの移行の手間ですが、私の作業に関してはそこまで手間ではありません。みなさん側では、Discordアカウントを持ってない方は新たにアカウントを作ってもらう必要があります。",
+        "user": "U014UD117ND",
+        "ts": "1658787057.260039",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "d661e4a51036",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-30\/1214690186661_d661e4a51036d8b1a2e4_72.jpg",
+            "first_name": "ジーナ",
+            "real_name": "ジーナ",
+            "display_name": "ジーナ",
+            "team": "T014MVD863E",
+            "name": "ayumee528",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U014UD117ND",
+            "ts": "1658787135.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CbjvK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Aliceさん、情報ありがとうございます！\nその２つのアプリは使ったことなかったので、さっと仕様を見て来たんですが、どちらもslackと同様にフリープランだとメッセージ数の上限、ビデオ通話は一対一のみ、など制限付きでした…"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smiling_face_with_tear",
+                                "unicode": "1f972"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nあと、Discordへの移行の手間ですが、私の作業に関してはそこまで手間ではありません。みなさん側では、Discordアカウントを持ってない方は新たにアカウントを作ってもらう必要があります。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1658787057.260039",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1658803301.670649",
+        "reply_users": [
+            "U03N2KMPR6H"
+        ],
+        "replies": [
+            {
+                "user": "U03N2KMPR6H",
+                "ts": "1658803301.670649"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1658803301.670649"
+    },
+    {
+        "client_msg_id": "BD65D394-E298-4A05-BAA8-F2268A39EC74",
+        "type": "message",
+        "text": "ジーナさん、Discord はゲームで遊ぶ人(若者が多い)にずいぶん人気らしく、弊息子も使っている模様です。チャットと会話ができるのが人気らしいです。",
+        "user": "U017LVA457X",
+        "ts": "1658787302.247869",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "ab08cd7206d5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-23\/1260372537906_ab08cd7206d5061995ec_72.png",
+            "first_name": "Nakaji",
+            "real_name": "Nakaji",
+            "display_name": "Nakaji",
+            "team": "T014MVD863E",
+            "name": "nakaji352002",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1fGh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ジーナさん、Discord はゲームで遊ぶ人(若者が多い)にずいぶん人気らしく、弊息子も使っている模様です。チャットと会話ができるのが人気らしいです。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1658787302.247869",
+        "reply_count": 4,
+        "reply_users_count": 2,
+        "latest_reply": "1658794428.131309",
+        "reply_users": [
+            "U014UD117ND",
+            "U017LVA457X"
+        ],
+        "replies": [
+            {
+                "user": "U014UD117ND",
+                "ts": "1658794195.050209"
+            },
+            {
+                "user": "U017LVA457X",
+                "ts": "1658794341.617979"
+            },
+            {
+                "user": "U017LVA457X",
+                "ts": "1658794394.875339"
+            },
+            {
+                "user": "U017LVA457X",
+                "ts": "1658794428.131309"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1658794428.131309"
+    },
+    {
+        "client_msg_id": "C9523BB3-081B-4E99-9229-8FEE17D793FD",
+        "type": "message",
+        "text": "ジーナさん、いつもありがとうございます。\nどっちでもOKです！が、Discordは使ってみた感じ画面周りがすっきりしてていいかなと思います。Chatもできますし。",
+        "user": "U01PZK3KK97",
+        "ts": "1658787483.867409",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "g7edbb069a07",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/7edbb069a07e3786ca21d16d29a8c001.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "",
+            "real_name": "はるまき",
+            "display_name": "",
+            "team": "T014MVD863E",
+            "name": "halsiyon5",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RD0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ジーナさん、いつもありがとうございます。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "どっちでもOKです！が、Discordは使ってみた感じ画面周りがすっきりしてていいかなと思います。Chatもできますし。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5f260ef1-78d3-4fee-bb72-3db3a20277f8",
+        "type": "message",
+        "text": "Discord使ったことない、どんな感じかな？と思う方は、さくっとスペースだけ作ったので、使ってみるのも可能です。下記のリンクから入れます\n<https:\/\/discord.gg\/Py9TME9eNg>",
+        "user": "U014UD117ND",
+        "ts": "1658791846.155399",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "d661e4a51036",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-30\/1214690186661_d661e4a51036d8b1a2e4_72.jpg",
+            "first_name": "ジーナ",
+            "real_name": "ジーナ",
+            "display_name": "ジーナ",
+            "team": "T014MVD863E",
+            "name": "ayumee528",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U014UD117ND",
+            "ts": "1658792944.000000"
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/discord.gg\/Py9TME9eNg",
+                "thumb_url": "https:\/\/cdn.discordapp.com\/icons\/1001213175464738846\/9a5bc2bb4a9374592c0ca3650036b5f1.jpg?size=256",
+                "thumb_width": 132,
+                "thumb_height": 132,
+                "id": 1,
+                "original_url": "https:\/\/discord.gg\/Py9TME9eNg",
+                "fallback": "Discord: Join the muchimemo Discord Server!",
+                "text": "Check out the muchimemo community on Discord - hang out with 4 other members and enjoy free voice and text chat.",
+                "title": "Join the muchimemo Discord Server!",
+                "title_link": "https:\/\/discord.gg\/Py9TME9eNg",
+                "service_name": "Discord"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lHA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Discord使ったことない、どんな感じかな？と思う方は、さくっとスペースだけ作ったので、使ってみるのも可能です。下記のリンクから入れます\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/discord.gg\/Py9TME9eNg"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6F0BB504-DCA6-457D-BAEE-7F0CF6102D87",
+        "type": "message",
+        "text": "ありがとうございます。飛び乗れました！！",
+        "user": "U01PZK3KK97",
+        "ts": "1658791991.350379",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "g7edbb069a07",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/7edbb069a07e3786ca21d16d29a8c001.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "",
+            "real_name": "はるまき",
+            "display_name": "",
+            "team": "T014MVD863E",
+            "name": "halsiyon5",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eJw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ありがとうございます。飛び乗れました！！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "A368AD09-9FD3-41E8-B4D5-5941FB084EC5",
+        "type": "message",
+        "text": "ジーナさん、ありがとうございます！\nディスコードは最近使ったばかりですが、Slackと同じような感じなのでみんな使いやすいのではと思います:blush:ライブ配信もできるみたいです。",
+        "user": "U01M8BTNR7C",
+        "ts": "1658792533.390409",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "16c140f650be",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-02-10\/1748642350673_16c140f650be7c6cc646_72.png",
+            "first_name": "きなこ",
+            "real_name": "きなこ",
+            "display_name": "",
+            "team": "T014MVD863E",
+            "name": "le.arbre.montagne.121",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lvv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ジーナさん、ありがとうございます！"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ディスコードは最近使ったばかりですが、Slackと同じような感じなのでみんな使いやすいのではと思います"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "blush",
+                                "unicode": "1f60a"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ライブ配信もできるみたいです。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "30FF3C5B-4D73-45BE-807D-9F8C1C2141E8",
+        "type": "message",
+        "text": "ジーナさん、インビテーションありがとうございました。できました！",
+        "user": "U017LVA457X",
+        "ts": "1658793547.932119",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "ab08cd7206d5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-23\/1260372537906_ab08cd7206d5061995ec_72.png",
+            "first_name": "Nakaji",
+            "real_name": "Nakaji",
+            "display_name": "Nakaji",
+            "team": "T014MVD863E",
+            "name": "nakaji352002",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UB88",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ジーナさん、インビテーションありがとうございました。できました！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1420CC17-C965-49B4-8325-48E3E9F4924D",
+        "type": "message",
+        "text": "ディスコいいですね〜ありがとうございます！\nただ私が参加してたグループでは結構な頻度で攻撃されてたんで、ちょっと管理を厳重にしてたほうがいいかもです。攻撃っていうのはスパムみたいなやつです。",
+        "user": "U017Z0T54P3",
+        "ts": "1658793565.421469",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "7ef9f9a252ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-23\/1258617447347_7ef9f9a252ef2d85fb96_72.png",
+            "first_name": "",
+            "real_name": "pikali",
+            "display_name": "pikali",
+            "team": "T014MVD863E",
+            "name": "yamakenken100",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "X=C",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ディスコいいですね〜ありがとうございます！\nただ私が参加してたグループでは結構な頻度で攻撃されてたんで、ちょっと管理を厳重にしてたほうがいいかもです。攻撃っていうのはスパムみたいなやつです。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1658793565.421469",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1658794447.439289",
+        "reply_users": [
+            "U014UD117ND"
+        ],
+        "replies": [
+            {
+                "user": "U014UD117ND",
+                "ts": "1658794447.439289"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1658794447.439289"
+    },
+    {
+        "client_msg_id": "B2B85F36-5048-463F-A11C-D07BD0E81AB0",
+        "type": "message",
+        "text": "日本語はディスコって言うんですか！可愛い",
+        "user": "U017LVA457X",
+        "ts": "1658793652.257499",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "ab08cd7206d5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-23\/1260372537906_ab08cd7206d5061995ec_72.png",
+            "first_name": "Nakaji",
+            "real_name": "Nakaji",
+            "display_name": "Nakaji",
+            "team": "T014MVD863E",
+            "name": "nakaji352002",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NE2d",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "日本語はディスコって言うんですか！可愛い"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1658793652.257499",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1658793839.737299",
+        "reply_users": [
+            "U017Z0T54P3",
+            "U017LVA457X"
+        ],
+        "replies": [
+            {
+                "user": "U017Z0T54P3",
+                "ts": "1658793789.282609"
+            },
+            {
+                "user": "U017LVA457X",
+                "ts": "1658793839.737299"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "CF295658-6D50-48C1-825D-86C89D3704AF",
+        "type": "message",
+        "text": "かわいいですかね:relaxed:ゲームやる人はよくディスコでやってて、みんなそう呼んでるイメージです:black_cat:",
+        "user": "U017Z0T54P3",
+        "ts": "1658793789.282609",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "7ef9f9a252ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-23\/1258617447347_7ef9f9a252ef2d85fb96_72.png",
+            "first_name": "",
+            "real_name": "pikali",
+            "display_name": "pikali",
+            "team": "T014MVD863E",
+            "name": "yamakenken100",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UGNW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "かわいいですかね"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "relaxed",
+                                "unicode": "263a-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ゲームやる人はよくディスコでやってて、みんなそう呼んでるイメージです"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "black_cat",
+                                "unicode": "1f408-200d-2b1b"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1658793652.257499",
+        "parent_user_id": "U017LVA457X"
+    },
+    {
+        "client_msg_id": "C47E77E8-CB3F-43F7-ADF3-0B5E0EB91FF3",
+        "type": "message",
+        "text": "なるほど！弊息子ディスコでオンラインゲームやってるっぽいです",
+        "user": "U017LVA457X",
+        "ts": "1658793839.737299",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "ab08cd7206d5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-23\/1260372537906_ab08cd7206d5061995ec_72.png",
+            "first_name": "Nakaji",
+            "real_name": "Nakaji",
+            "display_name": "Nakaji",
+            "team": "T014MVD863E",
+            "name": "nakaji352002",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JSv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "なるほど！弊息子ディスコでオンラインゲームやってるっぽいです"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1658793652.257499",
+        "parent_user_id": "U017LVA457X",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U017Z0T54P3"
+                ],
+                "count": 1
+            },
+            {
+                "name": "video_game",
+                "users": [
+                    "U017Z0T54P3"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e129ae26-c6fb-4ecd-8521-63bb5c3e1af6",
+        "type": "message",
+        "text": "そうなんです、もともとゲームユーザーがボイスチャットしながらオンラインゲームする時に使われてたアプリなんですが、最近、他のコミュニティでも結構使われるようになってて。実はこのコミュニティを立ち上げる時も、最後までslackにするかDiscordにするか悩んでたんですよ",
+        "user": "U014UD117ND",
+        "ts": "1658794195.050209",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "d661e4a51036",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-30\/1214690186661_d661e4a51036d8b1a2e4_72.jpg",
+            "first_name": "ジーナ",
+            "real_name": "ジーナ",
+            "display_name": "ジーナ",
+            "team": "T014MVD863E",
+            "name": "ayumee528",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "f+Ch",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "そうなんです、もともとゲームユーザーがボイスチャットしながらオンラインゲームする時に使われてたアプリなんですが、最近、他のコミュニティでも結構使われるようになってて。実はこのコミュニティを立ち上げる時も、最後までslackにするかDiscordにするか悩んでたんですよ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1658787302.247869",
+        "parent_user_id": "U017LVA457X"
+    },
+    {
+        "client_msg_id": "95D0E5CA-82E8-4D3B-98AE-62C1C09325E7",
+        "type": "message",
+        "text": "なるほど:heavy_heart_exclamation_mark_ornament:ディスコは、若いオタクが使ってるイメージ(弊息子等)でした！",
+        "user": "U017LVA457X",
+        "ts": "1658794341.617979",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "ab08cd7206d5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-23\/1260372537906_ab08cd7206d5061995ec_72.png",
+            "first_name": "Nakaji",
+            "real_name": "Nakaji",
+            "display_name": "Nakaji",
+            "team": "T014MVD863E",
+            "name": "nakaji352002",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RbFse",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "なるほど"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "heavy_heart_exclamation_mark_ornament",
+                                "unicode": "2763-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ディスコは、若いオタクが使ってるイメージ(弊息子等)でした！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1658787302.247869",
+        "parent_user_id": "U017LVA457X"
+    },
+    {
+        "client_msg_id": "BECF2632-FA00-44EA-8AD5-742F790D878B",
+        "type": "message",
+        "text": "声でチャットできるのいいですね。早いわ",
+        "user": "U017LVA457X",
+        "ts": "1658794394.875339",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "ab08cd7206d5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-23\/1260372537906_ab08cd7206d5061995ec_72.png",
+            "first_name": "Nakaji",
+            "real_name": "Nakaji",
+            "display_name": "Nakaji",
+            "team": "T014MVD863E",
+            "name": "nakaji352002",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Cgbn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "声でチャットできるのいいですね。早いわ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1658787302.247869",
+        "parent_user_id": "U017LVA457X"
+    },
+    {
+        "client_msg_id": "D0A6F674-58C8-4339-9A7F-5E049322A411",
+        "type": "message",
+        "text": "どーしても、キーボードのが打つの早いからなー",
+        "user": "U017LVA457X",
+        "ts": "1658794428.131309",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "ab08cd7206d5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-23\/1260372537906_ab08cd7206d5061995ec_72.png",
+            "first_name": "Nakaji",
+            "real_name": "Nakaji",
+            "display_name": "Nakaji",
+            "team": "T014MVD863E",
+            "name": "nakaji352002",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xip3D",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "どーしても、キーボードのが打つの早いからなー"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1658787302.247869",
+        "parent_user_id": "U017LVA457X"
+    },
+    {
+        "client_msg_id": "4eef2ee7-aea6-4f94-a396-773d27786d6a",
+        "type": "message",
+        "text": "そうですね、権限の設定は考えたがいいですね。私もよく別のコミュニティ経由でスパム来ますw\n確かセキュリティレベルを最高まで上げたら、電話認証したユーザーしか発言出来ない設定とかもあったはず",
+        "user": "U014UD117ND",
+        "ts": "1658794447.439289",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "d661e4a51036",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-30\/1214690186661_d661e4a51036d8b1a2e4_72.jpg",
+            "first_name": "ジーナ",
+            "real_name": "ジーナ",
+            "display_name": "ジーナ",
+            "team": "T014MVD863E",
+            "name": "ayumee528",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mFox",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "そうですね、権限の設定は考えたがいいですね。私もよく別のコミュニティ経由でスパム来ますw\n確かセキュリティレベルを最高まで上げたら、電話認証したユーザーしか発言出来ない設定とかもあったはず"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1658793565.421469",
+        "parent_user_id": "U017Z0T54P3",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U017Z0T54P3"
+                ],
+                "count": 1
+            },
+            {
+                "name": "panpan",
+                "users": [
+                    "U017Z0T54P3"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7DE93467-C304-4455-A71E-D8A3C5CE38E2",
+        "type": "message",
+        "text": "そうでしたか、、、やっぱりフリーで使う場合、色々制限があるんですね:sweat_drops:",
+        "user": "U03N2KMPR6H",
+        "ts": "1658803301.670649",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "b6de36ac2e5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-08\/3788800367537_b6de36ac2e5fb40df77c_72.png",
+            "first_name": "Alice",
+            "real_name": "Alice",
+            "display_name": "Alice",
+            "team": "T014MVD863E",
+            "name": "azureseababy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JkEc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "そうでしたか、、、やっぱりフリーで使う場合、色々制限があるんですね"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sweat_drops",
+                                "unicode": "1f4a6"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1658787057.260039",
+        "parent_user_id": "U014UD117ND"
+    },
+    {
+        "client_msg_id": "7C353782-977E-41A6-877D-78D5B753766A",
+        "type": "message",
+        "text": "ジーナさん、いつもお世話になっております。\n自分も過去の記事は読めた方が嬉しいので、②に一票です。\nお手数をおかけしますが、どうぞよろしくお願いいたしますー！",
+        "user": "U029MKK3W4E",
+        "ts": "1658816260.159789",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "aade7c86a319",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-10-17\/2606350548278_aade7c86a319ba8c4e3c_72.png",
+            "first_name": "ねこしま",
+            "real_name": "ねこしま",
+            "display_name": "",
+            "team": "T014MVD863E",
+            "name": "nanakusa0503",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gH6Us",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ジーナさん、いつもお世話になっております。\n自分も過去の記事は読めた方が嬉しいので、②に一票です。\nお手数をおかけしますが、どうぞよろしく"
+                            },
+                            {
+                                "type": "text",
+                                "text": "お願い"
+                            },
+                            {
+                                "type": "text",
+                                "text": "いたしますー！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

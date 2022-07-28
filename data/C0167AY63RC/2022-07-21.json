@@ -1,0 +1,106 @@
+[
+    {
+        "type": "message",
+        "text": "\n<https:\/\/news.yahoo.co.jp\/articles\/521e23698bd63e7765c57d0672308424fdc9ad15>",
+        "user": "U017LVA457X",
+        "ts": "1658418842.959019",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "ab08cd7206d5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-23\/1260372537906_ab08cd7206d5061995ec_72.png",
+            "first_name": "Nakaji",
+            "real_name": "Nakaji",
+            "display_name": "Nakaji",
+            "team": "T014MVD863E",
+            "name": "nakaji352002",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/news.yahoo.co.jp\/articles\/521e23698bd63e7765c57d0672308424fdc9ad15",
+                "image_url": "https:\/\/newsatcl-pctr.c.yimg.jp\/t\/amd-img\/20220721-00000088-it_nlab-000-1-view.jpg?exp=10800",
+                "image_width": 442,
+                "image_height": 250,
+                "image_bytes": 21687,
+                "service_icon": "https:\/\/s.yimg.jp\/c\/icon\/s\/bsc\/2.0\/news120.png",
+                "id": 1,
+                "original_url": "https:\/\/news.yahoo.co.jp\/articles\/521e23698bd63e7765c57d0672308424fdc9ad15",
+                "fallback": "Yahoo!ニュース: 58歳ブラット・ピットがスカート姿で登場　「おばさんのスカート」「僕は大好き」などさまざまな意見集まり話題に（ねとらぼ） - Yahoo!ニュース",
+                "text": "　7月19日（現地時間）、米俳優のブラッド・ピットが映画「ブレット・トレイン」のベルリン・プレミアに登場しました。ブラッドはさわやかなスカートスタイルでレッドカーペットに現れ、話題になっています。",
+                "title": "58歳ブラット・ピットがスカート姿で登場　「おばさんのスカート」「僕は大好き」などさまざまな意見集まり話題に（ねとらぼ） - Yahoo!ニュース",
+                "title_link": "https:\/\/news.yahoo.co.jp\/articles\/521e23698bd63e7765c57d0672308424fdc9ad15",
+                "service_name": "Yahoo!ニュース"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1TOMF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/news.yahoo.co.jp\/articles\/521e23698bd63e7765c57d0672308424fdc9ad15"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "AB941A41-FB90-4301-A68D-BECA7C071A4A",
+        "type": "message",
+        "text": "ブラピ様、レッドカーペットにスカートで登場。皆様はどう思いますか。\n私は、全然ありと思うわ。\n",
+        "user": "U017LVA457X",
+        "ts": "1658418936.472289",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "ab08cd7206d5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-23\/1260372537906_ab08cd7206d5061995ec_72.png",
+            "first_name": "Nakaji",
+            "real_name": "Nakaji",
+            "display_name": "Nakaji",
+            "team": "T014MVD863E",
+            "name": "nakaji352002",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GjuL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ブラピ様、レッドカーペットにスカートで登場。皆様はどう思いますか。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "私は、全然ありと思うわ。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

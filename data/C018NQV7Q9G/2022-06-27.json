@@ -1,0 +1,533 @@
+[
+    {
+        "client_msg_id": "2D215345-0D7E-4D60-82B0-12EB5C02FE04",
+        "type": "message",
+        "text": "800wで一気にやっちゃってました:sweat_smile:\nやっぱり丁寧さが必要なんですね。また挑戦してみます:bacon:",
+        "user": "U017YHF4ZG9",
+        "ts": "1656315179.454289",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "8b538c52795e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-23\/1256603203669_8b538c52795ebb5c006a_72.jpg",
+            "first_name": "",
+            "real_name": "Ayu Yamane",
+            "display_name": "Ayu Yamane",
+            "team": "T014MVD863E",
+            "name": "ayu76mi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Skt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "800wで一気にやっちゃってました"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sweat_smile",
+                                "unicode": "1f605"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "やっぱり丁寧さが必要なんですね。また挑戦してみます"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "bacon",
+                                "unicode": "1f953"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "B1C83B32-0D71-4B20-B141-F66FEB22B649",
+        "type": "message",
+        "text": "あー、一気に、気前良く！",
+        "user": "U017LVA457X",
+        "ts": "1656337330.002449",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "ab08cd7206d5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-23\/1260372537906_ab08cd7206d5061995ec_72.png",
+            "first_name": "Nakaji",
+            "real_name": "Nakaji",
+            "display_name": "Nakaji",
+            "team": "T014MVD863E",
+            "name": "nakaji352002",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XeADq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "あー、一気に、気前良く"
+                            },
+                            {
+                                "type": "text",
+                                "text": "！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b8b08f3c-a1ba-4f09-ae16-26ac043c4eeb",
+        "type": "message",
+        "text": "もう私フニャフニャでもいいです(笑)",
+        "user": "U017FMU5XTQ",
+        "ts": "1656338009.856769",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "bea7a407721c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-26\/1263539336931_bea7a407721cebe3595a_72.jpg",
+            "first_name": "",
+            "real_name": "めい",
+            "display_name": "めい",
+            "team": "T014MVD863E",
+            "name": "megmon24",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gU9nc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "もう私フニャフニャでもいいです(笑)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "AC5D45FF-5791-4A73-BDE2-AB228FB87B5D",
+        "type": "message",
+        "text": "カリカリ美味しいけど、フニャフニャにはフニャフニャの味わいがある気がします〜！",
+        "user": "U03D1UJECGZ",
+        "ts": "1656338116.887529",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "a7dde0607f3e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-24\/3431416808738_a7dde0607f3e669535b6_72.png",
+            "first_name": "Kumatta",
+            "real_name": "Kumatta",
+            "display_name": "Kumatta",
+            "team": "T014MVD863E",
+            "name": "maki.terao",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DCI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "カリカリ美味しいけど、フニャフニャにはフニャフニャの味わいがある気がします〜！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "560ef417-302a-4cb9-92cb-56b7fc0707d3",
+        "type": "message",
+        "text": "ですよね！カリカリは口に刺さります(笑) \nどちらもおいしいってことで:sparkles:",
+        "user": "U017FMU5XTQ",
+        "ts": "1656338314.279419",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "bea7a407721c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-26\/1263539336931_bea7a407721cebe3595a_72.jpg",
+            "first_name": "",
+            "real_name": "めい",
+            "display_name": "めい",
+            "team": "T014MVD863E",
+            "name": "megmon24",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2eK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ですよね！カリカリは口に刺さります(笑) \nどちらもおいしいってことで"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sparkles",
+                                "unicode": "2728"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "E6DCF8FB-1E64-4AD6-BE6C-0D424BC1DD06",
+        "type": "message",
+        "text": "ベーコン万歳:bacon:",
+        "user": "U03D1UJECGZ",
+        "ts": "1656338547.316779",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "a7dde0607f3e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-24\/3431416808738_a7dde0607f3e669535b6_72.png",
+            "first_name": "Kumatta",
+            "real_name": "Kumatta",
+            "display_name": "Kumatta",
+            "team": "T014MVD863E",
+            "name": "maki.terao",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yw9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ベーコン万歳"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "bacon",
+                                "unicode": "1f953"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8057508D-EB0C-4FDE-A966-B6A489A0B376",
+        "type": "message",
+        "text": "フニャベーコンの場合は野菜炒めとか他の具材とフライパンで炒めます。",
+        "user": "U017LVA457X",
+        "ts": "1656338938.142789",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "ab08cd7206d5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-23\/1260372537906_ab08cd7206d5061995ec_72.png",
+            "first_name": "Nakaji",
+            "real_name": "Nakaji",
+            "display_name": "Nakaji",
+            "team": "T014MVD863E",
+            "name": "nakaji352002",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RkSy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "フニャベーコンの場合は野菜炒めとか他の具材とフライパンで炒めます"
+                            },
+                            {
+                                "type": "text",
+                                "text": "。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f52b919a-b2cd-4265-aded-2d216424ee06",
+        "type": "message",
+        "text": "Cat Sebastianさんの『Peter Cabot Gets Lost』、読み終わったので（他のも数冊読んでみたので）ちょこっとどんな感じだったかを…\n\nまず読んでみたのは、『Peter...』と、Peterの叔父を主人公にした100P程度の短編『Tommy Cabot Was Here』です。\n\n『Peter…』の方は、有力な政治家一家の息子、Peterと奨学金生のCalebがマサチューセッツからLAまで一緒に車で旅するお話。\n\n『Tommy...』の方は、東部の寄宿学校の教師になったEverettが、15年間会っていなかった初恋（なのかな）の相手Tommyと再会するお話です。\n\n文章は読みやすくて落ち着いた感じ。面白かったし、雰囲気も悪くなかったのですが、けっこうさらりとしている感じ。\n\nこの2冊に続けて同じ作家さんの\n『Hither Page』と続編『The Missing Page』を読んでみたのですが、 Cabotシリーズとはまたちょっと違う雰囲気。\n\nこちら、わたしは結構楽しんで読みました。\n\n『Hither...』は第二次大戦直後のイギリスを舞台にしたお話で、ある田舎町で起こった事件の関連で送り込まれてきた諜報員Pageと、町医者Jamesのお話で、一応ミステリです。\n\n『The Missing Page』も同じ二人が主人公で、遺産相続にまつわる謎解きをするお話です。\n\nイギリスを舞台にしたコージーミステリがお好きな方にはおすすめかもしれません。もしよかったらお試ししてみてください。\n\n\n※ おまけ\n2人の雰囲気が伝わるかなあ〜という部分をスレッドに潜ってご紹介しておきます。ムフ。",
+        "user": "U03D1UJECGZ",
+        "ts": "1656381183.266649",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "a7dde0607f3e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-24\/3431416808738_a7dde0607f3e669535b6_72.png",
+            "first_name": "Kumatta",
+            "real_name": "Kumatta",
+            "display_name": "Kumatta",
+            "team": "T014MVD863E",
+            "name": "maki.terao",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U03D1UJECGZ",
+            "ts": "1656412673.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+EOc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Cat Sebastianさんの『Peter Cabot Gets Lost』、読み終わったので（他のも数冊読んでみたので）ちょこっとどんな感じだったかを…"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "まず読んでみたのは、『Peter...』と、Peterの叔父を主人公にした100P程度の短編『Tommy Cabot Was Here』です。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "『Peter…』の方は、有力な政治家一家の息子、Peterと奨学金生のCalebがマサチューセッツからLAまで一緒に車で旅するお話。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "『Tommy...』の方は、東部の寄宿学校の教師になったEverettが、15年間会っていなかった初恋（なのかな）の相手Tommyと再会するお話です。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "文章は読みやすくて落ち着いた感じ。面白かったし、雰囲気も悪くなかったのですが、けっこうさらりとしている感じ。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "この2冊に続けて同じ作家さんの"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "『Hither Page』と続編『The Missing Page』を読んでみたのですが、 Cabotシリーズとはまたちょっと違う雰囲気。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "こちら、わたしは結構楽しんで読みました。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "『Hither...』は第二次大戦直後のイギリスを舞台にしたお話で、ある田舎町で起こった事件の関連で送り込まれてきた諜報員Pageと、町医者Jamesのお話で、一応ミステリです。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "『The Missing Page』も同じ二人が主人公で、遺産相続にまつわる謎解きをするお話です。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "イギリスを舞台にしたコージーミステリがお好きな方"
+                            },
+                            {
+                                "type": "text",
+                                "text": "に"
+                            },
+                            {
+                                "type": "text",
+                                "text": "は"
+                            },
+                            {
+                                "type": "text",
+                                "text": "おすすめかもしれません。もし"
+                            },
+                            {
+                                "type": "text",
+                                "text": "よかったら"
+                            },
+                            {
+                                "type": "text",
+                                "text": "お試ししてみて"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ください。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "※ おまけ"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "2人"
+                            },
+                            {
+                                "type": "text",
+                                "text": "の雰囲気が伝わるかなあ〜という部分をスレッドに潜ってご紹介しておきます"
+                            },
+                            {
+                                "type": "text",
+                                "text": "。ムフ。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1656381183.266649",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1656412807.671859",
+        "reply_users": [
+            "U03D1UJECGZ"
+        ],
+        "replies": [
+            {
+                "user": "U03D1UJECGZ",
+                "ts": "1656412807.671859"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    }
+]

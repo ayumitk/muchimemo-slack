@@ -1,0 +1,141 @@
+[
+    {
+        "client_msg_id": "A5144871-16D8-4CA0-A736-D1A25CDD46C5",
+        "type": "message",
+        "text": "わたしも参加したいです！大分前に読んだきりなのでもっかい1巻読んでから参戦します:female_fairy::heart:2巻はいつ発売なんでしょうね〜:sunglasses:",
+        "user": "U017Z0T54P3",
+        "ts": "1658643303.885849",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "7ef9f9a252ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-23\/1258617447347_7ef9f9a252ef2d85fb96_72.png",
+            "first_name": "",
+            "real_name": "pikali",
+            "display_name": "pikali",
+            "team": "T014MVD863E",
+            "name": "yamakenken100",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tw=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "わたしも参加したいです！大分前に読んだきりなのでもっかい1巻読んでから参戦します"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "female_fairy",
+                                "unicode": "1f9da-200d-2640-fe0f"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "heart",
+                                "unicode": "2764-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "2巻はいつ発売なんでしょうね〜"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sunglasses",
+                                "unicode": "1f60e"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U017LVA457X",
+                    "U01P6E9P3J5"
+                ],
+                "count": 2
+            },
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U014UD117ND"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "145F551F-08A0-423F-8773-60280FC2D6E8",
+        "type": "message",
+        "text": "あー！！この日仕事になりました！！！無念です:sob::sob::sob:",
+        "user": "U01PZK3KK97",
+        "ts": "1658643365.769169",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "g7edbb069a07",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/7edbb069a07e3786ca21d16d29a8c001.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "",
+            "real_name": "はるまき",
+            "display_name": "",
+            "team": "T014MVD863E",
+            "name": "halsiyon5",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ejx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "あー！！この日仕事になりました！！！無念です"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sob",
+                                "unicode": "1f62d"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sob",
+                                "unicode": "1f62d"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sob",
+                                "unicode": "1f62d"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "sob",
+                "users": [
+                    "U017Z0T54P3",
+                    "U01P6E9P3J5",
+                    "U014UD117ND",
+                    "U017YHF4ZG9"
+                ],
+                "count": 4
+            }
+        ]
+    }
+]

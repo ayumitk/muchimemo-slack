@@ -1,0 +1,337 @@
+[
+    {
+        "client_msg_id": "e227054f-5a17-4225-b729-c106a44934a2",
+        "type": "message",
+        "text": "鎮魂40話見終わりました。もうダメ:sob: はるまきさんの一人二役遊びの気持ちわかる…:exclamation:\n突っ込みどころ満載なんだけど、そこも含めて一晩くらい語り明かせますね:heart:\nまつ毛とメガネにまゆ毛と萌え袖が……全力で走りたい衝動に駆られてます:bangbang:",
+        "user": "U017FMU5XTQ",
+        "ts": "1657030259.421389",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "bea7a407721c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-26\/1263539336931_bea7a407721cebe3595a_72.jpg",
+            "first_name": "",
+            "real_name": "めい",
+            "display_name": "めい",
+            "team": "T014MVD863E",
+            "name": "megmon24",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qNnxL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "鎮魂40話見終わりました。もうダメ"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sob",
+                                "unicode": "1f62d"
+                            },
+                            {
+                                "type": "text",
+                                "text": " はるまきさんの一人二役遊びの気持ちわかる…"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "exclamation",
+                                "unicode": "2757"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n突っ込みどころ満載なんだけど、そこも含めて一晩くらい語り明かせますね"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "heart",
+                                "unicode": "2764-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nまつ毛とメガネにまゆ毛と萌え袖が……全力で走りたい衝動に駆られてます"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "bangbang",
+                                "unicode": "203c-fe0f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4DCEE842-B6BA-4CA2-B055-2AC063D9BA7F",
+        "type": "message",
+        "text": "めいさん、鎮魂完走おつかれさまでした！！\nでしょでしょ？？一人二役遊びしたくなるでしょう？さあ、セリフは:eyeglasses:「你来了、我们打个赌吧」ヒゲ「赌什么」:eyeglasses:「赌不管过了多久、不管去到那里、我们兑有一点、会再见的」ヒゲ「…好」ですよ。今日から暗記してくださいね（ガチやん）\n\nいろいろツッコミ満載ですがもうメガネ兄さんの顔面と二の腕のおしゃれバンドとダブルスーツと（途中からモッズコートになったけど）だけ集中すればよいのでオールオッケーですよね。\n\nあと私36話で「沈嵬？電話みたいな名前だな。よっしゃ漢字変えたろ。今日からお前は沈巍だ」のところの、一万年前バージョンメガネ兄さんのチュッパチャプスぺろぺろしてるキョトン顔と、声調が一声（高い音）に変わるときのヒゲ兄さんの指のの:arrow_heading_up::arrow_heading_up:がですね、もう瀕死でした。いや死んだ。\n\n一晩語りあかせますが、鎮魂中華回いつ開催でしたっけ？（早口",
+        "user": "U01PZK3KK97",
+        "ts": "1657061697.763499",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "g7edbb069a07",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/7edbb069a07e3786ca21d16d29a8c001.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "",
+            "real_name": "はるまき",
+            "display_name": "",
+            "team": "T014MVD863E",
+            "name": "halsiyon5",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U01PZK3KK97",
+            "ts": "1657078475.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hyhAM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "めいさん、鎮魂完走おつかれさまでした！！"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "でしょでしょ？？一人二役遊びしたくなるでしょう？さあ、セリフは"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "eyeglasses",
+                                "unicode": "1f453"
+                            },
+                            {
+                                "type": "text",
+                                "text": "「你来了、我们打个赌吧」ヒゲ「赌什么」"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "eyeglasses",
+                                "unicode": "1f453"
+                            },
+                            {
+                                "type": "text",
+                                "text": "「赌不管过了多久、不管去到那里、我们兑有一点、会再见的」ヒゲ「…好」ですよ。今日から暗記してくださいね（ガチやん）"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "いろいろツッコミ満載ですがもうメガネ兄さんの顔面と二の腕のおしゃれバンドとダブルスーツと（途中からモッズコートになったけど）だけ集中すればよいのでオールオッケーですよね。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "あと私36話で「沈嵬？電話みたいな名前だな。よっしゃ漢字変えたろ。今日からお前は沈巍だ」のところの、一万年前バージョンメガネ兄さんのチュッパチャプスぺろぺろしてるキョトン顔と、声調が一声（高い音）に変わるときのヒゲ兄さんの指のの"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "arrow_heading_up",
+                                "unicode": "2934-fe0f"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "arrow_heading_up",
+                                "unicode": "2934-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "がですね、もう瀕死でした。いや死んだ。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "一晩語りあかせますが、鎮魂中華回いつ開催でしたっけ？（早口"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "28be1695-48c4-4233-86d2-4aa684fb602e",
+        "type": "message",
+        "text": "ピンインないと読めないっす～:rolling_on_the_floor_laughing:と思ったらネットで変換サイト発見。よし、映像見ながら練習だ！\nチュッパチャプスぺろぺろはヒゲ兄さんが舐めたものですよね？間接キッスどころか間接ベロチューでいいんですよね！？このために１話からずーっっとチュッパさんは登場してたんですね:laughing: メガネ兄さんの下手な舐め方もたまらんです。ヒゲ兄そこも教えてあげて:exclamation:\nメガネ兄さんのファッションだけでご飯三杯いけるんですが、どうしたらいいんでしょう(笑)\n鎮魂中華回は必要ですわ。私のクソデカ感情が爆発してまいそうです:bomb:\nこれ原作とぜんっぜん違うんですよね？ハピエンなんですよね？原作まとまったの8月に出るんですよね。 買えと(買うけど！)！？\n\nプチ悩み:毎回オープニングの「鎮魂」が「銀魂」に見えてしまうのはどうしたらいいんでしょうか:rolling_on_the_floor_laughing: ？",
+        "user": "U017FMU5XTQ",
+        "ts": "1657063203.317979",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "bea7a407721c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-26\/1263539336931_bea7a407721cebe3595a_72.jpg",
+            "first_name": "",
+            "real_name": "めい",
+            "display_name": "めい",
+            "team": "T014MVD863E",
+            "name": "megmon24",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lhA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ピンインないと読めないっす～"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "rolling_on_the_floor_laughing",
+                                "unicode": "1f923"
+                            },
+                            {
+                                "type": "text",
+                                "text": "と思ったらネットで変換サイト発見。よし、映像見ながら練習だ！\nチュッパチャプスぺろぺろはヒゲ兄さんが舐めたものですよね？間接キッスどころか間接ベロチューでいいんですよね！？このために１話からずーっっとチュッパさんは登場してたんですね"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "laughing",
+                                "unicode": "1f606"
+                            },
+                            {
+                                "type": "text",
+                                "text": " メガネ兄さんの下手な舐め方もたまらんです。ヒゲ兄そこも教えてあげて"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "exclamation",
+                                "unicode": "2757"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nメガネ兄さんのファッションだけでご飯三杯いけるんですが、どうしたらいいんでしょう(笑)\n鎮魂中華回は必要ですわ。私のクソデカ感情が爆発してまいそうです"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "bomb",
+                                "unicode": "1f4a3"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nこれ原作とぜんっぜん違うんですよね？ハピエンなんですよね？原作まとまったの8月に出るんですよね。 買えと(買うけど！)！？\n\nプチ悩み:毎回オープニングの「鎮魂」が「銀魂」に見えてしまうのはどうしたらいいんでしょうか"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "rolling_on_the_floor_laughing",
+                                "unicode": "1f923"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2dcf5c8c-9742-4b33-a917-6f6ea17d6df6",
+        "type": "message",
+        "text": "速報：チュッパチャプスに釣られてFODで見始めました",
+        "user": "U014UD117ND",
+        "ts": "1657078042.392139",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "d661e4a51036",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-30\/1214690186661_d661e4a51036d8b1a2e4_72.jpg",
+            "first_name": "ジーナ",
+            "real_name": "ジーナ",
+            "display_name": "ジーナ",
+            "team": "T014MVD863E",
+            "name": "ayumee528",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hLU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "速報：チュッパチャプスに釣られてFODで見始めました"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01PZK3KK97",
+                    "U017FMU5XTQ"
+                ],
+                "count": 2
+            },
+            {
+                "name": "rolling_on_the_floor_laughing",
+                "users": [
+                    "U01PZK3KK97",
+                    "U017FMU5XTQ"
+                ],
+                "count": 2
+            },
+            {
+                "name": "meow_party",
+                "users": [
+                    "U01PZK3KK97",
+                    "U017FMU5XTQ"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

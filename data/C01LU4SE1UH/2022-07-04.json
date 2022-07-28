@@ -1,0 +1,850 @@
+[
+    {
+        "client_msg_id": "c4e637c7-7ab5-4ace-9133-cb9c58be99b6",
+        "type": "message",
+        "text": "師匠、お疲れ様です:smile:\n「宝石の国」はアニメのほうを見てて、すごくおもしろかったんですが・・・あの子たちは両性具有っぽい感じもするし、でも無性ぽくもある。短パンにヒールというところに、作者の強いこだわりを感じます、むふ:face_with_hand_over_mouth:アニメ、おすすめですよ～:two_hearts:\n「薔薇王」もアニメやってますよね（もう終わったのか？）こちらは見てなかったんですが、原作が完結してるなら読んでみたいな～:two_hearts:",
+        "user": "U01P6E9P3J5",
+        "ts": "1656932617.587199",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "gc61e328c9e5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c61e328c9e5331e15fbbfaac3326fd4c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0025-72.png",
+            "first_name": "",
+            "real_name": "まる",
+            "display_name": "まる",
+            "team": "T014MVD863E",
+            "name": "marusan93",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1Nb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "師匠、お疲れ様です"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smile",
+                                "unicode": "1f604"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n「宝石の国」はアニメのほうを見てて、すごくおもしろかったんですが・・・あの子たちは両性具有っぽい感じもするし、でも無性ぽくもある。短パンにヒールというところに、作者の強いこだわりを感じます、むふ"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "face_with_hand_over_mouth",
+                                "unicode": "1f92d"
+                            },
+                            {
+                                "type": "text",
+                                "text": "アニメ、おすすめですよ～"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "two_hearts",
+                                "unicode": "1f495"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n「薔薇王」もアニメやってますよね（もう終わったのか？）こちらは見てなかったんですが、原作が完結してるなら読んでみたいな～"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "two_hearts",
+                                "unicode": "1f495"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1656629813.885029",
+        "parent_user_id": "U01PZK3KK97",
+        "reactions": [
+            {
+                "name": "smiley",
+                "users": [
+                    "U01PZK3KK97"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7f6da7de-b51a-40c7-b349-6bf8c60abfbd",
+        "type": "message",
+        "text": "「STAY GOLD」の新刊、発売を待ちに待って、朝、目覚めたベッドの中でまず読みました。\n個人的に日高くんの結末が、もちろんコウと付き合って幸せになって欲しくはあるけど、結局コウと別れることになっても、別の人と付き合うことになっても、どの展開でもきっと楽しい展開だなぁと思うんですよね。\nただ、サトルさんおっしゃるように、今まで何にも熱くなれなかったコウが初めて恋して感情のコントロール効かなくなる様子は眺めていたいですね:drooling_face:",
+        "user": "U014UD117ND",
+        "ts": "1656958573.114039",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "d661e4a51036",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-30\/1214690186661_d661e4a51036d8b1a2e4_72.jpg",
+            "first_name": "ジーナ",
+            "real_name": "ジーナ",
+            "display_name": "ジーナ",
+            "team": "T014MVD863E",
+            "name": "ayumee528",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tHvVy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "「STAY GOLD」の新刊、発売を待ちに待って、朝、目覚めたベッドの中でまず読みました。\n個人的に日高くんの結末が、もちろんコウと付き合って幸せになって欲しくはあるけど、結局コウと別れることになっても、別の人と付き合うことになっても、どの展開でもきっと楽しい展開だなぁと思うんですよね。\nただ、サトルさんおっしゃるように、今まで何にも熱くなれなかったコウが初めて恋して感情のコントロール効かなくなる様子は眺めていたいですね"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "drooling_face",
+                                "unicode": "1f924"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "74e2bb87-2911-4f01-94e8-5aba367bed7d",
+        "type": "message",
+        "text": "「薔薇王」の最終巻も発売日に、朝、ベッドの中で読んだんですが、ケイツビー！私もケイツビー推しで、もう彼が最後まで死なないことをひたすら祈ってたので…！\nストーリー的には、こう言ってはなんですが、この展開しか無かったよね？みたいな印象でした。これだけ続いて人気もあったら、悲惨な最期は描けないよなって",
+        "user": "U014UD117ND",
+        "ts": "1656958855.538089",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "d661e4a51036",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-30\/1214690186661_d661e4a51036d8b1a2e4_72.jpg",
+            "first_name": "ジーナ",
+            "real_name": "ジーナ",
+            "display_name": "ジーナ",
+            "team": "T014MVD863E",
+            "name": "ayumee528",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "srB6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "「薔薇王」の最終巻も発売日に、朝、ベッドの中で読んだんですが、ケイツビー！私もケイツビー推しで、もう彼が最後まで死なないことをひたすら祈ってたので…！\nストーリー的には、こう言ってはなんですが、この展開しか無かったよね？みたいな印象でした。これだけ続いて人気もあったら、悲惨な最期は描けないよなって"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5f62daf1-fa1b-48b2-a967-687afdac5fa5",
+        "type": "message",
+        "text": "「宝石の国」のマンガ、実は積読してあるので、そろそろ開くべき時が…！無性っぽくて短パンにヒールって、いいじゃないですか…！",
+        "user": "U014UD117ND",
+        "ts": "1656959287.572589",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "d661e4a51036",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-30\/1214690186661_d661e4a51036d8b1a2e4_72.jpg",
+            "first_name": "ジーナ",
+            "real_name": "ジーナ",
+            "display_name": "ジーナ",
+            "team": "T014MVD863E",
+            "name": "ayumee528",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KOw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "「宝石の国」のマンガ、実は積読してあるので、そろそろ開くべき時が…！無性っぽくて短パンにヒールって、いいじゃないですか…！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1656959287.572589",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1657282099.379649",
+        "reply_users": [
+            "U01P6E9P3J5"
+        ],
+        "replies": [
+            {
+                "user": "U01P6E9P3J5",
+                "ts": "1657282099.379649"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1657282099.379649",
+        "reactions": [
+            {
+                "name": "agree",
+                "users": [
+                    "U01PZK3KK97",
+                    "U01P6E9P3J5"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9c5557b4-ed80-422d-9041-8fd2d8d1f77f",
+        "type": "message",
+        "text": "私の大好きな「CANIS」シリーズが、ようやく連載雑誌を変えて、新刊が発売されましたーーー:tada:\nマフィア・警察・スパイ・人身売買・スーツ・３P、あたりの単語にピンと来たら読んで欲しいです〜！BLっていうより、ごりっごりに骨太なハードボイルドものです。\n主人公たち３人が子供の時から話はスタートして、現在彼らが40代前半:heart_eyes:\n<https:\/\/amzn.to\/3OBCeaJ>",
+        "user": "U014UD117ND",
+        "ts": "1656959763.092599",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "d661e4a51036",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-30\/1214690186661_d661e4a51036d8b1a2e4_72.jpg",
+            "first_name": "ジーナ",
+            "real_name": "ジーナ",
+            "display_name": "ジーナ",
+            "team": "T014MVD863E",
+            "name": "ayumee528",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U014UD117ND",
+            "ts": "1656966022.000000"
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/amzn.to\/3OBCeaJ",
+                "image_url": "https:\/\/images-fe.ssl-images-amazon.com\/images\/I\/518xeZ3t1jL._SR600%2c315_PIWhiteStrip%2cBottomLeft%2c0%2c35_PIStarRatingFIVE%2cBottomLeft%2c360%2c-6_SR600%2c315_ZA6%2c445%2c290%2c400%2c400%2cAmazonEmberBold%2c12%2c4%2c0%2c0%2c5_SCLZZZZZZZ_FMpng_BG255%2c255%2c255.jpg",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 136620,
+                "service_icon": "https:\/\/www.amazon.co.jp\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/amzn.to\/3OBCeaJ",
+                "fallback": "CANIS-THE SPEAKER- 【特典付き】(3) (バンブーコミックス 麗人セレクション)",
+                "text": "”顔のない”マフィアのボス・アルドに成り代わったハルは、孤児院が人身売買に&amp;...",
+                "title": "CANIS-THE SPEAKER- 【特典付き】(3) (バンブーコミックス 麗人セレクション)",
+                "title_link": "https:\/\/amzn.to\/3OBCeaJ",
+                "service_name": "amazon.co.jp"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hDW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "私の大好きな「CANIS」シリーズが、ようやく連載雑誌を変えて、新刊が発売されましたーーー"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "tada",
+                                "unicode": "1f389"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nマフィア・警察・スパイ・人身売買・スーツ・３P、あたりの単語にピンと来たら読んで欲しいです〜！BLっていうより、ごりっごりに骨太なハードボイルドものです。\n主人公たち３人が子供の時から話はスタートして、現在彼らが40代前半"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "heart_eyes",
+                                "unicode": "1f60d"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/amzn.to\/3OBCeaJ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "D09D626A-1170-4B09-A286-AEF951301775",
+        "type": "message",
+        "text": "ケイツビー！今度の連休で一気読みしようε=ε=ε=ε=ε=ε=┌(;￣◇￣)┘\n私も「CANIS」シリーズは楽しみにしている作品の一つです！もう少し続くかなと思ったのですが、４巻で完結するそうですね:pleading_face:",
+        "user": "U01M8BTNR7C",
+        "ts": "1656975292.606009",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "16c140f650be",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-02-10\/1748642350673_16c140f650be7c6cc646_72.png",
+            "first_name": "きなこ",
+            "real_name": "きなこ",
+            "display_name": "",
+            "team": "T014MVD863E",
+            "name": "le.arbre.montagne.121",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dBgoC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ケイツビー！今度の連休で一気読みしようε=ε=ε=ε=ε=ε=┌(;￣◇￣)┘"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "私も「"
+                            },
+                            {
+                                "type": "text",
+                                "text": "CANIS"
+                            },
+                            {
+                                "type": "text",
+                                "text": "」シリーズは楽しみにしている作品の一つです！もう少し続くかなと思ったのですが、４巻で完結するそうですね"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pleading_face",
+                                "unicode": "1f97a"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b7d1f3cf-937b-421f-b367-d5b549051ded",
+        "type": "message",
+        "text": "えっ、次巻で完結なんですか？！うぅぅ、結末が楽しみなような、終わってしまうのが切ないような…",
+        "user": "U014UD117ND",
+        "ts": "1656976969.128989",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "d661e4a51036",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-30\/1214690186661_d661e4a51036d8b1a2e4_72.jpg",
+            "first_name": "ジーナ",
+            "real_name": "ジーナ",
+            "display_name": "ジーナ",
+            "team": "T014MVD863E",
+            "name": "ayumee528",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=dBdq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "えっ、次巻で完結なんですか？！うぅぅ、結末が楽しみなような、終わってしまうのが切ないような…"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1E5D64FB-9004-4D37-8284-F5E82E02A5B0",
+        "type": "message",
+        "text": "終わるとしたら、やっぱ寂しいですね。\n先生のツイートです:arrow_down:\n<https:\/\/twitter.com\/zakk_ccc\/status\/1541283844237983744?s=21&amp;t=oqqH_phmTOx177fvnEriag|https:\/\/twitter.com\/zakk_ccc\/status\/1541283844237983744?s=21&amp;t=oqqH_phmTOx177fvnEriag>",
+        "user": "U01M8BTNR7C",
+        "ts": "1656977595.667749",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "16c140f650be",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-02-10\/1748642350673_16c140f650be7c6cc646_72.png",
+            "first_name": "きなこ",
+            "real_name": "きなこ",
+            "display_name": "",
+            "team": "T014MVD863E",
+            "name": "le.arbre.montagne.121",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/twitter.com\/zakk_ccc\/status\/1541283844237983744?s=21&amp;t=oqqH_phmTOx177fvnEriag",
+                "ts": 1656305678,
+                "image_url": "https:\/\/pbs.twimg.com\/media\/FWO9fFQaUAAA2RA.jpg",
+                "image_width": 900,
+                "image_height": 1200,
+                "image_bytes": 300130,
+                "id": 1,
+                "original_url": "https:\/\/twitter.com\/zakk_ccc\/status\/1541283844237983744?s=21&amp;t=oqqH_phmTOx177fvnEriag",
+                "fallback": "<https:\/\/twitter.com\/ZAKK_ccc|@ZAKK_ccc>: 『CANIS-THE SPEAKER-』#3\n6月27日発売！ハル、サム、ノブが暗躍する舞台に、捜査官、工作員、ハッカーなど、個性豊かな役者が揃った第3巻。最終4巻は今秋発売予定です！ <https:\/\/pbs.twimg.com\/media\/FWO9fFQaUAAA2RA.jpg>",
+                "text": "『CANIS-THE SPEAKER-』#3\n6月27日発売！ハル、サム、ノブが暗躍する舞台に、捜査官、工作員、ハッカーなど、個性豊かな役者が揃った第3巻。最終4巻は今秋発売予定です！ <https:\/\/pbs.twimg.com\/media\/FWO9fFQaUAAA2RA.jpg>",
+                "author_name": "ZAKK",
+                "author_link": "https:\/\/twitter.com\/ZAKK_ccc\/status\/1541283844237983744",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/812498416735399936\/U8vyeJcX_normal.jpg",
+                "author_subname": "@ZAKK_ccc",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/80588\/img\/services\/twitter_pixel_snapped_32.png"
+            },
+            {
+                "image_url": "https:\/\/pbs.twimg.com\/media\/FWO9fFXaAAY2BCy.jpg",
+                "image_width": 900,
+                "image_height": 1200,
+                "image_bytes": 309211,
+                "id": 2,
+                "fallback": "900x1200px image",
+                "text": "<https:\/\/pbs.twimg.com\/media\/FWO9fFXaAAY2BCy.jpg>"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Z\/u",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "終わるとしたら、やっぱ寂しいですね。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "先生のツイートです"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "arrow_down",
+                                "unicode": "2b07-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/twitter.com\/zakk_ccc\/status\/1541283844237983744?s=21&t=oqqH_phmTOx177fvnEriag",
+                                "text": "https:\/\/twitter.com\/zakk_ccc\/status\/1541283844237983744?s=21&t=oqqH_phmTOx177fvnEriag"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1656977595.667749",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1657036297.805189",
+        "reply_users": [
+            "U014UD117ND",
+            "U01M8BTNR7C"
+        ],
+        "replies": [
+            {
+                "user": "U014UD117ND",
+                "ts": "1656983116.495969"
+            },
+            {
+                "user": "U01M8BTNR7C",
+                "ts": "1657036297.805189"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1657036297.805189"
+    },
+    {
+        "client_msg_id": "76CFD8B9-FBEE-486B-B029-32F8B24FFF41",
+        "type": "message",
+        "text": "え、:point_up_2:の作品ぜんぜん知りませんでした！すごーく良さそうです。作者さまも存じ上げない方？\n\n四巻が最終巻なら、それをまって一気読みか？",
+        "user": "U017LVA457X",
+        "ts": "1656981902.803609",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "ab08cd7206d5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-23\/1260372537906_ab08cd7206d5061995ec_72.png",
+            "first_name": "Nakaji",
+            "real_name": "Nakaji",
+            "display_name": "Nakaji",
+            "team": "T014MVD863E",
+            "name": "nakaji352002",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DkfYT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "え、"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "point_up_2",
+                                "unicode": "1f446"
+                            },
+                            {
+                                "type": "text",
+                                "text": "の作品ぜんぜん知りませんでした！すごーく良さそうです。作者さまも存じ上げない方？"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n四巻が最終巻なら、それをまって一気読みか"
+                            },
+                            {
+                                "type": "text",
+                                "text": "？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1656981902.803609",
+        "reply_count": 4,
+        "reply_users_count": 2,
+        "latest_reply": "1657035318.657309",
+        "reply_users": [
+            "U03D1UJECGZ",
+            "U017LVA457X"
+        ],
+        "replies": [
+            {
+                "user": "U03D1UJECGZ",
+                "ts": "1656984423.020769"
+            },
+            {
+                "user": "U017LVA457X",
+                "ts": "1657028805.270519"
+            },
+            {
+                "user": "U03D1UJECGZ",
+                "ts": "1657029990.322599"
+            },
+            {
+                "user": "U017LVA457X",
+                "ts": "1657035318.657309"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "91f7328a-9ef4-489a-b9a4-7893bb2aeab1",
+        "type": "message",
+        "text": "Zakk先生フォローしてるのに見逃してました！教えて頂きありがとうございます！\n最近3巻発売されたのに、今秋にはもう４巻が出るんですね。そ、そんな贅沢許されるんだろうか:drooling_face:",
+        "user": "U014UD117ND",
+        "ts": "1656983116.495969",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "d661e4a51036",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-30\/1214690186661_d661e4a51036d8b1a2e4_72.jpg",
+            "first_name": "ジーナ",
+            "real_name": "ジーナ",
+            "display_name": "ジーナ",
+            "team": "T014MVD863E",
+            "name": "ayumee528",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MIke",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Zakk先生フォローしてるのに見逃してました！教えて頂きありがとうございます！\n最近3巻発売されたのに、今秋にはもう４巻が出るんですね。そ、そんな贅沢許されるんだろうか"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "drooling_face",
+                                "unicode": "1f924"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1656977595.667749",
+        "parent_user_id": "U01M8BTNR7C"
+    },
+    {
+        "client_msg_id": "143FEA08-86CA-4FCD-A329-6E1786925F7E",
+        "type": "message",
+        "text": "The Speaker は Dear Mr. Rain, The Hatter という2作の前章（この2作の主役ではないキャラクターたちの過去譚）にあたるので、Mr. Rain と The Hatterから読んでもいいかもです！ そちらはお話しが一段落してるので…\n\nその2作は今年読んだのですが、すごく感動しました。ここ半年で読んだ中でTop5、もしかしたらTop3に入るんじゃないかな…\nThe Speakerは完結を待ってから読もうと思っております。\n\n実力派というか、海外を舞台にして描いても説得力があるし、独自の世界観が確立していて、すごく才能がある作家さんだと思いました。",
+        "user": "U03D1UJECGZ",
+        "ts": "1656984423.020769",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "a7dde0607f3e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-24\/3431416808738_a7dde0607f3e669535b6_72.png",
+            "first_name": "Kumatta",
+            "real_name": "Kumatta",
+            "display_name": "Kumatta",
+            "team": "T014MVD863E",
+            "name": "maki.terao",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hXj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The Speaker は "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Dear Mr."
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Rain,"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "The Hatter"
+                            },
+                            {
+                                "type": "text",
+                                "text": " という2作の前章（この2作の主役ではないキャラクターたちの過去譚）にあたるので、"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Mr."
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Rain"
+                            },
+                            {
+                                "type": "text",
+                                "text": " と "
+                            },
+                            {
+                                "type": "text",
+                                "text": "The"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Hatter"
+                            },
+                            {
+                                "type": "text",
+                                "text": "から読んでもいいかもです！ そちらはお話しが一段落してるので…"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nその2作は今年読んだのですが、"
+                            },
+                            {
+                                "type": "text",
+                                "text": "すごく感動しました。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ここ半年で読んだ中でTop5、もしかしたらTop3に入るんじゃないかな…"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "The"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Speaker"
+                            },
+                            {
+                                "type": "text",
+                                "text": "は完結を待ってから読もうと思っております。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "実力派というか、海外を舞台にして描いても説得力があるし、独自の世界観が確立していて、"
+                            },
+                            {
+                                "type": "text",
+                                "text": "すごく才能がある作家さんだと思いました。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1656981902.803609",
+        "parent_user_id": "U017LVA457X"
+    },
+    {
+        "client_msg_id": "71E386F9-2C53-4C1B-8873-D121EACAB3E4",
+        "type": "message",
+        "text": "麗人を刊行している竹書房さんは毎年8月1日から３日間、電書セールやっているのでこの時に前作をまとめて買うのもありかと:+1:（過去作品はセール対象になると思うので）",
+        "user": "U01M8BTNR7C",
+        "ts": "1656991201.851089",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "16c140f650be",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-02-10\/1748642350673_16c140f650be7c6cc646_72.png",
+            "first_name": "きなこ",
+            "real_name": "きなこ",
+            "display_name": "",
+            "team": "T014MVD863E",
+            "name": "le.arbre.montagne.121",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yhP3Q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "麗人を刊行している竹書房さんは毎年8月1日から３日間、電書セールやっているのでこの時に前作をまとめて買うのもありかと"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "+1",
+                                "unicode": "1f44d"
+                            },
+                            {
+                                "type": "text",
+                                "text": "（過去作品はセール対象になると思うので）"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "agree",
+                "users": [
+                    "U017LVA457X"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

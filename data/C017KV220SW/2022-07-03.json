@@ -1,0 +1,81 @@
+[
+    {
+        "client_msg_id": "A1E5C517-35CC-4F6C-8664-449485EB1A33",
+        "type": "message",
+        "text": "みなさま、こんばんは。本日よりお世話になっております、Aliceと申します。アドリアン・イングリッシュ全巻ようやく読み終えまして、幸せな結末に浸っております。が、既に次が読みたい熱にうなされておりまして。原書でもかまいませんので、次はコレ:bangbang:というものがありましたら、是非おすすめを教えて頂けたら幸いです。よろしくお願いします。",
+        "user": "U03N2KMPR6H",
+        "ts": "1656894760.970529",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "b6de36ac2e5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-08\/3788800367537_b6de36ac2e5fb40df77c_72.png",
+            "first_name": "Alice",
+            "real_name": "Alice",
+            "display_name": "Alice",
+            "team": "T014MVD863E",
+            "name": "azureseababy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MT0HD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "みなさま、こんばんは。本日よりお世話になっております、"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Alice"
+                            },
+                            {
+                                "type": "text",
+                                "text": "と申します。アドリアン・イングリッシュ全巻ようやく読み終えまして、幸せな結末に浸っております。が、既に次が読みたい熱にうなされておりまして。原書でもかまいませんので、次はコレ"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "bangbang",
+                                "unicode": "203c-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "というものがありましたら、"
+                            },
+                            {
+                                "type": "text",
+                                "text": "是非"
+                            },
+                            {
+                                "type": "text",
+                                "text": "おすすめを教えて頂けたら"
+                            },
+                            {
+                                "type": "text",
+                                "text": "幸い"
+                            },
+                            {
+                                "type": "text",
+                                "text": "です。よろしく"
+                            },
+                            {
+                                "type": "text",
+                                "text": "お願いします"
+                            },
+                            {
+                                "type": "text",
+                                "text": "。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

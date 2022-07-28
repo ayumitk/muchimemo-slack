@@ -1,0 +1,286 @@
+[
+    {
+        "client_msg_id": "963EC658-1922-48E3-B778-7F5216F4BFC6",
+        "type": "message",
+        "text": "こういう教材なら頑張れそう:joy:\n<https:\/\/twitter.com\/astraea_f\/status\/1542158428638003200?s=21&amp;t=XobfiIqFoshEFL41d8YuHQ|https:\/\/twitter.com\/astraea_f\/status\/1542158428638003200?s=21&amp;t=XobfiIqFoshEFL41d8YuHQ>",
+        "user": "U01M8BTNR7C",
+        "ts": "1656836779.889579",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "16c140f650be",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-02-10\/1748642350673_16c140f650be7c6cc646_72.png",
+            "first_name": "きなこ",
+            "real_name": "きなこ",
+            "display_name": "",
+            "team": "T014MVD863E",
+            "name": "le.arbre.montagne.121",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/twitter.com\/astraea_f\/status\/1542158428638003200?s=21&amp;t=XobfiIqFoshEFL41d8YuHQ",
+                "ts": 1656514195,
+                "image_url": "https:\/\/pbs.twimg.com\/media\/FWbXf_1WIAAMObc.jpg",
+                "image_width": 600,
+                "image_height": 639,
+                "image_bytes": 74955,
+                "id": 1,
+                "original_url": "https:\/\/twitter.com\/astraea_f\/status\/1542158428638003200?s=21&amp;t=XobfiIqFoshEFL41d8YuHQ",
+                "fallback": "<https:\/\/twitter.com\/astraea_f|@astraea_f>: 最近AO3の話題をよく見かけるので英語でBL読む時のメモを再掲します。誤字を直していっこ追加したよ <https:\/\/pbs.twimg.com\/media\/FWbXf_1WIAAMObc.jpg>",
+                "text": "最近AO3の話題をよく見かけるので英語でBL読む時のメモを再掲します。誤字を直していっこ追加したよ <https:\/\/pbs.twimg.com\/media\/FWbXf_1WIAAMObc.jpg>",
+                "author_name": "ぎんまる",
+                "author_link": "https:\/\/twitter.com\/astraea_f\/status\/1542158428638003200",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/1011781538898370560\/8alkVBu1_normal.jpg",
+                "author_subname": "@astraea_f",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/80588\/img\/services\/twitter_pixel_snapped_32.png"
+            },
+            {
+                "image_url": "https:\/\/pbs.twimg.com\/media\/FWbXlisXkAIArHE.jpg",
+                "image_width": 600,
+                "image_height": 571,
+                "image_bytes": 69805,
+                "id": 2,
+                "fallback": "600x571px image",
+                "text": "<https:\/\/pbs.twimg.com\/media\/FWbXlisXkAIArHE.jpg>"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xzCu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "こういう教材なら頑張れそう"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "joy",
+                                "unicode": "1f602"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/twitter.com\/astraea_f\/status\/1542158428638003200?s=21&t=XobfiIqFoshEFL41d8YuHQ",
+                                "text": "https:\/\/twitter.com\/astraea_f\/status\/1542158428638003200?s=21&t=XobfiIqFoshEFL41d8YuHQ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart_eyes_cat",
+                "users": [
+                    "U029MKK3W4E"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U01P6E9P3J5"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9358766F-0B71-4351-A8E0-75D3CD630E25",
+        "type": "message",
+        "text": "わー、きなこさん、すごくお役に立ちます！MMには絶対常時保存して確認すべきです！\n特に股間部に注目:exclamation:",
+        "user": "U017LVA457X",
+        "ts": "1656847795.975979",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "ab08cd7206d5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-23\/1260372537906_ab08cd7206d5061995ec_72.png",
+            "first_name": "Nakaji",
+            "real_name": "Nakaji",
+            "display_name": "Nakaji",
+            "team": "T014MVD863E",
+            "name": "nakaji352002",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "B0S",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "わー、きなこさん、すごくお役に立ちます！MMには絶対常時保存して確認すべきです！"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "特に股間部に注目"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "exclamation",
+                                "unicode": "2757"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "53F38C25-6436-4A30-9318-EA1DAC4CBD0E",
+        "type": "message",
+        "text": "これは分かりやすい！",
+        "user": "U017YHF4ZG9",
+        "ts": "1656848017.138239",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "8b538c52795e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-23\/1256603203669_8b538c52795ebb5c006a_72.jpg",
+            "first_name": "",
+            "real_name": "Ayu Yamane",
+            "display_name": "Ayu Yamane",
+            "team": "T014MVD863E",
+            "name": "ayu76mi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZkG4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "これは分かりやすい！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "B9852626-0032-4E12-9F77-74245C88F1C2",
+        "type": "message",
+        "text": "ね、ね、すごくいいですよね。",
+        "user": "U017LVA457X",
+        "ts": "1656849248.689189",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "ab08cd7206d5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-23\/1260372537906_ab08cd7206d5061995ec_72.png",
+            "first_name": "Nakaji",
+            "real_name": "Nakaji",
+            "display_name": "Nakaji",
+            "team": "T014MVD863E",
+            "name": "nakaji352002",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "k=RPM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ね、ね、すごくいいですよね。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9FD777C2-87E9-4109-B342-34B07EAAF65E",
+        "type": "message",
+        "text": "私はSmallっていう場所がピンと来なくて,日常会話で聞いたことない割にMMではよく出てくるんで以前ググって画像で確認した記憶があります。",
+        "user": "U017LVA457X",
+        "ts": "1656849444.970119",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "ab08cd7206d5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-23\/1260372537906_ab08cd7206d5061995ec_72.png",
+            "first_name": "Nakaji",
+            "real_name": "Nakaji",
+            "display_name": "Nakaji",
+            "team": "T014MVD863E",
+            "name": "nakaji352002",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5MXIC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "私は"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Small"
+                            },
+                            {
+                                "type": "text",
+                                "text": "っていう場所がピンと来なくて"
+                            },
+                            {
+                                "type": "text",
+                                "text": ","
+                            },
+                            {
+                                "type": "text",
+                                "text": "日常会話で聞いたことない割にMMではよく出てくるんで以前ググって画像で確認した記憶"
+                            },
+                            {
+                                "type": "text",
+                                "text": "があります。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

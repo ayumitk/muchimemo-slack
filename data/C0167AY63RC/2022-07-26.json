@@ -1,0 +1,354 @@
+[
+    {
+        "client_msg_id": "015d5ce2-7d69-4de1-a9c8-23824635d298",
+        "type": "message",
+        "text": "私のほうこそいつも駄文をダラダラ書き連ねておりますものを:disappointed_relieved:お恥ずかしい限りですが、いやもうただ皆さんに「くすり」とでも笑っていただけましたら、本望でございます:smiling_face_with_tear:これからも萌えの赴くままに語ってくださいね、Nakajiさん:blush::two_hearts:",
+        "user": "U01P6E9P3J5",
+        "ts": "1658826662.359899",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "gc61e328c9e5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c61e328c9e5331e15fbbfaac3326fd4c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0025-72.png",
+            "first_name": "",
+            "real_name": "まる",
+            "display_name": "まる",
+            "team": "T014MVD863E",
+            "name": "marusan93",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qz5QQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "私のほうこそいつも駄文をダラダラ書き連ねておりますものを"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "disappointed_relieved",
+                                "unicode": "1f625"
+                            },
+                            {
+                                "type": "text",
+                                "text": "お恥ずかしい限りですが、いやもうただ皆さんに「くすり」とでも笑っていただけましたら、本望でございます"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smiling_face_with_tear",
+                                "unicode": "1f972"
+                            },
+                            {
+                                "type": "text",
+                                "text": "これからも萌えの赴くままに語ってくださいね、Nakajiさん"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "blush",
+                                "unicode": "1f60a"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "two_hearts",
+                                "unicode": "1f495"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1658556106.752519",
+        "parent_user_id": "U017YHF4ZG9"
+    },
+    {
+        "client_msg_id": "48b03845-a37a-40f1-badf-209e0268467c",
+        "type": "message",
+        "text": "ジーナさん、いつもありがとうございます:relaxed:\n自分に使いこなせるもんだか自信がありませんが:sweat_smile:今リンクしてみたら入れたので、な、なんとかなるんじゃないかな？？そのうち慣れる・・・でしょう:sweat_smile:\n皆さんのよろしいほうで、当方は問題ありません:smile:\nお世話様ですが、お手続きよろしくお願いいたします。",
+        "user": "U01P6E9P3J5",
+        "ts": "1658828137.603709",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "gc61e328c9e5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c61e328c9e5331e15fbbfaac3326fd4c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0025-72.png",
+            "first_name": "",
+            "real_name": "まる",
+            "display_name": "まる",
+            "team": "T014MVD863E",
+            "name": "marusan93",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Cgr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ジーナさん、いつもありがとうございます"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "relaxed",
+                                "unicode": "263a-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n自分に使いこなせるもんだか自信がありませんが"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sweat_smile",
+                                "unicode": "1f605"
+                            },
+                            {
+                                "type": "text",
+                                "text": "今リンクしてみたら入れたので、な、なんとかなるんじゃないかな？？そのうち慣れる・・・でしょう"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sweat_smile",
+                                "unicode": "1f605"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n皆さんのよろしいほうで、当方は問題ありません"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smile",
+                                "unicode": "1f604"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nお世話様ですが、お手続きよろしくお願いいたします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a26d8a64-74d1-4890-8871-3837b7b8b0a8",
+        "type": "message",
+        "text": "私もまるさんと同じ感じです。\nアプリやセキュリティに不案内なので、皆さんのよい方で。どちらでもついて参ります:slightly_smiling_face:",
+        "user": "U0188J8KHE0",
+        "ts": "1658838989.044049",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "9bddb1ef97ce",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-31\/1273082961765_9bddb1ef97ce43f9742f_72.png",
+            "first_name": "サトル",
+            "real_name": "サトル",
+            "display_name": "サトル",
+            "team": "T014MVD863E",
+            "name": "rien9326",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Bh5R",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "私もまるさんと同じ感じです。\nアプリやセキュリティに不案内なので、皆さんのよい方で。どちらでもついて参ります"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "DFBE4FD4-7224-4AAA-B926-042C609F0F25",
+        "type": "message",
+        "text": "②を希望します。\n皆さんの感想を遡って探したりするので、90日だとちょっと足りないなぁ、と。\nディスコードはアカウントあるものの、1度使っただけで放置状態。\nこれを機にちゃんと使えるようになりたいです。",
+        "user": "U017YHF4ZG9",
+        "ts": "1658860229.752899",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "8b538c52795e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-23\/1256603203669_8b538c52795ebb5c006a_72.jpg",
+            "first_name": "",
+            "real_name": "Ayu Yamane",
+            "display_name": "Ayu Yamane",
+            "team": "T014MVD863E",
+            "name": "ayu76mi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pNH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "②を希望します。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "皆さんの感想を遡って探したりするので、90日だとちょっと足りないなぁ、と。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ディスコードはアカウントあるものの、1度使っただけで放置状態。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "これを機にちゃんと使えるようになりたいです。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "E68924DE-2683-4A99-B198-4D49431AA595",
+        "type": "message",
+        "text": "わたしもまるさん、サトルさんと同じ意見です。みなさんのいい方でお願いしますー！",
+        "user": "U03QNS0Q7CM",
+        "ts": "1658877083.867379",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "7b49c3a35593",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-24\/3835261537750_7b49c3a35593d6f493f5_72.png",
+            "first_name": "Annoh",
+            "real_name": "Annoh",
+            "display_name": "Annoh",
+            "team": "T014MVD863E",
+            "name": "annotweets",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aAu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "わたしもまるさん、サトルさんと同じ意見です。みなさんのいい方でお願いしますー！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8eacbd61-5bba-4688-b491-e64a8db622c9",
+        "type": "message",
+        "text": "みなさん、返信ありがとうございます！大丈夫そうなので、ではDiscordに移行しようと思います。このslack自体は残しておきますが、今後の書き込みはDiscordの方でお願いします:pray:\n\n▼招待リンクはこちら\n<https:\/\/discord.gg\/Py9TME9eNg>",
+        "user": "U014UD117ND",
+        "ts": "1658881953.664089",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "d661e4a51036",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-30\/1214690186661_d661e4a51036d8b1a2e4_72.jpg",
+            "first_name": "ジーナ",
+            "real_name": "ジーナ",
+            "display_name": "ジーナ",
+            "team": "T014MVD863E",
+            "name": "ayumee528",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/discord.gg\/Py9TME9eNg",
+                "image_url": "https:\/\/cdn.discordapp.com\/icons\/1001213175464738846\/068045cbee25b75ab9cd682572e6d008.jpg?size=256",
+                "image_width": 250,
+                "image_height": 250,
+                "image_bytes": 12331,
+                "id": 1,
+                "original_url": "https:\/\/discord.gg\/Py9TME9eNg",
+                "fallback": "Discord: Join the muchimemo Discord Server!",
+                "text": "Check out the muchimemo community on Discord - hang out with 9 other members and enjoy free voice and text chat.",
+                "title": "Join the muchimemo Discord Server!",
+                "title_link": "https:\/\/discord.gg\/Py9TME9eNg",
+                "service_name": "Discord"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VEZyL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "みなさん、返信ありがとうございます！大丈夫そうなので、ではDiscordに移行しようと思います。このslack自体は残しておきますが、今後の書き込みはDiscordの方でお願いします"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n▼招待リンクはこちら\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/discord.gg\/Py9TME9eNg"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

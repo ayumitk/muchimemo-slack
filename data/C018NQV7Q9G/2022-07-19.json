@@ -1,0 +1,100 @@
+[
+    {
+        "client_msg_id": "0F45EDF6-A9F4-4A69-86AC-5AE066C04117",
+        "type": "message",
+        "text": "Kumatta さん、お返事、感想ありがとうございます。\n試し読みで断念ってわかります。\n以前はkindle unlimited でずいぶんよみ始めては、途中でやめ、って繰り返してました。\n最近はunlimited はやめてしまったので、とりあえずかなりレビューなどで確認しています。\n\nやっぱりこちらで紹介していただいたのに間違いはないですね:heavy_heart_exclamation_mark_ornament:\n\nほんと私も感謝しています。",
+        "user": "U017LVA457X",
+        "ts": "1658268466.834679",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "ab08cd7206d5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-23\/1260372537906_ab08cd7206d5061995ec_72.png",
+            "first_name": "Nakaji",
+            "real_name": "Nakaji",
+            "display_name": "Nakaji",
+            "team": "T014MVD863E",
+            "name": "nakaji352002",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U017LVA457X",
+            "ts": "1658268491.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fxA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Kumatta さん、お返事、感想ありがとうございます。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "試し読みで断念ってわかります。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "以前はkindle unlimited でずいぶんよみ始めては、途中でやめ、って繰り返してました。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "最近はunlimited はやめてしまったので、とりあえずかなりレビューなどで確認しています。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nやっぱりこちらで紹介していただいたのに間違いはないですね"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "heavy_heart_exclamation_mark_ornament",
+                                "unicode": "2763-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nほんと私も感謝しています。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1658058100.940599",
+        "parent_user_id": "U017LVA457X",
+        "reactions": [
+            {
+                "name": "heart_eyes_cat",
+                "users": [
+                    "U03D1UJECGZ"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

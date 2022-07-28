@@ -1,0 +1,761 @@
+[
+    {
+        "client_msg_id": "243D1FE2-2AB2-4EA2-B694-6CBF3C6A38F7",
+        "type": "message",
+        "text": "すみませーん！ウザかったらほんとごめんなさい。でも、どーしても皆さまに見て欲しいです。\nまたもや、ツイートでAlexis先生からお返事いただきました！",
+        "user": "U017LVA457X",
+        "ts": "1657717630.665499",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "ab08cd7206d5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-23\/1260372537906_ab08cd7206d5061995ec_72.png",
+            "first_name": "Nakaji",
+            "real_name": "Nakaji",
+            "display_name": "Nakaji",
+            "team": "T014MVD863E",
+            "name": "nakaji352002",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YuH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "すみませーん！ウザかったらほんとごめんなさい。でも、どーしても皆さまに見て欲しいです。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "またもや、ツイートでAlexis先生からお返事いただきました！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "\n<https:\/\/twitter.com\/quicunquevult\/status\/1546851832831610880?s=12&amp;t=gb3-oHSunrlPBo2y5lUAVg>",
+        "user": "U017LVA457X",
+        "ts": "1657717747.331769",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "ab08cd7206d5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-23\/1260372537906_ab08cd7206d5061995ec_72.png",
+            "first_name": "Nakaji",
+            "real_name": "Nakaji",
+            "display_name": "Nakaji",
+            "team": "T014MVD863E",
+            "name": "nakaji352002",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/twitter.com\/quicunquevult\/status\/1546851832831610880?s=12&amp;t=gb3-oHSunrlPBo2y5lUAVg",
+                "ts": 1657633190,
+                "image_url": "https:\/\/pbs.twimg.com\/media\/FXeFUIdWAAQEHLF.jpg",
+                "image_width": 1077,
+                "image_height": 678,
+                "image_bytes": 35553,
+                "id": 1,
+                "original_url": "https:\/\/twitter.com\/quicunquevult\/status\/1546851832831610880?s=12&amp;t=gb3-oHSunrlPBo2y5lUAVg",
+                "fallback": "<https:\/\/twitter.com\/quicunquevult|@quicunquevult>: This is literally the best text my partner has ever sent me. <https:\/\/pbs.twimg.com\/media\/FXeFUIdWAAQEHLF.jpg>",
+                "text": "This is literally the best text my partner has ever sent me. <https:\/\/pbs.twimg.com\/media\/FXeFUIdWAAQEHLF.jpg>",
+                "author_name": "Alexis Hall 🦄",
+                "author_link": "https:\/\/twitter.com\/quicunquevult\/status\/1546851832831610880",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/1260918681661591552\/I71hajh5_normal.jpg",
+                "author_subname": "@quicunquevult",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/80588\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RvV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/twitter.com\/quicunquevult\/status\/1546851832831610880?s=12&amp;t=gb3-oHSunrlPBo2y5lUAVg",
+                                "text": "https:\/\/twitter.com\/quicunquevult\/status\/1546851832831610880?s=12&t=gb3-oHSunrlPBo2y5lUAVg"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "\n<https:\/\/twitter.com\/nakaji01354579\/status\/1546854062355800069?s=12&amp;t=gb3-oHSunrlPBo2y5lUAVg>",
+        "user": "U017LVA457X",
+        "ts": "1657717756.436589",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "ab08cd7206d5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-23\/1260372537906_ab08cd7206d5061995ec_72.png",
+            "first_name": "Nakaji",
+            "real_name": "Nakaji",
+            "display_name": "Nakaji",
+            "team": "T014MVD863E",
+            "name": "nakaji352002",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/twitter.com\/nakaji01354579\/status\/1546854062355800069?s=12&amp;t=gb3-oHSunrlPBo2y5lUAVg",
+                "ts": 1657633722,
+                "id": 1,
+                "original_url": "https:\/\/twitter.com\/nakaji01354579\/status\/1546854062355800069?s=12&amp;t=gb3-oHSunrlPBo2y5lUAVg",
+                "fallback": "<https:\/\/twitter.com\/Nakaji01354579|@Nakaji01354579>: <https:\/\/twitter.com\/quicunquevult|@quicunquevult> Omg so lovely! How nice you have unlimited good(！)books of supplies!",
+                "text": "<https:\/\/twitter.com\/quicunquevult|@quicunquevult> Omg so lovely! How nice you have unlimited good(！)books of supplies!",
+                "author_name": "Nakaji",
+                "author_link": "https:\/\/twitter.com\/Nakaji01354579\/status\/1546854062355800069",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/1296861843365998592\/n10rh2rx_normal.jpg",
+                "author_subname": "@Nakaji01354579",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/80588\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tJ5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/twitter.com\/nakaji01354579\/status\/1546854062355800069?s=12&amp;t=gb3-oHSunrlPBo2y5lUAVg",
+                                "text": "https:\/\/twitter.com\/nakaji01354579\/status\/1546854062355800069?s=12&t=gb3-oHSunrlPBo2y5lUAVg"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "\n<https:\/\/twitter.com\/quicunquevult\/status\/1546854551055106050?s=12&amp;t=gb3-oHSunrlPBo2y5lUAVg>",
+        "user": "U017LVA457X",
+        "ts": "1657717768.523249",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "ab08cd7206d5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-23\/1260372537906_ab08cd7206d5061995ec_72.png",
+            "first_name": "Nakaji",
+            "real_name": "Nakaji",
+            "display_name": "Nakaji",
+            "team": "T014MVD863E",
+            "name": "nakaji352002",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/twitter.com\/quicunquevult\/status\/1546854551055106050?s=12&amp;t=gb3-oHSunrlPBo2y5lUAVg",
+                "ts": 1657633838,
+                "id": 1,
+                "original_url": "https:\/\/twitter.com\/quicunquevult\/status\/1546854551055106050?s=12&amp;t=gb3-oHSunrlPBo2y5lUAVg",
+                "fallback": "<https:\/\/twitter.com\/quicunquevult|@quicunquevult>: <https:\/\/twitter.com\/Nakaji01354579|@Nakaji01354579> Well, I have 300 copies of HM to sign :D",
+                "text": "<https:\/\/twitter.com\/Nakaji01354579|@Nakaji01354579> Well, I have 300 copies of HM to sign :D",
+                "author_name": "Alexis Hall 🦄",
+                "author_link": "https:\/\/twitter.com\/quicunquevult\/status\/1546854551055106050",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/1260918681661591552\/I71hajh5_normal.jpg",
+                "author_subname": "@quicunquevult",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/80588\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "O6mpf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/twitter.com\/quicunquevult\/status\/1546854551055106050?s=12&amp;t=gb3-oHSunrlPBo2y5lUAVg",
+                                "text": "https:\/\/twitter.com\/quicunquevult\/status\/1546854551055106050?s=12&t=gb3-oHSunrlPBo2y5lUAVg"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "\n<https:\/\/twitter.com\/nakaji01354579\/status\/1546855176908201989?s=12&amp;t=gb3-oHSunrlPBo2y5lUAVg>",
+        "user": "U017LVA457X",
+        "ts": "1657717781.563379",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "ab08cd7206d5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-23\/1260372537906_ab08cd7206d5061995ec_72.png",
+            "first_name": "Nakaji",
+            "real_name": "Nakaji",
+            "display_name": "Nakaji",
+            "team": "T014MVD863E",
+            "name": "nakaji352002",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/twitter.com\/nakaji01354579\/status\/1546855176908201989?s=12&amp;t=gb3-oHSunrlPBo2y5lUAVg",
+                "ts": 1657633988,
+                "id": 1,
+                "original_url": "https:\/\/twitter.com\/nakaji01354579\/status\/1546855176908201989?s=12&amp;t=gb3-oHSunrlPBo2y5lUAVg",
+                "fallback": "<https:\/\/twitter.com\/Nakaji01354579|@Nakaji01354579>: <https:\/\/twitter.com\/quicunquevult|@quicunquevult> Omg I want to purchase your autographed HM! I am a Japanese big fan of you living in US forever. Do u think I can get it here in US??",
+                "text": "<https:\/\/twitter.com\/quicunquevult|@quicunquevult> Omg I want to purchase your autographed HM! I am a Japanese big fan of you living in US forever. Do u think I can get it here in US??",
+                "author_name": "Nakaji",
+                "author_link": "https:\/\/twitter.com\/Nakaji01354579\/status\/1546855176908201989",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/1296861843365998592\/n10rh2rx_normal.jpg",
+                "author_subname": "@Nakaji01354579",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/80588\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "i9WU=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/twitter.com\/nakaji01354579\/status\/1546855176908201989?s=12&amp;t=gb3-oHSunrlPBo2y5lUAVg",
+                                "text": "https:\/\/twitter.com\/nakaji01354579\/status\/1546855176908201989?s=12&t=gb3-oHSunrlPBo2y5lUAVg"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "\n<https:\/\/twitter.com\/quicunquevult\/status\/1546855854128988161?s=12&amp;t=gb3-oHSunrlPBo2y5lUAVg>",
+        "user": "U017LVA457X",
+        "ts": "1657717793.966929",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "ab08cd7206d5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-23\/1260372537906_ab08cd7206d5061995ec_72.png",
+            "first_name": "Nakaji",
+            "real_name": "Nakaji",
+            "display_name": "Nakaji",
+            "team": "T014MVD863E",
+            "name": "nakaji352002",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/twitter.com\/quicunquevult\/status\/1546855854128988161?s=12&amp;t=gb3-oHSunrlPBo2y5lUAVg",
+                "ts": 1657634149,
+                "id": 1,
+                "original_url": "https:\/\/twitter.com\/quicunquevult\/status\/1546855854128988161?s=12&amp;t=gb3-oHSunrlPBo2y5lUAVg",
+                "fallback": "<https:\/\/twitter.com\/quicunquevult|@quicunquevult>: <https:\/\/twitter.com\/Nakaji01354579|@Nakaji01354579> Signed bookplates are already available from Blue Willow (ordering from there gets you an activity kit too)!\n\n<https:\/\/www.bluewillowbookshop.com\/pre-order-husband-material-alexis-hall>",
+                "text": "<https:\/\/twitter.com\/Nakaji01354579|@Nakaji01354579> Signed bookplates are already available from Blue Willow (ordering from there gets you an activity kit too)!\n\n<https:\/\/www.bluewillowbookshop.com\/pre-order-husband-material-alexis-hall>",
+                "author_name": "Alexis Hall 🦄",
+                "author_link": "https:\/\/twitter.com\/quicunquevult\/status\/1546855854128988161",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/1260918681661591552\/I71hajh5_normal.jpg",
+                "author_subname": "@quicunquevult",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/80588\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UQk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/twitter.com\/quicunquevult\/status\/1546855854128988161?s=12&amp;t=gb3-oHSunrlPBo2y5lUAVg",
+                                "text": "https:\/\/twitter.com\/quicunquevult\/status\/1546855854128988161?s=12&t=gb3-oHSunrlPBo2y5lUAVg"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "\n<https:\/\/twitter.com\/nakaji01354579\/status\/1546856943486205953?s=12&amp;t=gb3-oHSunrlPBo2y5lUAVg>",
+        "user": "U017LVA457X",
+        "ts": "1657717833.216689",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "ab08cd7206d5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-23\/1260372537906_ab08cd7206d5061995ec_72.png",
+            "first_name": "Nakaji",
+            "real_name": "Nakaji",
+            "display_name": "Nakaji",
+            "team": "T014MVD863E",
+            "name": "nakaji352002",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/twitter.com\/nakaji01354579\/status\/1546856943486205953?s=12&amp;t=gb3-oHSunrlPBo2y5lUAVg",
+                "ts": 1657634409,
+                "id": 1,
+                "original_url": "https:\/\/twitter.com\/nakaji01354579\/status\/1546856943486205953?s=12&amp;t=gb3-oHSunrlPBo2y5lUAVg",
+                "fallback": "<https:\/\/twitter.com\/Nakaji01354579|@Nakaji01354579>: <https:\/\/twitter.com\/quicunquevult|@quicunquevult> Omg you are such a kind and thoughtful author! When you are busy for taking care of your parter’s books, thanks for replying to just one of your followers. Definitely I will check the link Blue Willow. Thanks",
+                "text": "<https:\/\/twitter.com\/quicunquevult|@quicunquevult> Omg you are such a kind and thoughtful author! When you are busy for taking care of your parter’s books, thanks for replying to just one of your followers. Definitely I will check the link Blue Willow. Thanks",
+                "author_name": "Nakaji",
+                "author_link": "https:\/\/twitter.com\/Nakaji01354579\/status\/1546856943486205953",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/1296861843365998592\/n10rh2rx_normal.jpg",
+                "author_subname": "@Nakaji01354579",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/80588\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qkl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/twitter.com\/nakaji01354579\/status\/1546856943486205953?s=12&amp;t=gb3-oHSunrlPBo2y5lUAVg",
+                                "text": "https:\/\/twitter.com\/nakaji01354579\/status\/1546856943486205953?s=12&t=gb3-oHSunrlPBo2y5lUAVg"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "\n<https:\/\/twitter.com\/quicunquevult\/status\/1546858612236099584?s=12&amp;t=gb3-oHSunrlPBo2y5lUAVg>",
+        "user": "U017LVA457X",
+        "ts": "1657717840.778289",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "ab08cd7206d5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-23\/1260372537906_ab08cd7206d5061995ec_72.png",
+            "first_name": "Nakaji",
+            "real_name": "Nakaji",
+            "display_name": "Nakaji",
+            "team": "T014MVD863E",
+            "name": "nakaji352002",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/twitter.com\/quicunquevult\/status\/1546858612236099584?s=12&amp;t=gb3-oHSunrlPBo2y5lUAVg",
+                "ts": 1657634807,
+                "id": 1,
+                "original_url": "https:\/\/twitter.com\/quicunquevult\/status\/1546858612236099584?s=12&amp;t=gb3-oHSunrlPBo2y5lUAVg",
+                "fallback": "<https:\/\/twitter.com\/quicunquevult|@quicunquevult>: <https:\/\/twitter.com\/Nakaji01354579|@Nakaji01354579> My pleasure &lt;3",
+                "text": "<https:\/\/twitter.com\/Nakaji01354579|@Nakaji01354579> My pleasure &lt;3",
+                "author_name": "Alexis Hall 🦄",
+                "author_link": "https:\/\/twitter.com\/quicunquevult\/status\/1546858612236099584",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/1260918681661591552\/I71hajh5_normal.jpg",
+                "author_subname": "@quicunquevult",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/80588\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dapw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/twitter.com\/quicunquevult\/status\/1546858612236099584?s=12&amp;t=gb3-oHSunrlPBo2y5lUAVg",
+                                "text": "https:\/\/twitter.com\/quicunquevult\/status\/1546858612236099584?s=12&t=gb3-oHSunrlPBo2y5lUAVg"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "\n<https:\/\/twitter.com\/nakaji01354579\/status\/1546856943486205953?s=12&amp;t=UfYru0NIdL8nmleyUUshPA>",
+        "user": "U017LVA457X",
+        "ts": "1657717888.810659",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "ab08cd7206d5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-23\/1260372537906_ab08cd7206d5061995ec_72.png",
+            "first_name": "Nakaji",
+            "real_name": "Nakaji",
+            "display_name": "Nakaji",
+            "team": "T014MVD863E",
+            "name": "nakaji352002",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/twitter.com\/nakaji01354579\/status\/1546856943486205953?s=12&amp;t=UfYru0NIdL8nmleyUUshPA",
+                "ts": 1657634409,
+                "id": 1,
+                "original_url": "https:\/\/twitter.com\/nakaji01354579\/status\/1546856943486205953?s=12&amp;t=UfYru0NIdL8nmleyUUshPA",
+                "fallback": "<https:\/\/twitter.com\/Nakaji01354579|@Nakaji01354579>: <https:\/\/twitter.com\/quicunquevult|@quicunquevult> Omg you are such a kind and thoughtful author! When you are busy for taking care of your parter’s books, thanks for replying to just one of your followers. Definitely I will check the link Blue Willow. Thanks",
+                "text": "<https:\/\/twitter.com\/quicunquevult|@quicunquevult> Omg you are such a kind and thoughtful author! When you are busy for taking care of your parter’s books, thanks for replying to just one of your followers. Definitely I will check the link Blue Willow. Thanks",
+                "author_name": "Nakaji",
+                "author_link": "https:\/\/twitter.com\/Nakaji01354579\/status\/1546856943486205953",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/1296861843365998592\/n10rh2rx_normal.jpg",
+                "author_subname": "@Nakaji01354579",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/80588\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lm2Mv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/twitter.com\/nakaji01354579\/status\/1546856943486205953?s=12&amp;t=UfYru0NIdL8nmleyUUshPA",
+                                "text": "https:\/\/twitter.com\/nakaji01354579\/status\/1546856943486205953?s=12&t=UfYru0NIdL8nmleyUUshPA"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "FE406BA9-B384-4FD9-9514-9D0F83FD68DE",
+        "type": "message",
+        "text": "ごめんねー、またよみにくくて。お許しください:heavy_heart_exclamation_mark_ornament:",
+        "user": "U017LVA457X",
+        "ts": "1657717928.380739",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "ab08cd7206d5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-23\/1260372537906_ab08cd7206d5061995ec_72.png",
+            "first_name": "Nakaji",
+            "real_name": "Nakaji",
+            "display_name": "Nakaji",
+            "team": "T014MVD863E",
+            "name": "nakaji352002",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nuX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ごめんねー、またよみにくくて。お許しください"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "heavy_heart_exclamation_mark_ornament",
+                                "unicode": "2763-fe0f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "88B0580B-5801-473D-89A5-BDF4D686D073",
+        "type": "message",
+        "text": "ツイートの内容はですねー\nAlexis先生が、写メで、すごく可愛いツイートされたんです。\nAlexis先生のパートナーさん(もちろん男性)からのメッセージで、「積読300冊あるの手伝って〜」\nで私のお返事が\n「すげー素敵!読み放題で素敵な本の供給あってよかったですね！」\nAlexis先生のお返事は\n「　えーっと私なんか300冊Husband Material サインしないといけないのが積んであるよ」\n私のお返事\n「えーアメリカにずーと住んでる日本人ファンですが、アメリカでもサイン本買えますか？」\nで、オンラインリンクを教えてくださいました:heavy_heart_exclamation_mark_ornament:",
+        "user": "U017LVA457X",
+        "ts": "1657718494.457259",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "ab08cd7206d5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-23\/1260372537906_ab08cd7206d5061995ec_72.png",
+            "first_name": "Nakaji",
+            "real_name": "Nakaji",
+            "display_name": "Nakaji",
+            "team": "T014MVD863E",
+            "name": "nakaji352002",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U017LVA457X",
+            "ts": "1657718673.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lMxHa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ツイートの内容はですねー\nAlexis先生が、写メで、すごく可愛いツイートされたんです。\nAlexis先生のパートナーさん(もちろん男性)からのメッセージで、「積読300冊あるの手伝って〜」\nで私のお返事が\n「すげー素敵!読み放題で素敵な本の供給あってよかったですね！」\nAlexis先生のお返事は\n「　えーっと私なんか300冊Husband Material サインしないといけないのが積んであるよ」\n私のお返事\n「えーアメリカにずーと住んでる日本人ファンですが、アメリカでもサイン本買えますか？」\nで、オンラインリンクを教えてくださいました"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "heavy_heart_exclamation_mark_ornament",
+                                "unicode": "2763-fe0f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "82782541-66C6-4860-B5AB-FDB83D32F20E",
+        "type": "message",
+        "text": "サイン本買えるかな:interrobang:",
+        "user": "U017LVA457X",
+        "ts": "1657718573.924319",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "ab08cd7206d5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-23\/1260372537906_ab08cd7206d5061995ec_72.png",
+            "first_name": "Nakaji",
+            "real_name": "Nakaji",
+            "display_name": "Nakaji",
+            "team": "T014MVD863E",
+            "name": "nakaji352002",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iGZTj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "サイン本買えるかな"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "interrobang",
+                                "unicode": "2049-fe0f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U017Z0T54P3",
+                    "U01P6E9P3J5"
+                ],
+                "count": 2
+            },
+            {
+                "name": "moe",
+                "users": [
+                    "U017Z0T54P3",
+                    "U01P6E9P3J5"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "00AE67F7-0CFE-4A6F-9915-63957D7FA77D",
+        "type": "message",
+        "text": "反応してくれて嬉しいですね:sparkles:\nサイン本は予約先着順でしょうか。\nゲットできるといいですね:heavy_heart_exclamation_mark_ornament:",
+        "user": "U01M8BTNR7C",
+        "ts": "1657752402.122609",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "16c140f650be",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-02-10\/1748642350673_16c140f650be7c6cc646_72.png",
+            "first_name": "きなこ",
+            "real_name": "きなこ",
+            "display_name": "",
+            "team": "T014MVD863E",
+            "name": "le.arbre.montagne.121",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JeX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "反応してくれて嬉しいですね"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sparkles",
+                                "unicode": "2728"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "サイン本は"
+                            },
+                            {
+                                "type": "text",
+                                "text": "予約"
+                            },
+                            {
+                                "type": "text",
+                                "text": "先着順でしょうか。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ゲットできるといいですね"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "heavy_heart_exclamation_mark_ornament",
+                                "unicode": "2763-fe0f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "A28F07BA-1506-49F4-AD97-2A30652CD752",
+        "type": "message",
+        "text": "ですです！",
+        "user": "U017LVA457X",
+        "ts": "1657758080.350119",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "ab08cd7206d5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-23\/1260372537906_ab08cd7206d5061995ec_72.png",
+            "first_name": "Nakaji",
+            "real_name": "Nakaji",
+            "display_name": "Nakaji",
+            "team": "T014MVD863E",
+            "name": "nakaji352002",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "F00",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ですです！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

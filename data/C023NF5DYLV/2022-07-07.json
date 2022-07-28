@@ -1,0 +1,59 @@
+[
+    {
+        "client_msg_id": "a1053cd6-8b9c-44ba-800d-89c559c6ed47",
+        "type": "message",
+        "text": "よく考えたらFOD契約したから「君、花海棠の〜」も日本語字幕で見れますね:sparkles:\nこれはうかうか寝てられない…",
+        "user": "U014UD117ND",
+        "ts": "1657214809.768079",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "d661e4a51036",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-30\/1214690186661_d661e4a51036d8b1a2e4_72.jpg",
+            "first_name": "ジーナ",
+            "real_name": "ジーナ",
+            "display_name": "ジーナ",
+            "team": "T014MVD863E",
+            "name": "ayumee528",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XaLh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "よく考えたらFOD契約したから「君、花海棠の〜」も日本語字幕で見れますね"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sparkles",
+                                "unicode": "2728"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nこれはうかうか寝てられない…"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "jake",
+                "users": [
+                    "U017FMU5XTQ",
+                    "U01PZK3KK97"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

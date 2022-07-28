@@ -1,0 +1,246 @@
+[
+    {
+        "client_msg_id": "70633801-8BEE-4A90-87BF-F4AA5CFFEA63",
+        "type": "message",
+        "text": "皆さーん、おは今晩は！\n誰からも訊かれてないけど、途中報告です。\nただ今、Hazard &amp; Somerset シリーズ第5巻目の40%です。Kumattaさん情報で、4巻、5巻が、盛り上がり、すごくいいってきいていたんですが、本当いいですよー。\nもうメチャクチャいいです。ああああネタバレできない！\nとにかく、私にとっては本物の男の思考回路が我がことようにわかるくらい、これでもっかって無意識のうちに思っていることがずーっと事件の進行に従って続くんです。ねこしまさんが、:point_up_2:で、おっしゃってたように、心の葛藤とかの合間に事件っていうのすごくツボです。\n何でこんな王道MMが日本原書読み読者に知られてないんだろう？！\n\n原書読みの皆さーん、お時間あったら是非無料の1巻ポチって！",
+        "user": "U017LVA457X",
+        "ts": "1657233050.079759",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "ab08cd7206d5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-23\/1260372537906_ab08cd7206d5061995ec_72.png",
+            "first_name": "Nakaji",
+            "real_name": "Nakaji",
+            "display_name": "Nakaji",
+            "team": "T014MVD863E",
+            "name": "nakaji352002",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7Pa9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "皆さーん、おは今晩は！"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "誰からも訊かれてないけど、途中報告です。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ただ今、Hazard "
+                            },
+                            {
+                                "type": "text",
+                                "text": "&"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Somerset シリーズ第5巻目の40%です。Kumattaさん情報で、4巻、5巻が、盛り上がり、すごくいいってきいていたんですが、本当いいですよー。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "もうメチャクチャいいです。ああああネタバレできない！"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "とにかく、私にとっては本物の男の思考回路が我がことようにわかるくらい、これでもっかって無意識のうちに思っていることがずーっと事件の進行に従って続くんです。ねこしまさんが、"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "point_up_2",
+                                "unicode": "1f446"
+                            },
+                            {
+                                "type": "text",
+                                "text": "で、おっしゃってたように、心の葛藤とかの合間に事件っていうのすごくツボです。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "何でこんな王道MMが日本原書読み読者に知られてないんだろう？！"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n原書読みの皆さーん、お時間あったら是非無料の1巻ポチって"
+                            },
+                            {
+                                "type": "text",
+                                "text": "！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1657233050.079759",
+        "reply_count": 27,
+        "reply_users_count": 2,
+        "latest_reply": "1658691671.706579",
+        "reply_users": [
+            "U03D1UJECGZ",
+            "U017LVA457X"
+        ],
+        "replies": [
+            {
+                "user": "U03D1UJECGZ",
+                "ts": "1657276419.962889"
+            },
+            {
+                "user": "U017LVA457X",
+                "ts": "1657286785.213829"
+            },
+            {
+                "user": "U017LVA457X",
+                "ts": "1657307802.705559"
+            },
+            {
+                "user": "U017LVA457X",
+                "ts": "1657308089.222629"
+            },
+            {
+                "user": "U017LVA457X",
+                "ts": "1657308643.746919"
+            },
+            {
+                "user": "U017LVA457X",
+                "ts": "1657308695.323609"
+            },
+            {
+                "user": "U03D1UJECGZ",
+                "ts": "1657322219.367089"
+            },
+            {
+                "user": "U017LVA457X",
+                "ts": "1657325837.073259"
+            },
+            {
+                "user": "U03D1UJECGZ",
+                "ts": "1657330357.086449"
+            },
+            {
+                "user": "U017LVA457X",
+                "ts": "1657334934.656329"
+            },
+            {
+                "user": "U03D1UJECGZ",
+                "ts": "1657685926.082229"
+            },
+            {
+                "user": "U017LVA457X",
+                "ts": "1657722973.031709"
+            },
+            {
+                "user": "U017LVA457X",
+                "ts": "1657887494.753049"
+            },
+            {
+                "user": "U017LVA457X",
+                "ts": "1657887687.469949"
+            },
+            {
+                "user": "U017LVA457X",
+                "ts": "1657889464.711739"
+            },
+            {
+                "user": "U03D1UJECGZ",
+                "ts": "1657891600.277439"
+            },
+            {
+                "user": "U017LVA457X",
+                "ts": "1657893042.580549"
+            },
+            {
+                "user": "U03D1UJECGZ",
+                "ts": "1657893753.511969"
+            },
+            {
+                "user": "U017LVA457X",
+                "ts": "1657894248.797509"
+            },
+            {
+                "user": "U017LVA457X",
+                "ts": "1657894346.135449"
+            },
+            {
+                "user": "U03D1UJECGZ",
+                "ts": "1657896839.716519"
+            },
+            {
+                "user": "U017LVA457X",
+                "ts": "1657930219.521239"
+            },
+            {
+                "user": "U017LVA457X",
+                "ts": "1658672344.070969"
+            },
+            {
+                "user": "U03D1UJECGZ",
+                "ts": "1658673672.263989"
+            },
+            {
+                "user": "U017LVA457X",
+                "ts": "1658673808.536809"
+            },
+            {
+                "user": "U03D1UJECGZ",
+                "ts": "1658683395.122399"
+            },
+            {
+                "user": "U017LVA457X",
+                "ts": "1658691671.706579"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "smiling_face_with_3_hearts",
+                "users": [
+                    "U029MKK3W4E",
+                    "U01M8BTNR7C"
+                ],
+                "count": 2
+            },
+            {
+                "name": "heart",
+                "users": [
+                    "U03D1UJECGZ"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

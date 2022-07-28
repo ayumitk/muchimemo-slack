@@ -1,0 +1,159 @@
+[
+    {
+        "client_msg_id": "a10c9cce-5df9-4f97-8827-a88a518db004",
+        "type": "message",
+        "text": "アニメもすごくいいデキなので、ぜひ～:two_hearts:",
+        "user": "U01P6E9P3J5",
+        "ts": "1657282099.379649",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "gc61e328c9e5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c61e328c9e5331e15fbbfaac3326fd4c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0025-72.png",
+            "first_name": "",
+            "real_name": "まる",
+            "display_name": "まる",
+            "team": "T014MVD863E",
+            "name": "marusan93",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZplX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "アニメもすごくいいデキなので、ぜひ～"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "two_hearts",
+                                "unicode": "1f495"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1656959287.572589",
+        "parent_user_id": "U014UD117ND"
+    },
+    {
+        "client_msg_id": "ff896d71-d39a-4ad0-8168-7bab8135c78b",
+        "type": "message",
+        "text": "師匠、「薔薇王の葬列」読み始めました！:smile:\n８巻まで終わりましたが・・・いや、おもしろいんですけど、なんつーか緩急の「緩」がほぼなくて、ずーーっと「急」なんで、逆にストーリーにメリハリがないというか:sweat_smile:\nあと、出てくるキャラクター全員がそれぞれ何か野望を持っている中で、特にこれといって個人的な野心のないリチャード（主人公）とヘンリーはそれゆえに惹かれ合ったのかなーと思いました。リチャードがヘンリー連れて逃げちゃえばいいのに、とか思ったり。\n\nでまあ、てっきりヘンリー死んで第一部完、と思っていたら。・・・・生きとったんか～～～い！（←突っ込み）:sweat_smile:\n\nここまでで好きなキャラって言うと・・・う～～～ん:thinking_face:好きというか、最初っから最後まで、とにかく自分の思うままに突っ走ってやりたい放題やって散っていったマーガレットを見ると、「まあこんだけやったら別に人生に悔いないやろな、最後に敗けたことを除けば」と思いました。彼女の不幸は、周りの男たちが夫も息子も彼女よりずっと弱かった（頭悪かったつーか、善良だったつーか）ことでしょうね。でなけりゃ勝ち残れてたかもしれない。\nあ、名無しの白猪だけが、ほっこりポイントだったな～:two_hearts:ラブリ～:heart:\n\n師匠のご贔屓のケイツビー（悲しいくらい報われませんな:sweat_smile:）の後半戦の頑張りにも期待して、最後まで読みます！",
+        "user": "U01P6E9P3J5",
+        "ts": "1657297725.435629",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "gc61e328c9e5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c61e328c9e5331e15fbbfaac3326fd4c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0025-72.png",
+            "first_name": "",
+            "real_name": "まる",
+            "display_name": "まる",
+            "team": "T014MVD863E",
+            "name": "marusan93",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4nbPQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "師匠、「薔薇王の葬列」読み始めました！"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smile",
+                                "unicode": "1f604"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n８巻まで終わりましたが・・・いや、おもしろいんですけど、なんつーか緩急の「緩」がほぼなくて、ずーーっと「急」なんで、逆にストーリーにメリハリがないというか"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sweat_smile",
+                                "unicode": "1f605"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nあと、出てくるキャラクター全員がそれぞれ何か野望を持っている中で、特にこれといって個人的な野心のないリチャード（主人公）とヘンリーはそれゆえに惹かれ合ったのかなーと思いました。リチャードがヘンリー連れて逃げちゃえばいいのに、とか思ったり。\n\nでまあ、てっきりヘンリー死んで第一部完、と思っていたら。・・・・生きとったんか～～～い！（←突っ込み）"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sweat_smile",
+                                "unicode": "1f605"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nここまでで好きなキャラって言うと・・・う～～～ん"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "thinking_face",
+                                "unicode": "1f914"
+                            },
+                            {
+                                "type": "text",
+                                "text": "好きというか、最初っから最後まで、とにかく自分の思うままに突っ走ってやりたい放題やって散っていったマーガレットを見ると、「まあこんだけやったら別に人生に悔いないやろな、最後に敗けたことを除けば」と思いました。彼女の不幸は、周りの男たちが夫も息子も彼女よりずっと弱かった（頭悪かったつーか、善良だったつーか）ことでしょうね。でなけりゃ勝ち残れてたかもしれない。\nあ、名無しの白猪だけが、ほっこりポイントだったな～"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "two_hearts",
+                                "unicode": "1f495"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ラブリ～"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "heart",
+                                "unicode": "2764-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n師匠のご贔屓のケイツビー（悲しいくらい報われませんな"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sweat_smile",
+                                "unicode": "1f605"
+                            },
+                            {
+                                "type": "text",
+                                "text": "）の後半戦の頑張りにも期待して、最後まで読みます！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1656629813.885029",
+        "parent_user_id": "U01PZK3KK97",
+        "reactions": [
+            {
+                "name": "laughing",
+                "users": [
+                    "U01PZK3KK97"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

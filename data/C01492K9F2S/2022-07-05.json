@@ -1,0 +1,326 @@
+[
+    {
+        "client_msg_id": "17C18A84-FF5E-486B-BD31-E523F9FB1586",
+        "type": "message",
+        "text": "Aliceさん、初めまして！BLやMMについて、お話しできたら嬉しいです。よろしくお願いします:sparkles:",
+        "user": "U03AW0BK458",
+        "ts": "1657024994.951939",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "97da649f324b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-10\/3363388254966_97da649f324b39f72e24_72.png",
+            "first_name": "まえまえ",
+            "real_name": "まえまえ",
+            "display_name": "",
+            "team": "T014MVD863E",
+            "name": "maechiyo1102",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6rL8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Aliceさん、初めまして！BLやMMについて、お話しできたら嬉しいです。よろしく"
+                            },
+                            {
+                                "type": "text",
+                                "text": "お願いします"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sparkles",
+                                "unicode": "2728"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1657024994.951939",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1657026665.528419",
+        "reply_users": [
+            "U03N2KMPR6H"
+        ],
+        "replies": [
+            {
+                "user": "U03N2KMPR6H",
+                "ts": "1657026665.528419"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "0cd07475-0bbc-4c96-84d9-5eb4c68df1ea",
+        "type": "message",
+        "text": "ラニヨンさんのは翻訳されている3シリーズと短編数作しか読んでないのですが、キャラクターで１番好きなのはアドリアン、カップルで１番好きなのは「フェアゲーム」のタッカー×エリオットです。\nアドリアンのところは「ジェイク、よくもてめぇ(｀Δ´)」っていう恨みがあるので1番にはなりません(笑)",
+        "user": "U0188J8KHE0",
+        "ts": "1657026071.518969",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "9bddb1ef97ce",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-31\/1273082961765_9bddb1ef97ce43f9742f_72.png",
+            "first_name": "サトル",
+            "real_name": "サトル",
+            "display_name": "サトル",
+            "team": "T014MVD863E",
+            "name": "rien9326",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eb9f0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ラニヨンさんのは翻訳されている3シリーズと短編数作しか読んでないのですが、キャラクターで１番好きなのはアドリアン、カップルで１番好きなのは「フェアゲーム」のタッカー×エリオットです。\nアドリアンのところは「ジェイク、よくもてめぇ(｀Δ´)」っていう恨みがあるので1番にはなりません(笑)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1656934354.344519",
+        "parent_user_id": "U0188J8KHE0"
+    },
+    {
+        "client_msg_id": "8E263172-3AF7-44D7-8AAE-E3AD85E8592A",
+        "type": "message",
+        "text": "まえまえさん、おはようございます。BL沼にはどっぷり浸かっていますが、MMは初心者です。早くMMについて熱く語れるようになりたいです:heart_eyes:よろしくお願いします:bangbang:",
+        "user": "U03N2KMPR6H",
+        "ts": "1657026665.528419",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "b6de36ac2e5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-08\/3788800367537_b6de36ac2e5fb40df77c_72.png",
+            "first_name": "Alice",
+            "real_name": "Alice",
+            "display_name": "Alice",
+            "team": "T014MVD863E",
+            "name": "azureseababy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1xu2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "まえまえさん、おはよう"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ございます"
+                            },
+                            {
+                                "type": "text",
+                                "text": "。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "BL"
+                            },
+                            {
+                                "type": "text",
+                                "text": "沼にはどっぷり浸かっていますが、MMは初心者です。早くMMについて熱く語れるようになりたいです"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "heart_eyes",
+                                "unicode": "1f60d"
+                            },
+                            {
+                                "type": "text",
+                                "text": "よろしく"
+                            },
+                            {
+                                "type": "text",
+                                "text": "お願いします"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "bangbang",
+                                "unicode": "203c-fe0f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1657024994.951939",
+        "parent_user_id": "U03AW0BK458"
+    },
+    {
+        "client_msg_id": "25F85C19-3ABE-485A-ADFD-60439A9F8B2A",
+        "type": "message",
+        "text": "ジーナさん、おはようございます。夫の仕事で国外に数年出ていまして、ちょうどこのグループができた頃アメリカに戻りました。パンデミック最中の引越しだったこともあり、ホテルや短期アパートを転々とし、ようやく今の家に落ち着きました:sweat_drops:Diversion、読み始めました:bangbang:面白いです:sparkles:",
+        "user": "U03N2KMPR6H",
+        "ts": "1657027133.396079",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "b6de36ac2e5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-08\/3788800367537_b6de36ac2e5fb40df77c_72.png",
+            "first_name": "Alice",
+            "real_name": "Alice",
+            "display_name": "Alice",
+            "team": "T014MVD863E",
+            "name": "azureseababy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "S7ad",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ジーナさん、おはよう"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ございます"
+                            },
+                            {
+                                "type": "text",
+                                "text": "。夫の仕事で国外に数年出ていまして、ちょうどこのグループができた頃アメリカに戻りました。パンデミック最中の引越しだったこともあり、ホテルや短期アパートを転々とし、ようやく今の家に落ち着きました"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sweat_drops",
+                                "unicode": "1f4a6"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Diversion"
+                            },
+                            {
+                                "type": "text",
+                                "text": "、読み始めました"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "bangbang",
+                                "unicode": "203c-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "面白いです"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sparkles",
+                                "unicode": "2728"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1656956453.532769",
+        "parent_user_id": "U014UD117ND"
+    },
+    {
+        "client_msg_id": "FCCBA03E-2A27-4CF2-B74F-5C6ECFEC1C73",
+        "type": "message",
+        "text": "サトルさん、ジェイクへの恨み:bangbang:激しく同意します:rolling_on_the_floor_laughing::rolling_on_the_floor_laughing::rolling_on_the_floor_laughing:ヤキモキしすぎて3巻は途中で読むのを挫折しそうになりました:sweat_smile:",
+        "user": "U03N2KMPR6H",
+        "ts": "1657027362.618129",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "b6de36ac2e5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-08\/3788800367537_b6de36ac2e5fb40df77c_72.png",
+            "first_name": "Alice",
+            "real_name": "Alice",
+            "display_name": "Alice",
+            "team": "T014MVD863E",
+            "name": "azureseababy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8b76l",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "サトルさん、ジェイクへの恨み"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "bangbang",
+                                "unicode": "203c-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "激しく同意します"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "rolling_on_the_floor_laughing",
+                                "unicode": "1f923"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "rolling_on_the_floor_laughing",
+                                "unicode": "1f923"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "rolling_on_the_floor_laughing",
+                                "unicode": "1f923"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ヤキモキしすぎて3巻は途中で読むのを挫折しそうになりました"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sweat_smile",
+                                "unicode": "1f605"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1656934354.344519",
+        "parent_user_id": "U0188J8KHE0"
+    }
+]

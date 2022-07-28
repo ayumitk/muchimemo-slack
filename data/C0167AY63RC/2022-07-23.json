@@ -1,0 +1,177 @@
+[
+    {
+        "client_msg_id": "F8E6E6F6-4A10-4657-B4A1-1CAB0CE58BC8",
+        "type": "message",
+        "text": "あの、全く話が飛んじゃうんですが。\n発達障害がある方々が、不安なことや考え事があると家の中を歩き回ることがよくある、というのを目にしました。この光景、発達障害とか全然関係ないMM小説の中で、よく見ますよね。主人公が心配事があって部屋の中を行ったり来たりして、恋人がちょっと落ち着けって止める、みたいな感じで。paceって単語もあるし。\nで、仮説を立ててみたんです。\n\nこの歩き回りは人間にとってごく本能的で普通の行動なんだけど、日本だと部屋がせまいし床に座る文化なので、あまり一般的では無いだけ。つまり、障害のひとつでは無く、文化的な行動と考えられる。発達障害などでそういった「普通」の枠が外れると、歩き回る癖が出る。\n\nただ、私はフィクションの世界でしか歩き回る人を見たことがないので、実際にはどうなんだろうと思いまして。欧米暮らしが長い皆さん、ご家族や友人や同僚で、実際に歩き回る人を見たことがありますか？",
+        "user": "U017YHF4ZG9",
+        "ts": "1658569466.785019",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "8b538c52795e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-23\/1256603203669_8b538c52795ebb5c006a_72.jpg",
+            "first_name": "",
+            "real_name": "Ayu Yamane",
+            "display_name": "Ayu Yamane",
+            "team": "T014MVD863E",
+            "name": "ayu76mi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3AJ=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "あの、全く話が飛んじゃうんですが。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "発達障害がある方々が、不安なことや考え事があると家の中を歩き回ることがよくある、というのを目にしました。この光景、発達障害とか全然関係ないMM小説の中で、よく見ますよね。主人公が心配事があって部屋の中を行ったり来たりして、恋人がちょっと落ち着けって止める、みたいな感じで。paceって単語もあるし。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "で、仮説を立ててみたんです。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "この歩き回りは人間にとってごく本能的で普通の行動なんだけど、日本だと部屋がせまいし床に座る文化なので、あまり一般的では無いだけ。つまり、障害のひとつでは無く、文化的な行動と考えられる。発達障害などでそういった「普通」の枠が外れると、歩き回る癖が出る。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nただ、私はフィクションの世界でしか歩き回る人を見たことがないので、実際にはどうなんだろうと思いまして。欧米暮らしが長い皆さん、ご家族や友人や同僚で、実際に歩き回る人を見たことがありますか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "FF7A5C41-6636-4E7C-AF5B-CC3082906FB2",
+        "type": "message",
+        "text": "あー、確かにほとぼしる萌えっていい〜\n優しいお言葉ありがとうございます:blush:",
+        "user": "U017LVA457X",
+        "ts": "1658578216.981879",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "ab08cd7206d5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-23\/1260372537906_ab08cd7206d5061995ec_72.png",
+            "first_name": "Nakaji",
+            "real_name": "Nakaji",
+            "display_name": "Nakaji",
+            "team": "T014MVD863E",
+            "name": "nakaji352002",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KlHCn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "あー、確かにほとぼしる萌えっていい〜"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "優しいお言葉ありがとうございます"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "blush",
+                                "unicode": "1f60a"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1658556106.752519",
+        "parent_user_id": "U017YHF4ZG9"
+    },
+    {
+        "client_msg_id": "3645c435-601f-4b63-9e63-12d2fce2e1fb",
+        "type": "message",
+        "text": "はーい、正に私のパートナーが心配事があってグルグル何か考えてる時に落ち着きなく歩き回るので、私が「どうした？何かあった？」って声かけるってことがあります:woman-raising-hand:\nただ、おもしろいのは、例えば仕事とかで何かの問題の解決方法を思考してる時（ちゃんと解決の出口に向かっている時）は歩き回らないんですよね。何か心配とか不安でグルグルしてる時限定の行動なんだなーと思いながら眺めてます。\nで、今Ayuさんに言われて気づきましたけど、私はグルグルしてても歩き回らないですね:thinking_face:",
+        "user": "U014UD117ND",
+        "ts": "1658606728.282819",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "d661e4a51036",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-30\/1214690186661_d661e4a51036d8b1a2e4_72.jpg",
+            "first_name": "ジーナ",
+            "real_name": "ジーナ",
+            "display_name": "ジーナ",
+            "team": "T014MVD863E",
+            "name": "ayumee528",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YOws",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "はーい、正に私のパートナーが心配事があってグルグル何か考えてる時に落ち着きなく歩き回るので、私が「どうした？何かあった？」って声かけるってことがあります"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-raising-hand",
+                                "unicode": "1f64b-200d-2640-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nただ、おもしろいのは、例えば仕事とかで何かの問題の解決方法を思考してる時（ちゃんと解決の出口に向かっている時）は歩き回らないんですよね。何か心配とか不安でグルグルしてる時限定の行動なんだなーと思いながら眺めてます。\nで、今Ayuさんに言われて気づきましたけど、私はグルグルしてても歩き回らないですね"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "thinking_face",
+                                "unicode": "1f914"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

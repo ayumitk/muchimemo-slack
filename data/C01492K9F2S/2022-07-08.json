@@ -1,0 +1,182 @@
+[
+    {
+        "client_msg_id": "02b618a0-3c2c-4a09-ad1b-5975bd8e46f9",
+        "type": "message",
+        "text": "わかります！3巻は読み返すのにもけっこう気合いが要ります:expressionless:",
+        "user": "U0188J8KHE0",
+        "ts": "1657270247.673039",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "9bddb1ef97ce",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-31\/1273082961765_9bddb1ef97ce43f9742f_72.png",
+            "first_name": "サトル",
+            "real_name": "サトル",
+            "display_name": "サトル",
+            "team": "T014MVD863E",
+            "name": "rien9326",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BnlA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "わかります！3巻は読み返すのにもけっこう気合いが要ります"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "expressionless",
+                                "unicode": "1f611"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1656934354.344519",
+        "parent_user_id": "U0188J8KHE0"
+    },
+    {
+        "client_msg_id": "4ed99752-151e-46d9-ad5e-d7c58fc2a9ef",
+        "type": "message",
+        "text": "めっちゃ、出遅れました～\nAliceさん、はじめまして！！！\n私もアドリアンシリーズ大好き！\nめっちゃハマって、こちらの皆様に出会いました！！\nよろしく、お願いいたします！",
+        "user": "U020NSJS0UX",
+        "ts": "1657321603.893399",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "aa73d1a524ca",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-06\/2050329671489_aa73d1a524caf35d6c60_72.jpg",
+            "first_name": "タンタン",
+            "real_name": "タンタン",
+            "display_name": "たんたん",
+            "team": "T014MVD863E",
+            "name": "chubu8830",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U020NSJS0UX",
+            "ts": "1657336981.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Y=8DL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "めっちゃ、出遅れました～\nAliceさん、はじめまして！！！\n私もアドリアンシリーズ大好き！\nめっちゃハマって、こちらの皆様に出会いました！！\nよろしく、お願いいたします！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1657321603.893399",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1657321816.778599",
+        "reply_users": [
+            "U03N2KMPR6H"
+        ],
+        "replies": [
+            {
+                "user": "U03N2KMPR6H",
+                "ts": "1657321816.778599"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "DBA94736-BB5C-4023-BD43-4CA9CF303630",
+        "type": "message",
+        "text": "たんたんさん、こんばんは、はじめまして:woman-bowing:\nアドリアンシリーズは、3巻は放り投げたくなるくらい辛かったですし、もう少しラブラブな2人を見たかった感はありますが、ステキなストーリーでしたよね。\n今Diversionシリーズを読んでいます。どうぞよろしくお願いします:blush:",
+        "user": "U03N2KMPR6H",
+        "ts": "1657321816.778599",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "b6de36ac2e5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-08\/3788800367537_b6de36ac2e5fb40df77c_72.png",
+            "first_name": "Alice",
+            "real_name": "Alice",
+            "display_name": "Alice",
+            "team": "T014MVD863E",
+            "name": "azureseababy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "h95",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "たんたんさん、こんばんは、はじめまして"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-bowing",
+                                "unicode": "1f647-200d-2640-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "アドリアンシリーズは、3巻は放り投げたくなるくらい辛かったですし、もう少しラブラブな2人を見たかった感はありますが、ステキなストーリーでしたよね。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "今"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Diversion"
+                            },
+                            {
+                                "type": "text",
+                                "text": "シリーズを読んでいます。どうぞよろしく"
+                            },
+                            {
+                                "type": "text",
+                                "text": "お願いします"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "blush",
+                                "unicode": "1f60a"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1657321603.893399",
+        "parent_user_id": "U020NSJS0UX"
+    }
+]

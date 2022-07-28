@@ -1,0 +1,83 @@
+[
+    {
+        "client_msg_id": "9c7fffa9-afbe-4246-a7ce-c8506acefd2d",
+        "type": "message",
+        "text": "ねこしまさん、お疲れさまでした！:smile:私も１巻読み終えましたよ～:two_hearts:\nねこしまさんのすばらしいご感想にいちいち深く頷かせていただきました。Nicoはある意味、とっても損な役回りになってしまうのかも、と思うといい子なだけにかわいそうで:cry:私としては（現在のところ）あまりSomersが好きになれないのですが:sweat_smile:これもこの先の展開できっと大きく変わってゆくのではないかと期待しております。とにかく先が気になってしかたないですね。引き続き２巻も読もうと思いますので、ねこしまさんも一緒にがんばりましょう:heavy_heart_exclamation_mark_ornament:",
+        "user": "U01P6E9P3J5",
+        "ts": "1658826265.520269",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "gc61e328c9e5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c61e328c9e5331e15fbbfaac3326fd4c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0025-72.png",
+            "first_name": "",
+            "real_name": "まる",
+            "display_name": "まる",
+            "team": "T014MVD863E",
+            "name": "marusan93",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WBFR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ねこしまさん、お疲れさまでした！"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smile",
+                                "unicode": "1f604"
+                            },
+                            {
+                                "type": "text",
+                                "text": "私も１巻読み終えましたよ～"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "two_hearts",
+                                "unicode": "1f495"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nねこしまさんのすばらしいご感想にいちいち深く頷かせていただきました。Nicoはある意味、とっても損な役回りになってしまうのかも、と思うといい子なだけにかわいそうで"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "cry",
+                                "unicode": "1f622"
+                            },
+                            {
+                                "type": "text",
+                                "text": "私としては（現在のところ）あまりSomersが好きになれないのですが"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sweat_smile",
+                                "unicode": "1f605"
+                            },
+                            {
+                                "type": "text",
+                                "text": "これもこの先の展開できっと大きく変わってゆくのではないかと期待しております。とにかく先が気になってしかたないですね。引き続き２巻も読もうと思いますので、ねこしまさんも一緒にがんばりましょう"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "heavy_heart_exclamation_mark_ornament",
+                                "unicode": "2763-fe0f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1658602937.884319",
+        "parent_user_id": "U029MKK3W4E"
+    }
+]

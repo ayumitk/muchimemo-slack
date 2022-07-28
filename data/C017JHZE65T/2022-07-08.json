@@ -1,0 +1,97 @@
+[
+    {
+        "client_msg_id": "bb3c8e5f-f4ba-41aa-83c8-72e34c153fff",
+        "type": "message",
+        "text": "ああやっぱり、こーゆーことが現実に起こってるんですね。製薬会社が値段を釣り上げてる・・・ああ、ボーが「薬が足りない。子供たちが死んじゃう」ってオンオン泣いていたのを思い出してしまう:sob::sob:かわいそう、ボーも子供たちも",
+        "user": "U01P6E9P3J5",
+        "ts": "1657281171.146589",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "gc61e328c9e5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c61e328c9e5331e15fbbfaac3326fd4c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0025-72.png",
+            "first_name": "",
+            "real_name": "まる",
+            "display_name": "まる",
+            "team": "T014MVD863E",
+            "name": "marusan93",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3HLy4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ああやっぱり、こーゆーことが現実に起こってるんですね。製薬会社が値段を釣り上げてる・・・ああ、ボーが「薬が足りない。子供たちが死んじゃう」ってオンオン泣いていたのを思い出してしまう"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sob",
+                                "unicode": "1f62d"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sob",
+                                "unicode": "1f62d"
+                            },
+                            {
+                                "type": "text",
+                                "text": "かわいそう、ボーも子供たちも"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0def3faa-4fe1-4025-9e83-115b31dba8c0",
+        "type": "message",
+        "text": "ラッキーも（ボーが悲しむとこいつも苦しむからね）:sob:",
+        "user": "U01P6E9P3J5",
+        "ts": "1657281212.106369",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "gc61e328c9e5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c61e328c9e5331e15fbbfaac3326fd4c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0025-72.png",
+            "first_name": "",
+            "real_name": "まる",
+            "display_name": "まる",
+            "team": "T014MVD863E",
+            "name": "marusan93",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yDz=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ラッキーも（ボーが悲しむとこいつも苦しむからね）"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sob",
+                                "unicode": "1f62d"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

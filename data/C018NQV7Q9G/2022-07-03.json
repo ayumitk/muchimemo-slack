@@ -1,0 +1,249 @@
+[
+    {
+        "client_msg_id": "5E35D8D9-6FD9-4EBA-BDB8-AD6CBBB024A6",
+        "type": "message",
+        "text": "すごく素敵:heavy_heart_exclamation_mark_ornament:\nKumatta さん、お時間あったら、是非Alexis先生の不朽の名作、For real 読んでください。\n私は5年前に読んで、この作品で、先生の大大ファンになりました。\n最近、オーディブルで無料になったので、聴いているのですが、車運転中に、ヤバいことになりました！Omg ",
+        "user": "U017LVA457X",
+        "ts": "1656849707.586739",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "ab08cd7206d5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-23\/1260372537906_ab08cd7206d5061995ec_72.png",
+            "first_name": "Nakaji",
+            "real_name": "Nakaji",
+            "display_name": "Nakaji",
+            "team": "T014MVD863E",
+            "name": "nakaji352002",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U017LVA457X",
+            "ts": "1656850713.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "G2qm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "すごく素敵"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "heavy_heart_exclamation_mark_ornament",
+                                "unicode": "2763-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nKumatta さん、お時間あったら、是非Alexis先生の不朽の名作、For real 読んでください。\n私は5年前に読んで、この作品で、先生の大大ファンになりました。\n最近、オーディブルで無料になったので、聴いているのですが、車運転中に、ヤバいことになりました！Omg "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1656752754.738549",
+        "parent_user_id": "U03D1UJECGZ"
+    },
+    {
+        "client_msg_id": "CD5B6800-D3E5-439A-A071-09BDF979F9DF",
+        "type": "message",
+        "text": "今朝も、オットが、カリベーコン、パンケーキ、イチゴの朝食作ってくれてました。",
+        "user": "U017LVA457X",
+        "ts": "1656855364.474149",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "ab08cd7206d5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-23\/1260372537906_ab08cd7206d5061995ec_72.png",
+            "first_name": "Nakaji",
+            "real_name": "Nakaji",
+            "display_name": "Nakaji",
+            "team": "T014MVD863E",
+            "name": "nakaji352002",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7nceh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "今朝も、オットが、カリベーコン、パンケーキ、イチゴの朝食作って"
+                            },
+                            {
+                                "type": "text",
+                                "text": "くれてました。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F03NUTH2188",
+                "created": 1656855376,
+                "timestamp": 1656855376,
+                "name": "Image from iOS.jpg",
+                "title": "Image from iOS",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U017LVA457X",
+                "editable": false,
+                "size": 2039010,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T014MVD863E-F03NUTH2188\/image_from_ios.jpg?t=xoxe-1157999278116-3857408361221-3860360080994-c56323778919f0e36b19cc92870aef60",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T014MVD863E-F03NUTH2188\/download\/image_from_ios.jpg?t=xoxe-1157999278116-3857408361221-3860360080994-c56323778919f0e36b19cc92870aef60",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T014MVD863E-F03NUTH2188-57ddebc335\/image_from_ios_64.jpg?t=xoxe-1157999278116-3857408361221-3860360080994-c56323778919f0e36b19cc92870aef60",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T014MVD863E-F03NUTH2188-57ddebc335\/image_from_ios_80.jpg?t=xoxe-1157999278116-3857408361221-3860360080994-c56323778919f0e36b19cc92870aef60",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T014MVD863E-F03NUTH2188-57ddebc335\/image_from_ios_360.jpg?t=xoxe-1157999278116-3857408361221-3860360080994-c56323778919f0e36b19cc92870aef60",
+                "thumb_360_w": 270,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T014MVD863E-F03NUTH2188-57ddebc335\/image_from_ios_480.jpg?t=xoxe-1157999278116-3857408361221-3860360080994-c56323778919f0e36b19cc92870aef60",
+                "thumb_480_w": 360,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T014MVD863E-F03NUTH2188-57ddebc335\/image_from_ios_160.jpg?t=xoxe-1157999278116-3857408361221-3860360080994-c56323778919f0e36b19cc92870aef60",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T014MVD863E-F03NUTH2188-57ddebc335\/image_from_ios_720.jpg?t=xoxe-1157999278116-3857408361221-3860360080994-c56323778919f0e36b19cc92870aef60",
+                "thumb_720_w": 540,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T014MVD863E-F03NUTH2188-57ddebc335\/image_from_ios_800.jpg?t=xoxe-1157999278116-3857408361221-3860360080994-c56323778919f0e36b19cc92870aef60",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1067,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T014MVD863E-F03NUTH2188-57ddebc335\/image_from_ios_960.jpg?t=xoxe-1157999278116-3857408361221-3860360080994-c56323778919f0e36b19cc92870aef60",
+                "thumb_960_w": 720,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T014MVD863E-F03NUTH2188-57ddebc335\/image_from_ios_1024.jpg?t=xoxe-1157999278116-3857408361221-3860360080994-c56323778919f0e36b19cc92870aef60",
+                "thumb_1024_w": 768,
+                "thumb_1024_h": 1024,
+                "original_w": 3024,
+                "original_h": 4032,
+                "thumb_tiny": "AwAwACSuACM9KBnPrU8Fs0ihm4B6fSrqIqjANTYq5mkgAH17elOUdxRKSZCSMYOMZqR02AY5BHBpDHhTgUbakLqMDPajzF9aQDJpWxsTj1NVwRvHPNTyJkkryO\/tVd48EEUPca2JZl3DeOcEZzTlbdbbSMFOP8KhaXGVGSAOnqalRk8hVU\/M2M0IbWhXkl2vg5pnnD3q1JB85pvkD0p2JGW8zRSfM2UPBzV0yRMOMfhWaCPT9aTA9KdxWLLLBbtvLZPYHmmCcs4bA5PAqHaD2qa2jxKB14OPrSLXdk7zgNh2Cn0pv2hP74\/I0jWrOxZjjNJ9iPrTJuf\/2Q==",
+                "permalink": "https:\/\/muchimemo.slack.com\/files\/U017LVA457X\/F03NUTH2188\/image_from_ios.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T014MVD863E-F03NUTH2188-3dc38ac685",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U017LVA457X",
+        "display_as_bot": false,
+        "ts": "1656855380.707069",
+        "client_msg_id": "38EB3380-11F7-4B14-9AF6-100B7335F38A",
+        "reactions": [
+            {
+                "name": "drooling_face",
+                "users": [
+                    "U01M8BTNR7C",
+                    "U017Z0T54P3",
+                    "U01P6E9P3J5"
+                ],
+                "count": 3
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U03N2KMPR6H"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1BA00ED5-3F9D-4F33-BFF1-9A9525164534",
+        "type": "message",
+        "text": "どうもありがとうございます！ Hallさんの作品をこよなく愛されている方からすると、もしかすると『Waiting...』は少し物足りなかったりするのかな〜？（なんだろう、トンガリが足りないというか…？）とちょっと思ったりもするのですが、この作品に出てくる町も2000年代の出来事もすごく懐かしく、いろんな情景が思い出されて、ちょっと特別な読み物になりました。\n\nSpireというシリーズなんだな〜と気になっていたので、おすすめうれしいです。今度読んでみますね。",
+        "user": "U03D1UJECGZ",
+        "ts": "1656907152.241499",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "a7dde0607f3e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-24\/3431416808738_a7dde0607f3e669535b6_72.png",
+            "first_name": "Kumatta",
+            "real_name": "Kumatta",
+            "display_name": "Kumatta",
+            "team": "T014MVD863E",
+            "name": "maki.terao",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XuO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "どうもありがとう"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ございます"
+                            },
+                            {
+                                "type": "text",
+                                "text": "！ "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Hall"
+                            },
+                            {
+                                "type": "text",
+                                "text": "さんの作品をこよなく愛されている方からすると、もしかすると『"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Waiting..."
+                            },
+                            {
+                                "type": "text",
+                                "text": "』は少し物足りなかったりするのかな〜？（なんだろう、トンガリが足りないというか…？）とちょっと思ったりもするのですが、この作品に出てくる町も2000年代の出来事もすごく懐かしく、いろんな情景が思い出されて、ちょっと特別な読み物になりました。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nSpireというシリーズなんだな〜と気になっていたので、おすすめうれしいです。今度読んでみますね。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1656752754.738549",
+        "parent_user_id": "U03D1UJECGZ"
+    }
+]

@@ -1,0 +1,151 @@
+[
+    {
+        "client_msg_id": "92A4F5B9-06F0-46CE-9E4D-F9AED92FC186",
+        "type": "message",
+        "text": "ありがとうございます！！！\n",
+        "user": "U017YHF4ZG9",
+        "ts": "1656755653.776719",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "8b538c52795e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-23\/1256603203669_8b538c52795ebb5c006a_72.jpg",
+            "first_name": "",
+            "real_name": "Ayu Yamane",
+            "display_name": "Ayu Yamane",
+            "team": "T014MVD863E",
+            "name": "ayu76mi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XdyE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ありがとうございます！！！"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1656684037.767139",
+        "parent_user_id": "U03D1UJECGZ"
+    },
+    {
+        "client_msg_id": "9F29E879-5C40-4EBB-B6C1-F79A5C3DD853",
+        "type": "message",
+        "text": "10年前！アンダーソン若い…けど年取った今の方が可愛さが増してる気がするのは私だけっすかね。\nそれにしても10代の初々しいエピソード、いいですね〜。\nアンダーソンの昔話は登場人物がいちいち豪華で、そこも聞きどころですよね。",
+        "user": "U017YHF4ZG9",
+        "ts": "1656755921.699969",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "8b538c52795e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-23\/1256603203669_8b538c52795ebb5c006a_72.jpg",
+            "first_name": "",
+            "real_name": "Ayu Yamane",
+            "display_name": "Ayu Yamane",
+            "team": "T014MVD863E",
+            "name": "ayu76mi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dGR9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "10年前！アンダーソン若い…けど年取った今の方が可愛さが増してる気がするのは私だけっすかね。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "それにしても10代の初々しいエピソード、いいですね〜。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "アンダーソンの昔話は登場人物がいちいち豪華で、そこも聞きどころですよね。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1656687680.806179",
+        "parent_user_id": "U017LVA457X",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U03D1UJECGZ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4E4382C7-F7D2-40BC-90D3-55B0350B7EE2",
+        "type": "message",
+        "text": "いえいえ！",
+        "user": "U03D1UJECGZ",
+        "ts": "1656756025.480079",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "a7dde0607f3e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-24\/3431416808738_a7dde0607f3e669535b6_72.png",
+            "first_name": "Kumatta",
+            "real_name": "Kumatta",
+            "display_name": "Kumatta",
+            "team": "T014MVD863E",
+            "name": "maki.terao",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "k0o",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "いえいえ！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1656684037.767139",
+        "parent_user_id": "U03D1UJECGZ"
+    }
+]

@@ -1,0 +1,186 @@
+[
+    {
+        "client_msg_id": "f8ce4c6c-c2ee-4731-bde2-3b85bfd0ca5e",
+        "type": "message",
+        "text": "わー！ジーナさん、読んでくださって嬉しい。\nそう！このマシュマロ感というか人の体や皮膚感の独特な表現はちょっと珍しいですよね。\n松本ノダさんは腐友さんから「毛がすごいから読んでみて(笑)」とデビュー作の短編集「勇気をだして」をおすすめされたのが最初なのですが、デビュー作からそんな毛を出してくる感性がすごくないですか？(笑) 私は好きです(笑)\n短編集ってちょっと物足りなく感じることもありますが、こちらはどれも面白く新鮮に読めました。それからノダさんにはまってしまい、商業単行本は全部読みましたが、「待てない犬の躾け方」「つま先から愛されて」も面白かったです。",
+        "user": "U0188J8KHE0",
+        "ts": "1657110049.639989",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "9bddb1ef97ce",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-31\/1273082961765_9bddb1ef97ce43f9742f_72.png",
+            "first_name": "サトル",
+            "real_name": "サトル",
+            "display_name": "サトル",
+            "team": "T014MVD863E",
+            "name": "rien9326",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UBq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "わー！ジーナさん、読んでくださって嬉しい。\nそう！このマシュマロ感というか人の体や皮膚感の独特な表現はちょっと珍しいですよね。\n松本ノダさんは腐友さんから「毛がすごいから読んでみて(笑)」とデビュー作の短編集「勇気をだして」をおすすめされたのが最初なのですが、デビュー作からそんな毛を出してくる感性がすごくないですか？(笑) 私は好きです(笑)\n短編集ってちょっと物足りなく感じることもありますが、こちらはどれも面白く新鮮に読めました。それからノダさんにはまってしまい、商業単行本は全部読みましたが、「待てない犬の躾け方」「つま先から愛されて」も面白かったです。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1657110049.639989",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1657284399.320279",
+        "reply_users": [
+            "U014UD117ND",
+            "U0188J8KHE0"
+        ],
+        "replies": [
+            {
+                "user": "U014UD117ND",
+                "ts": "1657148526.964809"
+            },
+            {
+                "user": "U0188J8KHE0",
+                "ts": "1657284399.320279"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1657284399.320279",
+        "reactions": [
+            {
+                "name": "jake",
+                "users": [
+                    "U017LVA457X"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8C8A5938-2897-4B1C-9B25-35992DCD9879",
+        "type": "message",
+        "text": "お二人に絶賛されてる！絶対読みたいです。\n\n最近微妙に仕事多忙で、あんまり読書時間が取れないのがつらい。と言いながらスラックにコメコメする時間はここのメンバーの誰よりもあるんですが。。。\nやっぱり日本語に飢えてる？",
+        "user": "U017LVA457X",
+        "ts": "1657110746.003959",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "ab08cd7206d5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-23\/1260372537906_ab08cd7206d5061995ec_72.png",
+            "first_name": "Nakaji",
+            "real_name": "Nakaji",
+            "display_name": "Nakaji",
+            "team": "T014MVD863E",
+            "name": "nakaji352002",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U017LVA457X",
+            "ts": "1657110764.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dte",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "お二人に絶賛されてる！絶対読みたいです。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n最近微妙に仕事多忙で、あんまり読書時間が取れないのがつらい。と言いながらスラックにコメコメする時間はここのメンバーの誰よりもあるんですが。。。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "やっぱり日本語に飢えてる？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b214b8eb-63b1-4b84-ae7d-bac317d29c16",
+        "type": "message",
+        "text": "Kindle Unlimitedだったので、毛がすごいデビュー作の短編集をさっそく読んでみました！\nかくいう私もお腹の毛が大好きなので期待MAXで読み始めたんですが、「わ、私が好きな毛質と違う…！もっと柔らかくてカールしてる毛がいい…！」となりましたが、まぁ私の好みはいいとして:sweat_smile:\n作者の並々ならぬ\tフェチシズムを感じました。いいですよね〜、好きなものを描く！っていう姿勢が。商業誌でOKでたのもすごい。\n他の短編の中では新聞奨学生の話が印象に残ってます:smiling_face_with_3_hearts:\n\nまた、作者の他の作品の中で、「つま先から〜」は私が好きそうな匂いを感じるので、仕事が終わったら次はこれを読んでみようと思います",
+        "user": "U014UD117ND",
+        "ts": "1657148526.964809",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "d661e4a51036",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-30\/1214690186661_d661e4a51036d8b1a2e4_72.jpg",
+            "first_name": "ジーナ",
+            "real_name": "ジーナ",
+            "display_name": "ジーナ",
+            "team": "T014MVD863E",
+            "name": "ayumee528",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+\/Pi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Kindle Unlimitedだったので、毛がすごいデビュー作の短編集をさっそく読んでみました！\nかくいう私もお腹の毛が大好きなので期待MAXで読み始めたんですが、「わ、私が好きな毛質と違う…！もっと柔らかくてカールしてる毛がいい…！」となりましたが、まぁ私の好みはいいとして"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sweat_smile",
+                                "unicode": "1f605"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n作者の並々ならぬ\tフェチシズムを感じました。いいですよね〜、好きなものを描く！っていう姿勢が。商業誌でOKでたのもすごい。\n他の短編の中では新聞奨学生の話が印象に残ってます"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smiling_face_with_3_hearts",
+                                "unicode": "1f970"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nまた、作者の他の作品の中で、「つま先から〜」は私が好きそうな匂いを感じるので、仕事が終わったら次はこれを読んでみようと思います"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1657110049.639989",
+        "parent_user_id": "U0188J8KHE0"
+    }
+]

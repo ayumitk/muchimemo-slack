@@ -1,0 +1,247 @@
+[
+    {
+        "client_msg_id": "f3513760-8acd-4d28-bd21-a22650165a41",
+        "type": "message",
+        "text": "Nakajiさーん！すごーーーぃ！！\nきゃーーーー\n羨ましいっ！\nちょっとアレコレ忙しくて、読めてなかったんですが、、、\n後れ馳せながら、すごい！！\nそして、よくぞドラマ化を進言していただいた！！！:hand:激しく同意:hand:\n\n娘と一緒にまた、英語の勉強を本格的に始めたので、私もコメント書いたり、読んだり出来るように頑張りたいです！",
+        "user": "U020NSJS0UX",
+        "ts": "1657322091.192739",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "aa73d1a524ca",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-06\/2050329671489_aa73d1a524caf35d6c60_72.jpg",
+            "first_name": "タンタン",
+            "real_name": "タンタン",
+            "display_name": "たんたん",
+            "team": "T014MVD863E",
+            "name": "chubu8830",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NGn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Nakajiさーん！すごーーーぃ！！\nきゃーーーー\n羨ましいっ！\nちょっとアレコレ忙しくて、読めてなかったんですが、、、\n後れ馳せながら、すごい！！\nそして、よくぞドラマ化を進言していただいた！！！"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "hand",
+                                "unicode": "270b"
+                            },
+                            {
+                                "type": "text",
+                                "text": "激しく同意"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "hand",
+                                "unicode": "270b"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n娘と一緒にまた、英語の勉強を本格的に始めたので、私もコメント書いたり、読んだり出来るように頑張りたいです！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1657322091.192739",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1657338499.593999",
+        "reply_users": [
+            "U017LVA457X"
+        ],
+        "replies": [
+            {
+                "user": "U017LVA457X",
+                "ts": "1657338499.593999"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "type": "message",
+        "text": "\n<https:\/\/twitter.com\/vscrivanokelley\/status\/1545540088679075840?s=12&amp;t=X-5TUgnQVYr401Ft7IwVlQ>",
+        "user": "U017LVA457X",
+        "ts": "1657336889.862539",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "ab08cd7206d5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-23\/1260372537906_ab08cd7206d5061995ec_72.png",
+            "first_name": "Nakaji",
+            "real_name": "Nakaji",
+            "display_name": "Nakaji",
+            "team": "T014MVD863E",
+            "name": "nakaji352002",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/twitter.com\/vscrivanokelley\/status\/1545540088679075840?s=12&amp;t=X-5TUgnQVYr401Ft7IwVlQ",
+                "ts": 1657320446,
+                "image_url": "https:\/\/pbs.twimg.com\/media\/FXLchLfXgAQa6RG.jpg",
+                "image_width": 1200,
+                "image_height": 899,
+                "image_bytes": 147648,
+                "id": 1,
+                "original_url": "https:\/\/twitter.com\/vscrivanokelley\/status\/1545540088679075840?s=12&amp;t=X-5TUgnQVYr401Ft7IwVlQ",
+                "fallback": "<https:\/\/twitter.com\/VScrivanoKelley|@VScrivanoKelley>: “This…whatever it is…that we’re having, it’s…the best thing that’s happened to me in five years.” - BOYFRIEND MATERIAL by <https:\/\/twitter.com\/quicunquevult|@quicunquevult> <https:\/\/pbs.twimg.com\/media\/FXLchLfXgAQa6RG.jpg>",
+                "text": "“This…whatever it is…that we’re having, it’s…the best thing that’s happened to me in five years.” - BOYFRIEND MATERIAL by <https:\/\/twitter.com\/quicunquevult|@quicunquevult> <https:\/\/pbs.twimg.com\/media\/FXLchLfXgAQa6RG.jpg>",
+                "author_name": "Venessa Vida Kelley",
+                "author_link": "https:\/\/twitter.com\/VScrivanoKelley\/status\/1545540088679075840",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/1435114076871462921\/dS6vZ6WV_normal.jpg",
+                "author_subname": "@VScrivanoKelley",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/80588\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9cq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/twitter.com\/vscrivanokelley\/status\/1545540088679075840?s=12&amp;t=X-5TUgnQVYr401Ft7IwVlQ",
+                                "text": "https:\/\/twitter.com\/vscrivanokelley\/status\/1545540088679075840?s=12&t=X-5TUgnQVYr401Ft7IwVlQ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01M8BTNR7C",
+                    "U017Z0T54P3",
+                    "U01P6E9P3J5"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "28136793-12E2-428D-8681-A7D123949C0A",
+        "type": "message",
+        "text": "イラスト、雰囲気でてますね",
+        "user": "U017LVA457X",
+        "ts": "1657338414.556549",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "ab08cd7206d5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-23\/1260372537906_ab08cd7206d5061995ec_72.png",
+            "first_name": "Nakaji",
+            "real_name": "Nakaji",
+            "display_name": "Nakaji",
+            "team": "T014MVD863E",
+            "name": "nakaji352002",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OOPwn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "イラスト、雰囲気"
+                            },
+                            {
+                                "type": "text",
+                                "text": "でてますね"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6606A743-62A7-4414-B674-8C39C60B9EF9",
+        "type": "message",
+        "text": "たんたんさん、お返事ありがとう:blush:ございます\n最近は、お忙しかったですか。娘さんと一緒に英語勉強ってすごく素敵",
+        "user": "U017LVA457X",
+        "ts": "1657338499.593999",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "ab08cd7206d5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-23\/1260372537906_ab08cd7206d5061995ec_72.png",
+            "first_name": "Nakaji",
+            "real_name": "Nakaji",
+            "display_name": "Nakaji",
+            "team": "T014MVD863E",
+            "name": "nakaji352002",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ar9fp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "たんたんさん、お返事"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ありがとう"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "blush",
+                                "unicode": "1f60a"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ございます"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "最近は、お忙しかったですか。娘さんと一緒に英語勉強ってすごく素敵"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1657322091.192739",
+        "parent_user_id": "U020NSJS0UX"
+    }
+]

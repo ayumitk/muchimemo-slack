@@ -1,0 +1,95 @@
+[
+    {
+        "client_msg_id": "094928C1-235D-44BD-BF95-A2F7EA54C262",
+        "type": "message",
+        "text": "文章に自信がないので、こちらの閉じた環境以外で初めてのレビューでした。この作品シリーズのレビューが英語ならたくさんあってかなりの高評価なのに日本語レビューがゼロだったので、原書読みの日本のMMファンにどうしてもご紹介したくなりました。",
+        "user": "U017LVA457X",
+        "ts": "1657029043.151929",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "ab08cd7206d5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-23\/1260372537906_ab08cd7206d5061995ec_72.png",
+            "first_name": "Nakaji",
+            "real_name": "Nakaji",
+            "display_name": "Nakaji",
+            "team": "T014MVD863E",
+            "name": "nakaji352002",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Lq8xb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "文章に自信がないので、こちらの閉じた環境以外で初めてのレビューでした。この作品シリーズのレビューが英語ならたくさんあってかなりの高評価なのに日本語レビューがゼロだったので、原書読みの日本のMMファンにどうしてもご紹介したくなりました。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1656752754.738549",
+        "parent_user_id": "U03D1UJECGZ",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U03D1UJECGZ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "DC6356FB-A397-4083-89B6-171510BF287C",
+        "type": "message",
+        "text": "やっぱり考えたんですが、まるさんが読了されてからのがお互い感想述べ合えるので、ちょっとひかえますね。。",
+        "user": "U017LVA457X",
+        "ts": "1657035409.131559",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "ab08cd7206d5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-23\/1260372537906_ab08cd7206d5061995ec_72.png",
+            "first_name": "Nakaji",
+            "real_name": "Nakaji",
+            "display_name": "Nakaji",
+            "team": "T014MVD863E",
+            "name": "nakaji352002",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FQw3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "やっぱり考えたんですが、まるさんが読了されてからのがお互い感想述べ合えるので"
+                            },
+                            {
+                                "type": "text",
+                                "text": "、ちょっとひかえますね。。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1656941396.655919",
+        "parent_user_id": "U01P6E9P3J5"
+    }
+]

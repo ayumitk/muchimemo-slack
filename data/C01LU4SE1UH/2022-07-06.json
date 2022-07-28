@@ -1,0 +1,63 @@
+[
+    {
+        "client_msg_id": "92bbeb49-5c0e-46d4-9fd0-98bd401b766b",
+        "type": "message",
+        "text": "CANISシリーズは私も大好きです！\n最新刊を読んだら登場人物は増えるし、話がどんどん複雑になっていてアップアップしながら読みました。それでも凄く面白く夢中で読みました。週末に最初のシリーズから読み直してようやく理解が追いついてきた感じです。\nファンの方の感想を知りたくてあちこち検索していたらポスターがあるのに気づいて、つい買っちゃいました:two_hearts:「The Speaker」旧版1巻の表紙のやつです。暗黒好きな私は悪人面のノブが大好きなのでこれは買うしかない(笑)",
+        "user": "U0188J8KHE0",
+        "ts": "1657112020.766629",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "9bddb1ef97ce",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-31\/1273082961765_9bddb1ef97ce43f9742f_72.png",
+            "first_name": "サトル",
+            "real_name": "サトル",
+            "display_name": "サトル",
+            "team": "T014MVD863E",
+            "name": "rien9326",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U0188J8KHE0",
+            "ts": "1657112742.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YhiF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "CANISシリーズは私も大好きです！\n最新刊を読んだら登場人物は増えるし、話がどんどん複雑になっていてアップアップしながら読みました。それでも凄く面白く夢中で読みました。週末に最初のシリーズから読み直してようやく理解が追いついてきた感じです。\nファンの方の感想を知りたくてあちこち検索していたらポスターがあるのに気づいて、つい買っちゃいました"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "two_hearts",
+                                "unicode": "1f495"
+                            },
+                            {
+                                "type": "text",
+                                "text": "「The Speaker」旧版1巻の表紙のやつです。暗黒好きな私は悪人面のノブが大好きなのでこれは買うしかない(笑)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "jake",
+                "users": [
+                    "U01M8BTNR7C",
+                    "U017LVA457X"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

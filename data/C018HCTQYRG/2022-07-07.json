@@ -1,0 +1,206 @@
+[
+    {
+        "client_msg_id": "95A75140-BF8B-497C-BF4C-C3563C158A3F",
+        "type": "message",
+        "text": "スラックをのぞくのは、ちょっとした気分転換になりますよね。\n\n私も毛が気になって読んでみました！密度が高すぎてびっくりしました:joy:確かにデビュー作で、これを出すのは作者様の気合いを感じますね…！",
+        "user": "U01M8BTNR7C",
+        "ts": "1657184818.866639",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "16c140f650be",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-02-10\/1748642350673_16c140f650be7c6cc646_72.png",
+            "first_name": "きなこ",
+            "real_name": "きなこ",
+            "display_name": "",
+            "team": "T014MVD863E",
+            "name": "le.arbre.montagne.121",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tiHHr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "スラックをのぞくのは、ちょっとした気分転換になりますよね。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n私も毛が気になって読んでみました！密度が高すぎてびっくりしました"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "joy",
+                                "unicode": "1f602"
+                            },
+                            {
+                                "type": "text",
+                                "text": "確かにデビュー作で、これを出すのは作者様の気合いを感じますね…！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "83C4C563-3C29-4597-8184-339D16B85382",
+        "type": "message",
+        "text": "体毛でこの作品を思い出しました。体毛みっしりで、作者さんは描くの大変だったそうです:joy:\n<https:\/\/renta.papy.co.jp\/renta\/sc\/frm\/item\/141713\/|https:\/\/renta.papy.co.jp\/renta\/sc\/frm\/item\/141713\/>",
+        "user": "U01M8BTNR7C",
+        "ts": "1657185900.382379",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "16c140f650be",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-02-10\/1748642350673_16c140f650be7c6cc646_72.png",
+            "first_name": "きなこ",
+            "real_name": "きなこ",
+            "display_name": "",
+            "team": "T014MVD863E",
+            "name": "le.arbre.montagne.121",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U01M8BTNR7C",
+            "ts": "1657186019.000000"
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/renta.papy.co.jp\/renta\/sc\/frm\/item\/141713\/",
+                "thumb_url": "https:\/\/img.papy.co.jp\/lc\/sc\/item\/cover\/9-486959-c200.jpg",
+                "thumb_width": 200,
+                "thumb_height": 200,
+                "service_icon": "https:\/\/renta.papy.co.jp\/renta\/img\/logo\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/renta.papy.co.jp\/renta\/sc\/frm\/item\/141713\/",
+                "fallback": "Renta！: 男心と胸毛と女装【電子限定描き下ろし漫画付き】",
+                "title": "男心と胸毛と女装【電子限定描き下ろし漫画付き】",
+                "title_link": "https:\/\/renta.papy.co.jp\/renta\/sc\/frm\/item\/141713\/",
+                "service_name": "Renta！",
+                "fields": [
+                    {
+                        "value": "日野雄飛",
+                        "title": "作者",
+                        "short": true
+                    },
+                    {
+                        "value": "ボーイズラブ漫画",
+                        "title": "ジャンル",
+                        "short": true
+                    }
+                ]
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KJ=Ag",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "体毛でこの作品を思い出しました。体毛みっしりで、作者さんは描くの大変だったそうです"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "joy",
+                                "unicode": "1f602"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/renta.papy.co.jp\/renta\/sc\/frm\/item\/141713\/",
+                                "text": "https:\/\/renta.papy.co.jp\/renta\/sc\/frm\/item\/141713\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "819D9DD6-4550-4F2E-98FF-5E2A55FF17DF",
+        "type": "message",
+        "text": "どちらも読みたーい",
+        "user": "U017LVA457X",
+        "ts": "1657233325.273859",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "ab08cd7206d5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-23\/1260372537906_ab08cd7206d5061995ec_72.png",
+            "first_name": "Nakaji",
+            "real_name": "Nakaji",
+            "display_name": "Nakaji",
+            "team": "T014MVD863E",
+            "name": "nakaji352002",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "e6Y6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "どちらも読みたーい"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1657233325.273859",
+        "reply_count": 4,
+        "reply_users_count": 2,
+        "latest_reply": "1657804452.777199",
+        "reply_users": [
+            "U0188J8KHE0",
+            "U017LVA457X"
+        ],
+        "replies": [
+            {
+                "user": "U0188J8KHE0",
+                "ts": "1657284833.791469"
+            },
+            {
+                "user": "U017LVA457X",
+                "ts": "1657453678.848509"
+            },
+            {
+                "user": "U0188J8KHE0",
+                "ts": "1657493292.782159"
+            },
+            {
+                "user": "U017LVA457X",
+                "ts": "1657804452.777199"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    }
+]

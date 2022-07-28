@@ -1,0 +1,600 @@
+[
+    {
+        "client_msg_id": "324394FE-00AC-4263-B71B-50CCE524BE10",
+        "type": "message",
+        "text": "私はどちらでもok です。",
+        "user": "U017LVA457X",
+        "ts": "1657029457.941239",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "ab08cd7206d5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-23\/1260372537906_ab08cd7206d5061995ec_72.png",
+            "first_name": "Nakaji",
+            "real_name": "Nakaji",
+            "display_name": "Nakaji",
+            "team": "T014MVD863E",
+            "name": "nakaji352002",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CUbW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "私はどちらでも"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ok"
+                            },
+                            {
+                                "type": "text",
+                                "text": " です。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1656958180.018949",
+        "parent_user_id": "U014UD117ND"
+    },
+    {
+        "client_msg_id": "95d66824-b0aa-4a58-8f25-8f2d5e47fdbd",
+        "type": "message",
+        "text": "いえ、今回は多数決とってないので、では、私が17は予定ありなので、31にしましょう",
+        "user": "U014UD117ND",
+        "ts": "1657056897.159559",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "d661e4a51036",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-30\/1214690186661_d661e4a51036d8b1a2e4_72.jpg",
+            "first_name": "ジーナ",
+            "real_name": "ジーナ",
+            "display_name": "ジーナ",
+            "team": "T014MVD863E",
+            "name": "ayumee528",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ypuE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "いえ、今回は多数決とってないので、では、私が17は予定ありなので、31にしましょう"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1656958180.018949",
+        "parent_user_id": "U014UD117ND"
+    },
+    {
+        "client_msg_id": "689b52aa-5028-48a1-9f2e-13b7a3fc0e75",
+        "type": "message",
+        "text": "*アップデート：*\n7月のオンライン読書会は、\n• 日程：7\/31（日）10:00am〜\n• 課題図書：ドラッグチェイスシリーズ\n• ツール：zoom\nで開催します！\n参加希望の方はこのチャンネルで挙手お願いします。",
+        "user": "U014UD117ND",
+        "ts": "1657056952.336189",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "d661e4a51036",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-30\/1214690186661_d661e4a51036d8b1a2e4_72.jpg",
+            "first_name": "ジーナ",
+            "real_name": "ジーナ",
+            "display_name": "ジーナ",
+            "team": "T014MVD863E",
+            "name": "ayumee528",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3pPrI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "アップデート：",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n7月のオンライン読書会は、\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "日程：7\/31（日）10:00am〜"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "課題図書：ドラッグチェイスシリーズ"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "ツール：zoom"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "で開催します！\n参加希望の方はこのチャンネルで挙手お願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1657056952.336189",
+        "reply_count": 6,
+        "reply_users_count": 3,
+        "latest_reply": "1657294409.581589",
+        "reply_users": [
+            "U03N2KMPR6H",
+            "U014UD117ND",
+            "U01P6E9P3J5"
+        ],
+        "replies": [
+            {
+                "user": "U03N2KMPR6H",
+                "ts": "1657199542.551549"
+            },
+            {
+                "user": "U014UD117ND",
+                "ts": "1657215054.806039"
+            },
+            {
+                "user": "U03N2KMPR6H",
+                "ts": "1657215381.698379"
+            },
+            {
+                "user": "U014UD117ND",
+                "ts": "1657215822.090119"
+            },
+            {
+                "user": "U03N2KMPR6H",
+                "ts": "1657232859.970129"
+            },
+            {
+                "user": "U01P6E9P3J5",
+                "ts": "1657294409.581589"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1657294409.581589",
+        "reactions": [
+            {
+                "name": "woman-raising-hand",
+                "users": [
+                    "U01PZK3KK97",
+                    "U017Z0T54P3"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "74e86c94-d0b5-4884-9710-3e848de29d5e",
+        "type": "message",
+        "text": "<https:\/\/us02web.zoom.us\/j\/81848524755?pwd=YTFNb0lyVkx3aUF2VmxJSkV0bjhuUT09>\nMeeting ID: 818 4852 4755\nPasscode: 356938",
+        "user": "U014UD117ND",
+        "ts": "1657057109.388689",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "d661e4a51036",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-30\/1214690186661_d661e4a51036d8b1a2e4_72.jpg",
+            "first_name": "ジーナ",
+            "real_name": "ジーナ",
+            "display_name": "ジーナ",
+            "team": "T014MVD863E",
+            "name": "ayumee528",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "blocks": [
+                    {
+                        "type": "call",
+                        "call_id": "R03N7L4GR62",
+                        "block_id": "rvvjI",
+                        "api_decoration_available": false,
+                        "call": {
+                            "v1": {
+                                "id": "R03N7L4GR62",
+                                "app_id": "A5GE9BMQC",
+                                "app_icon_urls": {
+                                    "image_32": "https:\/\/slack-files2.s3-us-west-2.amazonaws.com\/avatars\/2017-09-21\/245295805989_06e77af1bfb8e3c81d4d_32.png",
+                                    "image_36": "https:\/\/slack-files2.s3-us-west-2.amazonaws.com\/avatars\/2017-09-21\/245295805989_06e77af1bfb8e3c81d4d_36.png",
+                                    "image_48": "https:\/\/slack-files2.s3-us-west-2.amazonaws.com\/avatars\/2017-09-21\/245295805989_06e77af1bfb8e3c81d4d_48.png",
+                                    "image_64": "https:\/\/slack-files2.s3-us-west-2.amazonaws.com\/avatars\/2017-09-21\/245295805989_06e77af1bfb8e3c81d4d_64.png",
+                                    "image_72": "https:\/\/slack-files2.s3-us-west-2.amazonaws.com\/avatars\/2017-09-21\/245295805989_06e77af1bfb8e3c81d4d_72.png",
+                                    "image_96": "https:\/\/slack-files2.s3-us-west-2.amazonaws.com\/avatars\/2017-09-21\/245295805989_06e77af1bfb8e3c81d4d_96.png",
+                                    "image_128": "https:\/\/slack-files2.s3-us-west-2.amazonaws.com\/avatars\/2017-09-21\/245295805989_06e77af1bfb8e3c81d4d_128.png",
+                                    "image_192": "https:\/\/slack-files2.s3-us-west-2.amazonaws.com\/avatars\/2017-09-21\/245295805989_06e77af1bfb8e3c81d4d_192.png",
+                                    "image_512": "https:\/\/slack-files2.s3-us-west-2.amazonaws.com\/avatars\/2017-09-21\/245295805989_06e77af1bfb8e3c81d4d_512.png",
+                                    "image_1024": "https:\/\/slack-files2.s3-us-west-2.amazonaws.com\/avatars\/2017-09-21\/245295805989_06e77af1bfb8e3c81d4d_1024.png"
+                                },
+                                "date_start": 1657057110,
+                                "active_participants": [],
+                                "all_participants": [],
+                                "display_id": "818-4852-4755",
+                                "join_url": "https:\/\/us02web.zoom.us\/j\/81848524755?pwd=YTFNb0lyVkx3aUF2VmxJSkV0bjhuUT09",
+                                "name": "Zoom meeting",
+                                "created_by": "U019AGZD01Z",
+                                "date_end": 1657144409,
+                                "channels": [
+                                    "C015Z3A5FGF"
+                                ],
+                                "is_dm_call": false,
+                                "was_rejected": false,
+                                "was_missed": false,
+                                "was_accepted": false,
+                                "has_ended": true
+                            },
+                            "media_backend_type": "platform_call"
+                        }
+                    }
+                ],
+                "fallback": "[no preview available]",
+                "bot_id": "B019NVBAQQH",
+                "app_unfurl_url": "https:\/\/us02web.zoom.us\/j\/81848524755?pwd=YTFNb0lyVkx3aUF2VmxJSkV0bjhuUT09",
+                "is_app_unfurl": true,
+                "app_id": "A5GE9BMQC"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DLT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/us02web.zoom.us\/j\/81848524755?pwd=YTFNb0lyVkx3aUF2VmxJSkV0bjhuUT09"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nMeeting ID: 818 4852 4755\nPasscode: 356938"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "98D424FC-E43C-4C5A-AED0-FF053F482DA7",
+        "type": "message",
+        "text": "今ふと思ったんだけれども、今回の読書会課題図書6巻読もうか。。。となると今絶賛どハマり中のHazard&amp;Someesetシリーズの5巻を中断して、こちらを読み始めるべきか。。。\n自分の記憶力、特にオーディブルのみだいぶ前に聴いただけだと忘れてることが多すぎるし、萌えもしっかり目で確認していない。\n7\/31開催(イエイ！)なので、全巻は無理でも6、7、巻はいけるかなあ。\nあ、7月って上半期締めで実は繁忙期だったりして。。。\n悩ましいです。",
+        "user": "U017LVA457X",
+        "ts": "1657059081.320529",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "ab08cd7206d5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-23\/1260372537906_ab08cd7206d5061995ec_72.png",
+            "first_name": "Nakaji",
+            "real_name": "Nakaji",
+            "display_name": "Nakaji",
+            "team": "T014MVD863E",
+            "name": "nakaji352002",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wIn7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "今ふと思ったんだけれども、今回の読書会課題図書6巻読もうか。。。となると今絶賛どハマり中のHazard&"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Someeset"
+                            },
+                            {
+                                "type": "text",
+                                "text": "シリーズの5巻を中断して、こちらを読み始めるべきか。。。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "自分の記憶力、特にオーディブルのみだいぶ前に聴いただけだと忘れてることが多すぎるし、萌えもしっかり目で確認していない。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "7\/31開催(イエイ！)なので、全巻は無理でも6、7、巻はいけるかなあ。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "あ、7月って上半期締めで実は繁忙期だったりして。。。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "悩ましいです。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "04B759C3-D695-4202-A342-7375AC69060A",
+        "type": "message",
+        "text": "はいはい、Diversion book 6 とbook セット3で今まで未読の本全部まとめてて購入しましたー。\n今晩から6巻読み始めまーす。",
+        "user": "U017LVA457X",
+        "ts": "1657059476.154569",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "ab08cd7206d5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-23\/1260372537906_ab08cd7206d5061995ec_72.png",
+            "first_name": "Nakaji",
+            "real_name": "Nakaji",
+            "display_name": "Nakaji",
+            "team": "T014MVD863E",
+            "name": "nakaji352002",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U017LVA457X",
+            "ts": "1657059520.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "a0I",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "はいはい、Diversion book 6 とbook セット3で今まで未読の本全部まとめてて購入しましたー。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "今晩から6巻"
+                            },
+                            {
+                                "type": "text",
+                                "text": "読み"
+                            },
+                            {
+                                "type": "text",
+                                "text": "始めまーす。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1657059476.154569",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1657110608.758299",
+        "reply_users": [
+            "U017LVA457X"
+        ],
+        "replies": [
+            {
+                "user": "U017LVA457X",
+                "ts": "1657110608.758299"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "party_parrot",
+                "users": [
+                    "U014UD117ND",
+                    "U01P6E9P3J5",
+                    "U017Z0T54P3"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9960CE5B-41B2-49AC-A07F-6EA8D7760DD3",
+        "type": "message",
+        "text": "ありがとうございます！\n",
+        "user": "U017YHF4ZG9",
+        "ts": "1657071850.353529",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "8b538c52795e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-23\/1256603203669_8b538c52795ebb5c006a_72.jpg",
+            "first_name": "",
+            "real_name": "Ayu Yamane",
+            "display_name": "Ayu Yamane",
+            "team": "T014MVD863E",
+            "name": "ayu76mi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uq+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ありがとう"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ございます！"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1656958180.018949",
+        "parent_user_id": "U014UD117ND",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U014UD117ND"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "A557ACC5-294E-4AEA-AD8A-5248516B2C3D",
+        "type": "message",
+        "text": "はい！参加します:hand:",
+        "user": "U017YHF4ZG9",
+        "ts": "1657071933.189859",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "8b538c52795e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-23\/1256603203669_8b538c52795ebb5c006a_72.jpg",
+            "first_name": "",
+            "real_name": "Ayu Yamane",
+            "display_name": "Ayu Yamane",
+            "team": "T014MVD863E",
+            "name": "ayu76mi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EnD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "はい！参加します"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "hand",
+                                "unicode": "270b"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U014UD117ND"
+                ],
+                "count": 1
+            },
+            {
+                "name": "danceydoge",
+                "users": [
+                    "U01P6E9P3J5"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

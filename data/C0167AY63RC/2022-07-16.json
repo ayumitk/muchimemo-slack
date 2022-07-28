@@ -1,0 +1,92 @@
+[
+    {
+        "type": "message",
+        "text": "こんな記事が:sparkles:ワンワン大活躍:sparkles:ですね\n<https:\/\/gigazine.net\/news\/20220717-more-dogs-neighborhood-less-crime\/>",
+        "user": "U017L1ARLJX",
+        "ts": "1658019126.195059",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "cf2ffbf91b0d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-23\/1264264593060_cf2ffbf91b0dd4f50994_72.png",
+            "first_name": "くじらー",
+            "real_name": "くじらー",
+            "display_name": "くじらー",
+            "team": "T014MVD863E",
+            "name": "anzuharuday",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/gigazine.net\/news\/20220717-more-dogs-neighborhood-less-crime\/",
+                "image_url": "https:\/\/i.gzn.jp\/img\/2022\/07\/17\/more-dogs-neighborhood-less-crime\/00.jpg",
+                "image_width": 444,
+                "image_height": 250,
+                "image_bytes": 179111,
+                "service_icon": "https:\/\/gigazine.net\/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/gigazine.net\/news\/20220717-more-dogs-neighborhood-less-crime\/",
+                "fallback": "GIGAZINE: 「イヌを飼っている住人が多い地域は犯罪率が低い」という研究結果が明らかに",
+                "text": "イヌは人間のペットとして世界中で愛されており、飼い主にとって癒やしと活力を与えてくれる大切な存在です。新たな研究では、イヌが単に飼い主に好影響を及ぼすだけでなく、「イヌの飼い主が多い地域は犯罪率が低い」という有益な関連性があることが示されました。",
+                "title": "「イヌを飼っている住人が多い地域は犯罪率が低い」という研究結果が明らかに",
+                "title_link": "https:\/\/gigazine.net\/news\/20220717-more-dogs-neighborhood-less-crime\/",
+                "service_name": "GIGAZINE"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hAh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "こんな記事が"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sparkles",
+                                "unicode": "2728"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ワンワン大活躍"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sparkles",
+                                "unicode": "2728"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ですね\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/gigazine.net\/news\/20220717-more-dogs-neighborhood-less-crime\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03N2KMPR6H",
+                    "U01M8BTNR7C",
+                    "U029MKK3W4E",
+                    "U017Z0T54P3",
+                    "U017LVA457X",
+                    "U01P6E9P3J5"
+                ],
+                "count": 6
+            }
+        ]
+    }
+]

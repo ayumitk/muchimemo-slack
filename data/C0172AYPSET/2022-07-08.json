@@ -1,0 +1,56 @@
+[
+    {
+        "client_msg_id": "13044C1F-2589-498A-97A5-8949BAC6FDE1",
+        "type": "message",
+        "text": ":rolling_on_the_floor_laughing:そうなの:sparkles:ならいいじゃん",
+        "user": "U017L1ARLJX",
+        "ts": "1657279245.373949",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "cf2ffbf91b0d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-23\/1264264593060_cf2ffbf91b0dd4f50994_72.png",
+            "first_name": "くじらー",
+            "real_name": "くじらー",
+            "display_name": "くじらー",
+            "team": "T014MVD863E",
+            "name": "anzuharuday",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xIsP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "rolling_on_the_floor_laughing",
+                                "unicode": "1f923"
+                            },
+                            {
+                                "type": "text",
+                                "text": "そうなの"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sparkles",
+                                "unicode": "2728"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ならいいじゃん"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1656509137.314719",
+        "parent_user_id": "U017L1ARLJX"
+    }
+]

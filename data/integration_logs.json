@@ -1,0 +1,10 @@
+[
+{"user_id":"U014UD117ND","user_name":"ayumee528","date":"1623823039","change_type":"added","app_type":"Simple Poll","app_id":"A0HFW7MR6"},
+{"user_id":"U014UD117ND","user_name":"ayumee528","date":"1623823038","change_type":"added","app_type":"Simple Poll","app_id":"A0HFW7MR6","scope":"identity.basic,identity.email"},
+{"user_id":"U014UD117ND","user_name":"ayumee528","date":"1598045113","change_type":"expanded","app_type":"Zoom","app_id":"A5GE9BMQC","scope":"identify,links:read,links:write,identity.basic"},
+{"user_id":"U014UD117ND","user_name":"ayumee528","date":"1598044889","change_type":"added","app_type":"Zoom","app_id":"A5GE9BMQC"},
+{"user_id":"U014UD117ND","user_name":"ayumee528","date":"1598044889","change_type":"added","app_type":"Zoom","app_id":"A5GE9BMQC","scope":"identify,links:read,links:write,identity.basic"},
+{"user_id":"U014UD117ND","user_name":"ayumee528","date":"1596041850","change_type":"removed","reason":"user_uninstalled_app","app_type":"BirthdayBot","app_id":"A0QAZV90X"},
+{"user_id":"U014UD117ND","user_name":"ayumee528","date":"1596041428","change_type":"added","app_type":"BirthdayBot","app_id":"A0QAZV90X"},
+{"user_id":"U014UD117ND","user_name":"ayumee528","date":"1593587026","change_type":"added","service_id":1201358321751,"service_type":"Twitter","scope":"incoming-webhook"}
+]

@@ -1,0 +1,391 @@
+[
+    {
+        "client_msg_id": "563eba6e-ffce-4890-8b19-1eb800c47314",
+        "type": "message",
+        "text": "Boyfriend Material しかまだ読んだことがなかった Alexis Hallさんの Waiting for the Flood を読み始めたところです。静かで深い流れのような、予感をはらんだ雰囲気のある出だしで、これから楽しみです。\n\n※ スレッドに潜ってちょこっと感想を書きました",
+        "user": "U03D1UJECGZ",
+        "ts": "1656752754.738549",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "a7dde0607f3e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-24\/3431416808738_a7dde0607f3e669535b6_72.png",
+            "first_name": "Kumatta",
+            "real_name": "Kumatta",
+            "display_name": "Kumatta",
+            "team": "T014MVD863E",
+            "name": "maki.terao",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U03D1UJECGZ",
+            "ts": "1656775464.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/F6xy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Boyfriend Material しかまだ読んだことがなかった Alexis Hallさんの Waiting for the Flood を読み始めたところです。静かで深い流れのような、予感をはらんだ雰囲気のある出だしで、これから楽しみです。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n※ スレッドに潜ってちょこっと感想を書きました"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1656752754.738549",
+        "reply_count": 14,
+        "reply_users_count": 2,
+        "latest_reply": "1657029043.151929",
+        "reply_users": [
+            "U03D1UJECGZ",
+            "U017LVA457X"
+        ],
+        "replies": [
+            {
+                "user": "U03D1UJECGZ",
+                "ts": "1656775404.246439"
+            },
+            {
+                "user": "U017LVA457X",
+                "ts": "1656849707.586739"
+            },
+            {
+                "user": "U03D1UJECGZ",
+                "ts": "1656907152.241499"
+            },
+            {
+                "user": "U017LVA457X",
+                "ts": "1656936911.112049"
+            },
+            {
+                "user": "U03D1UJECGZ",
+                "ts": "1656940123.018149"
+            },
+            {
+                "user": "U017LVA457X",
+                "ts": "1656944128.258359"
+            },
+            {
+                "user": "U017LVA457X",
+                "ts": "1656944887.067609"
+            },
+            {
+                "user": "U017LVA457X",
+                "ts": "1656944939.753429"
+            },
+            {
+                "user": "U017LVA457X",
+                "ts": "1656946437.490679"
+            },
+            {
+                "user": "U017LVA457X",
+                "ts": "1656946564.028869"
+            },
+            {
+                "user": "U03D1UJECGZ",
+                "ts": "1656949299.105449"
+            },
+            {
+                "user": "U017LVA457X",
+                "ts": "1656981483.251009"
+            },
+            {
+                "user": "U03D1UJECGZ",
+                "ts": "1656984655.041669"
+            },
+            {
+                "user": "U017LVA457X",
+                "ts": "1657029043.151929"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U017LVA457X"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "C4BDA867-465F-4CA7-B1C3-A7EB6349CF74",
+        "type": "message",
+        "text": "面白くて一気に読んでしまいました。\n\n舞台はOxfordの町。\n\n描写から、Abindon Roadを下った先のあたりにお家があるのかなあなんて。\n\n発話の難しさから人を遠ざけてきたEdwinくんと、冠水の対応にやってきた市のエンジニア、Adamのお話でした。\n\n静かに波が打ち寄せるように胸に迫ってくるような雰囲気があって、わたしはこのお話とっても好きだなあ。\n\nOld Bodleianで古い書籍の修復をしているというお仕事の設定も良かったな。長さは100pほどです。\n\nSpires Book というシリーズの1冊とのこと。\n\n",
+        "user": "U03D1UJECGZ",
+        "ts": "1656775404.246439",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "a7dde0607f3e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-24\/3431416808738_a7dde0607f3e669535b6_72.png",
+            "first_name": "Kumatta",
+            "real_name": "Kumatta",
+            "display_name": "Kumatta",
+            "team": "T014MVD863E",
+            "name": "maki.terao",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U03D1UJECGZ",
+            "ts": "1656776691.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gBq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "面白くて一気に読んでしまいました。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n舞台はOxfordの町。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n描写から、Abindon Roadを下った先のあたりにお家があるのかなあなんて。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n発話の難しさから人を遠ざけてきたEdwinくんと、冠水の対応にやってきた市のエンジニア、Adamのお話でした。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n静かに波が打ち寄せるように胸に迫ってくるような雰囲気があって、わたしはこのお話とっても好きだなあ。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nOld Bodleianで古い書籍の修復をしているというお仕事の設定も良かったな。長さは100pほどです。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nSpires Book というシリーズの1冊とのこと。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1656752754.738549",
+        "parent_user_id": "U03D1UJECGZ"
+    },
+    {
+        "client_msg_id": "db86848d-4e73-4ae0-a86c-492ddda4d4fc",
+        "type": "message",
+        "text": "Nakajiさん\nはいー順調（！？）に進んでおりますです！\n作品全体に漂う雰囲気は『どんより』な空気感と相まって独特のリアルさを構築している感じがしますです。\nモノロマ作品が良い意味でエンターテインメント感が強めの作品が多いので、そちらの作品とは手触りが全く違うのが新しい体験でした。\n現段階ではまだ『派手な事件』という様相ではなく、地道～な捜査を黙々とこなす事で、各自が己のままならない感情を内面の奥に押し込めてる感じが『あ～人生ってこういう事の連続かもしれんのう…汗』と、変な所で共感してしまい、お仕事モノ作品恐るべし…と思っておりますです。\nラブい表現の多い作品ももちろん楽しいですが、この作品のように『二人の距離感が焦らし…もとい、クール』な作品も好きなので、ゆっくり見守ってゆきたいと思っておりますです！\nいいですね～片方が『相棒！』な気持ち満載なのにもう片方がそれを突っぱね気味で、だけど仕事での相性は抜群！とか、お仕事モノのモエしかないですね…HazardはSomersetへのあの深い不信感の中で\n『あいつは自分には無い能力を持ってて、それはこの仕事では大切な事だ』\nとちゃんと評価できるのが熱すぎました…\n完全に個人の趣味ですが、こういう二人ってコミカルでシニカルな軽めな二次創作も映えそうで楽しいんですよね…原作が重厚なのでできる事ですが…もうデキてなくてもいいから、この永遠に平行線な二人のやり取りを電柱の影からずっと見ていたい…というネタを描きたい気持ちになります～（どいういうネタ？？汗",
+        "user": "U029MKK3W4E",
+        "ts": "1656780483.922629",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "aade7c86a319",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-10-17\/2606350548278_aade7c86a319ba8c4e3c_72.png",
+            "first_name": "ねこしま",
+            "real_name": "ねこしま",
+            "display_name": "",
+            "team": "T014MVD863E",
+            "name": "nanakusa0503",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2=Aou",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Nakajiさん\nはいー順調（！？）に進んでおりますです！\n作品全体に漂う雰囲気は『どんより』な空気感と相まって独特のリアルさを構築している感じがしますです。\nモノロマ作品が良い意味でエンターテインメント感が強めの作品が多いので、そちらの作品とは手触りが全く違うのが新しい体験でした。\n現段階ではまだ『派手な事件』という様相ではなく、地道～な捜査を黙々とこなす事で、各自が己のままならない感情を内面の奥に押し込めてる感じが『あ～人生ってこういう事の連続かもしれんのう…汗』と、変な所で共感してしまい、お仕事モノ作品恐るべし…と思っておりますです。\nラブい表現の多い作品ももちろん楽しいですが、この作品のように『二人の距離感が焦らし…もとい、クール』な作品も好きなので、ゆっくり見守ってゆきたいと思っておりますです！\nいいですね～片方が『相棒！』な気持ち満載なのにもう片方がそれを突っぱね気味で、だけど仕事での相性は抜群！とか、お仕事モノのモエしかないですね…HazardはSomersetへのあの深い不信感の中で\n『あいつは自分には無い能力を持ってて、それはこの仕事では大切な事だ』\nとちゃんと評価できるのが熱すぎました…\n完全に個人の趣味ですが、こういう二人ってコミカルでシニカルな軽めな二次創作も映えそうで楽しいんですよね…原作が重厚なのでできる事ですが…もうデキてなくてもいいから、この永遠に平行線な二人のやり取りを電柱の影からずっと見ていたい…というネタを描きたい気持ちになります～（どいういうネタ？？汗"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "72766C63-6450-4230-B121-9430362CEC35",
+        "type": "message",
+        "text": "ワーイ:raised_hands:ねこしまさん感想聞かせてくださってありがとうございます:blush:\nねこしまさん、文章力すごい！私が感じたいいたかったこと、うまく文章化してくださいました。\nそうなの、モノロマに選抜された作品は、さすがにきれいにまとまり、ちゃんと起承転結があり、グタグタしてる部分は、短く押さえてぐいぐいストーリーがわかりやすく読みやすい作品が多い。\nでもこの作家様は、ページ数とか、起承転結とか、もっといえば、ロマンスのお約束ごとを全く無視してる。\n\nわかるわ、2次創作でイチャイチャしてほしいです。\n実は、4巻5巻の間に入る短篇の番外編があり、そちらを今読んでいますが、この番外編は、軽めで、くらいどんよりがないです。\n\n地味な捜査、あまり事件自体パッとせず、自分たちの過去に囚われ絡め取られて、ってすごく共感します。\n\n頑張って〜",
+        "user": "U017LVA457X",
+        "ts": "1656797322.046439",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "ab08cd7206d5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-23\/1260372537906_ab08cd7206d5061995ec_72.png",
+            "first_name": "Nakaji",
+            "real_name": "Nakaji",
+            "display_name": "Nakaji",
+            "team": "T014MVD863E",
+            "name": "nakaji352002",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U017LVA457X",
+            "ts": "1656797372.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0tMVr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ワーイ"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "raised_hands",
+                                "unicode": "1f64c"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ねこしまさん感想聞かせてくださってありがとうございます"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "blush",
+                                "unicode": "1f60a"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ねこしまさん、文章力すごい！私が感じたいいたかったこと、うまく文章化してくださいました。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "そうなの、モノロマに選抜された作品は、さすがにきれいにまとまり、ちゃんと起承転結があり、グタグタしてる部分は、短く押さえてぐいぐいストーリーがわかりやすく読みやすい作品が多い。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "でもこの作家様は、ページ数とか、起承転結とか、もっといえば、ロマンスのお約束ごとを全く無視してる。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "わかるわ、2次創作でイチャイチャしてほしいです。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "実は、4巻5巻の間に入る短篇の番外編があり、そちらを今読んでいますが、この番外編は、軽めで、くらいどんよりがないです。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "地味な捜査、あまり事件自体パッとせず、自分たちの過去に囚われ絡め取られて、ってすごく共感します。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "頑張って〜"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

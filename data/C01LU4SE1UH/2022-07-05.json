@@ -1,0 +1,392 @@
+[
+    {
+        "client_msg_id": "5F855AAA-EE59-4234-BEA2-86065682F8CD",
+        "type": "message",
+        "text": "おお、ありがたい情報。セールを狙います。",
+        "user": "U017LVA457X",
+        "ts": "1657021077.990829",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "ab08cd7206d5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-23\/1260372537906_ab08cd7206d5061995ec_72.png",
+            "first_name": "Nakaji",
+            "real_name": "Nakaji",
+            "display_name": "Nakaji",
+            "team": "T014MVD863E",
+            "name": "nakaji352002",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "H7q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "おお、ありがたい情報。セールを狙います"
+                            },
+                            {
+                                "type": "text",
+                                "text": "。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "35394BAB-82B3-44AA-B6BC-EC42BFD142FC",
+        "type": "message",
+        "text": "詳しく教えていただいてありがとうございました！トップ3というのはすごい高評価ですね。",
+        "user": "U017LVA457X",
+        "ts": "1657028805.270519",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "ab08cd7206d5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-23\/1260372537906_ab08cd7206d5061995ec_72.png",
+            "first_name": "Nakaji",
+            "real_name": "Nakaji",
+            "display_name": "Nakaji",
+            "team": "T014MVD863E",
+            "name": "nakaji352002",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5YD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "詳しく教えていただいてありがとうございました！トップ3というのはすごい高評価"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ですね。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1656981902.803609",
+        "parent_user_id": "U017LVA457X"
+    },
+    {
+        "client_msg_id": "F3A106A9-C529-40FD-AB95-198B95D89CB5",
+        "type": "message",
+        "text": "わたしも今年になってやっと気がついて手に取った感じです〜\n\n作品自体は刊行から数年経ってるかも？",
+        "user": "U03D1UJECGZ",
+        "ts": "1657029990.322599",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "a7dde0607f3e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-24\/3431416808738_a7dde0607f3e669535b6_72.png",
+            "first_name": "Kumatta",
+            "real_name": "Kumatta",
+            "display_name": "Kumatta",
+            "team": "T014MVD863E",
+            "name": "maki.terao",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "w6eHl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "わたしも今年になってやっと気がついて手に取った感じです〜"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n作品自体は刊行から数年経ってるかも？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1656981902.803609",
+        "parent_user_id": "U017LVA457X"
+    },
+    {
+        "client_msg_id": "7519C34C-70EA-40F6-B417-4BF75B447B35",
+        "type": "message",
+        "text": "ふむふむ。参考になりました。",
+        "user": "U017LVA457X",
+        "ts": "1657035318.657309",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "ab08cd7206d5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-23\/1260372537906_ab08cd7206d5061995ec_72.png",
+            "first_name": "Nakaji",
+            "real_name": "Nakaji",
+            "display_name": "Nakaji",
+            "team": "T014MVD863E",
+            "name": "nakaji352002",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NtQs3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ふむふむ。参考になりました"
+                            },
+                            {
+                                "type": "text",
+                                "text": "。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1656981902.803609",
+        "parent_user_id": "U017LVA457X"
+    },
+    {
+        "client_msg_id": "EB5A86EB-5130-468F-8CAF-985A63E9ACF4",
+        "type": "message",
+        "text": ":agree: ",
+        "user": "U01M8BTNR7C",
+        "ts": "1657036297.805189",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "16c140f650be",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-02-10\/1748642350673_16c140f650be7c6cc646_72.png",
+            "first_name": "きなこ",
+            "real_name": "きなこ",
+            "display_name": "",
+            "team": "T014MVD863E",
+            "name": "le.arbre.montagne.121",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "C84",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "agree",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " ",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1656977595.667749",
+        "parent_user_id": "U01M8BTNR7C"
+    },
+    {
+        "client_msg_id": "181550bc-15a0-403f-819b-5548884a8b53",
+        "type": "message",
+        "text": "お、電書セールいいですね！私も狙いたい。過去作品は全て持っているのですが、新装版だと描き下ろしが入るので:heart_eyes:\nKumattaさんと同じく私のBL史上Top3に入る勢いのシリーズなんですよ〜",
+        "user": "U014UD117ND",
+        "ts": "1657055940.175319",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "d661e4a51036",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-30\/1214690186661_d661e4a51036d8b1a2e4_72.jpg",
+            "first_name": "ジーナ",
+            "real_name": "ジーナ",
+            "display_name": "ジーナ",
+            "team": "T014MVD863E",
+            "name": "ayumee528",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OL6I",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "お、電書セールいいですね！私も狙いたい。過去作品は全て持っているのですが、新装版だと描き下ろしが入るので"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "heart_eyes",
+                                "unicode": "1f60d"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nKumattaさんと同じく私のBL史上Top3に入る勢いのシリーズなんですよ〜"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U03D1UJECGZ",
+                    "U01M8BTNR7C",
+                    "U017LVA457X"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "29D682DF-295E-4945-BAA1-CDD7D32BFACB",
+        "type": "message",
+        "text": "まる兄者、ご無沙汰しておりますー:smiley:\nそう、ホットパンツにヒール、太もも靴下という、新たなフェチシズムの扉を開けてしまいそうですよね:face_with_hand_over_mouth:\n薔薇王は、うーん、読み返すと最後の方は、主人公たちはもう好きにしろよ、、、という感じでした（ケイツビー推しなのもありますが）結局、王になってどういう治世をしたいのかがなく（これは元ネタのシェイクスピアの方がそうなのかもしれないのですが）、大義に殉じるよりも、恋愛に殉じてしまったのも、うーん、、、でした:sweat_smile:いや、恋愛に殉じてもらってもいいのですが、ソイツなん？という。なので一人で信念を貫き通したケイツビー（従者）を推してしまう。。。ですが機会あればご一読をおすすめします〜:smiley:（どっちやねん\n",
+        "user": "U01PZK3KK97",
+        "ts": "1657062777.204869",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "g7edbb069a07",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/7edbb069a07e3786ca21d16d29a8c001.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "",
+            "real_name": "はるまき",
+            "display_name": "",
+            "team": "T014MVD863E",
+            "name": "halsiyon5",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "y5bO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "まる兄者、ご無沙汰しておりますー"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smiley",
+                                "unicode": "1f603"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "そう、ホットパンツにヒール、太もも靴下という、新たなフェチシズムの扉を開けてしまいそうですよね"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "face_with_hand_over_mouth",
+                                "unicode": "1f92d"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "薔薇王は、うーん、読み返すと最後の"
+                            },
+                            {
+                                "type": "text",
+                                "text": "方は"
+                            },
+                            {
+                                "type": "text",
+                                "text": "、主人公たちはもう好きにしろよ、、、という感じでした（ケイツビー推しなのもありますが）結局、王になってどういう治世をしたいのかがなく（これは元ネタのシェイクスピアの方がそうなのかもしれないのですが）、大義に殉じるよりも、恋愛に殉じてしまったのも、うーん、、、でした"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sweat_smile",
+                                "unicode": "1f605"
+                            },
+                            {
+                                "type": "text",
+                                "text": "いや、恋愛に殉じてもらってもいいのですが、ソイツなん？という。なので一人で信念を貫き通したケイツビー（従者"
+                            },
+                            {
+                                "type": "text",
+                                "text": "）"
+                            },
+                            {
+                                "type": "text",
+                                "text": "を推してしまう。。。ですが機会あればご一読をおすすめします〜"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smiley",
+                                "unicode": "1f603"
+                            },
+                            {
+                                "type": "text",
+                                "text": "（どっちやねん"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1656629813.885029",
+        "parent_user_id": "U01PZK3KK97"
+    }
+]

@@ -1,0 +1,758 @@
+[
+    {
+        "client_msg_id": "52479786-7d63-4527-b041-9399204f63a9",
+        "type": "message",
+        "text": "ヨーロッパは異例の暑さだそうですね:hot_face:\nポルトガルで熱中症で死者千人越え、てニュースで見て「は:interrobang:」とか思ったんですけど、ヨーロッパってエアコンがないんですねえ。夏でもさして気温上がらないし、湿度も高くない、だから本当なら冷房装置必要ない。それなのに今年は・・・って、もうすごいことになってる:scream:\n\nブラピのスカート、全然アリっす:bangbang:私は暑がりなんで、夏とか長いジーンズとか穿いてる人見ると「暑くないのか:interrobang:」とか思うんですよ。絶対スカートのほうが涼しい！ベルリンは38℃もあったそうですし、なんなら出演者全員スカートにすりゃよかったんですよ、楽しいじゃないですか、みんなでお揃いのスカート:laughing:",
+        "user": "U01P6E9P3J5",
+        "ts": "1658486999.871339",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "gc61e328c9e5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c61e328c9e5331e15fbbfaac3326fd4c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0025-72.png",
+            "first_name": "",
+            "real_name": "まる",
+            "display_name": "まる",
+            "team": "T014MVD863E",
+            "name": "marusan93",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KLD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ヨーロッパは異例の暑さだそうですね"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "hot_face",
+                                "unicode": "1f975"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nポルトガルで熱中症で死者千人越え、てニュースで見て「は"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "interrobang",
+                                "unicode": "2049-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "」とか思ったんですけど、ヨーロッパってエアコンがないんですねえ。夏でもさして気温上がらないし、湿度も高くない、だから本当なら冷房装置必要ない。それなのに今年は・・・って、もうすごいことになってる"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "scream",
+                                "unicode": "1f631"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nブラピのスカート、全然アリっす"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "bangbang",
+                                "unicode": "203c-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "私は暑がりなんで、夏とか長いジーンズとか穿いてる人見ると「暑くないのか"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "interrobang",
+                                "unicode": "2049-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "」とか思うんですよ。絶対スカートのほうが涼しい！ベルリンは38℃もあったそうですし、なんなら出演者全員スカートにすりゃよかったんですよ、楽しいじゃないですか、みんなでお揃いのスカート"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "laughing",
+                                "unicode": "1f606"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "agree",
+                "users": [
+                    "U017LVA457X"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "DEF1600B-E1A2-429D-9A80-6A4E66A48361",
+        "type": "message",
+        "text": "袴みたい:sparkles:イケメンやのう:sparkles:",
+        "user": "U017L1ARLJX",
+        "ts": "1658487646.387429",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "cf2ffbf91b0d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-23\/1264264593060_cf2ffbf91b0dd4f50994_72.png",
+            "first_name": "くじらー",
+            "real_name": "くじらー",
+            "display_name": "くじらー",
+            "team": "T014MVD863E",
+            "name": "anzuharuday",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dZkSe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "袴みたい"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sparkles",
+                                "unicode": "2728"
+                            },
+                            {
+                                "type": "text",
+                                "text": "イケメンやのう"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sparkles",
+                                "unicode": "2728"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1658487646.387429",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1658518227.150199",
+        "reply_users": [
+            "U017LVA457X"
+        ],
+        "replies": [
+            {
+                "user": "U017LVA457X",
+                "ts": "1658518227.150199"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "513a6671-dbbf-4a48-9fe8-6cab3da50a33",
+        "type": "message",
+        "text": "キルトじゃなくてスカートなんですね。ありでしょう。どうせならもっとセクスィーなスカートでもよくてよ:sparkles:",
+        "user": "U017FMU5XTQ",
+        "ts": "1658487767.111659",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "bea7a407721c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-26\/1263539336931_bea7a407721cebe3595a_72.jpg",
+            "first_name": "",
+            "real_name": "めい",
+            "display_name": "めい",
+            "team": "T014MVD863E",
+            "name": "megmon24",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YFq2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "キルトじゃなくてスカートなんですね。ありでしょう。どうせならもっとセクスィーなスカートでもよくてよ"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sparkles",
+                                "unicode": "2728"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1658487767.111659",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1658518252.684279",
+        "reply_users": [
+            "U017LVA457X"
+        ],
+        "replies": [
+            {
+                "user": "U017LVA457X",
+                "ts": "1658518252.684279"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "C4732B68-D2DF-4216-97AB-7B3673A7C07B",
+        "type": "message",
+        "text": "スカートいいですね。スリランカ男性と結婚した友人から、暑いと友人のロングスカートを履くことがあると聞きました！スリランカではサロンという巻きスカートみたいなものを巻くので。暑い国はそういう格好多いですよね。\n今日も暑かった:hot_face:",
+        "user": "U01M8BTNR7C",
+        "ts": "1658489234.021629",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "16c140f650be",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-02-10\/1748642350673_16c140f650be7c6cc646_72.png",
+            "first_name": "きなこ",
+            "real_name": "きなこ",
+            "display_name": "",
+            "team": "T014MVD863E",
+            "name": "le.arbre.montagne.121",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BoS4i",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "スカートいいですね。スリランカ男性と結婚した友人から、暑いと友人のロングスカートを履くことがあると聞きました！スリランカではサロンという巻きスカートみたいなものを巻くので。暑い国はそういう格好多いですよね。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "今日も暑かった"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "hot_face",
+                                "unicode": "1f975"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1658489234.021629",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1658518287.202799",
+        "reply_users": [
+            "U017LVA457X"
+        ],
+        "replies": [
+            {
+                "user": "U017LVA457X",
+                "ts": "1658518287.202799"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "02e188bb-d776-4a85-88d4-804809a9d6d0",
+        "type": "message",
+        "text": "ブラピ様でこのデザインならありかな。\nスカートがいいか悪いかというより本人に似合っているかどうかが重要な気がする。",
+        "user": "U0188J8KHE0",
+        "ts": "1658491904.445969",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "9bddb1ef97ce",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-31\/1273082961765_9bddb1ef97ce43f9742f_72.png",
+            "first_name": "サトル",
+            "real_name": "サトル",
+            "display_name": "サトル",
+            "team": "T014MVD863E",
+            "name": "rien9326",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U0188J8KHE0",
+            "ts": "1658491995.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "apJa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ブラピ様でこのデザインならありかな。\nスカートがいいか悪いかというより本人に似合っているかどうかが重要な気がする。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1658491904.445969",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1658518300.859559",
+        "reply_users": [
+            "U017LVA457X"
+        ],
+        "replies": [
+            {
+                "user": "U017LVA457X",
+                "ts": "1658518300.859559"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "541216AB-DD72-4F3D-9388-EFB8682F0B7D",
+        "type": "message",
+        "text": "わーい、皆様お返事ありがとうございます:blush:\nヨーロッパ、記録的な酷暑だとニュース見ましたが、熱中症で死者1000人越えというのは知りませんでした。エアコンないとほんと死んじゃいますよね。\n確かに各地の民族衣装男性のスカートというか、いわゆるサロンみたいなの多いですね。\nやはり、プラビ様なんで、ステキでお似合いってありますね。",
+        "user": "U017LVA457X",
+        "ts": "1658492925.873579",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "ab08cd7206d5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-23\/1260372537906_ab08cd7206d5061995ec_72.png",
+            "first_name": "Nakaji",
+            "real_name": "Nakaji",
+            "display_name": "Nakaji",
+            "team": "T014MVD863E",
+            "name": "nakaji352002",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lP7UF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "わーい、皆様お返事ありがとうございます"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "blush",
+                                "unicode": "1f60a"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ヨーロッパ、記録的な酷暑だとニュース見ましたが、熱中症で死者1000人越えというのは知りませんでした。エアコンないとほんと死んじゃいますよね。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "確かに各地の民族衣装男性のスカートというか、いわゆるサロンみたいなの多いですね。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "やはり、プラビ様なんで、ステキでお似合いってありますね。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "D6833753-21FE-4B0E-ACFA-478D652FCC4C",
+        "type": "message",
+        "text": "皆様素敵な週末を過ごしてますか。\n\n今ふと思ったのですが、このスラックのコミュニティのおかげで、(ジーナさん、管理運営いつもありがとうございます:blush:)\n結構日常的にMM読んだ感想とか時事関連の意見とか書かせていただいているんですが、自分の文を後で読んで、すごく拙くて、何かが足りないって思うんです。\nこちらでは、皆さんお仕事関連またはオタク活動などを通じて人に読んでもらう文章の上手な方がたくさんいらっしゃるのですが、どうしたら、もうちょっとわかりやすく、でも自分のスタイルを持った文章書けるようになりますかね。\nもちろん日本語の話です。\nもしアドバイスやご意見あったら是非教えてください！",
+        "user": "U017LVA457X",
+        "ts": "1658518172.506259",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "ab08cd7206d5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-23\/1260372537906_ab08cd7206d5061995ec_72.png",
+            "first_name": "Nakaji",
+            "real_name": "Nakaji",
+            "display_name": "Nakaji",
+            "team": "T014MVD863E",
+            "name": "nakaji352002",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "J+w9+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "皆様素敵な週末を過ごしてますか。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n今ふと思ったのですが、このスラックのコミュニティのおかげで、(ジーナさん、管理運営いつもありがとうございます"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "blush",
+                                "unicode": "1f60a"
+                            },
+                            {
+                                "type": "text",
+                                "text": ")"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "結構日常的にMM読んだ感想とか時事関連の意見とか書かせていただいているんですが、自分の文を後で読んで、すごく拙くて、何かが足りないって思うんです。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "こちらでは、皆さんお仕事関連またはオタク活動などを通じて人に読んでもらう文章の上手な方がたくさんいらっしゃるのですが、どうしたら、もうちょっとわかりやすく、でも自分のスタイルを持った文章書けるようになりますかね。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "もちろん日本語の話です。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "もしアドバイスやご意見あったら是非教えてください！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "A0E8B4E9-7845-4BC1-AE4B-7570AC0C2558",
+        "type": "message",
+        "text": "まさに！",
+        "user": "U017LVA457X",
+        "ts": "1658518227.150199",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "ab08cd7206d5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-23\/1260372537906_ab08cd7206d5061995ec_72.png",
+            "first_name": "Nakaji",
+            "real_name": "Nakaji",
+            "display_name": "Nakaji",
+            "team": "T014MVD863E",
+            "name": "nakaji352002",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iRMtq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "まさに！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1658487646.387429",
+        "parent_user_id": "U017L1ARLJX"
+    },
+    {
+        "client_msg_id": "790DD7F9-7D0C-4C35-8529-F3542920FB8F",
+        "type": "message",
+        "text": "ああ、セクシー路線ですね",
+        "user": "U017LVA457X",
+        "ts": "1658518252.684279",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "ab08cd7206d5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-23\/1260372537906_ab08cd7206d5061995ec_72.png",
+            "first_name": "Nakaji",
+            "real_name": "Nakaji",
+            "display_name": "Nakaji",
+            "team": "T014MVD863E",
+            "name": "nakaji352002",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "86hQO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ああ、セクシー路線ですね"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1658487767.111659",
+        "parent_user_id": "U017FMU5XTQ"
+    },
+    {
+        "client_msg_id": "BEFFC3FF-FB14-4944-A393-A3A5B18CFFC2",
+        "type": "message",
+        "text": "インドネシアのバリ島でみたような。",
+        "user": "U017LVA457X",
+        "ts": "1658518287.202799",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "ab08cd7206d5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-23\/1260372537906_ab08cd7206d5061995ec_72.png",
+            "first_name": "Nakaji",
+            "real_name": "Nakaji",
+            "display_name": "Nakaji",
+            "team": "T014MVD863E",
+            "name": "nakaji352002",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "g\/rZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "インドネシアのバリ島でみたような。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1658489234.021629",
+        "parent_user_id": "U01M8BTNR7C"
+    },
+    {
+        "client_msg_id": "75A0FAFF-101D-419D-BADA-ACAD8C2490C5",
+        "type": "message",
+        "text": "ですね〜",
+        "user": "U017LVA457X",
+        "ts": "1658518300.859559",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "ab08cd7206d5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-23\/1260372537906_ab08cd7206d5061995ec_72.png",
+            "first_name": "Nakaji",
+            "real_name": "Nakaji",
+            "display_name": "Nakaji",
+            "team": "T014MVD863E",
+            "name": "nakaji352002",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FG=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ですね〜"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1658491904.445969",
+        "parent_user_id": "U0188J8KHE0"
+    },
+    {
+        "client_msg_id": "DECCEDE6-B551-43E3-9C20-E9737EC0D882",
+        "type": "message",
+        "text": "Nakajiさんの文章、全く拙いなんてこと無いと思いますよ！\nせっかく同じ趣味の人が集まってる場なので、情熱と萌えがほとばしるままに、自由に書いていっていいのではないでしょうか:fire:",
+        "user": "U017YHF4ZG9",
+        "ts": "1658556106.752519",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "8b538c52795e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-23\/1256603203669_8b538c52795ebb5c006a_72.jpg",
+            "first_name": "",
+            "real_name": "Ayu Yamane",
+            "display_name": "Ayu Yamane",
+            "team": "T014MVD863E",
+            "name": "ayu76mi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/1Gb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Nakajiさんの文章、全く拙いなんてこと無いと思いますよ！"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "せっかく同じ趣味の人が集まってる場なので、情熱と萌えがほとばしるままに、自由に書いていっていいのではないでしょうか"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fire",
+                                "unicode": "1f525"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1658556106.752519",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1658826662.359899",
+        "reply_users": [
+            "U017LVA457X",
+            "U01P6E9P3J5"
+        ],
+        "replies": [
+            {
+                "user": "U017LVA457X",
+                "ts": "1658578216.981879"
+            },
+            {
+                "user": "U01P6E9P3J5",
+                "ts": "1658826662.359899"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "agree",
+                "users": [
+                    "U017FMU5XTQ",
+                    "U0188J8KHE0",
+                    "U01M8BTNR7C",
+                    "U014UD117ND",
+                    "U01PZK3KK97",
+                    "U03N2KMPR6H",
+                    "U017Z0T54P3",
+                    "U029MKK3W4E",
+                    "U01P6E9P3J5"
+                ],
+                "count": 9
+            },
+            {
+                "name": "jake",
+                "users": [
+                    "U01PZK3KK97",
+                    "U017Z0T54P3",
+                    "U01P6E9P3J5"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

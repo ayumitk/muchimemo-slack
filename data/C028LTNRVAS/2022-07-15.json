@@ -1,0 +1,40 @@
+[
+    {
+        "client_msg_id": "F6D38C49-E6B9-4692-A16E-DDD56BABB770",
+        "type": "message",
+        "text": "だねー、立派にオタク出費",
+        "user": "U017LVA457X",
+        "ts": "1657929652.104969",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "ab08cd7206d5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-23\/1260372537906_ab08cd7206d5061995ec_72.png",
+            "first_name": "Nakaji",
+            "real_name": "Nakaji",
+            "display_name": "Nakaji",
+            "team": "T014MVD863E",
+            "name": "nakaji352002",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9YT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "だねー、立派にオタク出費"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

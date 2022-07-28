@@ -1,0 +1,127 @@
+[
+    {
+        "client_msg_id": "BF428626-E6F2-4300-8865-F65D4A6E191B",
+        "type": "message",
+        "text": "教えてくださってありがとうございます。だいぶ前にKindle Unlimited解約してしまいました。例の息子受験まっさかりの頃に読書余裕が極端に減ってしまったのです。。。\n\nその息子も2ヶ月半の夏休み毎日同じ友達と動画をつくるといってであるいて(車運転できるので車で)います。大学が始まったら勉強大変になるので、マイイカと見守っています。\nサトルさんの息子さんは一人暮らし慣れましたか。お元気でがんばってますか。",
+        "user": "U017LVA457X",
+        "ts": "1657453678.848509",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "ab08cd7206d5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-23\/1260372537906_ab08cd7206d5061995ec_72.png",
+            "first_name": "Nakaji",
+            "real_name": "Nakaji",
+            "display_name": "Nakaji",
+            "team": "T014MVD863E",
+            "name": "nakaji352002",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yd+Q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "教えてくださってありがとう"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ございます"
+                            },
+                            {
+                                "type": "text",
+                                "text": "。だいぶ前にKindle Unlimited解約してしまいました。例の息子受験まっさかりの頃に読書余裕が極端に減ってしまったのです。。。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nその息子も2ヶ月半の夏休み毎日同じ友達と動画をつくるといってであるいて"
+                            },
+                            {
+                                "type": "text",
+                                "text": "("
+                            },
+                            {
+                                "type": "text",
+                                "text": "車運転できるので車で)います。大学が始まったら勉強大変になるので、マイイカと見守っています。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "サトルさんの息子さんは一人暮らし慣れましたか。お元気でがんばってますか。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1657233325.273859",
+        "parent_user_id": "U017LVA457X"
+    },
+    {
+        "client_msg_id": "de989a5f-d489-4dd9-b24f-d8b7ebcd8c38",
+        "type": "message",
+        "text": "そういえば忙しいって仰ってましたね。お仕事お疲れさまです。\n息子さんは充実した夏休みを過ごしてますね！何か凝った作品を作っているのかしら:thinking_face:\nうちの息子はまめに連絡してくるタイプではないので詳しくはわからないですが、元気でやっているようです。食費を浮かすためにそれなりに自炊もしているみたい。夏休みには車の免許を取るために帰ってくるそうです。",
+        "user": "U0188J8KHE0",
+        "ts": "1657493292.782159",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "9bddb1ef97ce",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-31\/1273082961765_9bddb1ef97ce43f9742f_72.png",
+            "first_name": "サトル",
+            "real_name": "サトル",
+            "display_name": "サトル",
+            "team": "T014MVD863E",
+            "name": "rien9326",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U0188J8KHE0",
+            "ts": "1657493311.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "29Ui",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "そういえば忙しいって仰ってましたね。お仕事お疲れさまです。\n息子さんは充実した夏休みを過ごしてますね！何か凝った作品を作っているのかしら"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "thinking_face",
+                                "unicode": "1f914"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nうちの息子はまめに連絡してくるタイプではないので詳しくはわからないですが、元気でやっているようです。食費を浮かすためにそれなりに自炊もしているみたい。夏休みには車の免許を取るために帰ってくるそうです。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1657233325.273859",
+        "parent_user_id": "U017LVA457X"
+    }
+]

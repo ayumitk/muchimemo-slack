@@ -1,0 +1,673 @@
+[
+    {
+        "client_msg_id": "5ad9461f-d650-43ec-8233-82d550a265e0",
+        "type": "message",
+        "text": "はじめまして！Annohと申します。\nNakajiさんから教えてもらって参加しました。\nわたしも多くのみなさんと同じようにアドリアンから入り、そして殺しのアートの続きが気になり原書に手を出しました。\nLanyonさんだとDangerous Groundシリーズも大好きです・・・Taylorが可愛くて・・・何周もしております。\nそして、NakajiさんのレビューのおかげでSomerset&amp;Hazardシリーズも始めました。どうぞよろしくお願いいたします。",
+        "user": "U03QNS0Q7CM",
+        "ts": "1658649661.743199",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "7b49c3a35593",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-24\/3835261537750_7b49c3a35593d6f493f5_72.png",
+            "first_name": "Annoh",
+            "real_name": "Annoh",
+            "display_name": "Annoh",
+            "team": "T014MVD863E",
+            "name": "annotweets",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rlZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "はじめまして！Annohと申します。\nNakajiさんから教えてもらって参加しました。\nわたしも多くのみなさんと同じようにアドリアンから入り、そして殺しのアートの続きが気になり原書に手を出しました。\nLanyonさんだとDangerous Groundシリーズも大好きです・・・Taylorが可愛くて・・・何周もしております。\nそして、NakajiさんのレビューのおかげでSomerset&Hazardシリーズも始めました。どうぞよろしくお願いいたします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U03D1UJECGZ",
+                    "U01M8BTNR7C",
+                    "U017Z0T54P3"
+                ],
+                "count": 3
+            },
+            {
+                "name": "two_hearts",
+                "users": [
+                    "U017L1ARLJX",
+                    "U017Z0T54P3"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "E647405B-9E9A-4D37-9B35-8D344AE721AF",
+        "type": "message",
+        "text": "はじめまして、Annohさん、こんにちは",
+        "user": "U017L1ARLJX",
+        "ts": "1658649943.870559",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "cf2ffbf91b0d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-23\/1264264593060_cf2ffbf91b0dd4f50994_72.png",
+            "first_name": "くじらー",
+            "real_name": "くじらー",
+            "display_name": "くじらー",
+            "team": "T014MVD863E",
+            "name": "anzuharuday",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UA2\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "はじめまして、Annohさん、こんにちは"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "09C84898-CE2A-45C1-A52B-BC48C7D0A011",
+        "type": "message",
+        "text": "はじめまして！Annohさん:blush:\nぜひぜひたくさん語り合いましょう:heavy_heart_exclamation_mark_ornament:\nどうぞよろしくお願いします:grin:",
+        "user": "U01M8BTNR7C",
+        "ts": "1658652492.848029",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "16c140f650be",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-02-10\/1748642350673_16c140f650be7c6cc646_72.png",
+            "first_name": "きなこ",
+            "real_name": "きなこ",
+            "display_name": "",
+            "team": "T014MVD863E",
+            "name": "le.arbre.montagne.121",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0JIG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "はじめまして！Annohさん"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "blush",
+                                "unicode": "1f60a"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ぜひぜひたくさん語り合いましょう"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "heavy_heart_exclamation_mark_ornament",
+                                "unicode": "2763-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "どうぞよろしくお願いします"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "grin",
+                                "unicode": "1f601"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b75b40ff-f144-4d3d-a5be-36999050a5d7",
+        "type": "message",
+        "text": "Annohさんはじめまして。\nTaylorかわいいですよね:two_hearts:シリーズ途中までしか読んでいないんですが、そのうち読み終わらせたいです:exclamation:\nいろいろお話ししましょうね。よろしくお願いします:sparkles:",
+        "user": "U017FMU5XTQ",
+        "ts": "1658652746.213499",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "bea7a407721c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-26\/1263539336931_bea7a407721cebe3595a_72.jpg",
+            "first_name": "",
+            "real_name": "めい",
+            "display_name": "めい",
+            "team": "T014MVD863E",
+            "name": "megmon24",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=VR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Annohさんはじめまして。\nTaylorかわいいですよね"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "two_hearts",
+                                "unicode": "1f495"
+                            },
+                            {
+                                "type": "text",
+                                "text": "シリーズ途中までしか読んでいないんですが、そのうち読み終わらせたいです"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "exclamation",
+                                "unicode": "2757"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nいろいろお話ししましょうね。よろしくお願いします"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sparkles",
+                                "unicode": "2728"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "785A4AF2-27C5-49E8-B3C7-FEAD12629767",
+        "type": "message",
+        "text": "Annohさん、どうぞよろしくお願いいたします。",
+        "user": "U03D1UJECGZ",
+        "ts": "1658653206.401329",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "a7dde0607f3e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-24\/3431416808738_a7dde0607f3e669535b6_72.png",
+            "first_name": "Kumatta",
+            "real_name": "Kumatta",
+            "display_name": "Kumatta",
+            "team": "T014MVD863E",
+            "name": "maki.terao",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Av7Hd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Annohさん、どうぞよろしくお願いいたします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3E5D5197-E0DD-41D1-AC99-12FBAEDEE642",
+        "type": "message",
+        "text": "Annohさん、はじめまして。\nよろしくお願いします:blush:",
+        "user": "U01PZK3KK97",
+        "ts": "1658653295.241109",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "g7edbb069a07",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/7edbb069a07e3786ca21d16d29a8c001.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "",
+            "real_name": "はるまき",
+            "display_name": "",
+            "team": "T014MVD863E",
+            "name": "halsiyon5",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FWY7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Annohさん、はじめまして。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "よろしくお願いします"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "blush",
+                                "unicode": "1f60a"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "FA04FA99-C45E-4C4B-9F2E-8E3258707B96",
+        "type": "message",
+        "text": "Annohさん、はじめまして！\nぜひ一緒に萌えを語り合いましょう！",
+        "user": "U017YHF4ZG9",
+        "ts": "1658661727.962689",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "8b538c52795e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-23\/1256603203669_8b538c52795ebb5c006a_72.jpg",
+            "first_name": "",
+            "real_name": "Ayu Yamane",
+            "display_name": "Ayu Yamane",
+            "team": "T014MVD863E",
+            "name": "ayu76mi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/qX9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Annohさん、はじめまして！"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ぜひ一緒に萌えを語り合いましょう！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9109F128-6648-4EC7-94E7-B0F4BBACD58D",
+        "type": "message",
+        "text": "初めまして。\n私も今月初めから参加したニューカマーです。よろしくお願いします:blush:",
+        "user": "U03N2KMPR6H",
+        "ts": "1658663569.288299",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "b6de36ac2e5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-08\/3788800367537_b6de36ac2e5fb40df77c_72.png",
+            "first_name": "Alice",
+            "real_name": "Alice",
+            "display_name": "Alice",
+            "team": "T014MVD863E",
+            "name": "azureseababy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XDJd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "初めまして。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "私も今月初めから参加したニューカマーです。よろしくお願いします"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "blush",
+                                "unicode": "1f60a"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6BDA748D-5064-48AC-8890-3909183FBB3C",
+        "type": "message",
+        "text": "Annoh さん、わーい！参加されるようで、すごーく嬉しいです。\nスレが、たくさんあるので、是非過去のスレもお時間ある時ごらんくださいね。\n手前味噌ですが、原書スレに、HSシリーズの感想が、かなりあります。ネタバレあるものは、返信のスレに、Kumattaさん、まるさん、私の返信にありますので、読了後\nご覧になったらいいかもしれません。\n皆さんやさしいので、BL漫画、ドラマ、映画、時事問題など、なんでも語り合いたいです。",
+        "user": "U017LVA457X",
+        "ts": "1658671556.348449",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "ab08cd7206d5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-23\/1260372537906_ab08cd7206d5061995ec_72.png",
+            "first_name": "Nakaji",
+            "real_name": "Nakaji",
+            "display_name": "Nakaji",
+            "team": "T014MVD863E",
+            "name": "nakaji352002",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U017LVA457X",
+            "ts": "1658673607.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PGir5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Annoh さん、わーい！参加されるようで、すごーく嬉しいです。\nスレが、たくさんあるので、是非過去のスレもお時間ある時ごらんくださいね。\n手前味噌ですが、原書スレに、HSシリーズの感想が、かなりあります。ネタバレあるものは、返信のスレに、Kumattaさん、まるさん、私の返信にありますので、読了後\nご覧になったらいいかもしれません。\n皆さんやさしいので、BL漫画、ドラマ、映画、時事問題など、なんでも語り合いたいです。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5fbe0189-d9f2-426d-91a0-5446a4f69aaf",
+        "type": "message",
+        "text": "Annohさん、はじめまして！\nこちらでは色々な作品をご紹介いただけるので、自力では巡り合えなかった作品との出会いも多く、充実の趣味ライフでございます！\nこれからどうぞよろしくお願いいたします:heart_eyes_cat:",
+        "user": "U029MKK3W4E",
+        "ts": "1658672158.268449",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "aade7c86a319",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-10-17\/2606350548278_aade7c86a319ba8c4e3c_72.png",
+            "first_name": "ねこしま",
+            "real_name": "ねこしま",
+            "display_name": "",
+            "team": "T014MVD863E",
+            "name": "nanakusa0503",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7oa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Annohさん、はじめまして！\nこちらでは色々な作品をご紹介いただけるので、自力では巡り合えなかった作品との出会いも多く、充実の趣味ライフでございます！\nこれからどうぞよろしくお願いいたします"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "heart_eyes_cat",
+                                "unicode": "1f63b"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "D3345E48-9C9B-4898-9828-3C8F0D5EAC8C",
+        "type": "message",
+        "text": "うわー！みなさん、お返事ありがとうございます:blush::blush:よろしくお願いします:palms_up_together:\nめいさん、Taylor、かわいいですよね！！\nNakajiさん、改めましてありがとうございます！原書スレ覗いてみます:bangbang:Somersetがどんどんカッコ良くなってきてます。\n",
+        "user": "U03QNS0Q7CM",
+        "ts": "1658696203.556069",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "7b49c3a35593",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-24\/3835261537750_7b49c3a35593d6f493f5_72.png",
+            "first_name": "Annoh",
+            "real_name": "Annoh",
+            "display_name": "Annoh",
+            "team": "T014MVD863E",
+            "name": "annotweets",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MUoqe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "うわー！みなさん、お返事ありがとうございます"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "blush",
+                                "unicode": "1f60a"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "blush",
+                                "unicode": "1f60a"
+                            },
+                            {
+                                "type": "text",
+                                "text": "よろしくお願いします"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "palms_up_together",
+                                "unicode": "1f932"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "めいさん、Taylor、かわいいですよね！！"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Nakajiさん、改めましてありがとうございます！原書スレ覗いてみます"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "bangbang",
+                                "unicode": "203c-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Somersetがどんどんカッコ良くなってきてます。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "FD56827E-D8FA-40A8-A933-7270832FF81B",
+        "type": "message",
+        "text": "Annohさん、いらっしゃいませ〜:wave:\n私、ラニヨンさんの言い回し？文体？が好きで読んでいて心地いいので、何周もしてしまう気持ち分かります！\nDangerous Groundは未読なので、ぜひ読みたいですね。\nいっぱいお話ししていきましょう:blush:\nよろしくお願いします",
+        "user": "U014UD117ND",
+        "ts": "1658725093.503729",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "d661e4a51036",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-30\/1214690186661_d661e4a51036d8b1a2e4_72.jpg",
+            "first_name": "ジーナ",
+            "real_name": "ジーナ",
+            "display_name": "ジーナ",
+            "team": "T014MVD863E",
+            "name": "ayumee528",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NUxq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Annohさん、いらっしゃいませ〜"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wave",
+                                "unicode": "1f44b"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "私、ラニヨンさんの言い回し？文体？が好きで読んでいて心地いいので、何周もしてしまう気持ち分かります！"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Dangerous Groundは未読なので、ぜひ読みたいですね。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "いっぱいお話ししていきましょう"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "blush",
+                                "unicode": "1f60a"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "よろしくお願いします"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U03D1UJECGZ"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,528 @@
+[
+    {
+        "type": "message",
+        "text": "\n<https:\/\/news.yahoo.co.jp\/articles\/b398d25268c6b4a7765d55c7e8e2bcb644a96836>",
+        "user": "U017LVA457X",
+        "ts": "1656506622.068779",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "ab08cd7206d5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-23\/1260372537906_ab08cd7206d5061995ec_72.png",
+            "first_name": "Nakaji",
+            "real_name": "Nakaji",
+            "display_name": "Nakaji",
+            "team": "T014MVD863E",
+            "name": "nakaji352002",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/news.yahoo.co.jp\/articles\/b398d25268c6b4a7765d55c7e8e2bcb644a96836",
+                "image_url": "https:\/\/newsatcl-pctr.c.yimg.jp\/t\/amd-img\/20220629-61976812-bbc-000-1-view.jpg?exp=10800",
+                "image_width": 444,
+                "image_height": 250,
+                "image_bytes": 315448,
+                "service_icon": "https:\/\/s.yimg.jp\/c\/icon\/s\/bsc\/2.0\/news120.png",
+                "id": 1,
+                "original_url": "https:\/\/news.yahoo.co.jp\/articles\/b398d25268c6b4a7765d55c7e8e2bcb644a96836",
+                "fallback": "Yahoo!ニュース: 日本で猛烈な熱波　1875年の観測開始以降で最悪（BBC News） - Yahoo!ニュース",
+                "text": "日本が過去150年近くで最悪の熱波に見舞われており、各地でうだる暑さが続いている。 29日には、東京で気温35.4度を観測。これで5日連続で、35度以上の猛暑日となった。6月にこれほど猛暑日が連続",
+                "title": "日本で猛烈な熱波　1875年の観測開始以降で最悪（BBC News） - Yahoo!ニュース",
+                "title_link": "https:\/\/news.yahoo.co.jp\/articles\/b398d25268c6b4a7765d55c7e8e2bcb644a96836",
+                "service_name": "Yahoo!ニュース"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rBr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/news.yahoo.co.jp\/articles\/b398d25268c6b4a7765d55c7e8e2bcb644a96836"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "F59A23AD-8970-4B92-9E4A-F8C53B42508E",
+        "type": "message",
+        "text": " 皆さーん、日本各地で記録的な暑い日が続いているとニュースで見ました。熱中症に気をつけて下さいね〜",
+        "user": "U017LVA457X",
+        "ts": "1656506748.018159",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "ab08cd7206d5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-23\/1260372537906_ab08cd7206d5061995ec_72.png",
+            "first_name": "Nakaji",
+            "real_name": "Nakaji",
+            "display_name": "Nakaji",
+            "team": "T014MVD863E",
+            "name": "nakaji352002",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "A1hd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": " 皆さーん、日本各地で記録的な暑い日が続いているとニュースで見ました。熱中症に気をつけて下さいね〜"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6d1e68cf-929a-4029-b72c-ae0d997b4bd8",
+        "type": "message",
+        "text": "ありがとうございま～す、Nakajiさ～ん:two_hearts:\n過去150年で最悪の熱波・・・そうだったのか、知らなかった:sweat_drops:もう連日猛暑日で熱中症警報アラート出てます:hot_face:\nこまめに水分補給して頑張りましょう:grin:うちの辺りでは、来週は雨が降って少し気温が下がるみたいなんだけど～うあああ～あつい～～:hot_face:",
+        "user": "U01P6E9P3J5",
+        "ts": "1656507484.074969",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "gc61e328c9e5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c61e328c9e5331e15fbbfaac3326fd4c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0025-72.png",
+            "first_name": "",
+            "real_name": "まる",
+            "display_name": "まる",
+            "team": "T014MVD863E",
+            "name": "marusan93",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZH=Z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ありがとうございま～す、Nakajiさ～ん"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "two_hearts",
+                                "unicode": "1f495"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n過去150年で最悪の熱波・・・そうだったのか、知らなかった"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sweat_drops",
+                                "unicode": "1f4a6"
+                            },
+                            {
+                                "type": "text",
+                                "text": "もう連日猛暑日で熱中症警報アラート出てます"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "hot_face",
+                                "unicode": "1f975"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nこまめに水分補給して頑張りましょう"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "grin",
+                                "unicode": "1f601"
+                            },
+                            {
+                                "type": "text",
+                                "text": "うちの辺りでは、来週は雨が降って少し気温が下がるみたいなんだけど～うあああ～あつい～～"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "hot_face",
+                                "unicode": "1f975"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6369D713-F7C1-4924-82B1-341A1F38A21A",
+        "type": "message",
+        "text": "6月でこんなに暑いのは珍しいですよね。",
+        "user": "U017LVA457X",
+        "ts": "1656507662.003459",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "ab08cd7206d5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-23\/1260372537906_ab08cd7206d5061995ec_72.png",
+            "first_name": "Nakaji",
+            "real_name": "Nakaji",
+            "display_name": "Nakaji",
+            "team": "T014MVD863E",
+            "name": "nakaji352002",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Q=SmJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "6月でこんなに暑いのは珍しい"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ですよね。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "地元ニュース見てたらやばかったので思わず撮った画面です",
+        "files": [
+            {
+                "id": "F03MQMGM6CU",
+                "created": 1656508001,
+                "timestamp": 1656508001,
+                "name": "iOS の画像.jpg",
+                "title": "iOS の画像",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U02SW2Y2VQQ",
+                "editable": false,
+                "size": 4278285,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T014MVD863E-F03MQMGM6CU\/ios__________.jpg?t=xoxe-1157999278116-3857408361221-3860360080994-c56323778919f0e36b19cc92870aef60",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T014MVD863E-F03MQMGM6CU\/download\/ios__________.jpg?t=xoxe-1157999278116-3857408361221-3860360080994-c56323778919f0e36b19cc92870aef60",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T014MVD863E-F03MQMGM6CU-e1744885a6\/ios___________64.jpg?t=xoxe-1157999278116-3857408361221-3860360080994-c56323778919f0e36b19cc92870aef60",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T014MVD863E-F03MQMGM6CU-e1744885a6\/ios___________80.jpg?t=xoxe-1157999278116-3857408361221-3860360080994-c56323778919f0e36b19cc92870aef60",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T014MVD863E-F03MQMGM6CU-e1744885a6\/ios___________360.jpg?t=xoxe-1157999278116-3857408361221-3860360080994-c56323778919f0e36b19cc92870aef60",
+                "thumb_360_w": 360,
+                "thumb_360_h": 270,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T014MVD863E-F03MQMGM6CU-e1744885a6\/ios___________480.jpg?t=xoxe-1157999278116-3857408361221-3860360080994-c56323778919f0e36b19cc92870aef60",
+                "thumb_480_w": 480,
+                "thumb_480_h": 360,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T014MVD863E-F03MQMGM6CU-e1744885a6\/ios___________160.jpg?t=xoxe-1157999278116-3857408361221-3860360080994-c56323778919f0e36b19cc92870aef60",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T014MVD863E-F03MQMGM6CU-e1744885a6\/ios___________720.jpg?t=xoxe-1157999278116-3857408361221-3860360080994-c56323778919f0e36b19cc92870aef60",
+                "thumb_720_w": 720,
+                "thumb_720_h": 540,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T014MVD863E-F03MQMGM6CU-e1744885a6\/ios___________800.jpg?t=xoxe-1157999278116-3857408361221-3860360080994-c56323778919f0e36b19cc92870aef60",
+                "thumb_800_w": 800,
+                "thumb_800_h": 600,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T014MVD863E-F03MQMGM6CU-e1744885a6\/ios___________960.jpg?t=xoxe-1157999278116-3857408361221-3860360080994-c56323778919f0e36b19cc92870aef60",
+                "thumb_960_w": 960,
+                "thumb_960_h": 720,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T014MVD863E-F03MQMGM6CU-e1744885a6\/ios___________1024.jpg?t=xoxe-1157999278116-3857408361221-3860360080994-c56323778919f0e36b19cc92870aef60",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 768,
+                "original_w": 4032,
+                "original_h": 3024,
+                "thumb_tiny": "AwAkADBSqA88EilHlgD5hxUc\/DqfwpCvP407ASfu8534pgjjGcuOaTZzQqgjOe+PSkkmMCkR6yCmBVBxnNSFBgGkAAYH3o5VewXHXHVaMDp8vpSSnO2nbh9fXAqkJrQMDcelNToc4xnv607cPQ\/lTVbAOAwJOalaMfQfjK9sdqjfh1p4b5ccg+9I3JzT+0JFUTuT2oM7+tRL1pT1qRjvNf8AvU4O2PvGoqeOlAChmP8AEaeFz1Zvzpi1KtAH\/9k=",
+                "permalink": "https:\/\/muchimemo.slack.com\/files\/U02SW2Y2VQQ\/F03MQMGM6CU\/ios__________.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T014MVD863E-F03MQMGM6CU-e5c2d1e9c9",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U02SW2Y2VQQ",
+        "display_as_bot": false,
+        "ts": "1656508016.334049",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aBD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "地元ニュース見てたらやばかったので思わず撮った画面です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "E248BA8D-4CF3-460B-A8A8-F2EF4919C2A4"
+    },
+    {
+        "client_msg_id": "BBD59017-8984-46B9-BC2C-B1BF917F1503",
+        "type": "message",
+        "text": "豊田市37.5c!",
+        "user": "U017LVA457X",
+        "ts": "1656511046.668009",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "ab08cd7206d5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-23\/1260372537906_ab08cd7206d5061995ec_72.png",
+            "first_name": "Nakaji",
+            "real_name": "Nakaji",
+            "display_name": "Nakaji",
+            "team": "T014MVD863E",
+            "name": "nakaji352002",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GJ1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "豊田市"
+                            },
+                            {
+                                "type": "text",
+                                "text": "37.5c!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3c9b7004-4a70-479a-b839-e10b82998d5c",
+        "type": "message",
+        "text": "右上をご覧ください、群馬の伊勢崎、40，2度・・・死ねというのでしょうか・・・お元気ですか、群馬の皆さん:sob:",
+        "user": "U01P6E9P3J5",
+        "ts": "1656511191.136659",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "gc61e328c9e5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c61e328c9e5331e15fbbfaac3326fd4c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0025-72.png",
+            "first_name": "",
+            "real_name": "まる",
+            "display_name": "まる",
+            "team": "T014MVD863E",
+            "name": "marusan93",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=sb9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "右上をご覧ください、群馬の伊勢崎、40，2度・・・死ねというのでしょうか・・・お元気ですか、群馬の皆さん"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sob",
+                                "unicode": "1f62d"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "AAD8DE92-521E-49A4-BE54-FA2A2AE4E039",
+        "type": "message",
+        "text": "あ、伊勢崎見逃してました",
+        "user": "U017LVA457X",
+        "ts": "1656511627.907889",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "ab08cd7206d5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-23\/1260372537906_ab08cd7206d5061995ec_72.png",
+            "first_name": "Nakaji",
+            "real_name": "Nakaji",
+            "display_name": "Nakaji",
+            "team": "T014MVD863E",
+            "name": "nakaji352002",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "69z3y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "あ、伊勢崎見逃して"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ました"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F03MKQ42H0V",
+                "created": 1656511848,
+                "timestamp": 1656511848,
+                "name": "File.jpg",
+                "title": "File from iOS",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U017LVA457X",
+                "editable": false,
+                "size": 143590,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T014MVD863E-F03MKQ42H0V\/file.jpg?t=xoxe-1157999278116-3857408361221-3860360080994-c56323778919f0e36b19cc92870aef60",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T014MVD863E-F03MKQ42H0V\/download\/file.jpg?t=xoxe-1157999278116-3857408361221-3860360080994-c56323778919f0e36b19cc92870aef60",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T014MVD863E-F03MKQ42H0V-4e1fbb2654\/file_64.jpg?t=xoxe-1157999278116-3857408361221-3860360080994-c56323778919f0e36b19cc92870aef60",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T014MVD863E-F03MKQ42H0V-4e1fbb2654\/file_80.jpg?t=xoxe-1157999278116-3857408361221-3860360080994-c56323778919f0e36b19cc92870aef60",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T014MVD863E-F03MKQ42H0V-4e1fbb2654\/file_360.jpg?t=xoxe-1157999278116-3857408361221-3860360080994-c56323778919f0e36b19cc92870aef60",
+                "thumb_360_w": 166,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T014MVD863E-F03MKQ42H0V-4e1fbb2654\/file_480.jpg?t=xoxe-1157999278116-3857408361221-3860360080994-c56323778919f0e36b19cc92870aef60",
+                "thumb_480_w": 222,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T014MVD863E-F03MKQ42H0V-4e1fbb2654\/file_160.jpg?t=xoxe-1157999278116-3857408361221-3860360080994-c56323778919f0e36b19cc92870aef60",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T014MVD863E-F03MKQ42H0V-4e1fbb2654\/file_720.jpg?t=xoxe-1157999278116-3857408361221-3860360080994-c56323778919f0e36b19cc92870aef60",
+                "thumb_720_w": 333,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T014MVD863E-F03MKQ42H0V-4e1fbb2654\/file_800.jpg?t=xoxe-1157999278116-3857408361221-3860360080994-c56323778919f0e36b19cc92870aef60",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1731,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T014MVD863E-F03MKQ42H0V-4e1fbb2654\/file_960.jpg?t=xoxe-1157999278116-3857408361221-3860360080994-c56323778919f0e36b19cc92870aef60",
+                "thumb_960_w": 444,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T014MVD863E-F03MKQ42H0V-4e1fbb2654\/file_1024.jpg?t=xoxe-1157999278116-3857408361221-3860360080994-c56323778919f0e36b19cc92870aef60",
+                "thumb_1024_w": 473,
+                "thumb_1024_h": 1024,
+                "original_w": 1170,
+                "original_h": 2532,
+                "thumb_tiny": "AwAwABZsenpIv32\/IVHJZIhxuarKSFRxQxzkmqsTcpGBcYyfypPs6\/3jU5FJiqshXZJQTntSYpMcfhVWJuHWjFLijFAC0Yp2ORmk49aAEAp2KUClxQB\/\/9k=",
+                "permalink": "https:\/\/muchimemo.slack.com\/files\/U017LVA457X\/F03MKQ42H0V\/file.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T014MVD863E-F03MKQ42H0V-e5ed670e3d",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U017LVA457X",
+        "display_as_bot": false,
+        "ts": "1656511851.450939"
+    },
+    {
+        "client_msg_id": "ED6CB1DA-595D-4376-BF64-233E49FF0E9C",
+        "type": "message",
+        "text": "今現在の気温です。朝は17度とか涼しかったですがこれから気温上がります。",
+        "user": "U017LVA457X",
+        "ts": "1656511942.332569",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "ab08cd7206d5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-23\/1260372537906_ab08cd7206d5061995ec_72.png",
+            "first_name": "Nakaji",
+            "real_name": "Nakaji",
+            "display_name": "Nakaji",
+            "team": "T014MVD863E",
+            "name": "nakaji352002",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gVnN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "今現在の気温です。朝は"
+                            },
+                            {
+                                "type": "text",
+                                "text": "17"
+                            },
+                            {
+                                "type": "text",
+                                "text": "度とか涼しかったですがこれから気温上がります。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

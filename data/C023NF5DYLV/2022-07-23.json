@@ -1,0 +1,1021 @@
+[
+    {
+        "client_msg_id": "CECAA97B-C47B-40F4-8EE1-5EBAE30BE6D2",
+        "type": "message",
+        "text": "暑中見舞い申し上げますー。\n天官が出ようとも、いろんなイベントがあろうとも、まだまだひた走っている「七爺」（山河令の原作の天涯客の過去編ですー）ですが、ダイジェスト的なラジオドラマが出てました。\n\n<http:\/\/missevan.com\/sound\/5751063|missevan.com\/sound\/5751063>\n\nダイジェストなんでオチのネタバレしてますが、15分くらいですし、小説は後半の戦争のところが胸アツなんで、よければ予習で見てみてくださいー。いや本当にですねー少年時代のキラキラ？（いや、結構ギスギスしてるか？）した時代から、段々とドロドロと戦争になってきて、エモが、、、エモが、、、なんですよー:sob:\n\nもちろん中国語なんで、コメント欄に和訳つけときます。あと最近の自由研究の漢文も解説入れてます:two_hearts:",
+        "user": "U01PZK3KK97",
+        "ts": "1658621560.416179",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "g7edbb069a07",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/7edbb069a07e3786ca21d16d29a8c001.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "",
+            "real_name": "はるまき",
+            "display_name": "",
+            "team": "T014MVD863E",
+            "name": "halsiyon5",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U01PZK3KK97",
+            "ts": "1658621573.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ptfh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "暑中見舞い申し上げますー。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "天官が出ようとも、いろんなイベントがあろうとも、まだまだひた走っている「七爺」（山河令の原作の天涯客の過去編ですー）ですが、ダイジェスト的なラジオドラマが出てました。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/missevan.com\/sound\/5751063",
+                                "text": "missevan.com\/sound\/5751063"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nダイジェストなんでオチのネタバレしてますが、15分くらいですし、小説は後半の戦争のところが胸アツなんで、よければ予習で見てみてくださいー。いや本当にですねー少年時代のキラキラ？（いや、結構ギスギスしてるか？）した時代から、段々とドロドロと戦争になってきて、エモが、、、エモが、、、なんですよー"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sob",
+                                "unicode": "1f62d"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nもちろん中国語なんで、コメント欄に和訳つけときます。あと最近の自由研究の漢文も解説入れてます"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "two_hearts",
+                                "unicode": "1f495"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1658621560.416179",
+        "reply_count": 8,
+        "reply_users_count": 2,
+        "latest_reply": "1658627066.972759",
+        "reply_users": [
+            "U01PZK3KK97",
+            "U017FMU5XTQ"
+        ],
+        "replies": [
+            {
+                "user": "U01PZK3KK97",
+                "ts": "1658622084.796709"
+            },
+            {
+                "user": "U017FMU5XTQ",
+                "ts": "1658622992.293819"
+            },
+            {
+                "user": "U01PZK3KK97",
+                "ts": "1658623607.791079"
+            },
+            {
+                "user": "U017FMU5XTQ",
+                "ts": "1658624531.918819"
+            },
+            {
+                "user": "U01PZK3KK97",
+                "ts": "1658624813.629329"
+            },
+            {
+                "user": "U017FMU5XTQ",
+                "ts": "1658625997.568479"
+            },
+            {
+                "user": "U01PZK3KK97",
+                "ts": "1658626517.319489"
+            },
+            {
+                "user": "U017FMU5XTQ",
+                "ts": "1658627066.972759"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "type": "message",
+        "text": "和訳おいときますー。",
+        "files": [
+            {
+                "id": "F03QNFQE2NR",
+                "created": 1658622027,
+                "timestamp": 1658622027,
+                "name": "iOS の画像.jpg",
+                "title": "iOS の画像",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U01PZK3KK97",
+                "editable": false,
+                "size": 1112500,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T014MVD863E-F03QNFQE2NR\/ios__________.jpg?t=xoxe-1157999278116-3857408361221-3860360080994-c56323778919f0e36b19cc92870aef60",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T014MVD863E-F03QNFQE2NR\/download\/ios__________.jpg?t=xoxe-1157999278116-3857408361221-3860360080994-c56323778919f0e36b19cc92870aef60",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T014MVD863E-F03QNFQE2NR-8445e17a49\/ios___________64.jpg?t=xoxe-1157999278116-3857408361221-3860360080994-c56323778919f0e36b19cc92870aef60",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T014MVD863E-F03QNFQE2NR-8445e17a49\/ios___________80.jpg?t=xoxe-1157999278116-3857408361221-3860360080994-c56323778919f0e36b19cc92870aef60",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T014MVD863E-F03QNFQE2NR-8445e17a49\/ios___________360.jpg?t=xoxe-1157999278116-3857408361221-3860360080994-c56323778919f0e36b19cc92870aef60",
+                "thumb_360_w": 255,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T014MVD863E-F03QNFQE2NR-8445e17a49\/ios___________480.jpg?t=xoxe-1157999278116-3857408361221-3860360080994-c56323778919f0e36b19cc92870aef60",
+                "thumb_480_w": 339,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T014MVD863E-F03QNFQE2NR-8445e17a49\/ios___________160.jpg?t=xoxe-1157999278116-3857408361221-3860360080994-c56323778919f0e36b19cc92870aef60",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T014MVD863E-F03QNFQE2NR-8445e17a49\/ios___________720.jpg?t=xoxe-1157999278116-3857408361221-3860360080994-c56323778919f0e36b19cc92870aef60",
+                "thumb_720_w": 509,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T014MVD863E-F03QNFQE2NR-8445e17a49\/ios___________800.jpg?t=xoxe-1157999278116-3857408361221-3860360080994-c56323778919f0e36b19cc92870aef60",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1131,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T014MVD863E-F03QNFQE2NR-8445e17a49\/ios___________960.jpg?t=xoxe-1157999278116-3857408361221-3860360080994-c56323778919f0e36b19cc92870aef60",
+                "thumb_960_w": 679,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T014MVD863E-F03QNFQE2NR-8445e17a49\/ios___________1024.jpg?t=xoxe-1157999278116-3857408361221-3860360080994-c56323778919f0e36b19cc92870aef60",
+                "thumb_1024_w": 724,
+                "thumb_1024_h": 1024,
+                "original_w": 3274,
+                "original_h": 4630,
+                "thumb_tiny": "AwAwACHSJxSZNDUlADt1AOTSClGaAFooooAa3WkpWJBGKMtQAnFKvXpRk+lKCSaAFooooAQgGjaKWigBNopQMUUUAFFFFAH\/2Q==",
+                "permalink": "https:\/\/muchimemo.slack.com\/files\/U01PZK3KK97\/F03QNFQE2NR\/ios__________.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T014MVD863E-F03QNFQE2NR-a39ce7d70e",
+                "is_starred": false,
+                "has_rich_preview": false
+            },
+            {
+                "id": "F03QRED0YM8",
+                "created": 1658622027,
+                "timestamp": 1658622027,
+                "name": "iOS の画像.jpg",
+                "title": "iOS の画像",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U01PZK3KK97",
+                "editable": false,
+                "size": 778625,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T014MVD863E-F03QRED0YM8\/ios__________.jpg?t=xoxe-1157999278116-3857408361221-3860360080994-c56323778919f0e36b19cc92870aef60",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T014MVD863E-F03QRED0YM8\/download\/ios__________.jpg?t=xoxe-1157999278116-3857408361221-3860360080994-c56323778919f0e36b19cc92870aef60",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T014MVD863E-F03QRED0YM8-62ffacfdac\/ios___________64.jpg?t=xoxe-1157999278116-3857408361221-3860360080994-c56323778919f0e36b19cc92870aef60",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T014MVD863E-F03QRED0YM8-62ffacfdac\/ios___________80.jpg?t=xoxe-1157999278116-3857408361221-3860360080994-c56323778919f0e36b19cc92870aef60",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T014MVD863E-F03QRED0YM8-62ffacfdac\/ios___________360.jpg?t=xoxe-1157999278116-3857408361221-3860360080994-c56323778919f0e36b19cc92870aef60",
+                "thumb_360_w": 255,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T014MVD863E-F03QRED0YM8-62ffacfdac\/ios___________480.jpg?t=xoxe-1157999278116-3857408361221-3860360080994-c56323778919f0e36b19cc92870aef60",
+                "thumb_480_w": 339,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T014MVD863E-F03QRED0YM8-62ffacfdac\/ios___________160.jpg?t=xoxe-1157999278116-3857408361221-3860360080994-c56323778919f0e36b19cc92870aef60",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T014MVD863E-F03QRED0YM8-62ffacfdac\/ios___________720.jpg?t=xoxe-1157999278116-3857408361221-3860360080994-c56323778919f0e36b19cc92870aef60",
+                "thumb_720_w": 509,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T014MVD863E-F03QRED0YM8-62ffacfdac\/ios___________800.jpg?t=xoxe-1157999278116-3857408361221-3860360080994-c56323778919f0e36b19cc92870aef60",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1131,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T014MVD863E-F03QRED0YM8-62ffacfdac\/ios___________960.jpg?t=xoxe-1157999278116-3857408361221-3860360080994-c56323778919f0e36b19cc92870aef60",
+                "thumb_960_w": 679,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T014MVD863E-F03QRED0YM8-62ffacfdac\/ios___________1024.jpg?t=xoxe-1157999278116-3857408361221-3860360080994-c56323778919f0e36b19cc92870aef60",
+                "thumb_1024_w": 724,
+                "thumb_1024_h": 1024,
+                "original_w": 3274,
+                "original_h": 4630,
+                "thumb_tiny": "AwAwACHSOaMmhvSkxQAueKM80Y96Bj1oAWiiigBG\/wA8UA0MM0mDQA7r0pMc\/wD16ADS0AFFFFACMOPemjNPIzSY+tAAKWjFFABRRRQB\/9k=",
+                "permalink": "https:\/\/muchimemo.slack.com\/files\/U01PZK3KK97\/F03QRED0YM8\/ios__________.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T014MVD863E-F03QRED0YM8-876a93d58a",
+                "is_starred": false,
+                "has_rich_preview": false
+            },
+            {
+                "id": "F03RF6UTPG8",
+                "created": 1658622027,
+                "timestamp": 1658622027,
+                "name": "iOS の画像.jpg",
+                "title": "iOS の画像",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U01PZK3KK97",
+                "editable": false,
+                "size": 882770,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T014MVD863E-F03RF6UTPG8\/ios__________.jpg?t=xoxe-1157999278116-3857408361221-3860360080994-c56323778919f0e36b19cc92870aef60",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T014MVD863E-F03RF6UTPG8\/download\/ios__________.jpg?t=xoxe-1157999278116-3857408361221-3860360080994-c56323778919f0e36b19cc92870aef60",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T014MVD863E-F03RF6UTPG8-d3dd83619e\/ios___________64.jpg?t=xoxe-1157999278116-3857408361221-3860360080994-c56323778919f0e36b19cc92870aef60",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T014MVD863E-F03RF6UTPG8-d3dd83619e\/ios___________80.jpg?t=xoxe-1157999278116-3857408361221-3860360080994-c56323778919f0e36b19cc92870aef60",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T014MVD863E-F03RF6UTPG8-d3dd83619e\/ios___________360.jpg?t=xoxe-1157999278116-3857408361221-3860360080994-c56323778919f0e36b19cc92870aef60",
+                "thumb_360_w": 255,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T014MVD863E-F03RF6UTPG8-d3dd83619e\/ios___________480.jpg?t=xoxe-1157999278116-3857408361221-3860360080994-c56323778919f0e36b19cc92870aef60",
+                "thumb_480_w": 339,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T014MVD863E-F03RF6UTPG8-d3dd83619e\/ios___________160.jpg?t=xoxe-1157999278116-3857408361221-3860360080994-c56323778919f0e36b19cc92870aef60",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T014MVD863E-F03RF6UTPG8-d3dd83619e\/ios___________720.jpg?t=xoxe-1157999278116-3857408361221-3860360080994-c56323778919f0e36b19cc92870aef60",
+                "thumb_720_w": 509,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T014MVD863E-F03RF6UTPG8-d3dd83619e\/ios___________800.jpg?t=xoxe-1157999278116-3857408361221-3860360080994-c56323778919f0e36b19cc92870aef60",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1131,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T014MVD863E-F03RF6UTPG8-d3dd83619e\/ios___________960.jpg?t=xoxe-1157999278116-3857408361221-3860360080994-c56323778919f0e36b19cc92870aef60",
+                "thumb_960_w": 679,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T014MVD863E-F03RF6UTPG8-d3dd83619e\/ios___________1024.jpg?t=xoxe-1157999278116-3857408361221-3860360080994-c56323778919f0e36b19cc92870aef60",
+                "thumb_1024_w": 724,
+                "thumb_1024_h": 1024,
+                "original_w": 3274,
+                "original_h": 4630,
+                "thumb_tiny": "AwAwACHSJx2o3Cgnnik59aAFBBpaTnHNHfoaAFooooARulJ\/wGhqQfjQA7I96B9aQfjSj6igBaKKKAEPWk\/A04jNJtHvQAfpRxnrRiloAKKKKAP\/2Q==",
+                "permalink": "https:\/\/muchimemo.slack.com\/files\/U01PZK3KK97\/F03RF6UTPG8\/ios__________.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T014MVD863E-F03RF6UTPG8-28bf3c04b9",
+                "is_starred": false,
+                "has_rich_preview": false
+            },
+            {
+                "id": "F03QNFQE2Q5",
+                "created": 1658622027,
+                "timestamp": 1658622027,
+                "name": "iOS の画像.jpg",
+                "title": "iOS の画像",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U01PZK3KK97",
+                "editable": false,
+                "size": 919928,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T014MVD863E-F03QNFQE2Q5\/ios__________.jpg?t=xoxe-1157999278116-3857408361221-3860360080994-c56323778919f0e36b19cc92870aef60",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T014MVD863E-F03QNFQE2Q5\/download\/ios__________.jpg?t=xoxe-1157999278116-3857408361221-3860360080994-c56323778919f0e36b19cc92870aef60",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T014MVD863E-F03QNFQE2Q5-86d61cb1b5\/ios___________64.jpg?t=xoxe-1157999278116-3857408361221-3860360080994-c56323778919f0e36b19cc92870aef60",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T014MVD863E-F03QNFQE2Q5-86d61cb1b5\/ios___________80.jpg?t=xoxe-1157999278116-3857408361221-3860360080994-c56323778919f0e36b19cc92870aef60",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T014MVD863E-F03QNFQE2Q5-86d61cb1b5\/ios___________360.jpg?t=xoxe-1157999278116-3857408361221-3860360080994-c56323778919f0e36b19cc92870aef60",
+                "thumb_360_w": 255,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T014MVD863E-F03QNFQE2Q5-86d61cb1b5\/ios___________480.jpg?t=xoxe-1157999278116-3857408361221-3860360080994-c56323778919f0e36b19cc92870aef60",
+                "thumb_480_w": 339,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T014MVD863E-F03QNFQE2Q5-86d61cb1b5\/ios___________160.jpg?t=xoxe-1157999278116-3857408361221-3860360080994-c56323778919f0e36b19cc92870aef60",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T014MVD863E-F03QNFQE2Q5-86d61cb1b5\/ios___________720.jpg?t=xoxe-1157999278116-3857408361221-3860360080994-c56323778919f0e36b19cc92870aef60",
+                "thumb_720_w": 509,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T014MVD863E-F03QNFQE2Q5-86d61cb1b5\/ios___________800.jpg?t=xoxe-1157999278116-3857408361221-3860360080994-c56323778919f0e36b19cc92870aef60",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1131,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T014MVD863E-F03QNFQE2Q5-86d61cb1b5\/ios___________960.jpg?t=xoxe-1157999278116-3857408361221-3860360080994-c56323778919f0e36b19cc92870aef60",
+                "thumb_960_w": 679,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T014MVD863E-F03QNFQE2Q5-86d61cb1b5\/ios___________1024.jpg?t=xoxe-1157999278116-3857408361221-3860360080994-c56323778919f0e36b19cc92870aef60",
+                "thumb_1024_w": 724,
+                "thumb_1024_h": 1024,
+                "original_w": 3274,
+                "original_h": 4630,
+                "thumb_tiny": "AwAwACHSJxRmkbrSDn\/9VAD6KTn3paACiiigBrdcUlK3Xp+NJ+NADh+FLTR1606gAooooARumKaASOlOIzRgUAIB7mnUUUAFFFFAH\/\/Z",
+                "permalink": "https:\/\/muchimemo.slack.com\/files\/U01PZK3KK97\/F03QNFQE2Q5\/ios__________.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T014MVD863E-F03QNFQE2Q5-3ee4efc441",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U01PZK3KK97",
+        "ts": "1658622084.796709",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ny0=E",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "和訳おいときますー。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "8037A0BD-94E9-4604-AE6C-F5415D16F901",
+        "thread_ts": "1658621560.416179",
+        "parent_user_id": "U01PZK3KK97"
+    },
+    {
+        "client_msg_id": "0cc1c3ab-9d0a-4618-8e6a-5208d8ed5700",
+        "type": "message",
+        "text": "ラジドラダイジェスト版ですと！？和訳まで…ありがたやありがたや:sob: 心して拝聴いたしまする:two_hearts:\n天官出たのに、買ったのにまだ読んでないです。電子組の皆様と同じスタートになるかも。だってひとつの作品にのめり込むとそれしか消化できないんだもん:confounded: というわけで墓荒らし2期突入しております:exclamation:イエイ:smiley::v:",
+        "user": "U017FMU5XTQ",
+        "ts": "1658622992.293819",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "bea7a407721c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-26\/1263539336931_bea7a407721cebe3595a_72.jpg",
+            "first_name": "",
+            "real_name": "めい",
+            "display_name": "めい",
+            "team": "T014MVD863E",
+            "name": "megmon24",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ycUDj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ラジドラダイジェスト版ですと！？和訳まで…ありがたやありがたや"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sob",
+                                "unicode": "1f62d"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 心して拝聴いたしまする"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "two_hearts",
+                                "unicode": "1f495"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n天官出たのに、買ったのにまだ読んでないです。電子組の皆様と同じスタートになるかも。だってひとつの作品にのめり込むとそれしか消化できないんだもん"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "confounded",
+                                "unicode": "1f616"
+                            },
+                            {
+                                "type": "text",
+                                "text": " というわけで墓荒らし2期突入しております"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "exclamation",
+                                "unicode": "2757"
+                            },
+                            {
+                                "type": "text",
+                                "text": "イエイ"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smiley",
+                                "unicode": "1f603"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "v",
+                                "unicode": "270c-fe0f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1658621560.416179",
+        "parent_user_id": "U01PZK3KK97"
+    },
+    {
+        "client_msg_id": "7658B965-C7D9-4E2C-8E0B-C11EED46429E",
+        "type": "message",
+        "text": "もう2期ですか。早っ！！:flushed::flushed::flushed:私いまようやく十一倉に突入しました。毎回メガネ兄さんが可愛くて仕方ありません。いや、チート小哥や胖子とかもかわいいです。胖子は台詞だけみるとブロマンスなんで、毎回ヤメテ:rolling_on_the_floor_laughing:って思いながら見てます。\n分かります、一個に集中しないと見れない、、、:confounded::confounded::confounded:\n天官は絶対黒幕を当てたいので、七爺終わってからゆっくり読もうと思ってますが、私が七爺終わるのが早いか、めいさんが墓荒らし見終わるのが早いか、、、多分めいさんの方が早そう:laughing:",
+        "user": "U01PZK3KK97",
+        "ts": "1658623607.791079",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "g7edbb069a07",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/7edbb069a07e3786ca21d16d29a8c001.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "",
+            "real_name": "はるまき",
+            "display_name": "",
+            "team": "T014MVD863E",
+            "name": "halsiyon5",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OJL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "もう2期ですか。早っ！！"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "flushed",
+                                "unicode": "1f633"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "flushed",
+                                "unicode": "1f633"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "flushed",
+                                "unicode": "1f633"
+                            },
+                            {
+                                "type": "text",
+                                "text": "私いまようやく十一倉に突入しました。毎回メガネ兄さんが可愛くて仕方ありません。いや、チート小哥や胖子とかもかわいいです。胖子は台詞だけみるとブロマンスなんで、毎回ヤメテ"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "rolling_on_the_floor_laughing",
+                                "unicode": "1f923"
+                            },
+                            {
+                                "type": "text",
+                                "text": "って思いながら見てます。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "分かります、一個に集中しないと見れない、、、"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "confounded",
+                                "unicode": "1f616"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "confounded",
+                                "unicode": "1f616"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "confounded",
+                                "unicode": "1f616"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "天官は絶対黒幕を当てたいので、七爺終わってからゆっくり読もうと思ってますが、私が七爺終わるのが早いか、めいさんが墓荒らし見終わるのが早いか、、、多分めいさんの方が早そう"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "laughing",
+                                "unicode": "1f606"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1658621560.416179",
+        "parent_user_id": "U01PZK3KK97"
+    },
+    {
+        "client_msg_id": "0048acb0-f4d2-459b-9dee-627a4f048a70",
+        "type": "message",
+        "text": "十一倉編もさっぱりわかりませんが、とりあえず突き進むのみです(笑)だれか解説して～:sweat_smile: \nマリオなのかFFなのかってくらいゲームでしかないやろって話ですよね。いや、中国だからあるのか？もうメガネ兄さんがかわいいのでそれだけでハオです:two_hearts:\n胖子あんなにべったべただし、セリフもブロマンスなのに誰も何も疑わないの:rolling_on_the_floor_laughing:？こいつら心は永遠の小学生男子だと爺やの目線になってしまう。\nあのー、十一倉に忍び込む前にでっかい瓶の隣でメガネ兄さんが柱にしがみついてるのは何の意味があるんですかね？180cmの設定アラフォー男性がセミのごとく…いや、かわいくて意味とかどうでもいいんですけどね:laughing: :laughing:",
+        "user": "U017FMU5XTQ",
+        "ts": "1658624531.918819",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "bea7a407721c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-26\/1263539336931_bea7a407721cebe3595a_72.jpg",
+            "first_name": "",
+            "real_name": "めい",
+            "display_name": "めい",
+            "team": "T014MVD863E",
+            "name": "megmon24",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mxQm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "十一倉編もさっぱりわかりませんが、とりあえず突き進むのみです(笑)だれか解説して～"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sweat_smile",
+                                "unicode": "1f605"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \nマリオなのかFFなのかってくらいゲームでしかないやろって話ですよね。いや、中国だからあるのか？もうメガネ兄さんがかわいいのでそれだけでハオです"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "two_hearts",
+                                "unicode": "1f495"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n胖子あんなにべったべただし、セリフもブロマンスなのに誰も何も疑わないの"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "rolling_on_the_floor_laughing",
+                                "unicode": "1f923"
+                            },
+                            {
+                                "type": "text",
+                                "text": "？こいつら心は永遠の小学生男子だと爺やの目線になってしまう。\nあのー、十一倉に忍び込む前にでっかい瓶の隣でメガネ兄さんが柱にしがみついてるのは何の意味があるんですかね？180cmの設定アラフォー男性がセミのごとく…いや、かわいくて意味とかどうでもいいんですけどね"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "laughing",
+                                "unicode": "1f606"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "laughing",
+                                "unicode": "1f606"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1658621560.416179",
+        "parent_user_id": "U01PZK3KK97"
+    },
+    {
+        "client_msg_id": "CE574A7D-9AD1-498E-8451-D7020BF7837E",
+        "type": "message",
+        "text": "あれはファンサービスです！！！！:triumph::triumph::triumph:\nドルオタと黒眼鏡の医者以外は敵も味方も皮人形からも矢印総受けの兄さんを愛でるためのドラマです:rolling_on_the_floor_laughing::rolling_on_the_floor_laughing::rolling_on_the_floor_laughing:いやしかし、まつげが長い！！！",
+        "user": "U01PZK3KK97",
+        "ts": "1658624813.629329",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "g7edbb069a07",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/7edbb069a07e3786ca21d16d29a8c001.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "",
+            "real_name": "はるまき",
+            "display_name": "",
+            "team": "T014MVD863E",
+            "name": "halsiyon5",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ncc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "あれはファンサービスです！！！！"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "triumph",
+                                "unicode": "1f624"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "triumph",
+                                "unicode": "1f624"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "triumph",
+                                "unicode": "1f624"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ドルオタと黒眼鏡の医者以外は敵も味方も皮人形からも矢印総受けの兄さんを愛でるためのドラマです"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "rolling_on_the_floor_laughing",
+                                "unicode": "1f923"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "rolling_on_the_floor_laughing",
+                                "unicode": "1f923"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "rolling_on_the_floor_laughing",
+                                "unicode": "1f923"
+                            },
+                            {
+                                "type": "text",
+                                "text": "いやしかし、まつげが長い！！！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1658621560.416179",
+        "parent_user_id": "U01PZK3KK97"
+    },
+    {
+        "client_msg_id": "dc5493c2-d999-4ef0-91b9-c028c1dee65e",
+        "type": "message",
+        "text": "まさかのファンサ:rolling_on_the_floor_laughing: :rolling_on_the_floor_laughing: :rolling_on_the_floor_laughing:徐々にドルオタも魅了し始めるメガネ兄さんですよ(アイドルかまってくれないから:sweat_smile: )！そのうち別のツンデレ医者も登場しますから乞うご期待ですよ:heart:\n\n呪文唱えたらあのまつ毛が武器になる展開あるんですかね？鎮魂でちょっとだけ期待したけど、メガネ兄さんの美しさを際立たせるアイテムでしかなかった…:laughing:",
+        "user": "U017FMU5XTQ",
+        "ts": "1658625997.568479",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "bea7a407721c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-26\/1263539336931_bea7a407721cebe3595a_72.jpg",
+            "first_name": "",
+            "real_name": "めい",
+            "display_name": "めい",
+            "team": "T014MVD863E",
+            "name": "megmon24",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "deld",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "まさかのファンサ"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "rolling_on_the_floor_laughing",
+                                "unicode": "1f923"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "rolling_on_the_floor_laughing",
+                                "unicode": "1f923"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "rolling_on_the_floor_laughing",
+                                "unicode": "1f923"
+                            },
+                            {
+                                "type": "text",
+                                "text": "徐々にドルオタも魅了し始めるメガネ兄さんですよ(アイドルかまってくれないから"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sweat_smile",
+                                "unicode": "1f605"
+                            },
+                            {
+                                "type": "text",
+                                "text": " )！そのうち別のツンデレ医者も登場しますから乞うご期待ですよ"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "heart",
+                                "unicode": "2764-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n呪文唱えたらあのまつ毛が武器になる展開あるんですかね？鎮魂でちょっとだけ期待したけど、メガネ兄さんの美しさを際立たせるアイテムでしかなかった…"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "laughing",
+                                "unicode": "1f606"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1658621560.416179",
+        "parent_user_id": "U01PZK3KK97"
+    },
+    {
+        "client_msg_id": "736630F9-2DDD-4A0D-8BA3-1721AB9D3E21",
+        "type": "message",
+        "text": "ちょっとマジですか！ガチの総受けですやん！！\n:rolling_on_the_floor_laughing::rolling_on_the_floor_laughing::rolling_on_the_floor_laughing:ドルオターー！！！\nなぜか一瞬、スケバン刑事を思い出しました。ヨーヨーみたいにばさばさのまつ毛が伸びて相手を攻撃（魅了）し、当然ブラウン管（古い）を越えて視聴者にも攻撃（魅了）し、、、",
+        "user": "U01PZK3KK97",
+        "ts": "1658626517.319489",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "g7edbb069a07",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/7edbb069a07e3786ca21d16d29a8c001.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "",
+            "real_name": "はるまき",
+            "display_name": "",
+            "team": "T014MVD863E",
+            "name": "halsiyon5",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nQeK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ちょっとマジですか！ガチの総受けですやん！！"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "rolling_on_the_floor_laughing",
+                                "unicode": "1f923"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "rolling_on_the_floor_laughing",
+                                "unicode": "1f923"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "rolling_on_the_floor_laughing",
+                                "unicode": "1f923"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ドルオターー！！！"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "なぜか一瞬、スケバン刑事を思い出しました。ヨーヨーみたいにばさばさのまつ毛が伸びて相手を攻撃（魅了）し、当然ブラウン管（古い）を越えて視聴者にも攻撃（魅了）し、、、"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1658621560.416179",
+        "parent_user_id": "U01PZK3KK97"
+    },
+    {
+        "client_msg_id": "0a713ea2-69f0-4c04-9cda-87eb11f1665f",
+        "type": "message",
+        "text": "そんな妖怪展開あり！？:rolling_on_the_floor_laughing::rolling_on_the_floor_laughing::rolling_on_the_floor_laughing:\nブラウン管(古っ)突き破って～。全力で受け止めます！\n\nこれ原作は耽美じゃないんですよね？なんでこんな総受けな展開に…？やはりまつ毛のせいか:laughing: \neBayでDVD買おうかと検索しちゃいましたよ。落ち着け私:exclamation:",
+        "user": "U017FMU5XTQ",
+        "ts": "1658627066.972759",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "bea7a407721c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-26\/1263539336931_bea7a407721cebe3595a_72.jpg",
+            "first_name": "",
+            "real_name": "めい",
+            "display_name": "めい",
+            "team": "T014MVD863E",
+            "name": "megmon24",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rBLP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "そんな妖怪展開あり！？"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "rolling_on_the_floor_laughing",
+                                "unicode": "1f923"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "rolling_on_the_floor_laughing",
+                                "unicode": "1f923"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "rolling_on_the_floor_laughing",
+                                "unicode": "1f923"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nブラウン管(古っ)突き破って～。全力で受け止めます！\n\nこれ原作は耽美じゃないんですよね？なんでこんな総受けな展開に…？やはりまつ毛のせいか"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "laughing",
+                                "unicode": "1f606"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \neBayでDVD買おうかと検索しちゃいましたよ。落ち着け私"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "exclamation",
+                                "unicode": "2757"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1658621560.416179",
+        "parent_user_id": "U01PZK3KK97"
+    },
+    {
+        "client_msg_id": "3C213661-66AE-45A3-A19D-31AED68CEDFB",
+        "type": "message",
+        "text": "はるまきさんありがとうございます！\n実家に連れて帰る発言しちゃう攻めちゃんほんと好きです...:joy::joy::joy::joy:",
+        "user": "U03HEGWESGG",
+        "ts": "1658634781.185249",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "gbc70b585f2e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/bc70b585f2ee0067ee37ac43afaa4ec0.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-72.png",
+            "first_name": "轟梧郎",
+            "real_name": "轟梧郎",
+            "display_name": "轟梧郎",
+            "team": "T014MVD863E",
+            "name": "gucci42tys3-1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3307",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "はるまきさんありがとうございます！"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "実家に連れて帰る発言しちゃう攻めちゃんほんと好きです..."
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "joy",
+                                "unicode": "1f602"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "joy",
+                                "unicode": "1f602"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "joy",
+                                "unicode": "1f602"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "joy",
+                                "unicode": "1f602"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

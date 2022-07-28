@@ -1,0 +1,53 @@
+[
+    {
+        "client_msg_id": "7cc6d7a0-0e7b-404c-b331-cafffe85113a",
+        "type": "message",
+        "text": "別のシリーズものを読んでいるところなのでそれを読み終わったらなのですが、Hazard &amp; SomersetシリーズのGregory AsheさんとC. S. Poeさんが連名で書かれた『A Friend in the Dark』（Auden &amp; O'Callaghan Book1）という作品を買ってみたので、次はそれを読んでみようと思っております。どんな作品か楽しみです。\n\n（C. S. Poeさんはまだ何作かしか読んでいないのですが、けっこう好きな作風で個人的に気に入っている作家さんです。",
+        "user": "U03D1UJECGZ",
+        "ts": "1658020603.021159",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "a7dde0607f3e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-24\/3431416808738_a7dde0607f3e669535b6_72.png",
+            "first_name": "Kumatta",
+            "real_name": "Kumatta",
+            "display_name": "Kumatta",
+            "team": "T014MVD863E",
+            "name": "maki.terao",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U03D1UJECGZ",
+            "ts": "1658021356.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ROr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "別のシリーズものを読んでいるところなのでそれを読み終わったらなのですが、Hazard & SomersetシリーズのGregory AsheさんとC. S. Poeさんが連名で書かれた『A Friend in the Dark』（Auden & O'Callaghan Book1）という作品を買ってみたので、次はそれを読んでみようと思っております。どんな作品か楽しみです。\n\n（C. S. Poeさんはまだ何作かしか読んでいないのですが、けっこう好きな作風で個人的に気に入っている作家さんです。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03QNS0Q7CM"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,223 @@
+[
+    {
+        "client_msg_id": "3fadc53b-2022-492a-9843-b9f9e58f0422",
+        "type": "message",
+        "text": "最近読んで印象深かった作品、インモラル編です。\nどちらもピュアな甘さと対極な世界観なので、ご注意下さい。\n\n「お化けより怖いもの」雪国ウム\n「code：G」阿部あかね",
+        "user": "U0188J8KHE0",
+        "ts": "1658320302.873659",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "9bddb1ef97ce",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-31\/1273082961765_9bddb1ef97ce43f9742f_72.png",
+            "first_name": "サトル",
+            "real_name": "サトル",
+            "display_name": "サトル",
+            "team": "T014MVD863E",
+            "name": "rien9326",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6Mg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "最近読んで印象深かった作品、インモラル編です。\nどちらもピュアな甘さと対極な世界観なので、ご注意下さい。\n\n「お化けより怖いもの」雪国ウム\n「code：G」阿部あかね"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "30dbdbc6-5d8b-46dd-a811-3102444008d3",
+        "type": "message",
+        "text": "<https:\/\/www.amazon.co.jp\/exec\/obidos\/ASIN\/4801974007\/sandias-22\/ref=nosim?ref_=d6k_applink_bb_dls&amp;dplnkId=f30f0bb7-be5b-40cc-a407-1b1fd122c553#|https:\/\/www.amazon.co.jp\/exec\/obidos\/ASIN\/4801974007\/sandias-22\/ref=nosim?ref_=d6k_applink_bb_dls&amp;dplnkId=f30f0bb7-be5b-40cc-a407-1b1fd122c553#>",
+        "user": "U0188J8KHE0",
+        "ts": "1658320421.218369",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "9bddb1ef97ce",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-31\/1273082961765_9bddb1ef97ce43f9742f_72.png",
+            "first_name": "サトル",
+            "real_name": "サトル",
+            "display_name": "サトル",
+            "team": "T014MVD863E",
+            "name": "rien9326",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.amazon.co.jp\/exec\/obidos\/ASIN\/4801974007\/sandias-22\/ref=nosim?ref_=d6k_applink_bb_dls&dplnkId=f30f0bb7-be5b-40cc-a407-1b1fd122c553",
+                "image_url": "https:\/\/images-fe.ssl-images-amazon.com\/images\/I\/51QX3FLZb1S._SR600%2c315_PIWhiteStrip%2cBottomLeft%2c0%2c35_PIStarRatingFOURANDHALF%2cBottomLeft%2c360%2c-6_SR600%2c315_ZA28%2c445%2c290%2c400%2c400%2cAmazonEmberBold%2c12%2c4%2c0%2c0%2c5_SCLZZZZZZZ_FMpng_BG255%2c255%2c255.jpg",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 113560,
+                "service_icon": "https:\/\/www.amazon.co.jp\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.amazon.co.jp\/exec\/obidos\/ASIN\/4801974007\/sandias-22\/ref=nosim?ref_=d6k_applink_bb_dls&amp;dplnkId=f30f0bb7-be5b-40cc-a407-1b1fd122c553#",
+                "fallback": "お化けより怖いもの (バンブー・コミックス Qpa collection)",
+                "text": "動画配信サイトで特集記事のネタ探しをしていた ゴシップ誌ライター・寺田がたどり着いたのは、 心霊スポット巡りの生配信チャンネル。 画面の先には、 火照った顔で何やら様子がおかしい配信主の青年・ナオ。 ローターを仕込んできたという下半身が映し出され 廃神社の鳥居前で行われる低モラルな自慰に驚く寺田だが、 その異様さと不謹慎さ、快感を心底享受するような うっとりした表情に思わずのめり込んでいき、 気づけば動画の配信通知を待つようになってしまう――…。 「可哀想と思うなら、もっといっぱい可愛がってよ」 くたびれ三流ゴシップ誌ライター×モラル底辺な年下心霊ナマ配信者 後ろめたさと欲望が入り乱れる...",
+                "title": "お化けより怖いもの (バンブー・コミックス Qpa collection)",
+                "title_link": "https:\/\/www.amazon.co.jp\/exec\/obidos\/ASIN\/4801974007\/sandias-22\/ref=nosim?ref_=d6k_applink_bb_dls&dplnkId=f30f0bb7-be5b-40cc-a407-1b1fd122c553",
+                "service_name": "amazon.co.jp"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "U9A7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.amazon.co.jp\/exec\/obidos\/ASIN\/4801974007\/sandias-22\/ref=nosim?ref_=d6k_applink_bb_dls&dplnkId=f30f0bb7-be5b-40cc-a407-1b1fd122c553#",
+                                "text": "https:\/\/www.amazon.co.jp\/exec\/obidos\/ASIN\/4801974007\/sandias-22\/ref=nosim?ref_=d6k_applink_bb_dls&dplnkId=f30f0bb7-be5b-40cc-a407-1b1fd122c553#"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2311c25c-626e-4974-b56f-08ecc85fd9ec",
+        "type": "message",
+        "text": "<https:\/\/www.amazon.co.jp\/code-G-%E3%80%90%E9%9B%BB%E5%AD%90%E9%99%90%E5%AE%9A%E7%89%B9%E5%85%B8%E4%BB%98%E3%81%8D%E3%80%91-%E3%83%90%E3%83%B3%E3%83%96%E3%83%BC%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9-%E9%BA%97%E4%BA%BA%E3%82%BB%E3%83%AC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3-ebook\/dp\/B07S73KNZC\/ref=mp_s_a_1_1?crid=1LTELECDW3E4Q&amp;keywords=code%EF%BC%9AG&amp;qid=1658320446&amp;sprefix=code+g%2Caps%2C335&amp;sr=8-1|https:\/\/www.amazon.co.jp\/code-G-%E3%80%90%E9%9B%BB%E5%AD%90%E9%99%90%E5%AE%9A%E7%89%B9%E5%85%B8%E4%BB%98%E3%81%8D%E3%80%91-%E3%83%90%E3%83%B3%E3%83%96%E3%83%BC%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9-%E9%BA%97%E4%BA%BA%E3%82%BB%E3%83%AC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3-ebook\/dp\/B07S73KNZC\/ref=mp_s_a_1_1?crid=1LTELECDW3E4Q&amp;keywords=code%EF%BC%9AG&amp;qid=1658320446&amp;sprefix=code+g%2Caps%2C335&amp;sr=8-1>",
+        "user": "U0188J8KHE0",
+        "ts": "1658320464.686999",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "9bddb1ef97ce",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-31\/1273082961765_9bddb1ef97ce43f9742f_72.png",
+            "first_name": "サトル",
+            "real_name": "サトル",
+            "display_name": "サトル",
+            "team": "T014MVD863E",
+            "name": "rien9326",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.amazon.co.jp\/code-G-%E3%80%90%E9%9B%BB%E5%AD%90%E9%99%90%E5%AE%9A%E7%89%B9%E5%85%B8%E4%BB%98%E3%81%8D%E3%80%91-%E3%83%90%E3%83%B3%E3%83%96%E3%83%BC%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9-%E9%BA%97%E4%BA%BA%E3%82%BB%E3%83%AC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3-ebook\/dp\/B07S73KNZC\/ref=mp_s_a_1_1?crid=1LTELECDW3E4Q&keywords=code%EF%BC%9AG&qid=1658320446&sprefix=code+g%2Caps%2C335&sr=8-1",
+                "image_url": "https:\/\/images-fe.ssl-images-amazon.com\/images\/I\/51oKACdqbwL._SR600%2c315_PIWhiteStrip%2cBottomLeft%2c0%2c35_PIStarRatingFOURANDHALF%2cBottomLeft%2c360%2c-6_SR600%2c315_ZA15%2c445%2c290%2c400%2c400%2cAmazonEmberBold%2c12%2c4%2c0%2c0%2c5_SCLZZZZZZZ_FMpng_BG255%2c255%2c255.jpg",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 103395,
+                "service_icon": "https:\/\/www.amazon.co.jp\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.amazon.co.jp\/code-G-%E3%80%90%E9%9B%BB%E5%AD%90%E9%99%90%E5%AE%9A%E7%89%B9%E5%85%B8%E4%BB%98%E3%81%8D%E3%80%91-%E3%83%90%E3%83%B3%E3%83%96%E3%83%BC%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9-%E9%BA%97%E4%BA%BA%E3%82%BB%E3%83%AC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3-ebook\/dp\/B07S73KNZC\/ref=mp_s_a_1_1?crid=1LTELECDW3E4Q&amp;keywords=code%EF%BC%9AG&amp;qid=1658320446&amp;sprefix=code+g%2Caps%2C335&amp;sr=8-1",
+                "fallback": "code:G 【電子限定特典付き】 (バンブーコミックス 麗人セレクション)",
+                "text": "ガキの頃、下半身に直撃を受けたインディーズバンド“バングース”に憧れ、バン&amp;...",
+                "title": "code:G 【電子限定特典付き】 (バンブーコミックス 麗人セレクション)",
+                "title_link": "https:\/\/www.amazon.co.jp\/code-G-%E3%80%90%E9%9B%BB%E5%AD%90%E9%99%90%E5%AE%9A%E7%89%B9%E5%85%B8%E4%BB%98%E3%81%8D%E3%80%91-%E3%83%90%E3%83%B3%E3%83%96%E3%83%BC%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9-%E9%BA%97%E4%BA%BA%E3%82%BB%E3%83%AC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3-ebook\/dp\/B07S73KNZC\/ref=mp_s_a_1_1?crid=1LTELECDW3E4Q&keywords=code%EF%BC%9AG&qid=1658320446&sprefix=code+g%2Caps%2C335&sr=8-1",
+                "service_name": "amazon.co.jp"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CvGXN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.amazon.co.jp\/code-G-%E3%80%90%E9%9B%BB%E5%AD%90%E9%99%90%E5%AE%9A%E7%89%B9%E5%85%B8%E4%BB%98%E3%81%8D%E3%80%91-%E3%83%90%E3%83%B3%E3%83%96%E3%83%BC%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9-%E9%BA%97%E4%BA%BA%E3%82%BB%E3%83%AC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3-ebook\/dp\/B07S73KNZC\/ref=mp_s_a_1_1?crid=1LTELECDW3E4Q&keywords=code%EF%BC%9AG&qid=1658320446&sprefix=code+g%2Caps%2C335&sr=8-1",
+                                "text": "https:\/\/www.amazon.co.jp\/code-G-%E3%80%90%E9%9B%BB%E5%AD%90%E9%99%90%E5%AE%9A%E7%89%B9%E5%85%B8%E4%BB%98%E3%81%8D%E3%80%91-%E3%83%90%E3%83%B3%E3%83%96%E3%83%BC%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9-%E9%BA%97%E4%BA%BA%E3%82%BB%E3%83%AC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3-ebook\/dp\/B07S73KNZC\/ref=mp_s_a_1_1?crid=1LTELECDW3E4Q&keywords=code%EF%BC%9AG&qid=1658320446&sprefix=code+g%2Caps%2C335&sr=8-1"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "B0460728-5733-4AA0-8991-ED7A69B07A5B",
+        "type": "message",
+        "text": "サトルさん、何やらお化け関連BL 漫画、ちょっと変わってるぼくて、興味津々です。いつも一味ひねってる作品ご紹介してくださってありがとうございます:blush:ぜひチェックしますね。",
+        "user": "U017LVA457X",
+        "ts": "1658342179.051019",
+        "team": "T014MVD863E",
+        "user_team": "T014MVD863E",
+        "source_team": "T014MVD863E",
+        "user_profile": {
+            "avatar_hash": "ab08cd7206d5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-23\/1260372537906_ab08cd7206d5061995ec_72.png",
+            "first_name": "Nakaji",
+            "real_name": "Nakaji",
+            "display_name": "Nakaji",
+            "team": "T014MVD863E",
+            "name": "nakaji352002",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U017LVA457X",
+            "ts": "1658342193.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ls90j",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "サトルさん、何やらお化け関連BL 漫画、ちょっと変わってるぼくて、興味津々です。いつも一味ひねってる作品ご紹介してくださってありがとうございます"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "blush",
+                                "unicode": "1f60a"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ぜひチェックしますね。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1658342179.051019",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1658403816.021289",
+        "reply_users": [
+            "U0188J8KHE0",
+            "U017LVA457X"
+        ],
+        "replies": [
+            {
+                "user": "U0188J8KHE0",
+                "ts": "1658402882.339279"
+            },
+            {
+                "user": "U017LVA457X",
+                "ts": "1658403816.021289"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    }
+]
