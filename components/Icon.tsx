@@ -10,8 +10,8 @@ export default function Icon({ content }: { content: Content }) {
   const userData = users.find((user) => user.id === content.user);
   const name = userData && userData.real_name;
   const avatar = userData
-    ? userData.profile.image_192
-    : "https://secure.gravatar.com/avatar/c61e328c9e5331e15fbbfaac3326fd4c.jpg?s=192&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0025-192.png";
+    ? userData.profile.image_72
+    : "https://secure.gravatar.com/avatar/c61e328c9e5331e15fbbfaac3326fd4c.jpg?s=192&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0025-72.png";
   // console.log(userData);
 
   return (

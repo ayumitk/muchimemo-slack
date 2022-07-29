@@ -4,9 +4,45 @@ import Image from "next/image";
 import RichTextBlock from "./RichTextBlock";
 
 // types
-import { Content } from "../type";
+import { Content, File } from "../type";
 
 export default function PostContent({ content }: { content: Content }) {
+  const mediaLink = (file: File) => {
+    if (file.thumb_80) {
+      return (
+        <a href={file.url_private} target="_blank" rel="noreferrer">
+          <Image
+            src={file.thumb_80}
+            alt=""
+            width={80}
+            height={80}
+            className="hover:opacity-75"
+          />
+          <p className="text-xs text-blue-700 hover:underline hover:text-blue-500">
+            拡大画像を見る
+          </p>
+        </a>
+      );
+    } else if (file.thumb_video && file.thumb_video_w && file.thumb_video_h) {
+      return (
+        <a href={file.url_private} target="_blank" rel="noreferrer">
+          <Image
+            src={file.thumb_video}
+            alt=""
+            width={file.thumb_video_w / 4}
+            height={file.thumb_video_h / 4}
+            className="hover:opacity-75"
+          />
+          <p className="text-xs text-blue-700 hover:underline hover:text-blue-500">
+            動画を再生する
+          </p>
+        </a>
+      );
+    } else {
+      return <div>media todo</div>;
+    }
+  };
+
   return (
     <>
       <div>
@@ -41,25 +77,8 @@ export default function PostContent({ content }: { content: Content }) {
 
       {content.files &&
         content.files.map((file) => (
-          <div className="mt-4" key={file.id}>
-            {file.thumb_360 ? (
-              <a href={file.url_private} target="_blank" rel="noreferrer">
-                <Image
-                  src={file.thumb_360}
-                  alt=""
-                  width={file.thumb_360_w}
-                  height={file.thumb_360_h}
-                />
-              </a>
-            ) : (
-              <video
-                controls
-                muted
-                width={file.thumb_video_w ? file.thumb_video_w / 3 : 360}
-              >
-                <source src={file.mp4} type="video/mp4" />
-              </video>
-            )}
+          <div className="mt-3" key={file.id}>
+            {mediaLink(file)}
           </div>
         ))}
     </>

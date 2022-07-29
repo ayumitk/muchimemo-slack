@@ -41,12 +41,12 @@ export type Reply = {
 
 export type File = {
   id: string;
-  thumb_360?: string;
-  thumb_360_w?: number;
-  thumb_360_h?: number;
+  thumb_80?: string;
   mp4?: string;
-  thumb_video_w?: number;
   url_private: string;
+  thumb_video?: string;
+  thumb_video_w?: number;
+  thumb_video_h?: number;
 };
 
 export type Params = {
