@@ -37,7 +37,7 @@ export default function RichTextBlock({ block }: { block: Block }) {
           href={block.url}
           target="_blank"
           rel="noreferrer"
-          className="text-blue-500 underline break-all"
+          className="text-blue-700 break-all hover:underline hover:text-blue-500"
         >
           {block.url}
         </a>
