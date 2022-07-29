@@ -16,6 +16,8 @@ export type Content = {
   user: string;
   reply_count?: number;
   replies?: Array<Reply>;
+  text: string;
+  client_msg_id: string;
 };
 
 export type Block = {
