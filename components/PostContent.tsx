@@ -1,4 +1,6 @@
 import Image from "next/image";
+import { PlayIcon } from "@heroicons/react/solid";
+import { PhotographIcon, VideoCameraIcon } from "@heroicons/react/outline";
 
 // components
 import RichTextBlock from "./RichTextBlock";
@@ -11,30 +13,53 @@ export default function PostContent({ content }: { content: Content }) {
     if (file.thumb_80) {
       return (
         <a href={file.url_private} target="_blank" rel="noreferrer">
-          <Image
-            src={file.thumb_80}
-            alt=""
-            width={80}
-            height={80}
-            className="hover:opacity-75"
-          />
-          <p className="text-xs text-blue-700 hover:underline hover:text-blue-500">
-            拡大画像を見る
-          </p>
+          <div style={{ lineHeight: 0 }}>
+            <Image
+              src={file.thumb_80}
+              alt=""
+              width={80}
+              height={80}
+              className="hover:opacity-75"
+            />
+            <p className="text-xs text-blue-700 hover:underline hover:text-blue-500 mt-1">
+              <PhotographIcon className="w-4 h-4 inline-block mr-0.5" />
+              拡大を画像
+            </p>
+          </div>
         </a>
       );
-    } else if (file.thumb_video && file.thumb_video_w && file.thumb_video_h) {
+    } else if (file.thumb_video) {
       return (
         <a href={file.url_private} target="_blank" rel="noreferrer">
-          <Image
-            src={file.thumb_video}
-            alt=""
-            width={file.thumb_video_w / 4}
-            height={file.thumb_video_h / 4}
-            className="hover:opacity-75"
-          />
-          <p className="text-xs text-blue-700 hover:underline hover:text-blue-500">
-            動画を再生する
+          <div
+            className="relative hover:opacity-90"
+            style={{
+              width: `80px`,
+              height: `80px`,
+            }}
+          >
+            <div
+              className="absolute z-0"
+              style={{
+                width: `80px`,
+                height: `80px`,
+              }}
+            >
+              <Image
+                src={file.thumb_video}
+                alt=""
+                layout="fill"
+                className="object-cover"
+              />
+            </div>
+            <div className="opacity-50 bg-gray-900 absolute w-full h-full z-10"></div>
+            <div className="absolute w-full h-full flex items-center justify-center z-20">
+              <PlayIcon className="w-8 h-8 text-blue-100" />
+            </div>
+          </div>
+          <p className="text-xs text-blue-700 hover:underline hover:text-blue-500 mt-1">
+            <VideoCameraIcon className="w-4 h-4 inline-block mr-0.5" />
+            動画を再生
           </p>
         </a>
       );
@@ -45,7 +70,7 @@ export default function PostContent({ content }: { content: Content }) {
 
   return (
     <>
-      <div>
+      <div className="my-3">
         {content.blocks &&
           content.blocks[0].elements &&
           content.blocks[0].elements.map((element, index: number) => {
@@ -77,7 +102,7 @@ export default function PostContent({ content }: { content: Content }) {
 
       {content.files &&
         content.files.map((file) => (
-          <div className="mt-3" key={file.id}>
+          <div className="my-3" key={file.id}>
             {mediaLink(file)}
           </div>
         ))}

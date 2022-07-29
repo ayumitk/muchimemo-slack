@@ -46,7 +46,7 @@ export default function Post({ allPosts }: AllPosts) {
                       <div className="flex items-start">
                         <Icon content={content} />
                         <div className="border-solid border-r-blue-50 border-r-8 border-y-transparent border-y-8 border-l-0 mt-5 sm:mt-7" />
-                        <div className="bg-blue-50 p-4 md:p-6 rounded-3xl">
+                        <div className="bg-blue-50 px-4 md:px-6 py-2 md:py-3 rounded-3xl">
                           <PostContent content={content} />
                         </div>
                       </div>

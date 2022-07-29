@@ -29,7 +29,7 @@ export default function SearchModal({
   return (
     <>
       <div
-        className="sticky top-0 z-10 bg-white pt-1"
+        className="sticky top-0 z-30 bg-white pt-1"
         onClick={() => setOpen(true)}
       >
         <div className="border-2 border-gray-300 rounded-full cursor-pointer bg-gray-50 p-4 hover:bg-gray-100 text-gray-500 flex item-center text-lg">
@@ -39,7 +39,7 @@ export default function SearchModal({
       </div>
 
       <Transition.Root show={open} as={Fragment}>
-        <Dialog as="div" className="relative z-20" onClose={setOpen}>
+        <Dialog as="div" className="relative z-40" onClose={setOpen}>
           <Transition.Child
             as={Fragment}
             enter="ease-out duration-300"
@@ -52,7 +52,7 @@ export default function SearchModal({
             <div className="fixed inset-0 bg-gray-500 bg-opacity-75 transition-opacity" />
           </Transition.Child>
 
-          <div className="fixed z-10 inset-0 overflow-y-auto">
+          <div className="fixed z-50 inset-0 overflow-y-auto">
             <div className="flex items-center sm:items-center justify-center min-h-full p-4 text-center sm:p-0">
               <Transition.Child
                 as={Fragment}

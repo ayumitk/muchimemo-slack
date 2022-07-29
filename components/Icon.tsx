@@ -24,7 +24,7 @@ export default function Icon({ content }: { content: Content }) {
           className="rounded-full object-cover"
         />
       </div>
-      <p className="font-bold text-xs md:text-sm mt-2 leading-tight md:leading-tight break-all">
+      <p className="font-bold text-xs mt-2 leading-tight md:leading-tight break-all">
         {name}
       </p>
     </div>

@@ -45,8 +45,6 @@ export type File = {
   mp4?: string;
   url_private: string;
   thumb_video?: string;
-  thumb_video_w?: number;
-  thumb_video_h?: number;
 };
 
 export type Params = {

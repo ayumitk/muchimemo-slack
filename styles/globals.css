@@ -2,32 +2,31 @@
 @tailwind components;
 @tailwind utilities;
 
-
-.twemoji{
+.twemoji {
   display: inline-block;
-  width: 1rem;
-  height: 1rem;
+  width: 1.25rem;
+  height: 1.25rem;
+  vertical-align: text-bottom;
+  margin: 0 0.1rem;
 }
-
-
 
 .date:before,
 .date:after {
   background-color: #9ca3af;
-    content: "";
-    display: inline-block;
-    height: 1px;
-    position: relative;
-    vertical-align: middle;
-    width: 50%;
+  content: "";
+  display: inline-block;
+  height: 1px;
+  position: relative;
+  vertical-align: middle;
+  width: 50%;
 }
 
 .date:before {
   right: 0.5em;
-    margin-left: -50%;
+  margin-left: -50%;
 }
 
 .date:after {
   left: 0.5em;
-    margin-right: -50%;
+  margin-right: -50%;
 }
