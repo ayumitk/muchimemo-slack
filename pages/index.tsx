@@ -9,7 +9,7 @@ import Layout from "../components/Layout";
 
 const Home: NextPage = () => {
   return (
-    <Layout title="Slackチャンネル" description="">
+    <Layout title="全チャンネル" h1="Slackチャンネル" description="">
       <ul>
         {channels.map((channel) => (
           <li key={channel.id}>

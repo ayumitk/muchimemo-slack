@@ -35,7 +35,7 @@ export default function Post({ allPosts }: AllPosts) {
   const description = channel ? channel.purpose.value : "";
 
   return (
-    <Layout title={title} description={description}>
+    <Layout title={title} h1={title} description={description}>
       {allPosts.map((post) => (
         <div key={post.slug}>
           <Date post={post} />
