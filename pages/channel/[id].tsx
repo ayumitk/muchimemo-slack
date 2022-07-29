@@ -140,17 +140,30 @@ export default function Post({ allPosts }: AllPosts) {
     }
   };
 
-  const showReply = (ts: string) => {
-    for (let i = 0; i < allPosts.length; i++) {
-      const reply = allPosts[i].contents.find((content) => content.ts === ts);
-      if (reply !== undefined) {
-        return reply;
-      }
-    }
+  const getReply = (ts: string) => {
+    const replies = allPosts.map((post) =>
+      post.contents.find((content) => content.ts === ts)
+    );
+
+    let replyContent = replies.filter((reply) => reply !== undefined);
+    console.log(replyContent);
+
+    const userData = users.find((user) => user.id === replyContent[0]?.user);
+    const userName = userData && userData.real_name;
+
+    return (
+      <>
+        <p className="font-bold">{userName}</p>
+        {replyContent[0]?.blocks &&
+          replyContent[0]?.blocks[0].elements?.map((element, index) =>
+            richTextType(element, index)
+          )}
+      </>
+    );
   };
 
-  const getUserName = (userId: string) => {
-    const userData = users.find((user) => user.id === userId);
+  const getUserName = (profile: Content) => {
+    const userData = users.find((user) => user.id === profile.user);
     return userData && userData.real_name;
   };
 
@@ -198,9 +211,7 @@ export default function Post({ allPosts }: AllPosts) {
                     content.subtype !== "channel_join" && (
                       <li key={index} className="mb-4">
                         <div className="bg-blue-50 p-4 md:p-6 rounded-3xl break-all">
-                          <p className="font-bold">
-                            {getUserName(content.user)}
-                          </p>
+                          <p className="font-bold">{getUserName(content)}</p>
                           <div>
                             {content.blocks &&
                               content.blocks[0].elements &&
@@ -243,13 +254,7 @@ export default function Post({ allPosts }: AllPosts) {
                               content.replies.map((reply) => (
                                 <li key={reply.ts} className="mt-2">
                                   <div className="bg-gray-100 p-4 md:p-6 rounded-3xl">
-                                    <p className="font-bold">
-                                      {getUserName(showReply(reply.ts).user)}
-                                    </p>
-                                    {showReply(reply.ts).blocks[0].elements.map(
-                                      (element, index) =>
-                                        richTextType(element, index)
-                                    )}
+                                    {getReply(reply.ts)}
                                   </div>
                                 </li>
                               ))}
