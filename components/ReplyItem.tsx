@@ -18,7 +18,7 @@ export default function ReplyItem({
   const replyContent = replies.filter((reply) => reply !== undefined);
 
   return (
-    <li className="mt-2">
+    <li className="mt-2" id={replyContent[0] && replyContent[0].client_msg_id}>
       <div className="flex items-start justify-end">
         <div className="bg-gray-100 p-4 md:p-6 rounded-3xl">
           {replyContent[0]?.blocks && <PostContent content={replyContent[0]} />}

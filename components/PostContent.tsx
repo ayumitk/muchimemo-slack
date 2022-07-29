@@ -26,7 +26,9 @@ export default function PostContent({ content }: { content: Content }) {
                 <ul className="list-disc pl-4 py-2" key={index}>
                   {element.elements.map((innerElement) =>
                     innerElement.elements.map((block, index) => (
-                      <RichTextBlock key={index} block={block} />
+                      <li key={index}>
+                        <RichTextBlock block={block} />
+                      </li>
                     ))
                   )}
                 </ul>
