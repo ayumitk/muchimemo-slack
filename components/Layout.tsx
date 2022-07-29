@@ -2,19 +2,17 @@ import Head from "next/head";
 
 export default function Layout({
   children,
-  title,
   h1,
   description,
 }: {
   children: React.ReactNode;
-  title: string;
   h1: string;
   description: string;
 }) {
   return (
     <div className="text-gray-900">
       <Head>
-        <title>{title} - 旧Slackアーカイブ</title>
+        <title>旧Slackアーカイブ</title>
         <meta name="description" content="Discordに移行しました。" />
         <link rel="icon" href="/favicon.ico" />
       </Head>

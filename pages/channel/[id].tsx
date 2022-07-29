@@ -29,7 +29,7 @@ export default function Post({ allPosts }: AllPosts) {
   const description = channel ? channel.purpose.value : "";
 
   return (
-    <Layout title={title} h1={title} description={description}>
+    <Layout h1={title} description={description}>
       <>
         <SearchModal allPosts={allPosts} />
 
