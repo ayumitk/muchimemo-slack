@@ -136,6 +136,11 @@ export default function PostContent({ content }: { content: Content }) {
                       height={attachment.image_height}
                       alt={attachment.title}
                       layout="responsive"
+                      style={{
+                        backgroundImage: "url(/placeholder.svg)",
+                        backgroundSize: "cover",
+                        backgroundPosition: "center",
+                      }}
                     />
                   )}
                   {attachment.thumb_url && (
