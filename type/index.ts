@@ -18,6 +18,7 @@ export type Content = {
   replies?: Array<Reply>;
   text: string;
   client_msg_id: string;
+  attachments?: Array<Attachment>;
 };
 
 export type Block = {
@@ -41,10 +42,25 @@ export type Reply = {
 
 export type File = {
   id: string;
-  thumb_80?: string;
+  thumb_360?: string;
+  thumb_360_w?: number;
+  thumb_360_h?: number;
   mp4?: string;
   url_private: string;
   thumb_video?: string;
+};
+
+export type Attachment = {
+  from_url: string;
+  image_url?: string;
+  image_width?: number;
+  image_height?: number;
+  title: string;
+  text?: string;
+  id: number;
+  thumb_url?: string;
+  thumb_width?: number;
+  thumb_height?: number;
 };
 
 export type Params = {
